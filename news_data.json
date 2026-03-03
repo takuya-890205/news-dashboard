@@ -1,0 +1,75 @@
+{
+	"生成AI・LLM・AIエージェント": [
+		{
+			"title": "NVIDIA CEO「エージェント型AIの転換点が到来」",
+			"url": "https://ledge.ai/articles/nvidia_jensen_huang_agentic_ai_inflection_point_inference_enterprise_adoption",
+			"note": "推論・エンタープライズ採用の加速を宣言"
+		},
+		{
+			"title": "OpenAI、1,100億ドル調達へ — SoftBank・NVIDIA・Amazon参加",
+			"url": "https://ledge.ai/articles/openai_110b_funding_softbank_nvidia_amazon",
+			"note": "過去最大規模の資金調達"
+		},
+		{
+			"title": "Perplexity「Perplexity Computer」発表",
+			"url": "https://ledge.ai/articles/perplexity_computer_multi_agent_orchestration_19_models",
+			"note": "19モデルを束ねる汎用デジタルワーカー"
+		},
+		{
+			"title": "Anthropic、Claude Sonnet 4.6を発表",
+			"url": "https://aismiley.co.jp/ai_news/anthropic-sonnet-new/",
+			"note": "コーディング性能を強化"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"title": "Apple「iPhone 17e」発表 — 99,800円・MagSafe対応",
+			"url": "https://gadget.phileweb.com/post-120201/",
+			"note": "廉価版モデルが大幅進化"
+		},
+		{
+			"title": "M4搭載「iPad Air」発表 — 11インチ98,800円から",
+			"url": "https://gadget.phileweb.com/post-120205/",
+			"note": ""
+		},
+		{
+			"title": "Snapdragon Wear Elite登場",
+			"url": "https://gadget.phileweb.com/post-120224/",
+			"note": "ウェアラブル向け最上位チップ"
+		}
+	],
+	"政治（日本）": [
+		{
+			"title": "高市首相「国家情報局」設置の法案を今国会に提出",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015065441000",
+			"note": ""
+		},
+		{
+			"title": "自民、防衛装備品の海外移転めぐる5類型撤廃の与党提言案を了承",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015065301000",
+			"note": ""
+		},
+		{
+			"title": "茂木外相、オマーン外相とイラン情勢めぐり電話会談",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015065511000",
+			"note": ""
+		}
+	],
+	"国際情勢": [
+		{
+			"title": "イラン最高指導者死亡 — 体制転換へ重大局面",
+			"url": "https://jiji.com/jc/article?k=2026030100237&g=int",
+			"note": "米大統領「攻撃続く」"
+		},
+		{
+			"title": "イラン革命防衛隊「ホルムズ海峡封鎖」を主張",
+			"url": "https://jiji.com/jc/article?k=2026030300227&g=int",
+			"note": ""
+		},
+		{
+			"title": "中国全人代、5日開幕 — 成長率目標などが焦点",
+			"url": "https://jiji.com/jc/article?k=2026030300861&g=int",
+			"note": ""
+		}
+	]
+}

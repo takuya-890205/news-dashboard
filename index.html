@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ニュースダッシュボード</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+	<style>
+		/* === リセット・ベース === */
+		*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+		html { font-size: 16px; }
+		body {
+			font-family: 'Noto Sans JP', sans-serif;
+			background: #f1f3f4;
+			color: #202124;
+			min-height: 100vh;
+		}
+
+		/* === ヘッダー === */
+		.header {
+			background: linear-gradient(135deg, #4285f4, #5e35b1);
+			color: #fff;
+			padding: 24px 24px 32px;
+			position: relative;
+		}
+		.header__title {
+			font-size: 1.5rem;
+			font-weight: 700;
+			display: flex;
+			align-items: center;
+			gap: 8px;
+		}
+		.header__date {
+			margin-top: 4px;
+			font-size: 0.875rem;
+			opacity: 0.85;
+		}
+		.header__subtitle {
+			margin-top: 8px;
+			font-size: 0.8rem;
+			opacity: 0.7;
+		}
+
+		/* === メインコンテンツ === */
+		.main {
+			max-width: 960px;
+			margin: -16px auto 32px;
+			padding: 0 16px;
+			position: relative;
+			z-index: 1;
+		}
+
+		/* === カテゴリカード === */
+		.card {
+			background: #fff;
+			border-radius: 16px;
+			box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 12px rgba(0,0,0,0.05);
+			margin-bottom: 16px;
+			overflow: hidden;
+			transition: box-shadow 0.2s;
+		}
+		.card:hover {
+			box-shadow: 0 2px 6px rgba(0,0,0,0.12), 0 8px 24px rgba(0,0,0,0.08);
+		}
+		.card__header {
+			display: flex;
+			align-items: center;
+			gap: 12px;
+			padding: 16px 20px 12px;
+		}
+		.card__icon {
+			width: 40px;
+			height: 40px;
+			border-radius: 12px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			color: #fff;
+			font-size: 20px;
+			flex-shrink: 0;
+		}
+		.card__category {
+			font-size: 1rem;
+			font-weight: 700;
+		}
+		.card__count {
+			font-size: 0.75rem;
+			color: #5f6368;
+			margin-left: auto;
+		}
+		.card__divider {
+			height: 1px;
+			background: #e8eaed;
+			margin: 0 20px;
+		}
+
+		/* === 記事リスト === */
+		.article-list {
+			list-style: none;
+			padding: 8px 0;
+		}
+		.article-item {
+			display: block;
+			padding: 12px 20px 12px 72px;
+			position: relative;
+			transition: background 0.15s;
+			cursor: pointer;
+			text-decoration: none;
+			color: inherit;
+		}
+		.article-item:hover {
+			background: #f8f9fa;
+		}
+		.article-item::before {
+			content: '';
+			position: absolute;
+			left: 32px;
+			top: 50%;
+			transform: translateY(-50%);
+			width: 6px;
+			height: 6px;
+			border-radius: 50%;
+			background: #dadce0;
+		}
+		.article-item__title {
+			font-size: 0.875rem;
+			font-weight: 500;
+			color: #1a73e8;
+			line-height: 1.5;
+		}
+		.article-item__note {
+			font-size: 0.75rem;
+			color: #5f6368;
+			margin-top: 2px;
+			line-height: 1.4;
+		}
+
+		/* === カテゴリ別カラー === */
+		.color-ai      { background: #4285f4; }
+		.color-gadget   { background: #34a853; }
+		.color-politics { background: #fbbc04; }
+		.color-world    { background: #ea4335; }
+
+		/* === 空メッセージ === */
+		.empty-message {
+			padding: 16px 20px 16px 72px;
+			font-size: 0.8rem;
+			color: #9aa0a6;
+		}
+
+		/* === フッター === */
+		.footer {
+			text-align: center;
+			padding: 16px;
+			font-size: 0.75rem;
+			color: #9aa0a6;
+		}
+
+		/* === レスポンシブ（スマホ対応） === */
+		@media (max-width: 600px) {
+			.header { padding: 20px 16px 28px; }
+			.header__title { font-size: 1.25rem; }
+			.main { padding: 0 8px; }
+			.card { border-radius: 12px; margin-bottom: 12px; }
+			.article-item { padding: 10px 16px 10px 56px; }
+			.article-item::before { left: 24px; }
+		}
+
+		/* === 2カラムグリッド（PC表示） === */
+		@media (min-width: 768px) {
+			.grid {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 16px;
+			}
+			.card { margin-bottom: 0; }
+		}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<div class="header__title">
+			<span class="material-icons-round">newspaper</span>
+			ニュースダッシュボード
+		</div>
+		<div class="header__date" id="date">読み込み中...</div>
+		<div class="header__subtitle">CLAUDE.mdの興味分野に基づいて自動収集</div>
+	</div>
+
+	<div class="main">
+		<div class="grid" id="grid">
+			<!-- JSで動的に生成 -->
+		</div>
+	</div>
+
+	<div class="footer">
+		Powered by Claude Code
+	</div>
+
+	<script>
+		// カテゴリ設定
+		const categoryConfig = {
+			"生成AI・LLM・AIエージェント": { icon: "smart_toy",       colorClass: "color-ai" },
+			"デジタルガジェット":          { icon: "devices",         colorClass: "color-gadget" },
+			"政治（日本）":                { icon: "account_balance", colorClass: "color-politics" },
+			"国際情勢":                    { icon: "public",          colorClass: "color-world" },
+		};
+
+		// ニュースデータをJSONから読み込み
+		fetch("news_data.json")
+			.then(res => res.json())
+			.then(data => {
+				// 日付を設定
+				const now = new Date();
+				document.getElementById("date").textContent =
+					`${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`;
+
+				const grid = document.getElementById("grid");
+
+				for (const [category, articles] of Object.entries(data)) {
+					const config = categoryConfig[category] || { icon: "article", colorClass: "color-ai" };
+
+					// カード要素を作成
+					const card = document.createElement("div");
+					card.className = "card";
+
+					// ヘッダー
+					const header = document.createElement("div");
+					header.className = "card__header";
+					header.innerHTML = `
+						<div class="card__icon ${config.colorClass}">
+							<span class="material-icons-round">${config.icon}</span>
+						</div>
+						<div class="card__category">${category}</div>
+						<div class="card__count">${articles.length}件</div>
+					`;
+					card.appendChild(header);
+
+					// 区切り線
+					const divider = document.createElement("div");
+					divider.className = "card__divider";
+					card.appendChild(divider);
+
+					// 記事リスト
+					if (articles.length > 0) {
+						const list = document.createElement("ul");
+						list.className = "article-list";
+						for (const article of articles) {
+							const item = document.createElement("a");
+							item.className = "article-item";
+							item.href = article.url || "#";
+							item.target = "_blank";
+							item.rel = "noopener noreferrer";
+							item.innerHTML = `
+								<div class="article-item__title">${article.title}</div>
+								${article.note ? `<div class="article-item__note">${article.note}</div>` : ""}
+							`;
+							list.appendChild(item);
+						}
+						card.appendChild(list);
+					} else {
+						const empty = document.createElement("div");
+						empty.className = "empty-message";
+						empty.textContent = "本日は主要なニュースが見当たりませんでした";
+						card.appendChild(empty);
+					}
+
+					grid.appendChild(card);
+				}
+			})
+			.catch(() => {
+				document.getElementById("grid").innerHTML =
+					'<div class="empty-message">ニュースデータの読み込みに失敗しました</div>';
+			});
+	</script>
+</body>
+</html>
