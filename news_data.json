@@ -3,73 +3,116 @@
 		{
 			"title": "NVIDIA CEO「エージェント型AIの転換点が到来」",
 			"url": "https://ledge.ai/articles/nvidia_jensen_huang_agentic_ai_inflection_point_inference_enterprise_adoption",
-			"note": "推論・エンタープライズ採用の加速を宣言"
+			"note": "推論・エンタープライズ採用の加速を宣言",
+			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/DH_1_L4415_HDR_20220527_r5_c506457d83/DH_1_L4415_HDR_20220527_r5_c506457d83.jpg"
 		},
 		{
 			"title": "OpenAI、1,100億ドル調達へ — SoftBank・NVIDIA・Amazon参加",
 			"url": "https://ledge.ai/articles/openai_110b_funding_softbank_nvidia_amazon",
-			"note": "過去最大規模の資金調達"
+			"note": "過去最大規模の資金調達",
+			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_Image_2026_3_2_13_32_48_3a9e87d0ec/Chat_GPT_Image_2026_3_2_13_32_48_3a9e87d0ec.jpg"
 		},
 		{
-			"title": "Perplexity「Perplexity Computer」発表",
-			"url": "https://ledge.ai/articles/perplexity_computer_multi_agent_orchestration_19_models",
-			"note": "19モデルを束ねる汎用デジタルワーカー"
+			"title": "米国防総省とのAI契約で明暗 — Anthropicは決裂、OpenAIは合意",
+			"url": "https://ledge.ai/articles/trump_anthropic_ban_dod_ai_contract_legal_use_openai_divergence",
+			"note": "安全条項の扱いで対応が分かれる",
+			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_Image_2026_3_2_15_40_50_8cc1f3ef7d/Chat_GPT_Image_2026_3_2_15_40_50_8cc1f3ef7d.jpg"
 		},
 		{
-			"title": "Anthropic、Claude Sonnet 4.6を発表",
-			"url": "https://aismiley.co.jp/ai_news/anthropic-sonnet-new/",
-			"note": "コーディング性能を強化"
+			"title": "OpenAI、中国当局関係者による対日影響工作を公表",
+			"url": "https://ledge.ai/articles/openai_china_cyber_special_operations_takaichi_influence_operation_report",
+			"note": "高市首相を標的とした情報操作が判明",
+			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Disrupting_Malicious_Uses_of_AI_Takaichi_f28987d7e7/Disrupting_Malicious_Uses_of_AI_Takaichi_f28987d7e7.jpg"
+		},
+		{
+			"title": "文化庁、個人クリエイター向け権利情報登録システム始動",
+			"url": "https://ledge.ai/articles/bunka_cho_creator_rights_registration_system_ai_background",
+			"note": "AI学習からクリエイターの権利を保護",
+			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Gemini_Generated_Image_at10r8at10r8at10_01cb91108d/Gemini_Generated_Image_at10r8at10r8at10_01cb91108d.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"title": "Apple「iPhone 17e」発表 — 99,800円・MagSafe対応",
-			"url": "https://gadget.phileweb.com/post-120201/",
-			"note": "廉価版モデルが大幅進化"
+			"title": "iPhone 17eとM4 iPad Air — 新モデムC1Xで通信・電池・プライバシー強化",
+			"url": "https://gadget.phileweb.com/post-120215/",
+			"note": "Apple自社開発モデムの実力",
+			"image": "https://gadget.phileweb.com/wp-content/uploads/2026/03/a822ec444057e4e192253581d9f1408f.jpg.large_2x-630x420.jpg"
 		},
 		{
-			"title": "M4搭載「iPad Air」発表 — 11インチ98,800円から",
-			"url": "https://gadget.phileweb.com/post-120205/",
-			"note": ""
-		},
-		{
-			"title": "Snapdragon Wear Elite登場",
+			"title": "Snapdragon Wear Elite登場 — ウェアラブル向け最上位チップ",
 			"url": "https://gadget.phileweb.com/post-120224/",
-			"note": "ウェアラブル向け最上位チップ"
+			"note": "スマートウォッチの性能が大幅向上",
+			"image": "https://gadget.phileweb.com/wp-content/uploads/2026/03/d67543420f69ac5112be12a288f5488a-630x420.jpg"
+		},
+		{
+			"title": "Jabra「Evolve3」— ブームマイクなしヘッドセット、AI音声入力対応",
+			"url": "https://gadget.phileweb.com/post-120218/",
+			"note": "ノイズ除去強化でリモートワーク向け",
+			"image": "https://gadget.phileweb.com/wp-content/uploads/2026/03/ee71ed8756b213a0fb8d70f8a5af2755-630x420.jpg"
+		},
+		{
+			"title": "DRAM130%高騰、低価格PCは2028年に消滅との予測",
+			"url": "https://gadget.phileweb.com/post-120247/",
+			"note": "メモリ価格高騰がPC市場に影響",
+			"image": "https://gadget.phileweb.com/wp-content/uploads/2026/03/c82cf4123a701de5632c70d12fc952b5-630x420.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"title": "高市首相「国家情報局」設置の法案を今国会に提出",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015065441000",
-			"note": ""
+			"note": "情報機関の一元化を目指す",
+			"image": ""
 		},
 		{
-			"title": "自民、防衛装備品の海外移転めぐる5類型撤廃の与党提言案を了承",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015065301000",
-			"note": ""
+			"title": "野党9党、新年度予算案の充実した審議を議長に申し入れ",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015065611000",
+			"note": "3月13日採決に野党が反発",
+			"image": ""
 		},
 		{
 			"title": "茂木外相、オマーン外相とイラン情勢めぐり電話会談",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015065511000",
-			"note": ""
+			"note": "中東情勢への日本の対応を協議",
+			"image": ""
+		},
+		{
+			"title": "新年度予算案、公聴会開催を与党賛成多数で議決",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015065391000",
+			"note": "衆院予算委員会",
+			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"title": "イラン最高指導者死亡 — 体制転換へ重大局面",
-			"url": "https://jiji.com/jc/article?k=2026030100237&g=int",
-			"note": "米大統領「攻撃続く」"
+			"title": "イラン、徹底抗戦で報復強化 — 周辺国攻撃で圧力か",
+			"url": "https://www.jiji.com/jc/article?k=2026030300769&g=int",
+			"note": "中東情勢が重大局面に",
+			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260303at33S_o.jpg"
 		},
 		{
-			"title": "イラン革命防衛隊「ホルムズ海峡封鎖」を主張",
-			"url": "https://jiji.com/jc/article?k=2026030300227&g=int",
-			"note": ""
+			"title": "最初の攻撃、標的1,000カ所超 — 米軍首脳が対イラン軍事作戦を明かす",
+			"url": "https://www.jiji.com/jc/article?k=2026030300771&g=int",
+			"note": "米軍の大規模作戦の詳細が判明",
+			"image": ""
+		},
+		{
+			"title": "UAEの石油貯蔵地区で火災 — 「空港攻撃を阻止」とカタール",
+			"url": "https://www.jiji.com/jc/article?k=2026030301301&g=int",
+			"note": "中東の石油インフラに被害拡大",
+			"image": ""
+		},
+		{
+			"title": "原油輸送、高まる危機感 — 過去に備蓄の協調放出も",
+			"url": "https://www.jiji.com/jc/article?k=2026030300814&g=int",
+			"note": "ホルムズ海峡封鎖の影響を分析",
+			"image": ""
 		},
 		{
 			"title": "中国全人代、5日開幕 — 成長率目標などが焦点",
-			"url": "https://jiji.com/jc/article?k=2026030300861&g=int",
-			"note": ""
+			"url": "https://www.jiji.com/jc/article?k=2026030300861&g=int",
+			"note": "米中対立下での経済政策に注目",
+			"image": ""
 		}
 	]
 }
