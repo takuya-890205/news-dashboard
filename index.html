@@ -152,6 +152,40 @@
 			color: #9aa0a6;
 		}
 
+		/* === 日付ナビゲーション === */
+		.date-nav {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			gap: 12px;
+			margin-bottom: 16px;
+		}
+		.date-nav__btn {
+			background: #fff;
+			border: 1px solid #dadce0;
+			border-radius: 50%;
+			width: 36px;
+			height: 36px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			cursor: pointer;
+			color: #5f6368;
+			transition: background 0.15s, box-shadow 0.15s;
+		}
+		.date-nav__btn:hover { background: #f1f3f4; }
+		.date-nav__btn:disabled {
+			opacity: 0.3;
+			cursor: default;
+		}
+		.date-nav__label {
+			font-size: 0.875rem;
+			font-weight: 500;
+			color: #202124;
+			min-width: 120px;
+			text-align: center;
+		}
+
 		/* === フッター === */
 		.footer {
 			text-align: center;
@@ -192,6 +226,15 @@
 	</div>
 
 	<div class="main">
+		<div class="date-nav" id="dateNav" style="display:none;">
+			<button class="date-nav__btn" id="prevBtn">
+				<span class="material-icons-round">chevron_left</span>
+			</button>
+			<div class="date-nav__label" id="dateLabel"></div>
+			<button class="date-nav__btn" id="nextBtn">
+				<span class="material-icons-round">chevron_right</span>
+			</button>
+		</div>
 		<div class="grid" id="grid">
 			<!-- JSで動的に生成 -->
 		</div>
@@ -210,78 +253,123 @@
 			"国際情勢":                    { icon: "public",          colorClass: "color-world" },
 		};
 
-		// ニュースデータをJSONから読み込み
-		fetch("news_data.json")
-			.then(res => res.json())
-			.then(data => {
-				// 日付を設定
-				const now = new Date();
-				document.getElementById("date").textContent =
-					`${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`;
+		let archiveIndex = [];
+		let currentIndex = 0;
 
-				const grid = document.getElementById("grid");
+		// 日付文字列を日本語に変換
+		function formatDate(dateStr) {
+			const [y, m, d] = dateStr.split("-").map(Number);
+			return `${y}年${m}月${d}日`;
+		}
 
-				for (const [category, articles] of Object.entries(data)) {
-					const config = categoryConfig[category] || { icon: "article", colorClass: "color-ai" };
+		// ニュースカードを描画
+		function renderNews(data) {
+			const grid = document.getElementById("grid");
+			grid.innerHTML = "";
 
-					// カード要素を作成
-					const card = document.createElement("div");
-					card.className = "card";
+			for (const [category, articles] of Object.entries(data)) {
+				const config = categoryConfig[category] || { icon: "article", colorClass: "color-ai" };
 
-					// ヘッダー
-					const header = document.createElement("div");
-					header.className = "card__header";
-					header.innerHTML = `
-						<div class="card__icon ${config.colorClass}">
-							<span class="material-icons-round">${config.icon}</span>
-						</div>
-						<div class="card__category">${category}</div>
-						<div class="card__count">${articles.length}件</div>
-					`;
-					card.appendChild(header);
+				const card = document.createElement("div");
+				card.className = "card";
 
-					// 区切り線
-					const divider = document.createElement("div");
-					divider.className = "card__divider";
-					card.appendChild(divider);
+				const header = document.createElement("div");
+				header.className = "card__header";
+				header.innerHTML = `
+					<div class="card__icon ${config.colorClass}">
+						<span class="material-icons-round">${config.icon}</span>
+					</div>
+					<div class="card__category">${category}</div>
+					<div class="card__count">${articles.length}件</div>
+				`;
+				card.appendChild(header);
 
-					// 記事リスト
-					if (articles.length > 0) {
-						const list = document.createElement("ul");
-						list.className = "article-list";
-						for (const article of articles) {
-							const item = document.createElement("a");
-							item.className = "article-item";
-							item.href = article.url || "#";
-							item.target = "_blank";
-							item.rel = "noopener noreferrer";
-							const thumbHtml = article.image
-								? `<img class="article-item__thumb" src="${article.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
-								: "";
-							item.innerHTML = `
-								${thumbHtml}
-								<div class="article-item__body">
-									<div class="article-item__title">${article.title}</div>
-									${article.note ? `<div class="article-item__note">${article.note}</div>` : ""}
-								</div>
-							`;
-							list.appendChild(item);
-						}
-						card.appendChild(list);
-					} else {
-						const empty = document.createElement("div");
-						empty.className = "empty-message";
-						empty.textContent = "本日は主要なニュースが見当たりませんでした";
-						card.appendChild(empty);
+				const divider = document.createElement("div");
+				divider.className = "card__divider";
+				card.appendChild(divider);
+
+				if (articles.length > 0) {
+					const list = document.createElement("ul");
+					list.className = "article-list";
+					for (const article of articles) {
+						const item = document.createElement("a");
+						item.className = "article-item";
+						item.href = article.url || "#";
+						item.target = "_blank";
+						item.rel = "noopener noreferrer";
+						const thumbHtml = article.image
+							? `<img class="article-item__thumb" src="${article.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
+							: "";
+						item.innerHTML = `
+							${thumbHtml}
+							<div class="article-item__body">
+								<div class="article-item__title">${article.title}</div>
+								${article.note ? `<div class="article-item__note">${article.note}</div>` : ""}
+							</div>
+						`;
+						list.appendChild(item);
 					}
+					card.appendChild(list);
+				} else {
+					const empty = document.createElement("div");
+					empty.className = "empty-message";
+					empty.textContent = "本日は主要なニュースが見当たりませんでした";
+					card.appendChild(empty);
+				}
 
-					grid.appendChild(card);
+				grid.appendChild(card);
+			}
+		}
+
+		// 日付を切り替えてデータを読み込む
+		function loadDate(index) {
+			currentIndex = index;
+			const dateStr = archiveIndex[index];
+			document.getElementById("dateLabel").textContent = formatDate(dateStr);
+			document.getElementById("date").textContent = formatDate(dateStr);
+			document.getElementById("prevBtn").disabled = (index >= archiveIndex.length - 1);
+			document.getElementById("nextBtn").disabled = (index <= 0);
+
+			fetch(`archive/${dateStr}.json`)
+				.then(res => res.json())
+				.then(renderNews)
+				.catch(() => {
+					document.getElementById("grid").innerHTML =
+						'<div class="empty-message">データの読み込みに失敗しました</div>';
+				});
+		}
+
+		// 初期化
+		fetch("archive/index.json")
+			.then(res => res.json())
+			.then(dates => {
+				archiveIndex = dates;
+				if (dates.length > 1) {
+					document.getElementById("dateNav").style.display = "flex";
+				}
+				if (dates.length > 0) {
+					loadDate(0);
 				}
 			})
 			.catch(() => {
-				document.getElementById("grid").innerHTML =
-					'<div class="empty-message">ニュースデータの読み込みに失敗しました</div>';
+				// アーカイブがなければ最新データを表示
+				fetch("news_data.json")
+					.then(res => res.json())
+					.then(data => {
+						const now = new Date();
+						document.getElementById("date").textContent =
+							`${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`;
+						renderNews(data);
+					});
 			});
+
+		// ボタンイベント
+		document.getElementById("prevBtn").addEventListener("click", () => {
+			if (currentIndex < archiveIndex.length - 1) loadDate(currentIndex + 1);
+		});
+		document.getElementById("nextBtn").addEventListener("click", () => {
+			if (currentIndex > 0) loadDate(currentIndex - 1);
+		});
 	</script>
 </body>
 </html>
