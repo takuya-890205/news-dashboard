@@ -1,111 +1,117 @@
 {
 	"生成AI・LLM・AIエージェント": [
 		{
-			"title": "GPT-5.1/Gemini 3/Claude 4.5はそれぞれ何が変わったのか",
-			"url": "https://thinkit.co.jp/article/38762",
-			"note": "3大LLMの最新アップデートを徹底比較解説",
-			"image": "https://thinkit.co.jp/sites/default/files/ren_gen-ai-times_main.png"
+			"title": "NTTドコモ、AIエージェントで障害対応時間50％削減へ ─ 100万超のネットワーク機器をリアルタイム分析",
+			"url": "https://www.itmedia.co.jp/enterprise/articles/2603/03/news040.html",
+			"note": "ドコモがAIエージェントでネットワーク保守を自動化",
+			"image": "https://image.itmedia.co.jp/enterprise/articles/2603/03/cover_news040.jpg"
 		},
 		{
-			"title": "ChatGPT・Claude・Gemini・Grok…AIエージェントの違いと選び方",
-			"url": "https://www.itmedia.co.jp/business/articles/2602/26/news020.html",
-			"note": "AIエージェント機能の使い分けを用途別に解説",
-			"image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_business.gif"
+			"title": "富士通の小売向けUvance、マルチAIエージェントが販売戦略策定支援",
+			"url": "https://xtech.nikkei.com/atcl/nxt/news/24/03118/",
+			"note": "富士通がマルチAIエージェントで小売業の販売戦略を支援",
+			"image": "https://xtech.nikkei.com/atcl/nxt/news/24/03118/topm.jpg"
 		},
 		{
-			"title": "AIにどれだけ「長考」させるか、それが2026年の悩みどころだ",
-			"url": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/122500178/",
-			"note": "推論コストと精度のトレードオフが経営課題に",
-			"image": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/122500178/topm.jpg"
+			"title": "55兆円市場「生成AIアプリ」トップ20、Gemini猛追…王者ChatGPTが狙う「第3のOS」戦略",
+			"url": "https://www.sbbit.jp/article/cont1/180490",
+			"note": "生成AIアプリ市場でGeminiがChatGPTを猛追",
+			"image": "https://www.sbbit.jp/article/image/180490/OGP_bit202602102331427513.jpg"
 		},
 		{
-			"title": "2026年に押さえておきたいAIトレンド38選",
-			"url": "https://izanami.dev/post/3f1f4ef3-2246-4b7a-b911-26b1b8980899",
-			"note": "AIエージェント時代の本格化など主要トレンド網羅",
-			"image": ""
+			"title": "2026年はAIエージェント「実行」の年へ UiPathが説く、7つのトレンドと日本企業の勝ち筋",
+			"url": "https://enterprisezine.jp/article/detail/23596",
+			"note": "UiPathが提唱するAIエージェント7大トレンド",
+			"image": "https://ez-cdn.shoeisha.jp/static/images/article/23596/23596_1200.jpg"
 		},
 		{
-			"title": "AIブームを「銀の弾丸」に変えられるか 2026年、企業ITが直面する課題",
-			"url": "https://www.itmedia.co.jp/enterprise/articles/2601/01/news014.html",
-			"note": "AIのROI評価が厳しくなる転換の年に",
-			"image": ""
+			"title": "国内AIエージェント動向(2026/3/2号)",
+			"url": "https://note.com/yasuhitoo/n/n5eb598a5481b",
+			"note": "国内AIエージェントの最新動向をまとめた週次レポート",
+			"image": "https://assets.st-note.com/production/uploads/images/255824176/889223128e41225fcbd93a6b4d190568.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"title": "Apple、iPhone 17eを発表 ─ A19チップ搭載で$599から",
+			"title": "Apple、iPhone 17eを発表 ─ A19チップ搭載の新エントリーモデル",
 			"url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
-			"note": "48MPカメラ・256GB〜の新エントリーモデル登場",
+			"note": "A19チップ・48MPカメラ搭載で599ドルの新型iPhone",
 			"image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-iphone-17e/tile/Apple-iPhone-17e-hero-260302-lp.jpg.landing-big_2x.jpg"
 		},
 		{
-			"title": "Appleイベント本日開催！iPhone 17eやカラフルMacBookに期待",
-			"url": "https://www.gizmodo.jp/2026/03/apple-event-2026.html",
-			"note": "MacBook Neo・MacBook Air M5など複数新製品発表へ",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/02/27/00_m.png?w=1280"
+			"title": "今夜から始まるApple新製品ラッシュ、発表が噂される全製品を総まとめ",
+			"url": "https://gori.me/macbookair/164033",
+			"note": "M5 MacBook AirやiPad Airなど怒涛の新製品発表",
+			"image": "https://gori.me/uploads/2026/03/Apple-Logo-Apple-Experience-2.jpg"
 		},
 		{
-			"title": "Appleイベント3月予想：コスパ重視の6製品が登場の噂",
-			"url": "https://www.lifehacker.jp/article/2603products-to-expect-from-apples-march-2026-event/",
-			"note": "M5搭載MacBook Airから格安MacBookまで期待",
-			"image": "https://media.loom-app.com/loom/2026/03/02/c3e6940b-5aad-4ccb-98c2-74b467777edf/original.png?w=1200"
+			"title": "Nothing Headphone (a) が3月12日発売へ ─ 4色展開の低価格ヘッドホン",
+			"url": "https://biggo.jp/news/202602031223_Nothing_Headphone_a_Launch_Date_Price_Colors_Leak",
+			"note": "Nothing初の低価格ヘッドホンが約2.5万円で4色展開",
+			"image": "https://img.bgo.one/news-image/ai_generated/2026-02/202602031223_Nothing_Headphone_a_Launch_Date_Price_Colors_Leak_20260203_203143.jpg"
 		},
 		{
-			"title": "廉価版MacBookなど5種類の製品を3月2日〜4日に発表",
-			"url": "https://iphone-mania.jp/apple-600430/",
-			"note": "カラフル展開の格安MacBookが目玉の一つに",
+			"title": "CES2026で発見、世界からあつまった変わり種ガジェットたち",
+			"url": "https://www.gizmodo.jp/2026/01/ces2026_gadget.html",
+			"note": "CES2026で注目を集めたユニークなガジェットを紹介",
 			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"title": "第2次高市内閣が発足、全閣僚再任へ 積極財政・安保強化を推進",
-			"url": "https://www.nikkei.com/article/DGXZQOUA1748M0X10C26A2000000/",
-			"note": "衆院選大勝を受け第2次内閣が正式発足",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2641440018022026000000-1.jpg?ixlib=js-3.8.0&w=638&h=399&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=f40be1aa1feeb76b95407ae80309388a"
-		},
-		{
-			"title": "食品消費税ゼロ、夏前に中間まとめ 高市首相「改憲挑戦」を宣言",
-			"url": "https://www.jiji.com/jc/article?k=2026020900923&g=pol",
-			"note": "食料品消費税ゼロの早期実現に意欲を表明",
-			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260209at41S_ogp.jpg"
-		},
-		{
 			"title": "衆議院選挙で自民党圧勝、「戦後の終わり」の始まりか",
 			"url": "https://www.nikkei.com/article/DGXZQOCD240HH0U6A220C2000000/",
-			"note": "自民党が結党以来初の単独3分の2超を獲得",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2662872024022026000000-2.jpg?ixlib=js-3.8.0&w=638&h=399&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=f40be1aa1feeb76b95407ae80309388a"
+			"note": "自民党が衆院選で単独3分の2超の歴史的勝利",
+			"image": ""
 		},
 		{
-			"title": "2026年の日本政治：高市首相の解散判断が最大の焦点",
-			"url": "https://www.nippon.com/ja/in-depth/d01197/",
-			"note": "積極財政路線と今後の政局展望を分析",
+			"title": "2026年度予算案決定、過去最高122兆円 国債費31兆円",
+			"url": "https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/",
+			"note": "一般会計歳出総額が過去最大の122兆円に",
+			"image": ""
+		},
+		{
+			"title": "旧姓使用の拡大法案、26年通常国会提出を検討",
+			"url": "https://www.nikkei.com/article/DGXZQOUA031QE0T01C25A2000000/",
+			"note": "旧姓に法的効力を与える制度創設を政府が検討",
+			"image": ""
+		},
+		{
+			"title": "与党、2026年度予算案の3月13日衆院通過を目指す方針",
+			"url": "https://www.jiji.com/jc/c?g=pol",
+			"note": "与党は年度内成立に向け予算審議を加速",
 			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"title": "米軍、イラン軍事作戦に「サイバー攻撃と数万発爆撃」追加部隊を派遣",
-			"url": "https://www.nikkei.com/article/DGXZQOGN0302G0T00C26A3000000/",
-			"note": "米中央軍が72時間で1700か所以上を攻撃と発表",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2697910003032026000000-1.jpg?ixlib=js-3.8.0&w=638&h=399&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=a97a835bc48654c0a3181b88bf1d6be0"
+			"title": "イラン攻撃続行、死者５５０人超 反撃で米兵も死亡―戦線拡大、情勢悪化の一途",
+			"url": "https://www.jiji.com/jc/article?k=2026030201114&g=int",
+			"note": "米イスラエルのイラン攻撃で死者555人、戦線拡大",
+			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260302at61S_o.jpg"
 		},
 		{
-			"title": "深手を負うも、なお攻撃を続けるイラン 戦力保持に疑問浮上",
-			"url": "https://www.cnn.co.jp/world/35244435.html",
-			"note": "ハメネイ師死亡後もイランが中東各地へ反撃継続",
-			"image": "https://www.cnn.co.jp/storage/2026/03/01/2f2fef70ff011d862b38c065ce90c1fa/gettyimages-2263652030.jpg"
-		},
-		{
-			"title": "イスラエルと米国がイランを攻撃、日本外務省が中東諸国の危険レベル引き上げ",
+			"title": "イスラエルと米国がイランを攻撃、イラン反撃、日本外務省が中東諸国の危険レベル引き上げ",
 			"url": "https://www.jetro.go.jp/biznews/2026/03/617a3d3cc69f3a04.html",
-			"note": "イラン全土に退避勧告、周辺国もレベル引き上げ",
+			"note": "外務省がイラン全土に退避勧告、中東各国も引き上げ",
 			"image": ""
 		},
 		{
-			"title": "中国全人代、5日開幕 成長率目標4.5〜5%に引き下げか",
-			"url": "https://www.newsweekjapan.jp/headlines/world/2026/03/589270.php",
-			"note": "第15次5カ年計画で対米「自立」強国路線を決定へ",
+			"title": "米イスラエルによるイラン攻撃、これまでのキーポイント",
+			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-03/TB9E5DT9NJLW00",
+			"note": "1700か所超を攻撃、カタールLNG施設も被害",
+			"image": ""
+		},
+		{
+			"title": "イランへの直接攻撃は世界を変えた…秩序が崩壊する世界の「6つの衝撃的な真実」",
+			"url": "https://www.newsweekjapan.jp/stories/world/2026/03/589139.php",
+			"note": "イラン攻撃が国際秩序に与える影響を分析",
+			"image": ""
+		},
+		{
+			"title": "中東で航空の混乱深刻化─イラン情勢受け運休拡大、ハブ機能まひ",
+			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-02/TB9FBBKGZAJ600",
+			"note": "中東発着便が大幅運休、航空ハブ機能が停止",
 			"image": ""
 		}
 	]
