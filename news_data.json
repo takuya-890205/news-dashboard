@@ -1,117 +1,117 @@
 {
 	"生成AI・LLM・AIエージェント": [
 		{
-			"title": "NTTドコモ、AIエージェントで障害対応時間50％削減へ ─ 100万超のネットワーク機器をリアルタイム分析",
-			"url": "https://www.itmedia.co.jp/enterprise/articles/2603/03/news040.html",
-			"note": "ドコモがAIエージェントでネットワーク保守を自動化",
-			"image": "https://image.itmedia.co.jp/enterprise/articles/2603/03/cover_news040.jpg"
+			"title": "Anthropic、Claude Opus 4.6 / Sonnet 4.6を発表──SWE-bench首位のコーディング性能",
+			"url": "https://www.anthropic.com/news/claude-4",
+			"note": "Claude 4系最新モデル発表、SWE-bench 72.5%で首位",
+			"image": "https://cdn.sanity.io/images/4zrzovbb/website/c17d44d1f2095a3e3215c5446b4ed40340776830-2400x1260.jpg"
 		},
 		{
-			"title": "富士通の小売向けUvance、マルチAIエージェントが販売戦略策定支援",
-			"url": "https://xtech.nikkei.com/atcl/nxt/news/24/03118/",
-			"note": "富士通がマルチAIエージェントで小売業の販売戦略を支援",
-			"image": "https://xtech.nikkei.com/atcl/nxt/news/24/03118/topm.jpg"
+			"title": "2026年3月LLMコーディングベンチマーク比較: Opus 4.6 vs GPT-5.3 vs Gemini 3",
+			"url": "https://smartscope.blog/en/generative-ai/chatgpt/llm-coding-benchmark-comparison-2026/",
+			"note": "主要3社LLMのコーディング性能を最新ベンチで比較",
+			"image": ""
 		},
 		{
-			"title": "55兆円市場「生成AIアプリ」トップ20、Gemini猛追…王者ChatGPTが狙う「第3のOS」戦略",
-			"url": "https://www.sbbit.jp/article/cont1/180490",
-			"note": "生成AIアプリ市場でGeminiがChatGPTを猛追",
-			"image": "https://www.sbbit.jp/article/image/180490/OGP_bit202602102331427513.jpg"
+			"title": "KT、MWC26でノーコード型「AI Agent Builder」を発表──産業AX推進",
+			"url": "https://www.starnewskorea.com/en/business-life/2026/03/04/2026030414554747434",
+			"note": "誰でもAIエージェントを構築できるプラットフォーム",
+			"image": ""
 		},
 		{
-			"title": "2026年はAIエージェント「実行」の年へ UiPathが説く、7つのトレンドと日本企業の勝ち筋",
-			"url": "https://enterprisezine.jp/article/detail/23596",
-			"note": "UiPathが提唱するAIエージェント7大トレンド",
-			"image": "https://ez-cdn.shoeisha.jp/static/images/article/23596/23596_1200.jpg"
+			"title": "2026年はAIエージェントが日本企業の利益に本格貢献する年に",
+			"url": "https://www.nikkei.com/article/DGXZQOUB16BQ90W5A211C2000000/",
+			"note": "AIエージェントが企業実務に浸透し始める見通し",
+			"image": ""
 		},
 		{
-			"title": "国内AIエージェント動向(2026/3/2号)",
-			"url": "https://note.com/yasuhitoo/n/n5eb598a5481b",
-			"note": "国内AIエージェントの最新動向をまとめた週次レポート",
-			"image": "https://assets.st-note.com/production/uploads/images/255824176/889223128e41225fcbd93a6b4d190568.png"
+			"title": "5 Best Large Language Models (LLMs) in March 2026",
+			"url": "https://www.unite.ai/best-large-language-models-llms/",
+			"note": "2026年3月時点のLLMトップ5をランキング紹介",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"title": "Apple、iPhone 17eを発表 ─ A19チップ搭載の新エントリーモデル",
-			"url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
-			"note": "A19チップ・48MPカメラ搭載で599ドルの新型iPhone",
-			"image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-iphone-17e/tile/Apple-iPhone-17e-hero-260302-lp.jpg.landing-big_2x.jpg"
+			"title": "Galaxy S26シリーズ発表──3月12日発売、Snapdragon 8 Elite Gen 5搭載",
+			"url": "https://news.mynavi.jp/sim-mobile/galaxys26-release/",
+			"note": "Samsung最新フラッグシップ、AI機能Now Nudge搭載",
+			"image": "https://news.mynavi.jp/sim-mobile/wp-content/uploads/2026/02/galaxys26-spec.png"
 		},
 		{
-			"title": "今夜から始まるApple新製品ラッシュ、発表が噂される全製品を総まとめ",
-			"url": "https://gori.me/macbookair/164033",
-			"note": "M5 MacBook AirやiPad Airなど怒涛の新製品発表",
-			"image": "https://gori.me/uploads/2026/03/Apple-Logo-Apple-Experience-2.jpg"
+			"title": "Google Pixel 10aが3月5日に国際発売──499ドルから",
+			"url": "https://prodig.co.jp/blogs/column/google-pixel-10a-2026-onsale",
+			"note": "新型Pixel発売もスペック据え置きに批判の声",
+			"image": ""
 		},
 		{
-			"title": "Nothing Headphone (a) が3月12日発売へ ─ 4色展開の低価格ヘッドホン",
-			"url": "https://biggo.jp/news/202602031223_Nothing_Headphone_a_Launch_Date_Price_Colors_Leak",
-			"note": "Nothing初の低価格ヘッドホンが約2.5万円で4色展開",
-			"image": "https://img.bgo.one/news-image/ai_generated/2026-02/202602031223_Nothing_Headphone_a_Launch_Date_Price_Colors_Leak_20260203_203143.jpg"
+			"title": "Google Pixel、2026年3月の月例ソフトウェアアップデート配信開始",
+			"url": "https://jetstream.blog/2026/03/04/google-pixel-update-march-2026-rollout/",
+			"note": "Pixel端末にセキュリティ修正と機能改善を配信",
+			"image": ""
 		},
 		{
-			"title": "CES2026で発見、世界からあつまった変わり種ガジェットたち",
-			"url": "https://www.gizmodo.jp/2026/01/ces2026_gadget.html",
-			"note": "CES2026で注目を集めたユニークなガジェットを紹介",
+			"title": "Pixel 10aとGalaxy S26は新しくない──それは「あなた向け」じゃないから",
+			"url": "https://9to5google.com/2026/02/22/google-pixel-10a-galaxy-s26-not-new-comment/",
+			"note": "革新性より安定性を選んだ2大メーカーの狙いを分析",
 			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"title": "衆議院選挙で自民党圧勝、「戦後の終わり」の始まりか",
+			"title": "衆議院選挙2026──自民党が単独3分の2超、1つの政党で戦後初",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015043191000",
+			"note": "自民310議席の歴史的圧勝、憲法改正発議が可能に",
+			"image": ""
+		},
+		{
+			"title": "年度内の予算成立、3月13日衆院通過が試金石──野党は難色",
+			"url": "https://www.nikkei.com/article/DGXZQOUA2588Q0V20C26A2000000/",
+			"note": "冒頭解散の影響で年度内成立困難、暫定予算も視野",
+			"image": ""
+		},
+		{
+			"title": "衆院選で自民党圧勝、「戦後の終わり」の始まりか──境家史郎氏",
 			"url": "https://www.nikkei.com/article/DGXZQOCD240HH0U6A220C2000000/",
-			"note": "自民党が衆院選で単独3分の2超の歴史的勝利",
+			"note": "歴史的選挙結果が日本政治の転換点になるとの分析",
 			"image": ""
 		},
 		{
-			"title": "2026年度予算案決定、過去最高122兆円 国債費31兆円",
-			"url": "https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/",
-			"note": "一般会計歳出総額が過去最大の122兆円に",
-			"image": ""
-		},
-		{
-			"title": "旧姓使用の拡大法案、26年通常国会提出を検討",
-			"url": "https://www.nikkei.com/article/DGXZQOUA031QE0T01C25A2000000/",
-			"note": "旧姓に法的効力を与える制度創設を政府が検討",
-			"image": ""
-		},
-		{
-			"title": "与党、2026年度予算案の3月13日衆院通過を目指す方針",
-			"url": "https://www.jiji.com/jc/c?g=pol",
-			"note": "与党は年度内成立に向け予算審議を加速",
+			"title": "【やさしく解説】衆院選2026──国会冒頭解散、高市政権の行方は",
+			"url": "https://www.jiji.com/jc/v8?id=202601shuinsen-team",
+			"note": "60年ぶりの通常国会冒頭解散の背景と影響を解説",
 			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"title": "イラン攻撃続行、死者５５０人超 反撃で米兵も死亡―戦線拡大、情勢悪化の一途",
-			"url": "https://www.jiji.com/jc/article?k=2026030201114&g=int",
-			"note": "米イスラエルのイラン攻撃で死者555人、戦線拡大",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260302at61S_o.jpg"
-		},
-		{
-			"title": "イスラエルと米国がイランを攻撃、イラン反撃、日本外務省が中東諸国の危険レベル引き上げ",
-			"url": "https://www.jetro.go.jp/biznews/2026/03/617a3d3cc69f3a04.html",
-			"note": "外務省がイラン全土に退避勧告、中東各国も引き上げ",
+			"title": "米国とイランの軍事衝突、3つのシナリオ──降伏・交渉再開・長期化",
+			"url": "https://www.nikkei.com/article/DGXZQOGN013AP0R00C26A3000000/",
+			"note": "2月28日攻撃開始後の展開を3パターンで分析",
 			"image": ""
 		},
 		{
-			"title": "米イスラエルによるイラン攻撃、これまでのキーポイント",
-			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-03/TB9E5DT9NJLW00",
-			"note": "1700か所超を攻撃、カタールLNG施設も被害",
+			"title": "【分析】トランプ氏によるイラン攻撃、大損するのは中国の可能性",
+			"url": "https://www.cnn.co.jp/world/35244464.html",
+			"note": "イラン原油の最大輸入国・中国への影響を分析",
+			"image": "https://www.cnn.co.jp/storage/2026/03/02/9f2a6c9fd9596cd822f68df4fbc04955/gettyimages-2263801981.jpg"
+		},
+		{
+			"title": "米のイラン攻撃、中国が即時停戦を呼びかけ──「対話や交渉再開を」",
+			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-01/TB6K3AKGIFQ300",
+			"note": "中国外務省が軍事行動の即時停止を求める声明",
 			"image": ""
 		},
 		{
-			"title": "イランへの直接攻撃は世界を変えた…秩序が崩壊する世界の「6つの衝撃的な真実」",
-			"url": "https://www.newsweekjapan.jp/stories/world/2026/03/589139.php",
-			"note": "イラン攻撃が国際秩序に与える影響を分析",
+			"title": "米国、「親中」イラン排除でインド太平洋にもシフト",
+			"url": "https://www.nikkei.com/article/DGXZQOCD011WR0R00C26A3000000/",
+			"note": "対イラン軍事行動は中国包囲戦略の一環との見方",
 			"image": ""
 		},
 		{
-			"title": "中東で航空の混乱深刻化─イラン情勢受け運休拡大、ハブ機能まひ",
-			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-02/TB9FBBKGZAJ600",
-			"note": "中東発着便が大幅運休、航空ハブ機能が停止",
+			"title": "中国、イラン積極支援の動きなし──西側制裁・湾岸諸国との関係に配慮",
+			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-02/TB9V7CKK3NYB00",
+			"note": "中国はイラン支援を控え慎重姿勢を維持",
 			"image": ""
 		}
 	]
