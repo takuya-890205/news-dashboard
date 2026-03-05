@@ -1,118 +1,112 @@
 {
 	"生成AI・LLM・AIエージェント": [
 		{
-			"title": "OpenAIがGPT-5.3 Chatを公開、Gemini 3.1 Flash-LiteやQwen3.5も続々登場",
-			"url": "https://llm-stats.com/llm-updates",
-			"note": "3月初旬に主要AIモデルが相次いでアップデート",
-			"image": "https://llm-stats.com/og/main.png"
+			"title": "GPT-5.1/Gemini 3/Claude 4.5 — 各モデルの最新アップデートまとめ",
+			"url": "https://thinkit.co.jp/article/38762",
+			"note": "主要3社のフラグシップモデル最新動向を解説",
+			"image": "https://thinkit.co.jp/sites/default/files/ren_gen-ai-times_main.png"
 		},
 		{
-			"title": "Claude Opus 4.6 vs GPT-5.2 vs Gemini 3 Pro：2026年のAIモデル徹底比較",
-			"url": "https://www.humai.blog/claude-opus-4-6-vs-gpt-5-2-vs-gemini-3-pro-which-ai-model-should-you-actually-use-in-2026/",
-			"note": "エージェント性能でClaude Opus 4.6がリード",
-			"image": "https://www.humai.blog/content/images/size/w1200/2026/02/maxresdefault--11-.jpg"
+			"title": "ChatGPT-5.2・Gemini 3・Claude Opus 4.5…最適なAIモデル徹底比較",
+			"url": "https://www.sbbit.jp/article/cont1/179211",
+			"note": "性能・価格・用途別に3大AIモデルを比較分析",
+			"image": "https://www.sbbit.jp/article/image/179211/OGP_bit202601261539060600.jpg"
 		},
 		{
-			"title": "Unity AIが「コーディング不要のゲーム開発」を実現へ、3月のGDCでベータ版を発表",
-			"url": "https://innovatopia.jp/ai/ai-news/80699/",
-			"note": "プロンプトだけでカジュアルゲームを丸ごと生成",
-			"image": "https://xenospectrum.com/wp-content/uploads/2026/02/unity-ai-game-generation-holographic-interface.png"
-		},
-		{
-			"title": "2026年はAIエージェントが日本企業の利益に本格貢献する年に",
-			"url": "https://www.nikkei.com/article/DGXZQOUB16BQ90W5A211C2000000/",
-			"note": "ソフトバンク・横浜銀行など導入実績が続々",
+			"title": "Claude Opus 4.6がAgent Teams機能を搭載、複数AIの協調実行が可能に",
+			"url": "https://particula.tech/blog/claude-opus-vs-gpt5-codex-vs-gemini-2026",
+			"note": "1Mトークン対応・4段階の思考モードも導入",
 			"image": ""
 		},
 		{
-			"title": "2026年03月03日の最新AIニュース：倫理・技術・巨額投資の3大潮流",
-			"url": "https://note.com/money_channel/n/n54b76306a2d1",
-			"note": "AI業界を揺るがす3つの潮流を解説",
-			"image": "https://assets.st-note.com/production/uploads/images/256209908/92689a9b2a89b773957b032b267d097e.jpeg"
+			"title": "ChatGPTシェア64.5%に低下、Geminiが21.5%へ急成長 — AI市場多極化",
+			"url": "https://ai-kenkyujo.com/news/ai-saishin/",
+			"note": "DeepSeekやGrokなど新興勢力も台頭中",
+			"image": "https://ai-kenkyujo.com/wp-content/uploads/2025/09/a-2025-09-02T105220.208.png"
+		},
+		{
+			"title": "デジタル庁「ガバメントAI」向け国産LLMを公募、5月から省庁展開へ",
+			"url": "https://xtech.nikkei.com/atcl/nxt/news/24/03008/",
+			"note": "2〜3月にLLM選定、夏に試験導入予定",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"title": "Google Pixel 10aが正式発表、Tensor G4搭載で3月5日に国際発売",
-			"url": "https://www.today-jp.com/news/google-pixel-10a-leak-release-date-price-specs",
-			"note": "499ドルからのコスパ重視ミッドレンジスマホ",
+			"title": "Google Pixel 10a正式発表 — 499ドルから、3月5日に海外発売",
+			"url": "https://spinformation.info/all/google-pixel10a-official/",
+			"note": "衛星対応モデム搭載もスペックはPixel 9aとほぼ同等",
 			"image": ""
 		},
 		{
-			"title": "Samsung Galaxy S26シリーズ発表、AI機能を強化",
-			"url": "https://9to5google.com/2026/02/22/google-pixel-10a-galaxy-s26-not-new-comment/",
-			"note": "Galaxy Unpacked 2026で新フラッグシップ公開",
-			"image": ""
-		},
-		{
-			"title": "Apple AirTag 2発売、超広帯域チップで探索範囲50%拡大",
-			"url": "https://9to5mac.com/2026/01/26/apple-launches-airtag-2-with-improved-range-louder-speaker-more/",
-			"note": "スピーカー50%大音量化、Apple Watchにも対応",
-			"image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/airtag2-fi-new.jpg?quality=82&strip=all"
-		},
-		{
-			"title": "Google Pixel、2026年3月の月例ソフトウェアアップデート配信開始",
+			"title": "Google Pixel 2026年3月アップデート配信、21の新機能を追加",
 			"url": "https://jetstream.blog/2026/03/04/google-pixel-update-march-2026-rollout/",
-			"note": "セキュリティパッチと機能改善を含む定例更新",
+			"note": "3月のPixel Dropで大型機能アップデート",
 			"image": "https://jetstream.blog/wp-content/uploads/2026/03/Google-Pixel-Update-March-2026.jpg"
+		},
+		{
+			"title": "Nothing Phone (4a)シリーズ予告、Snapdragonチップ搭載を確認",
+			"url": "https://telektlist.com/this-week-news-pixel-10a-announcement-and-nothing-phone-4a-series-teasered/",
+			"note": "Nothingの新ミッドレンジスマホが正式予告",
+			"image": "https://telektlist.com/wp-content/uploads/2026/02/telektlist-1771741941-640x435.jpg"
+		},
+		{
+			"title": "Samsung Galaxy S26シリーズ発表、AI強化もマイナーチェンジ",
+			"url": "https://9to5google.com/2026/02/22/google-pixel-10a-galaxy-s26-not-new-comment/",
+			"note": "新チップと微細デザイン変更、大幅進化は見送り",
+			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"title": "衆院選2026：自民党が単独3分の2の大勝、中道改革連合は大敗",
-			"url": "https://www.agrinews.co.jp/news/index/361256",
-			"note": "自民党が結党以来初の単独3分の2議席を確保",
+			"title": "衆院選で自民党が圧勝、単独3分の2超は戦後初の歴史的勝利",
+			"url": "https://www.nikkei.com/article/DGXZQOUA067E20W6A200C2000000/",
+			"note": "小選挙区246・比例64で計310議席を獲得",
 			"image": ""
 		},
 		{
-			"title": "旧統一教会に東京高裁も解散命令、清算手続き開始へ",
-			"url": "https://www.jiji.com/jc/article?k=2026030400224&g=soc",
-			"note": "民法上の不法行為を根拠とする解散命令は初",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260304at03S_o.jpg"
+			"title": "2月の衆議院選挙は36年ぶり、2026年度予算の年度内成立が困難に",
+			"url": "https://www.nikkei.com/article/DGXZQOUA252ZA0V20C26A1000000/",
+			"note": "特別国会の会期は7月17日まで、暫定予算の可能性",
+			"image": ""
 		},
 		{
-			"title": "国家情報局を2026年度中に新設、スパイ防止の調整機能を付与",
-			"url": "https://www.jiji.com/jc/article?k=2025120500958&g=pol",
-			"note": "各省庁のインテリジェンスを統括する新組織",
-			"image": "https://www.jiji.com/news2/kiji_photos/202512/20251205at70S_ogp.jpg"
+			"title": "衆院選は「戦後の終わり」の始まりか — 政治学者が分析",
+			"url": "https://www.nikkei.com/article/DGXZQOCD240HH0U6A220C2000000/",
+			"note": "自民単独3分の2超の歴史的意味を考察",
+			"image": ""
 		},
 		{
-			"title": "スパイ防止法、夏にも有識者会議を設置へ",
-			"url": "https://www.nikkei.com/article/DGXZQOUA170PF0X10C26A2000000/",
-			"note": "外国代理人登録制度など念頭に法整備を検討",
+			"title": "2026年衆院選が公示、物価高・外国人政策など争点に",
+			"url": "https://www.nippon.com/ja/japan-data/h02686/",
+			"note": "1月27日公示・2月8日投開票の選挙全容まとめ",
 			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"title": "トランプ大統領がイラン攻撃「エピック・フューリー作戦」を発表",
-			"url": "https://www.jetro.go.jp/biznews/2026/03/1ee3a8d409cccc38.html",
-			"note": "72時間で1700カ所以上を攻撃、長期化を示唆",
+			"title": "米イスラエルがイランへ大規模軍事攻撃、72時間で1700か所以上を爆撃",
+			"url": "https://ja.wikipedia.org/wiki/2026%E5%B9%B4%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%83%A9%E3%83%B3%E6%94%BB%E6%92%83",
+			"note": "2月28日開始、ハメネイ師死亡との報道も",
 			"image": ""
 		},
 		{
-			"title": "トランプ氏によるイラン攻撃、大損するのは中国の可能性",
-			"url": "https://www.cnn.co.jp/world/35244464.html",
-			"note": "中国の原油供給と戦略的同盟国に打撃",
-			"image": "https://www.cnn.co.jp/storage/2026/03/02/9f2a6c9fd9596cd822f68df4fbc04955/gettyimages-2263801981.jpg"
-		},
-		{
-			"title": "米国のイラン攻撃、イスラエルの策略か？トランプ派内で対立激化",
-			"url": "https://www.nikkei.com/article/DGXZQOGN0401G0U6A300C2000000/",
-			"note": "トランプ政権内部でイラン政策を巡り分裂",
+			"title": "米イラン核協議で「大きな進展」も一転して軍事攻撃へ",
+			"url": "https://www.jetro.go.jp/biznews/2026/02/8dbd202ab737a4bc.html",
+			"note": "2月26日ジュネーヴ協議後に外交から武力行使に転換",
 			"image": ""
 		},
 		{
-			"title": "トランプが保身に走った結果のイラン攻撃、国際社会の二重基準は容認できるのか",
-			"url": "https://toyokeizai.net/articles/-/936495",
-			"note": "国際法と東アジアへの教訓を分析",
-			"image": "https://tk.ismcdn.jp/mwimgs/b/4/1200w/img_b41db363176eafaccaff5184a256b066847558.jpg"
+			"title": "中国はイランに軍事支援をするのか — 米中首脳会談控え外交綱渡り",
+			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-03/TBAV5FT96OSG00",
+			"note": "中国は批判表明のみ、積極的軍事支援には消極的",
+			"image": ""
 		},
 		{
-			"title": "外交から戦争に傾いた1週間―トランプ氏のイラン攻撃決断の舞台裏",
-			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-01/TB792OT96OSI00",
-			"note": "攻撃決断に至るまでの経緯を詳報",
-			"image": ""
+			"title": "イラン攻撃で原油150ドル突破、世界経済にインフレ再燃の打撃",
+			"url": "https://media.monex.co.jp/articles/-/28878",
+			"note": "エネルギー価格急騰で市場に大きな影響",
+			"image": "https://media.monex.co.jp/mwimgs/9/d/-/img_9d8f88129b94038508ee6c74c0c71492683538.png"
 		}
 	]
 }
