@@ -1,112 +1,112 @@
 {
 	"生成AI・LLM・AIエージェント": [
 		{
-			"title": "GPT-5.1/Gemini 3/Claude 4.5 — 各モデルの最新アップデートまとめ",
+			"title": "GPT-5.1/Gemini 3/Claude 4.5はそれぞれ何が変わったのか",
 			"url": "https://thinkit.co.jp/article/38762",
-			"note": "主要3社のフラグシップモデル最新動向を解説",
+			"note": "主要3モデルの最新アップデートを徹底比較",
 			"image": "https://thinkit.co.jp/sites/default/files/ren_gen-ai-times_main.png"
 		},
 		{
-			"title": "ChatGPT-5.2・Gemini 3・Claude Opus 4.5…最適なAIモデル徹底比較",
-			"url": "https://www.sbbit.jp/article/cont1/179211",
-			"note": "性能・価格・用途別に3大AIモデルを比較分析",
-			"image": "https://www.sbbit.jp/article/image/179211/OGP_bit202601261539060600.jpg"
+			"title": "Gemini 3.1 Proリリース、推論性能がGemini 3 Proの2倍に",
+			"url": "https://gigazine.net/gsc_news/en/20260220-google-gemini-3-1-pro/",
+			"note": "Google最新モデルがOpenAI・Anthropicを一部上回る",
+			"image": "https://i.gzn.jp/img/2026/02/20/google-gemini-3-1-pro/00_m.png"
 		},
 		{
-			"title": "Claude Opus 4.6がAgent Teams機能を搭載、複数AIの協調実行が可能に",
-			"url": "https://particula.tech/blog/claude-opus-vs-gpt5-codex-vs-gemini-2026",
-			"note": "1Mトークン対応・4段階の思考モードも導入",
-			"image": ""
+			"title": "「AIエージェントが雇用を生む」AIリーダーズ会議で5つの新潮流を解説",
+			"url": "https://active.nikkeibp.co.jp/atcl/act/19/00012/030501675/",
+			"note": "AIリーダーズ会議2026 Springで最新トレンド紹介",
+			"image": "https://active.nikkeibp.co.jp/atcl/act/19/00012/030501675/topm.jpg"
 		},
 		{
-			"title": "ChatGPTシェア64.5%に低下、Geminiが21.5%へ急成長 — AI市場多極化",
-			"url": "https://ai-kenkyujo.com/news/ai-saishin/",
-			"note": "DeepSeekやGrokなど新興勢力も台頭中",
-			"image": "https://ai-kenkyujo.com/wp-content/uploads/2025/09/a-2025-09-02T105220.208.png"
+			"title": "富士通の小売向けUvance、マルチAIエージェントが販売戦略策定支援",
+			"url": "https://xtech.nikkei.com/atcl/nxt/news/24/03118/",
+			"note": "複数AIエージェント連携で小売業の戦略策定を自動化",
+			"image": "https://xtech.nikkei.com/atcl/nxt/news/24/03118/topm.jpg"
 		},
 		{
-			"title": "デジタル庁「ガバメントAI」向け国産LLMを公募、5月から省庁展開へ",
-			"url": "https://xtech.nikkei.com/atcl/nxt/news/24/03008/",
-			"note": "2〜3月にLLM選定、夏に試験導入予定",
+			"title": "2026年はAIエージェントが日本企業の利益に本格貢献する年に",
+			"url": "https://www.nikkei.com/article/DGXZQOUB16BQ90W5A211C2000000/",
+			"note": "ソフトバンク・横浜銀行など具体的成果が続出",
 			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"title": "Google Pixel 10a正式発表 — 499ドルから、3月5日に海外発売",
-			"url": "https://spinformation.info/all/google-pixel10a-official/",
-			"note": "衛星対応モデム搭載もスペックはPixel 9aとほぼ同等",
+			"title": "Samsung Galaxy S26/S26+/S26 Ultra、3月12日発売 AI機能とプライバシー画面搭載",
+			"url": "https://news.mynavi.jp/sim-mobile/galaxys26-release/",
+			"note": "視線を遮るプライバシースクリーンが目玉機能",
 			"image": ""
 		},
 		{
-			"title": "Google Pixel 2026年3月アップデート配信、21の新機能を追加",
-			"url": "https://jetstream.blog/2026/03/04/google-pixel-update-march-2026-rollout/",
-			"note": "3月のPixel Dropで大型機能アップデート",
-			"image": "https://jetstream.blog/wp-content/uploads/2026/03/Google-Pixel-Update-March-2026.jpg"
+			"title": "Nothing Phone (4a) / Headphone (a) が3月5日に発表か",
+			"url": "https://www.gizmodo.jp/2026/01/uwasa_2026_gadget.html",
+			"note": "ポップなカラー展開でデザインとコスパを両立",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2025/12/24/Whisk_2429f983578a0d1aab14c87cf0d6c684dr.png?w=1280"
 		},
 		{
-			"title": "Nothing Phone (4a)シリーズ予告、Snapdragonチップ搭載を確認",
-			"url": "https://telektlist.com/this-week-news-pixel-10a-announcement-and-nothing-phone-4a-series-teasered/",
-			"note": "Nothingの新ミッドレンジスマホが正式予告",
-			"image": "https://telektlist.com/wp-content/uploads/2026/02/telektlist-1771741941-640x435.jpg"
-		},
-		{
-			"title": "Samsung Galaxy S26シリーズ発表、AI強化もマイナーチェンジ",
-			"url": "https://9to5google.com/2026/02/22/google-pixel-10a-galaxy-s26-not-new-comment/",
-			"note": "新チップと微細デザイン変更、大幅進化は見送り",
+			"title": "物理キー搭載Unihertz Titan 2 Elite、3月にKickstarter登場予定",
+			"url": "https://daily-gadget.net/",
+			"note": "120Hz有機ELとAndroid 20更新保証の堅牢端末",
 			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"title": "衆院選で自民党が圧勝、単独3分の2超は戦後初の歴史的勝利",
-			"url": "https://www.nikkei.com/article/DGXZQOUA067E20W6A200C2000000/",
-			"note": "小選挙区246・比例64で計310議席を獲得",
-			"image": ""
+			"title": "自民316議席、歴史的圧勝 単独で3分の2、戦後初【2026衆院選】",
+			"url": "https://www.jiji.com/jc/article?k=2026020900216&g=pol",
+			"note": "戦後初の単独3分の2超え、中道は惨敗",
+			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260209ax07S_o.jpg"
 		},
 		{
-			"title": "2月の衆議院選挙は36年ぶり、2026年度予算の年度内成立が困難に",
-			"url": "https://www.nikkei.com/article/DGXZQOUA252ZA0V20C26A1000000/",
-			"note": "特別国会の会期は7月17日まで、暫定予算の可能性",
-			"image": ""
+			"title": "衆院選2026：自民歴史的大勝で3分の2の議席確保、中道は自滅惨敗",
+			"url": "https://www.nippon.com/ja/japan-data/h02703/",
+			"note": "選挙結果の詳細データ分析",
+			"image": "https://www.nippon.com/ja/ncommon/contents/japan-data/2951348/2951348.jpg"
 		},
 		{
-			"title": "衆院選は「戦後の終わり」の始まりか — 政治学者が分析",
-			"url": "https://www.nikkei.com/article/DGXZQOCD240HH0U6A220C2000000/",
-			"note": "自民単独3分の2超の歴史的意味を考察",
-			"image": ""
+			"title": "衆院選で圧勝した自民党政権 国会運営と党内統制はどう変わる？",
+			"url": "https://www.kab.co.jp/news/article/16343016",
+			"note": "政治学者が新政治体制のパワーバランスを分析",
+			"image": "https://p.potaufeu.asahi.com/f736-p/picture/30497286/09184728068521d92afe19631c27a1a2.jpg"
 		},
 		{
-			"title": "2026年衆院選が公示、物価高・外国人政策など争点に",
-			"url": "https://www.nippon.com/ja/japan-data/h02686/",
-			"note": "1月27日公示・2月8日投開票の選挙全容まとめ",
+			"title": "国家情報会議の設置法案の全容判明、スパイ防止で司令塔に",
+			"url": "https://www.jiji.com/jc/c?g=pol",
+			"note": "首相と9閣僚がメンバー、情報機関の統括組織",
 			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"title": "米イスラエルがイランへ大規模軍事攻撃、72時間で1700か所以上を爆撃",
-			"url": "https://ja.wikipedia.org/wiki/2026%E5%B9%B4%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%83%A9%E3%83%B3%E6%94%BB%E6%92%83",
-			"note": "2月28日開始、ハメネイ師死亡との報道も",
+			"title": "トランプ大統領のイラン攻撃、抑制なき力の行使の時代招来",
+			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-02/TB8X04KK3NY800",
+			"note": "72時間で1700か所以上を攻撃、長期化の様相",
 			"image": ""
 		},
 		{
-			"title": "米イラン核協議で「大きな進展」も一転して軍事攻撃へ",
-			"url": "https://www.jetro.go.jp/biznews/2026/02/8dbd202ab737a4bc.html",
-			"note": "2月26日ジュネーヴ協議後に外交から武力行使に転換",
+			"title": "米国のイラン攻撃、イスラエルの策略か？ トランプ派内で対立激しく",
+			"url": "https://www.nikkei.com/article/DGXZQOGN0401G0U6A300C2000000/",
+			"note": "攻撃決定の舞台裏でトランプ政権内に亀裂",
 			"image": ""
 		},
 		{
-			"title": "中国はイランに軍事支援をするのか — 米中首脳会談控え外交綱渡り",
-			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-03/TBAV5FT96OSG00",
-			"note": "中国は批判表明のみ、積極的軍事支援には消極的",
+			"title": "トランプの対イラン戦争、既に戦費10億ドル突破か 米経済損失33兆円規模の恐れ",
+			"url": "https://news.yahoo.co.jp/articles/cae2c2d5c9e81f070577c6d7751ca21971a4138a",
+			"note": "戦費膨張で米経済への打撃を懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260305-00093033-forbes-000-1-view.jpg?exp=10800"
+		},
+		{
+			"title": "北朝鮮が戦略巡航ミサイル試射、海軍の核武装化を主張",
+			"url": "https://www.jiji.com/jc/archives?g=int_archive_0",
+			"note": "駆逐艦からの発射で海上核戦力を誇示",
 			"image": ""
 		},
 		{
-			"title": "イラン攻撃で原油150ドル突破、世界経済にインフレ再燃の打撃",
-			"url": "https://media.monex.co.jp/articles/-/28878",
-			"note": "エネルギー価格急騰で市場に大きな影響",
-			"image": "https://media.monex.co.jp/mwimgs/9/d/-/img_9d8f88129b94038508ee6c74c0c71492683538.png"
+			"title": "トランプ氏、イラン攻撃「4〜5週間超えも」 地上部隊投入を排除せず",
+			"url": "https://www.nikkei.com/article/DGXZQOGN02B210S6A300C2000000/",
+			"note": "軍事作戦の長期化と地上戦の可能性を示唆",
+			"image": ""
 		}
 	]
 }
