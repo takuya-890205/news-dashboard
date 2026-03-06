@@ -1,99 +1,99 @@
 {
 	"生成AI・LLM・AIエージェント": [
 		{
-			"title": "東大松尾研、日本語版医療特化型LLMを開発・公開 医師国試で正答率93.3%",
-			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news076.html",
-			"note": "GPT-4oやo1を上回る医療特化LLMを研究者向けに無償提供",
-			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/05/l_ts1648348_202503051_1_w490.jpg"
+			"title": "デジタル庁「政府認定AI」選定へ、国産7モデルを検証 全府省庁18万人に展開",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/06/news097.html",
+			"note": "デジタル庁が国産LLM7モデルを選定、全府省庁に展開予定",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/06/l_dy_24.png"
 		},
 		{
-			"title": "Anthropic、米軍のClaude利用を巡り国防総省と対立 ブラックリスト入り",
-			"url": "https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/",
-			"note": "自律兵器・大量監視への利用制限を主張し政府と衝突",
-			"image": ""
+			"title": "2026年はAIエージェントが日本企業の利益に本格貢献する年に",
+			"url": "https://www.nikkei.com/article/DGXZQOUB16BQ90W5A211C2000000/",
+			"note": "ソフトバンク物流40%効率化など国内企業で成果続出",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2366435016122025000000-2.png?ixlib=js-3.8.0&w=638&h=381&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=5dde6b6dccf071a905fed90dc9cf92c8"
 		},
 		{
-			"title": "ClaudeがChatGPTを抜きiPhoneアプリ1位に 軍事AI問題で支持拡大",
-			"url": "https://www.washingtontimes.com/news/2026/mar/4/claude-beats-chatgpt-downloads-consumers-rally-behind-anthropics/",
-			"note": "国防総省との対立が消費者の支持を集め過去最高の新規登録数",
-			"image": ""
+			"title": "【2026年最新】AIエージェント国内導入事例5社と費用相場まとめ",
+			"url": "https://uravation.com/media/japan-ai-agent-2026/",
+			"note": "横浜銀行・明治安田生命など導入実績と費用を比較",
+			"image": "https://uravation.com/wp-content/uploads/2026/02/thumb-japan-ai-agent-2026-1771734886-1024x572.png"
 		},
 		{
-			"title": "防衛テック企業がClaude利用を停止 国防総省のブラックリスト受け",
-			"url": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
-			"note": "財務省・国務省等もClaudeからの移行を指示",
-			"image": ""
+			"title": "2026年03月03日の最新AIニュース まとめ",
+			"url": "https://note.com/money_channel/n/n54b76306a2d1",
+			"note": "数学AI「Gauss」が24次元の証明を自動生成など",
+			"image": "https://assets.st-note.com/production/uploads/images/256209908/92689a9b2a89b773957b032b267d097e.jpeg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"title": "Google「Pixel 10a」を米国で正式発表、日本でも発売予定",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2087047.html",
-			"note": "Tensor G4搭載・499ドル、3月5日米国発売",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2087/047/p10a01.jpg"
+			"title": "Nothing、最大135時間の連続再生が可能な「Headphone (a)」を発表",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2090804.html",
+			"note": "ANC搭載・4色展開で27,800円、3月13日発売",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2090/804/IMG_7655.jpg"
 		},
 		{
-			"title": "Apple「AirTag」第2世代を発表 UWBチップ刷新で探索範囲50%拡大",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2080963.html",
-			"note": "スピーカー音量50%向上、日本価格4,980円から",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2080/963/00.jpg"
+			"title": "物理キー搭載『Unihertz Titan 2 Elite』が3月にKickstarter登場",
+			"url": "https://daily-gadget.net/notepc/109422",
+			"note": "120Hz有機EL・Android 20まで更新保証のQWERTY端末",
+			"image": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2026/03/HCOKubzXcAA_wuT.webp?fit=1000%2C1000&ssl=1"
 		},
 		{
-			"title": "レノボ、MWC 2026で折りたたみ画面ゲーミングPC等コンセプトモデル発表",
-			"url": "https://ascii.jp/elem/000/004/377/4377668/",
-			"note": "Legion Go Fold等4つの先進コンセプトを展示",
-			"image": ""
-		},
-		{
-			"title": "レノボ、日本でYoga新モデルを順次発売 Copilot+ PC準拠",
-			"url": "https://www.itmedia.co.jp/pcuser/articles/2603/03/news157.html",
-			"note": "FIFAワールドカップ2026コラボモデルも登場",
-			"image": ""
+			"title": "「2026年リリース」と噂されている、期待のガジェットたち",
+			"url": "https://www.gizmodo.jp/2026/01/uwasa_2026_gadget.html",
+			"note": "2026年注目のガジェットを一挙紹介",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2025/12/24/Whisk_2429f983578a0d1aab14c87cf0d6c684dr.png?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
-			"title": "衆院選で自民316議席の歴史的圧勝 単独3分の2は戦後初",
-			"url": "https://www.jiji.com/jc/article?k=2026020900216&g=pol",
-			"note": "高市自民が圧勝、中道改革連合は議席半数以下に惨敗",
-			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260209ax07S_o.jpg"
+			"title": "殺傷兵器輸出、原則容認 5類型撤廃、防衛産業強化狙う―与党提言、政策大転換へ",
+			"url": "https://www.jiji.com/jc/article?k=2026030600199&g=pol",
+			"note": "与党が武器輸出「原則可能」を首相に提言",
+			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260306at64S_ogp.jpg"
 		},
 		{
-			"title": "自民、予算案3月13日採決を提案 審議時間を五十数時間に短縮",
-			"url": "https://www.jiji.com/jc/article?k=2026022401074&g=pol",
-			"note": "野党は白紙撤回を要求、国会運営が焦点に",
-			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260224ds68_o.jpg"
+			"title": "与党、装備品「5類型」撤廃を提言 同盟・同志国への武器輸出可能に",
+			"url": "https://www.nikkei.com/article/DGXZQOUA060X30W6A300C2000000/",
+			"note": "NSC審査を条件に殺傷兵器の輸出解禁へ",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2716921006032026000000-1.jpg?ixlib=js-3.8.0&w=638&h=399&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=5c7a92b4480eaa10509e6324471dbb0b"
 		},
 		{
-			"title": "政府、「旧姓単記」法整備を男女参画計画に明記へ 月内閣議決定",
-			"url": "https://www.jiji.com/jc/article?k=2026030501200&g=pol",
-			"note": "夫婦同姓維持しつつ旧姓に法的効力を付与",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260305atG0S_o.jpg"
+			"title": "高市首相「年度内成立諦めない」 26年度予算案、自民幹部「困難」",
+			"url": "https://www.jiji.com/jc/article?k=2026021300996&g=pol",
+			"note": "過去最大122兆円の予算案、年度内成立を目指す",
+			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260213at63S_ogp.jpg"
+		},
+		{
+			"title": "衆議院選挙で自民党圧勝、「戦後の終わり」の始まりか",
+			"url": "https://www.nikkei.com/article/DGXZQOCD240HH0U6A220C2000000/",
+			"note": "自民単独で衆院2/3超、戦後政治の転換点を分析",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2662872024022026000000-2.jpg?ixlib=js-3.8.0&w=638&h=851&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.49&fp-y=0.4&fp-z=1&crop=focalpoint&s=1e315911411c52467bd5e70045791e39"
 		}
 	],
 	"国際情勢": [
 		{
-			"title": "トランプ大統領、全世界一律関税を15%に引き上げ表明",
-			"url": "https://www.nikkei.com/article/DGXZQOGN2134F0R20C26A2000000/",
-			"note": "最高裁違憲判決後にSection 122で再発動、150日間適用",
-			"image": ""
+			"title": "トランプ大統領 イラン攻撃決断はなぜ？背景は？",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015066021000",
+			"note": "米・イスラエルがイラン攻撃、中東で戦火拡大",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260304/K10015066021_2603041701_0304173807_01_02.jpg"
 		},
 		{
-			"title": "中国全人代開幕、成長率目標を4.5〜5%に引き下げ 1991年以来の低水準",
+			"title": "米国のイラン攻撃、イスラエルの策略か？ トランプ派内で対立激しく",
+			"url": "https://www.nikkei.com/article/DGXZQOGN0401G0U6A300C2000000/",
+			"note": "トランプ政権内でイラン攻撃をめぐり対立",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2704381004032026000000-1.jpg?ixlib=js-3.8.0&w=638&h=422&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.49&fp-y=0.36&fp-z=1&crop=focalpoint&s=d9532764d0e1dbffe1da0a6502ca85c7"
+		},
+		{
+			"title": "中国、経済成長率目標を「4.5%〜5.0%」に引き下げ 全人代で",
 			"url": "https://news.yahoo.co.jp/articles/7310970012ee6f31200162e47e0b29b55fa68c55",
-			"note": "不動産不況で内需低迷、国防費は7.0%増",
-			"image": ""
+			"note": "1991年以来最低の成長目標、不動産不況が影響",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260305-00000017-asahi-000-10-view.jpg?exp=10800"
 		},
 		{
-			"title": "北朝鮮、駆逐艦から戦略巡航ミサイル試射 金正恩氏が視察",
-			"url": "https://www.jiji.com/jc/article?k=2026030500440&g=int",
-			"note": "海軍の核武装化を誇示、少なくとも4発を黄海に発射",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260305at59S_o.jpg"
-		},
-		{
-			"title": "Anthropic製AI「Claude」が米軍イラン作戦に使用される中で論争",
-			"url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
-			"note": "AI企業と軍事利用の境界線が国際的争点に",
+			"title": "イランへの直接攻撃は世界を変えた...秩序が崩壊する世界の「6つの衝撃的な真実」",
+			"url": "https://www.newsweekjapan.jp/stories/world/2026/03/589139.php",
+			"note": "イラン攻撃が国際秩序に与える衝撃を分析",
 			"image": ""
 		}
 	]
