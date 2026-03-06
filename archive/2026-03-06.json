@@ -1,117 +1,99 @@
 {
 	"生成AI・LLM・AIエージェント": [
 		{
-			"title": "GPT-5.4が3月5日リリース、ネイティブPC操作で人間超えの性能を達成",
-			"url": "https://llm-stats.com/llm-updates",
-			"note": "5カテゴリでベンチ首位、PC操作で人間超え75%達成",
-			"image": "https://llm-stats.com/og/main.png"
+			"title": "東大松尾研、日本語版医療特化型LLMを開発・公開 医師国試で正答率93.3%",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news076.html",
+			"note": "GPT-4oやo1を上回る医療特化LLMを研究者向けに無償提供",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/05/l_ts1648348_202503051_1_w490.jpg"
 		},
 		{
-			"title": "GPT-5.4 vs Opus 4.6 vs Gemini 3.1 Pro：2026年最強AIモデル比較",
-			"url": "https://www.digitalapplied.com/blog/gpt-5-4-vs-opus-4-6-vs-gemini-3-1-pro-best-frontier-model",
-			"note": "単一最強モデルは存在せず、マルチモデル戦略が主流に",
-			"image": "https://www.digitalapplied.com/og-image.png"
-		},
-		{
-			"title": "2026年はAIエージェントが日本企業の利益に本格貢献する年に",
-			"url": "https://www.nikkei.com/article/DGXZQOUB16BQ90W5A211C2000000/",
-			"note": "ソフトバンク配送効率40%向上など具体的成果続出",
+			"title": "Anthropic、米軍のClaude利用を巡り国防総省と対立 ブラックリスト入り",
+			"url": "https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/",
+			"note": "自律兵器・大量監視への利用制限を主張し政府と衝突",
 			"image": ""
 		},
 		{
-			"title": "【2026年最新】AIエージェント最新動向｜国内5社の導入実績・費用相場まとめ",
-			"url": "https://uravation.com/media/japan-ai-agent-2026/",
-			"note": "横浜銀行・明治安田生命など国内導入事例を紹介",
+			"title": "ClaudeがChatGPTを抜きiPhoneアプリ1位に 軍事AI問題で支持拡大",
+			"url": "https://www.washingtontimes.com/news/2026/mar/4/claude-beats-chatgpt-downloads-consumers-rally-behind-anthropics/",
+			"note": "国防総省との対立が消費者の支持を集め過去最高の新規登録数",
 			"image": ""
 		},
 		{
-			"title": "デジタル庁が「ガバメントAI」向け国産LLMを公募、3月に選定予定",
-			"url": "https://xtech.nikkei.com/atcl/nxt/news/24/03008/",
-			"note": "省庁向けAI基盤に国産LLM採用へ選定開始",
+			"title": "防衛テック企業がClaude利用を停止 国防総省のブラックリスト受け",
+			"url": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html",
+			"note": "財務省・国務省等もClaudeからの移行を指示",
 			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"title": "Google Pixel 10aが正式発表、3月5日に米国で発売開始",
-			"url": "https://spinformation.info/all/google-pixel10a-official/",
-			"note": "Tensor G4搭載でPixel 9aとほぼ同スペック",
+			"title": "Google「Pixel 10a」を米国で正式発表、日本でも発売予定",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2087047.html",
+			"note": "Tensor G4搭載・499ドル、3月5日米国発売",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2087/047/p10a01.jpg"
+		},
+		{
+			"title": "Apple「AirTag」第2世代を発表 UWBチップ刷新で探索範囲50%拡大",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2080963.html",
+			"note": "スピーカー音量50%向上、日本価格4,980円から",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2080/963/00.jpg"
+		},
+		{
+			"title": "レノボ、MWC 2026で折りたたみ画面ゲーミングPC等コンセプトモデル発表",
+			"url": "https://ascii.jp/elem/000/004/377/4377668/",
+			"note": "Legion Go Fold等4つの先進コンセプトを展示",
 			"image": ""
 		},
 		{
-			"title": "Pixel 10aが海外発表＆日本発売も決定！4月14日発売見込み",
-			"url": "https://weekly.ascii.jp/elem/000/004/374/4374976/",
-			"note": "128GB $499から、日本は4月発売予定",
-			"image": ""
-		},
-		{
-			"title": "Apple、第2世代AirTagを発表 新超広帯域チップで精度向上",
-			"url": "https://gadget.phileweb.com/",
-			"note": "UWBチップ刷新で位置特定精度と通信範囲が向上",
-			"image": ""
-		},
-		{
-			"title": "Nothing新作『Headphone (a)』3月12日発売、ポップな4色展開",
-			"url": "https://wired.jp/tag/gadget/",
-			"note": "デザインとコスパを両立したヘッドホン新モデル",
+			"title": "レノボ、日本でYoga新モデルを順次発売 Copilot+ PC準拠",
+			"url": "https://www.itmedia.co.jp/pcuser/articles/2603/03/news157.html",
+			"note": "FIFAワールドカップ2026コラボモデルも登場",
 			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"title": "2026年度予算案決定、過去最高122兆円 国債費31兆円",
-			"url": "https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/",
-			"note": "高市政権初の予算、積極財政を反映し過去最大更新",
-			"image": ""
+			"title": "衆院選で自民316議席の歴史的圧勝 単独3分の2は戦後初",
+			"url": "https://www.jiji.com/jc/article?k=2026020900216&g=pol",
+			"note": "高市自民が圧勝、中道改革連合は議席半数以下に惨敗",
+			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260209ax07S_o.jpg"
 		},
 		{
-			"title": "高市首相「年度内成立諦めない」 26年度予算案、自民幹部は「困難」",
-			"url": "https://www.jiji.com/jc/article?k=2026021300996&g=pol",
-			"note": "解散総選挙の影響で暫定予算案提出の見通し",
-			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260213at63S_ogp.jpg"
+			"title": "自民、予算案3月13日採決を提案 審議時間を五十数時間に短縮",
+			"url": "https://www.jiji.com/jc/article?k=2026022401074&g=pol",
+			"note": "野党は白紙撤回を要求、国会運営が焦点に",
+			"image": "https://www.jiji.com/news2/kiji_photos/202602/20260224ds68_o.jpg"
 		},
 		{
-			"title": "衆議院選挙で自民党圧勝、結党以来初の単独3分の2超",
-			"url": "https://www.nikkei.com/article/DGXZQOCD240HH0U6A220C2000000/",
-			"note": "野党第1党は戦後最小サイズ、中道改革連合11%",
-			"image": ""
-		},
-		{
-			"title": "高市首相が困惑…予算案審議で「速記を止めてください」の場面も",
-			"url": "https://news.yahoo.co.jp/articles/49b2a906c04c5d81d786449fc08a362850ea62cb",
-			"note": "予算委員会で野党との審議日程をめぐり紛糾",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260303-33030639-nksports-000-11-view.jpg?exp=10800"
+			"title": "政府、「旧姓単記」法整備を男女参画計画に明記へ 月内閣議決定",
+			"url": "https://www.jiji.com/jc/article?k=2026030501200&g=pol",
+			"note": "夫婦同姓維持しつつ旧姓に法的効力を付与",
+			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260305atG0S_o.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"title": "米イスラエルがイラン攻撃を開始、中東全域で戦火拡大",
-			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-03/TB9E5DT9NJLW00",
-			"note": "2月28日に攻撃開始、死者1200人超の報道",
+			"title": "トランプ大統領、全世界一律関税を15%に引き上げ表明",
+			"url": "https://www.nikkei.com/article/DGXZQOGN2134F0R20C26A2000000/",
+			"note": "最高裁違憲判決後にSection 122で再発動、150日間適用",
 			"image": ""
 		},
 		{
-			"title": "中国、全人代が5日開幕 成長率目標を3年ぶり引き下げ「4.5〜5.0%」",
-			"url": "https://www.nikkei.com/article/DGXZQOGM264S70W6A220C2000000/",
-			"note": "国防費7%増、台湾統一を5カ年計画で具体化",
+			"title": "中国全人代開幕、成長率目標を4.5〜5%に引き下げ 1991年以来の低水準",
+			"url": "https://news.yahoo.co.jp/articles/7310970012ee6f31200162e47e0b29b55fa68c55",
+			"note": "不動産不況で内需低迷、国防費は7.0%増",
 			"image": ""
 		},
 		{
-			"title": "中国はイランに軍事支援をするのか 米中首脳会談控え外交綱渡り",
-			"url": "https://www.bloomberg.com/jp/news/articles/2026-03-03/TBAV5FT96OSG00",
-			"note": "イラン原油の9割を購入も積極的軍事支援は消極的",
-			"image": ""
+			"title": "北朝鮮、駆逐艦から戦略巡航ミサイル試射 金正恩氏が視察",
+			"url": "https://www.jiji.com/jc/article?k=2026030500440&g=int",
+			"note": "海軍の核武装化を誇示、少なくとも4発を黄海に発射",
+			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260305at59S_o.jpg"
 		},
 		{
-			"title": "米国のイラン攻撃、中国への影響は 市場関係者に聞く",
-			"url": "https://www.nikkei.com/article/DGXZQOFL023CJTS6A300C2000000/",
-			"note": "原油急騰と中東リスクが世界経済に波及の懸念",
-			"image": ""
-		},
-		{
-			"title": "北朝鮮が駆逐艦から戦略巡航ミサイル試射、海軍の核武装化推進",
-			"url": "https://www.jiji.com/jc/archives?g=int_archive_0",
-			"note": "4日に試射成功、海上核戦力の強化を誇示",
+			"title": "Anthropic製AI「Claude」が米軍イラン作戦に使用される中で論争",
+			"url": "https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/",
+			"note": "AI企業と軍事利用の境界線が国際的争点に",
 			"image": ""
 		}
 	]
