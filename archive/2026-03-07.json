@@ -2,100 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「コードの50%をAIが生成」しているGoogle 増員ゼロ開発体制の背景",
-			"url": "https://news.yahoo.co.jp/articles/ecfa92a072684be021b323683e086912c0694af3",
-			"note": "GoogleがAIコード生成で開発者増員ゼロを実現",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000005-zdn_tt-000-1-view.jpg?exp=10800"
+			"title": "米国防総省、AnthropicとOpenAIを「AI安全保障」に認定 — CEO Dario Amodeiが実施内容を公開",
+			"url": "https://www.itmedia.co.jp/news/articles/2603/07/news030.html",
+			"note": "Anthropicが米国防総省のAI安保プログラムに認定",
+			"image": "https://image.itmedia.co.jp/news/articles/2603/07/cover_news030.jpg"
 		},
 		{
 			"number": 2,
-			"title": "パナソニックが弱いロボット「NICOBO」を開発したワケ 累計販売1万体突破、今後は会話にLLM活用へ",
-			"url": "https://news.yahoo.co.jp/articles/61a1041e4b0b3f57e23fc6034a4c42eed4d23ab9",
-			"note": "パナソニックの癒しロボにLLM搭載予定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000020-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "AIで男女格差に拡大リスク 国際労働機関、報告書で警鐘",
+			"url": "https://news.yahoo.co.jp/articles/e1b3ab0575f7c5fe59f6470e1668cbbce4c763dd",
+			"note": "ILOが生成AIによる男女格差拡大リスクを警告",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000100-kyodonews-000-7-view.jpg?exp=10800"
+		},
+		{
+			"number": 3,
+			"title": "「生成AIだから売れる」は終わった 実装の80%は泥臭いチューニング",
+			"url": "https://www.nikkei.com/article/DGXZQOUC245L90U6A220C2000000/",
+			"note": "生成AI導入は地道なチューニングが8割を占める",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "ずっとNexus→PixelなGoogleスマートフォンユーザーは「Galaxy S26 Ultra」をどう感じたか",
-			"url": "https://news.yahoo.co.jp/articles/875d0be8b747b6e8f199234db45b92ef6735cd21",
-			"note": "Pixelユーザー視点のGalaxy S26 Ultraレビュー",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000001-technoed-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 4,
-			"title": "ドコモもAndroidの標準メッセージアプリを「Googleメッセージ」に変更",
-			"url": "https://news.yahoo.co.jp/articles/24538081677bdfb30a9dddb569cc2fddedd65482",
-			"note": "ドコモが+メッセージからGoogleメッセージへ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000001-impress-000-1-view.jpg?exp=10800"
+			"title": "予想外のタイミングで公開、「iOS 26.3.1」の特徴とアップデート手順",
+			"url": "https://news.yahoo.co.jp/articles/788d91126e8ab088da0816a8f652083d8e2549fb",
+			"note": "Appleが予告なしにiOS 26.3.1をリリース",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00093253-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "抜き挿ししても端子が痛まない 手持ちのHDMIをマグネット式にできるアダプター サンワサプライから登場",
-			"url": "https://news.yahoo.co.jp/articles/01b0e0a09a04537e1604ba30e8c97dc981aa2066",
-			"note": "HDMIをマグネット着脱にするアダプター発売",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00604192-bcn-000-5-view.jpg?exp=10800"
+			"title": "「10万を切る」iPhone 17eがもたらす市場インパクト、メモリ危機時代にアップルとサムスンが躍進する理由",
+			"url": "https://news.yahoo.co.jp/articles/44e6495c6b7513ac320469f70e478deb77eefc39",
+			"note": "iPhone 17eが9万9800円でメモリ危機下に衝撃",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00093186-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 6,
-			"title": "ドコモ3G終了で、あの「固定電話風のケータイ」も通話不可に 「スゴい電話」発売元が案内",
-			"url": "https://news.yahoo.co.jp/articles/093226996791d1815f4f5c339ca07817bc2cbcee",
-			"note": "FOMA終了で固定電話風ケータイも使用不可に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000019-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "OPPO、グローバル向けに折りたたみ「Find N6」を予告 日本でも？",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2091412.html",
+			"note": "OPPO折りたたみFind N6のグローバル展開を予告",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2091/412/list.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 7,
-			"title": "公明党、来春の統一地方選は独自候補擁立へ…当面中道改革連合には合流せず",
-			"url": "https://news.yahoo.co.jp/articles/fd676386ab5d7085905d1d45418bf1c4fe24bad5",
-			"note": "公明党が中道連合に合流せず独自路線を維持",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000114-yom-000-4-view.jpg?exp=10800"
+			"title": "施政方針演説「女性」言及が激減 高市首相、過去の首相と比較",
+			"url": "https://news.yahoo.co.jp/articles/4c0b47beb2dfdeac3b8c216e3086589a2a9fa5f7",
+			"note": "高市首相の施政方針演説で「女性」言及が激減",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/7/a007f085d74f2234c7d4b406a140675f01f1da75440200c0ed151dc516786d0d.jpg"
 		},
 		{
 			"number": 8,
-			"title": "「ペットボトル1本分の社会保険料負担軽減のために」共産議員が高額療養費見直し迫る 衆院予算委で質疑",
-			"url": "https://news.yahoo.co.jp/articles/c815a58f7b3f41ca677f4d2f9fdecf20171dfa5e",
-			"note": "高額療養費の負担増を衆院予算委で追及",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-10230252-abemav-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 9,
-			"title": "幹部も1時間前に告知の合流劇 吉田晴美氏がホンネで語る中道改革連合誕生の舞台裏",
-			"url": "https://news.yahoo.co.jp/articles/3c9c0973af376b32e9e4d76fe213943b39fe49f4",
-			"note": "中道改革連合の結成舞台裏を当事者が語る",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-22514213-jnn-000-1-view.jpg?exp=10800"
+			"title": "赤沢経産相、15%関税から日本除外を米商務長官に要請",
+			"url": "https://news.yahoo.co.jp/articles/6683f0b8400145651e9b5d25527b6b25ad9aac40",
+			"note": "赤沢経産相が訪米し15%関税除外を要請",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/7/27590a79ff713eca10e949cb3119c2fc219f1ea042299e3f95433674819a15e4.jpg"
 		}
 	],
 	"国際情勢": [
 		{
+			"number": 9,
+			"title": "イランは決して降伏しない、大統領が表明 — トランプ大統領の要求に強硬姿勢",
+			"url": "https://news.yahoo.co.jp/articles/bababcfbe4d815866be985cc368fd74c522a71e8",
+			"note": "イラン大統領「無条件降伏は絶対にない」と表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-35244738-cnn-000-3-view.jpg?exp=10800"
+		},
+		{
 			"number": 10,
-			"title": "任天堂がトランプ関税の返還求め連邦政府を提訴 最高裁の違法判断受け",
-			"url": "https://news.yahoo.co.jp/articles/38917a30dde89fb90a9ba7f90be56277f6a2f4b1",
-			"note": "任天堂がトランプ関税の違法性を訴え提訴",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-07291217-jnn-000-6-view.jpg?exp=10800"
+			"title": "イラン弾道ミサイルを大量発射「真実の約束4作戦」の第22波",
+			"url": "https://news.yahoo.co.jp/articles/576005797f5874b7ef55fba2ee3d470d937098b4",
+			"note": "イランがイスラエルに弾道ミサイルを大量発射",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00010002-aptsushinv-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 11,
-			"title": "ロシアが米軍位置情報をイランに提供か 艦艇や戦闘機の標的情報とアメリカ報道",
-			"url": "https://news.yahoo.co.jp/articles/b295ec90ef3ac09d24f60224c654509a1fe47c74",
-			"note": "ロシアがイランに米軍の位置情報を共有か",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-01111736-fnn-000-2-view.jpg?exp=10800"
+			"title": "サウジ国防相、攻撃受けイランに「判断ミス」しないよう警告",
+			"url": "https://news.yahoo.co.jp/articles/8e6e2b1c0b5afb26391a5a3b62e0dddfd4f2cae6",
+			"note": "サウジ国防相がイランの攻撃を受け警告",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000020-jij_afp-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "トランプ氏がイランに「無条件降伏」要求 戦略欠如、自ら「勝利」のハードル上げる",
-			"url": "https://news.yahoo.co.jp/articles/81ae198c01da2db1f7f9a579923371748767e7fc",
-			"note": "トランプ氏がイランに無条件降伏を要求",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000051-san-000-3-view.jpg?exp=10800"
+			"title": "ハメネイ師の地下壕への攻撃 — イスラエル軍が映像を公開",
+			"url": "https://news.yahoo.co.jp/articles/4720b527558253b7715ce381187ab86f142fa079",
+			"note": "イスラエル軍がハメネイ師地下壕の攻撃映像公開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00010001-aptsushinv-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 13,
-			"title": "女子校爆撃、米軍に責任か イラン南部で175人死亡 報道",
-			"url": "https://news.yahoo.co.jp/articles/f5e25c1ee3e67c85d75513a4345059be6b92ebb4",
-			"note": "イラン南部の女子校爆撃で175人死亡の報道",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000028-jij-000-12-view.jpg?exp=10800"
+			"title": "ロシアがイランに米軍の位置情報提供 — 米兵死亡の要因か",
+			"url": "https://news.yahoo.co.jp/articles/b1053c0c231835f30988e0875ac417bb0a444d34",
+			"note": "ロシアが位置情報提供し米兵死亡の要因か",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260307-00000027-mai-000-3-view.jpg?exp=10800"
 		}
 	]
 }
