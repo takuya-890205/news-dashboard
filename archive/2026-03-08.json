@@ -1,8 +1,30 @@
 {
-	"生成AI・LLM・AIエージェント": [],
-	"デジタルガジェット": [
+	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
+			"title": "「AIを野放しにするのは危険」AIだけが書き込めるSNS開発者が明かす「人間が操作できない世界」を作った理由",
+			"url": "https://news.yahoo.co.jp/articles/44ca905ec0eb55fc76379f8b0da2b0726d4d22d0",
+			"note": "AI専用SNS「Open MindAxis」の開発者インタビュー",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00256768-shueisha-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 2,
+			"title": "メモリー高騰、PCに波及　メーカー苦慮、ゲーム機でも",
+			"url": "https://news.yahoo.co.jp/articles/60ecc85c6a70e44ed0f985ebe2145e5ed787d4fd",
+			"note": "AI需要でメモリ価格が1年で約7倍に高騰",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00000004-jij-000-8-view.jpg?exp=10800"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 3,
+			"title": "見た目はガラケー、中身はスマホの「MIVE ケースマ」徹底レビュー　どこまで実用的で、誰に向くのか",
+			"url": "https://news.yahoo.co.jp/articles/9eae5ebd4383fa8ae0d23a79e37dd64d29497cc6",
+			"note": "Android搭載ガラケー型端末、約3.5万円",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00000020-zdn_m-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 4,
 			"title": "関西初の「Xiaomi Store」イオンモール鶴見緑地店がオープン",
 			"url": "https://news.yahoo.co.jp/articles/c8b8be5accf25be192125dfaeb2b3c6c220465c7",
 			"note": "シャオミの関西初直営店が大阪にオープン",
@@ -11,28 +33,21 @@
 	],
 	"政治（日本）": [
 		{
-			"number": 2,
+			"number": 5,
+			"title": "石川県知事選2026 きょう投開票　能登復興が最大争点に",
+			"url": "https://www.fukuishimbun.co.jp/articles/-/2545458",
+			"note": "現職vs新人2名、保守分裂の大激戦",
+			"image": "https://fki.ismcdn.jp/mwimgs/d/4/-/img_d408f301a5f478c0bfb227fcf8cf629b94743.jpg"
+		},
+		{
+			"number": 6,
 			"title": "中東の日本人退避に備え 自衛隊機がモルディブに向け出発",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015069691000",
 			"note": "イラン情勢悪化で邦人退避準備が本格化",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260308/K10015069691_2603080312_0308053818_01_02.jpg"
 		},
 		{
-			"number": 3,
-			"title": "イランの日本大使館の職員ら14人 隣国アゼルバイジャンに退避",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015069741000",
-			"note": "在イラン大使館職員が隣国へ退避完了",
-			"image": ""
-		},
-		{
-			"number": 4,
-			"title": "中東の日本人旅行者ら乗せたチャーター機 きょうオマーン出発",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015069611000",
-			"note": "中東滞在の邦人チャーター便で退避開始",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260308/K10015069611_2603080157_0308053636_01_02.jpg"
-		},
-		{
-			"number": 5,
+			"number": 7,
 			"title": "都道府県版ジェンダー・ギャップ指数 政治分野 依然大きな格差",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015069441000",
 			"note": "国際女性デー、地方政治の男女格差浮き彫り",
@@ -41,39 +56,39 @@
 	],
 	"国際情勢": [
 		{
-			"number": 6,
+			"number": 8,
 			"title": "イランへの軍事攻撃から1週間 終結見えず トランプ大統領 大規模攻撃を示唆",
 			"url": "https://news.yahoo.co.jp/articles/fa3ccd73c9dc3d60056d3e9bfb2de6363d1ad959",
 			"note": "米イラン攻撃1週間、戦闘拡大の可能性",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-01111933-fnn-000-1-thumb.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "トランプ、イランへの攻撃拡大を警告──「完全な破壊と確実な死」を検討",
-			"url": "https://news.yahoo.co.jp/articles/12aa6080ffb731493ded1c1384df5ccc9f4517e3",
-			"note": "トランプ氏がイランへの更なる攻撃を警告",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00093257-forbes-000-1-view.jpg?exp=10800"
+			"number": 9,
+			"title": "中国がイランに提供した防空網、米・イスラエルの空爆に歯が立たず信頼性低下",
+			"url": "https://news.yahoo.co.jp/articles/942aa6e9a1a0d9b79964428cb42cfaed63e52129",
+			"note": "中国製防空システムがステルス機を1機も撃墜できず",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260306-00080099-chosun-000-10-view.jpg?exp=10800"
 		},
 		{
-			"number": 8,
+			"number": 10,
+			"title": "トランプ大統領 イギリスの支援を拒否「すでに勝利した戦争に加わろうとする人々は必要ない」",
+			"url": "https://news.yahoo.co.jp/articles/1ddc262c193062c8fb156e281e2c97ad4f4faaea",
+			"note": "英国の空母派遣計画をSNSで批判",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-07291285-jnn-000-3-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
 			"title": "ウクライナ、親露のハンガリーと対立激化 「武器を取る」との脅迫も",
 			"url": "https://news.yahoo.co.jp/articles/aaa9745ada074e7e21c8562d97bda173e7b9a566",
 			"note": "ウクライナとハンガリーの関係が急速に悪化",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00000002-mai-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 9,
+			"number": 12,
 			"title": "MAGA派女性「失望した」 トランプ支持者からも不満の声 イラン攻撃1週間",
 			"url": "https://news.yahoo.co.jp/articles/da234a0c974748c678abae0eee2656528361d0b2",
 			"note": "イラン攻撃にトランプ支持層からも批判",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-90185497-ann-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 10,
-			"title": "イラン攻撃で欧米・アジアに広がるテロリスク 海外駐在員や観光客が警戒すべき場所",
-			"url": "https://news.yahoo.co.jp/articles/6e24fbf5732989f42a5c59aaf08380f6bfcc6604",
-			"note": "イラン情勢で世界的なテロリスクが拡大",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00385213-diamond-000-1-view.jpg?exp=10800"
 		}
 	]
 }
