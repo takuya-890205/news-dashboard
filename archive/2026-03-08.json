@@ -2,13 +2,27 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「AIを野放しにするのは危険」AIだけが書き込めるSNS開発者が明かす「人間が操作できない世界」を作った理由",
-			"url": "https://news.yahoo.co.jp/articles/44ca905ec0eb55fc76379f8b0da2b0726d4d22d0",
-			"note": "AI専用SNS「Open MindAxis」の開発者インタビュー",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00256768-shueisha-000-1-view.jpg?exp=10800"
+			"title": "ChatGPTから400万人が離脱、需要急増で対応に苦しむアンソロピックClaude",
+			"url": "https://news.yahoo.co.jp/articles/8dd70f53468253a36efcb5360487c161c918b339",
+			"note": "国防総省契約問題でChatGPTからClaude移行が加速",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00093254-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
+			"title": "OpenAIのロボット部門責任者が退社表明、米国防総省との契約を機に",
+			"url": "https://news.yahoo.co.jp/articles/f390973134759b30d9ee294d6756349e7ff1c3f8",
+			"note": "軍事利用契約に反対しロボット部門トップが退社",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00093268-forbes-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 3,
+			"title": "現代人、深刻な「AI疲労」を発症していることが判明",
+			"url": "https://news.yahoo.co.jp/articles/abec4624ab371d745afe1681794b42b763c1b440",
+			"note": "ビジネスパーソンの14%がAI過剰使用で集中力低下",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00182151-biz_plus-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 4,
 			"title": "メモリー高騰、PCに波及　メーカー苦慮、ゲーム機でも",
 			"url": "https://news.yahoo.co.jp/articles/60ecc85c6a70e44ed0f985ebe2145e5ed787d4fd",
 			"note": "AI需要でメモリ価格が1年で約7倍に高騰",
@@ -17,14 +31,14 @@
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "見た目はガラケー、中身はスマホの「MIVE ケースマ」徹底レビュー　どこまで実用的で、誰に向くのか",
+			"number": 5,
+			"title": "見た目はガラケー、中身はスマホの「MIVE ケースマ」徹底レビュー",
 			"url": "https://news.yahoo.co.jp/articles/9eae5ebd4383fa8ae0d23a79e37dd64d29497cc6",
-			"note": "Android搭載ガラケー型端末、約3.5万円",
+			"note": "韓国ALT社のフィーチャーフォン風スマホの実用性検証",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00000020-zdn_m-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 4,
+			"number": 6,
 			"title": "関西初の「Xiaomi Store」イオンモール鶴見緑地店がオープン",
 			"url": "https://news.yahoo.co.jp/articles/c8b8be5accf25be192125dfaeb2b3c6c220465c7",
 			"note": "シャオミの関西初直営店が大阪にオープン",
@@ -33,62 +47,62 @@
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "石川県知事選2026 きょう投開票　能登復興が最大争点に",
-			"url": "https://www.fukuishimbun.co.jp/articles/-/2545458",
-			"note": "現職vs新人2名、保守分裂の大激戦",
-			"image": "https://fki.ismcdn.jp/mwimgs/d/4/-/img_d408f301a5f478c0bfb227fcf8cf629b94743.jpg"
-		},
-		{
-			"number": 6,
-			"title": "中東の日本人退避に備え 自衛隊機がモルディブに向け出発",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015069691000",
-			"note": "イラン情勢悪化で邦人退避準備が本格化",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260308/K10015069691_2603080312_0308053818_01_02.jpg"
-		},
-		{
 			"number": 7,
-			"title": "都道府県版ジェンダー・ギャップ指数 政治分野 依然大きな格差",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015069441000",
-			"note": "国際女性デー、地方政治の男女格差浮き彫り",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260308/K10015069441_2603072239_0308054939_01_02.jpg"
+			"title": "首相の国会答弁、4割超減　衆院選圧勝で自民が主導権",
+			"url": "https://news.yahoo.co.jp/articles/e14886423cd1242fc196d2e5c0df9a0e2d584fe1",
+			"note": "衆院選圧勝後、高市首相の国会答弁が大幅減少",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/8/c2ddd7509f0419b560f37436d3744cda389f46675ffa8e4c32c1d6cd16ac9fa6.jpg"
+		},
+		{
+			"number": 8,
+			"title": "高市首相X、震災追悼式「行けたら行く」と伝わり炎上中",
+			"url": "https://news.yahoo.co.jp/articles/3ea3d70823f874a29a6e1368c1c00b9d11ceb9f1",
+			"note": "「諸般の事情が許せば」表現がSNSで批判を受ける",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00000015-jct-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 9,
+			"title": "「だったら結婚するなよ」夫婦別姓問題への視聴者コメントにハーバード大准教授が苦言",
+			"url": "https://news.yahoo.co.jp/articles/21c2e899d5b161ec88b5475c0418610db925c5b5",
+			"note": "夫婦別姓議論で女性への負担偏りを指摘",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-10230145-abema-000-5-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 8,
-			"title": "イランへの軍事攻撃から1週間 終結見えず トランプ大統領 大規模攻撃を示唆",
-			"url": "https://news.yahoo.co.jp/articles/fa3ccd73c9dc3d60056d3e9bfb2de6363d1ad959",
-			"note": "米イラン攻撃1週間、戦闘拡大の可能性",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-01111933-fnn-000-1-thumb.jpg?exp=10800"
-		},
-		{
-			"number": 9,
-			"title": "中国がイランに提供した防空網、米・イスラエルの空爆に歯が立たず信頼性低下",
-			"url": "https://news.yahoo.co.jp/articles/942aa6e9a1a0d9b79964428cb42cfaed63e52129",
-			"note": "中国製防空システムがステルス機を1機も撃墜できず",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260306-00080099-chosun-000-10-view.jpg?exp=10800"
-		},
-		{
 			"number": 10,
-			"title": "トランプ大統領 イギリスの支援を拒否「すでに勝利した戦争に加わろうとする人々は必要ない」",
-			"url": "https://news.yahoo.co.jp/articles/1ddc262c193062c8fb156e281e2c97ad4f4faaea",
-			"note": "英国の空母派遣計画をSNSで批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-07291285-jnn-000-3-view.jpg?exp=10800"
+			"title": "イランから湾岸諸国への攻撃相次ぐ、クウェート空港やサウジが標的に",
+			"url": "https://news.yahoo.co.jp/articles/512387a973dbb0dfe49b646c085b935aa81a50e1",
+			"note": "クウェート・サウジ・UAE・カタールにミサイル攻撃",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/8/56013dd80696ff59fd7f1b910cfb0fd1ad5c10dd4647a3ebce4c98e1db3b3f4e.jpg"
 		},
 		{
 			"number": 11,
+			"title": "女子学校の爆撃は「イランの仕業」　トランプ大統領",
+			"url": "https://news.yahoo.co.jp/articles/b26ba4b65fbf5401e0b73b4713a2b1bbdb5dcbcd",
+			"note": "トランプ氏がイラン南部の学校爆撃はイランの責任と主張",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/8/233c84ddfd06107efd6af6c4c67dfa997da7bd439c388c8e7fdf03049b9ffbd7.jpg"
+		},
+		{
+			"number": 12,
+			"title": "中東、邦人ら188人退避　陸路で周辺国に、外務省発表",
+			"url": "https://news.yahoo.co.jp/articles/ec79a453ccfbb751bbacb3e8138247394b0b02e0",
+			"note": "イラン・UAE・クウェートから邦人188人が陸路退避",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/60163c3cf9c6ccb3b1ed22392c49324263ede15c75e68fc9fe34256daaa99bb2.jpg"
+		},
+		{
+			"number": 13,
+			"title": "中国、台湾介入をけん制　日本の行く末「高度に警戒」",
+			"url": "https://news.yahoo.co.jp/articles/7cf4ecf49f6a8a8b62e3bb51ec2537eaba0519a3",
+			"note": "王毅外相が台湾有事への日本の立場を内政干渉と批判",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/8/e666e191f54f319781520fdcd243d01f35f5f7cb4ea2a540c67f887b7a88417b.jpg"
+		},
+		{
+			"number": 14,
 			"title": "ウクライナ、親露のハンガリーと対立激化 「武器を取る」との脅迫も",
 			"url": "https://news.yahoo.co.jp/articles/aaa9745ada074e7e21c8562d97bda173e7b9a566",
 			"note": "ウクライナとハンガリーの関係が急速に悪化",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-00000002-mai-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "MAGA派女性「失望した」 トランプ支持者からも不満の声 イラン攻撃1週間",
-			"url": "https://news.yahoo.co.jp/articles/da234a0c974748c678abae0eee2656528361d0b2",
-			"note": "イラン攻撃にトランプ支持層からも批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260308-90185497-ann-000-1-view.jpg?exp=10800"
 		}
 	]
 }
