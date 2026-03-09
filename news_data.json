@@ -2,58 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "今さら聞けない「ローカルLLM」。LM Studioなら自分のPCで手軽に試せます！",
-			"url": "https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html",
-			"note": "ローカルLLMの入門解説、LM Studioの使い方",
-			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2090/806/0.png"
+			"title": "Android 17が目指す「プロアクティブなAI」――グーグル幹部に聞く未来の姿",
+			"url": "https://k-tai.watch.impress.co.jp/docs/interview/2090835.html",
+			"note": "GoogleがAndroid 17で目指すAI統合戦略を幹部が語る",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2090/835/01.jpg"
 		},
 		{
 			"number": 2,
-			"title": "Geminiで子どものサッカー予定を自動登録、理想まであと1歩",
-			"url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2090418.html",
-			"note": "Google Geminiで予定自動登録を試した実践レポート",
-			"image": "https://asset.watch.impress.co.jp/img/ktw/list/2090/418/list.jpg"
+			"title": "今さら聞けない「ローカルLLM」。LM Studioなら自分のPCで手軽に試せます！",
+			"url": "https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html",
+			"note": "LM Studioを使ったローカルLLM入門解説記事",
+			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2090/806/0.png"
+		},
+		{
+			"number": 3,
+			"title": "AWS上で動作するOpenClawの提供開始　Amazon Lightsailで利用可能に",
+			"url": "https://www.itmedia.co.jp/news/articles/2603/09/news058.html",
+			"note": "AWS LightsailでOpenClawが利用可能に",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "ガス式卒業ッ!!! 風力バツグンのサンワサプライ「電動エアダスター」が超便利だった件",
-			"url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2091363.html",
-			"note": "サンワサプライ電動エアダスターの実機レビュー",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2091/363/stptncs2026-03-09thumbnail.jpg"
+			"number": 4,
+			"title": "Nothing、最大135時間の連続再生が可能な「Headphone (a)」を発表",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2090804.html",
+			"note": "Nothing初ヘッドホン、135時間再生で4色展開",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2090/804/IMG_7655.jpg"
 		},
 		{
-			"number": 4,
-			"title": "【完全無料】Elgato縛り撤廃！神ミキサー「Wave Link 3.0」の使い方",
-			"url": "https://pc.watch.impress.co.jp/docs/column/haishin_shugyousou/2091506.html",
-			"note": "Wave Link 3.0が完全無料化、配信者必見",
-			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2091/506/28.jpg"
+			"number": 5,
+			"title": "OPPO、フォルダブル「Find N6」を3月17日にグローバル発表へ",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2091600.html",
+			"note": "OPPO折りたたみスマホ新モデル発表予告",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2091/600/ofn6.jpg"
+		},
+		{
+			"number": 6,
+			"title": "分割スペースバー採用のコンパクトキーボード「NuPhy Node75 JIS」",
+			"url": "https://pc.watch.impress.co.jp/docs/news/2091563.html",
+			"note": "NuPhyから分割スペースバー搭載の新キーボード",
+			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2091/563/1.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "石川知事に山野氏初当選 保守分裂、現職ら破る",
-			"url": "https://www.jiji.com/jc/article?k=2026030900005&g=pol",
-			"note": "石川知事選、能登震災対応が争点で現職敗北",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260308at65S_ogp.jpg"
+			"number": 7,
+			"title": "旧統一教会が特別抗告 解散命令に不服",
+			"url": "https://news.yahoo.co.jp/pickup/6572538",
+			"note": "旧統一教会が解散命令の確定に不服を申し立て",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/74b30132e0e0ff05cadd7dc46837c5afbdd890fe1dd33643e69450b7bbf343a5.jpg"
+		},
+		{
+			"number": 8,
+			"title": "石川県知事選挙 新人の山野之義氏 現職ら抑え当選",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015066231000",
+			"note": "石川県知事選で新人の山野氏が当選",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260308/K10015066231_2603082357_0308235910_01_02.jpg"
+		},
+		{
+			"number": 9,
+			"title": "新年度予算案 今週中の衆院通過めぐり与野党の対決色強まるか",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015070321000",
+			"note": "122兆円予算案の衆院通過めぐり与野党対決",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070321_2603090330_0309055526_01_02.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 6,
+			"number": 10,
 			"title": "イラン最高指導者にモジタバ師選出 ハメネイ師の次男",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015070341000",
-			"note": "ハメネイ師次男が新最高指導者に、反米強硬派",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070341_2603090627_0309062821_01_02.jpg"
+			"note": "ハメネイ師後継にモジタバ師が最高指導者に選出",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070341_2603091128_0309113049_01_02.jpg"
 		},
 		{
-			"number": 7,
-			"title": "【速報】イラン新指導者にハメネイ師の次男・モジタバ師が選出　国営テレビ",
-			"url": "https://news.yahoo.co.jp/articles/f2e869d81b274f209035c7d21effcc58cd7984ee",
-			"note": "専門家会議が選出、今後の中東情勢に影響大",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-07291399-jnn-000-8-thumb.jpg?exp=10800"
+			"number": 11,
+			"title": "独 メルツ政権発足から初の州議選 首相所属政党は第2党見通し",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015070441000",
+			"note": "ドイツ新政権発足後初の州議会選挙実施",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070441_2603090949_0309102926_01_02.jpg"
+		},
+		{
+			"number": 12,
+			"title": "米韓の合同軍事演習が開始 機動訓練は半分以下に縮小",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015070311000",
+			"note": "米韓合同演習開始も規模は大幅に縮小",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070311_2603090329_0309055400_01_02.jpg"
+		},
+		{
+			"number": 13,
+			"title": "ゼレンスキー大統領「湾岸諸国へウクライナの専門家を派遣」",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015070351000",
+			"note": "ゼレンスキー氏が湾岸諸国への支援派遣を表明",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070351_2603090425_0309060104_01_02.jpg"
 		}
 	]
 }
