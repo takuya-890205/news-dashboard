@@ -2,100 +2,114 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Android 17が目指す「プロアクティブなAI」――グーグル幹部に聞く未来の姿",
-			"url": "https://k-tai.watch.impress.co.jp/docs/interview/2090835.html",
-			"note": "GoogleがAndroid 17で目指すAI統合戦略を幹部が語る",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2090/835/01.jpg"
+			"title": "IT企業の面接「なりすまし」出現　AIディープフェイクで別人が面接に",
+			"url": "https://news.yahoo.co.jp/pickup/6572578",
+			"note": "AI技術悪用で面接なりすまし問題が深刻化",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/e88dd848e554581571d0acb1cc1b9f09dc63b292b0b4f69f99c252acd269e641.jpg"
 		},
 		{
 			"number": 2,
-			"title": "今さら聞けない「ローカルLLM」。LM Studioなら自分のPCで手軽に試せます！",
-			"url": "https://pc.watch.impress.co.jp/docs/topic/feature/2090806.html",
-			"note": "LM Studioを使ったローカルLLM入門解説記事",
-			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2090/806/0.png"
+			"title": "WBC巡りデマ拡散 AI時代の課題",
+			"url": "https://news.yahoo.co.jp/pickup/6572577",
+			"note": "AI生成の偽情報がスポーツイベントで拡散",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/1aeb0a8fda2948c1632ce7ef61140252e8b9c455990bea2d4000c98b83aa69d3.jpg"
 		},
 		{
 			"number": 3,
-			"title": "AWS上で動作するOpenClawの提供開始　Amazon Lightsailで利用可能に",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/09/news058.html",
-			"note": "AWS LightsailでOpenClawが利用可能に",
-			"image": ""
+			"title": "6G×AIで始まった総取り合戦　技術の標準を争奪、敗者復活難しく",
+			"url": "https://www.nikkei.com/article/DGXZQOCD034DV0T00C26A3000000/",
+			"note": "6GとAIの技術標準化をめぐる国際競争が激化",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2714597005032026000000-1.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 4,
-			"title": "Nothing、最大135時間の連続再生が可能な「Headphone (a)」を発表",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2090804.html",
-			"note": "Nothing初ヘッドホン、135時間再生で4色展開",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2090/804/IMG_7655.jpg"
+			"title": "「iPhone 17 Pro」酷似のAndroidスマホを発見　色・形・カメラ配置までソックリ",
+			"url": "https://news.yahoo.co.jp/articles/00b2dbff231f098f0e6325715cf0b3b1fa85cc3e",
+			"note": "iPhone 17 Proそっくりの中華スマホが登場",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-35244788-cnetj-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "OPPO、フォルダブル「Find N6」を3月17日にグローバル発表へ",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2091600.html",
-			"note": "OPPO折りたたみスマホ新モデル発表予告",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2091/600/ofn6.jpg"
+			"title": "増えている「スマートグラス禁止区域」。でも締め出すのが難しい理由",
+			"url": "https://news.yahoo.co.jp/articles/b7a8f4e1c6f5cfd6eb6fdfbd195fce10ee05ecbc",
+			"note": "スマートグラスのプライバシー問題が拡大",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-00000001-giz-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 6,
-			"title": "分割スペースバー採用のコンパクトキーボード「NuPhy Node75 JIS」",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2091563.html",
-			"note": "NuPhyから分割スペースバー搭載の新キーボード",
-			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2091/563/1.jpg"
+			"title": "DJIが7000台の「Romo」ロボット掃除機を誤ってハッキングした男性に3万ドルを支払う予定",
+			"url": "https://gigazine.net/news/20260309-dji-bugbounty-program/",
+			"note": "DJIのバグバウンティで意外なハッキング発覚",
+			"image": "https://i.gzn.jp/img/2026/03/09/dji-bugbounty-program/00.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 7,
-			"title": "旧統一教会が特別抗告 解散命令に不服",
-			"url": "https://news.yahoo.co.jp/pickup/6572538",
-			"note": "旧統一教会が解散命令の確定に不服を申し立て",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/74b30132e0e0ff05cadd7dc46837c5afbdd890fe1dd33643e69450b7bbf343a5.jpg"
+			"title": "「目に余るんですよ、委員長」中道・小川代表の非難連発に「そうだ！」の大合唱…与党の遅刻・欠席・ゆるみを指摘",
+			"url": "https://news.yahoo.co.jp/articles/4b3f14eb587bbf33bdd87ab62dc215d05da7fb9f",
+			"note": "野党が与党の緩みを厳しく追及、国会紛糾",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-10230586-abemav-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 8,
-			"title": "石川県知事選挙 新人の山野之義氏 現職ら抑え当選",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015066231000",
-			"note": "石川県知事選で新人の山野氏が当選",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260308/K10015066231_2603082357_0308235910_01_02.jpg"
+			"title": "中道議員「総理に聞いてます」 委員長「まず！ まず！ 外務大臣から」…ホルムズ海峡めぐり国会騒然",
+			"url": "https://news.yahoo.co.jp/articles/78cd75ba36065a824459f8bae19cbd0b0515a204",
+			"note": "ホルムズ海峡問題で予算委が紛糾",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-10230606-abemav-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 9,
-			"title": "新年度予算案 今週中の衆院通過めぐり与野党の対決色強まるか",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015070321000",
-			"note": "122兆円予算案の衆院通過めぐり与野党対決",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070321_2603090330_0309055526_01_02.jpg"
+			"title": "高市総理「閣僚の遅刻あってはならない」　小野田経済安保担当大臣が閣議に遅刻で",
+			"url": "https://news.yahoo.co.jp/articles/7b7c85134c7065e5e6997bffaf99a30a623ebbe0",
+			"note": "閣僚の閣議遅刻に高市首相が苦言",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-07291465-jnn-000-5-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "【速報】旧統一教会が最高裁に特別抗告 高額献金問題で解散命じた東京高裁決定に不服",
+			"url": "https://news.yahoo.co.jp/articles/711562d3592ea2cc159e869dadaf73b9292cbc27",
+			"note": "旧統一教会が解散命令に不服で特別抗告",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-07291419-jnn-000-7-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "国立の博物館や美術館に「収入目標」　達しなければ「再編の対象」　文化庁方針で物議",
+			"url": "https://news.yahoo.co.jp/articles/265c4d7c82e2bd762a7c8f251d41a6c042c9c3a5",
+			"note": "文化施設に収入目標義務化で批判噴出",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-90185565-ann-000-5-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 10,
-			"title": "イラン最高指導者にモジタバ師選出 ハメネイ師の次男",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015070341000",
-			"note": "ハメネイ師後継にモジタバ師が最高指導者に選出",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070341_2603091128_0309113049_01_02.jpg"
-		},
-		{
-			"number": 11,
-			"title": "独 メルツ政権発足から初の州議選 首相所属政党は第2党見通し",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015070441000",
-			"note": "ドイツ新政権発足後初の州議会選挙実施",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070441_2603090949_0309102926_01_02.jpg"
-		},
-		{
 			"number": 12,
-			"title": "米韓の合同軍事演習が開始 機動訓練は半分以下に縮小",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015070311000",
-			"note": "米韓合同演習開始も規模は大幅に縮小",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070311_2603090329_0309055400_01_02.jpg"
+			"title": "【速報】イラン新指導者にハメネイ師の次男・モジタバ師が選出　国営テレビ",
+			"url": "https://news.yahoo.co.jp/articles/f2e869d81b274f209035c7d21effcc58cd7984ee",
+			"note": "ハメネイ後継にモジタバ師、世襲的選出",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-07291399-jnn-000-12-thumb.jpg?exp=10800"
 		},
 		{
 			"number": 13,
-			"title": "ゼレンスキー大統領「湾岸諸国へウクライナの専門家を派遣」",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015070351000",
-			"note": "ゼレンスキー氏が湾岸諸国への支援派遣を表明",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070351_2603090425_0309060104_01_02.jpg"
+			"title": "サウジ、イランに攻撃停止を要求　報復の可能性示唆＝関係筋",
+			"url": "https://news.yahoo.co.jp/articles/5a2f70d7fe3964b452dcf90f71cbc58ad6e1df14",
+			"note": "サウジがイランに停戦要求、報復も示唆",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-00000064-reut-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 14,
+			"title": "専門家「イランは戦争長期化に備えている」　長期戦を嫌う米国が攻撃中止に追い込まれる可能性は",
+			"url": "https://news.yahoo.co.jp/expert/articles/ee1e0ebed6fc10b0194543b198a5a744dd88025d",
+			"note": "イラン長期戦略と米国の対応を専門家分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02567597/title-1772944098572.jpeg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "中国、日本に抗議　台湾行政院長訪日で",
+			"url": "https://news.yahoo.co.jp/articles/c4bff19737068acc27699689e10b2c6eef167bbf",
+			"note": "台湾首相訪日に中国が外交抗議",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-00000014-jij-000-19-view.jpg?exp=10800"
 		}
 	]
 }
