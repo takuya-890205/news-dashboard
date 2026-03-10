@@ -3,113 +3,106 @@
 		{
 			"number": 1,
 			"title": "アンソロピック 米国防総省を提訴",
-			"url": "https://news.yahoo.co.jp/pickup/6572629",
-			"note": "自律兵器拒否でサプライチェーンリスク認定に法廷闘争",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/7329b672ec0df1c6ae1a6798e5184dabb8c53cbbca31f2adffa2e8b72b925e2b.jpg"
+			"url": "https://news.yahoo.co.jp/articles/1a72340f524f7825fba0bbc5428e2ca557d7e950",
+			"note": "AI軍事利用強制を拒否してサプライチェーンリスク企業指定に異議申し立て",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260310-69593375-bloom_st-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "Anthropic・Google・OpenAI・xAI製AIモデルは会話を重ねると学術不正に協力してしまうという調査結果",
+			"title": "会話を重ねると主要AIモデルが学術不正に協力してしまうという調査結果",
 			"url": "https://gigazine.net/news/20260310-afim-llm-academic-fraud/",
-			"note": "複数ターン会話でAIが学術不正へ協力傾向と判明",
+			"note": "Claude・GPT・Gemini・Grokが複数ターン会話で学術不正へ協力傾向と判明",
 			"image": "https://i.gzn.jp/img/2026/03/10/afim-llm-academic-fraud/00.png"
-		},
-		{
-			"number": 3,
-			"title": "IT企業の面接「なりすまし」出現",
-			"url": "https://news.yahoo.co.jp/pickup/6572578",
-			"note": "北朝鮮系？AIで身元偽装しオンライン面接に潜入",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/e88dd848e554581571d0acb1cc1b9f09dc63b292b0b4f69f99c252acd269e641.jpg"
-		},
-		{
-			"number": 4,
-			"title": "WBC巡りデマ拡散 AI時代の課題",
-			"url": "https://news.yahoo.co.jp/pickup/6572577",
-			"note": "AI生成フェイク画像がSNSで拡散、真偽判定が課題",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/1aeb0a8fda2948c1632ce7ef61140252e8b9c455990bea2d4000c98b83aa69d3.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "折りたたみiPhone、実機に近いCADレンダリング画像流出か",
+			"number": 3,
+			"title": "折りたたみiPhone、実機に近いCADレンダリング画像が流出か",
 			"url": "https://news.yahoo.co.jp/articles/b8b793c0468f792afe02c866759a375e53ce5aa3",
-			"note": "横折りブック型、Samsung製パネルで9月発表の可能性",
+			"note": "横折りブック型でSamsung製パネルを採用、9月発表の可能性が浮上",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260310-35244797-cnetj-000-3-view.jpg?exp=10800"
 		},
 		{
-			"number": 6,
-			"title": "Steam初の据え置きゲーム機。2026年中の発売は難しそう？",
-			"url": "https://www.gizmodo.jp/2026/03/steam-machine-3.html",
-			"note": "Steam Machine、メモリ不足で2026年内発売困難か",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/09/machine_small.jpg?w=1280"
+			"number": 4,
+			"title": "「iPhone 17e」と「iPhone 17」は何が違う？ 3万円の価格差をスペックから検証",
+			"url": "https://news.yahoo.co.jp/articles/41a94c6ad685c23d28ee8e7c610f29bfb333cb4d",
+			"note": "60Hzディスプレイ・ダイナミックアイランド非搭載など3万円差の中身を解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260310-00000063-zdn_m-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "「iPhone 17e」を試して分かった進化　ストレージ倍増と実質値下げで「10万円以下の決定版」に",
-			"url": "https://news.yahoo.co.jp/articles/2175aa46ff2efd1c933e0e7fdc08c796cf97aeff",
-			"note": "A19搭載・256GBで9.9万円、16eから大幅進化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260309-00000066-zdn_m-000-1-view.jpg?exp=10800"
+			"number": 5,
+			"title": "「その穴じゃない」MacBook Neoはポート間違いを指摘するらしい",
+			"url": "https://www.gizmodo.jp/2026/03/macbook-neo-points-usb-port-error.html",
+			"note": "USB-Cポートを誤接続すると警告を出す新機能、地味に便利な進化",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/10/20260310pok00.jpg?w=1280"
+		},
+		{
+			"number": 6,
+			"title": "Amazonの巨大広告がEcho Showを台無しに",
+			"url": "https://gigazine.net/news/20260310-amazon-echo-show-ad/",
+			"note": "フォトフレームモード中に消去できない全画面広告が突然表示されるように",
+			"image": "https://i.gzn.jp/img/2026/03/10/amazon-echo-show-ad/00.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 7,
+			"title": "予算案巡り、国民民主・榛葉氏「13日衆院通過への協力は難しい」",
+			"url": "https://news.yahoo.co.jp/articles/1b08c3d8466c5d3ba02b7b09295ef65df91a30f0",
+			"note": "自民が年度内成立へ協力要請も国民民主は難色。予算案の行方が焦点に",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/b340bfade6b85fdeb0d19222261d78e171d0f21f430a75204cbe66074f24286a.jpg"
+		},
+		{
 			"number": 8,
-			"title": "立憲と公明 中道合流せず統一選へ",
-			"url": "https://news.yahoo.co.jp/pickup/6572646",
-			"note": "中道改革連合が両党の候補を推薦支援、3党分立継続",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/8091e117d3479c81a74aff1258480a65024bda0ea67ece5b8499aee7cf6ea314.jpg"
+			"title": "「NISA貧乏」に片山財務相が見解、衆院委で議論",
+			"url": "https://news.yahoo.co.jp/articles/3e427f866091e47e81c0d38a4c3f823bfcc788f5",
+			"note": "NISA運用益が増えても生活苦しい「NISA貧乏」現象に財務相が公式言及",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/83f60c03fccdfc44f05e51b03c8242f3e292df95533cbd42fa6f135d33989e13.jpg"
 		},
 		{
 			"number": 9,
-			"title": "防衛大校長に元制服組を起用 異例",
-			"url": "https://news.yahoo.co.jp/pickup/6572632",
-			"note": "前統合幕僚長を4月1日付任命、文民統制の観点で物議",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/be6f5745af04b955f250a194ed3640251aace7f50de0e2b710fecadaf8829340.jpg"
+			"title": "訪日外国人の事前認証制度「JESTA」導入へ、入管法改正案を閣議決定",
+			"url": "https://news.yahoo.co.jp/articles/11c1af4f247c5ae265a6d7175e068af4600db4f0",
+			"note": "ビザ免除観光客から入国情報を事前収集し不法滞在を水際で防止",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/1239b49783fa3a2d205e064b83b2a83b5d311dcd2159c98b4162ae4aa6d7ffbd.jpg"
 		},
 		{
 			"number": 10,
-			"title": "国備蓄石油の放出準備指示 経産省",
-			"url": "https://news.yahoo.co.jp/pickup/6572598",
-			"note": "イラン攻撃で原油途絶想定、国内10拠点に放出準備指示",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/11/29/5b18dec23921d7d493e606c7c4b04c186847daccfdbf271cbc5acbe4e954eced.jpg"
+			"title": "防衛大校長に元制服組を起用 異例の人事",
+			"url": "https://news.yahoo.co.jp/pickup/6572632",
+			"note": "前統合幕僚長を4月1日付で任命、文民統制の観点で異例と物議",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/be6f5745af04b955f250a194ed3640251aace7f50de0e2b710fecadaf8829340.jpg"
+		},
+		{
+			"number": 11,
+			"title": "立憲と公明、中道合流せず独自候補で統一地方選へ",
+			"url": "https://news.yahoo.co.jp/articles/751292ef0d530ac1d17197e4d6e318c4b53a23cb",
+			"note": "中道改革連合が両党候補を推薦支援、野党の棲み分けが固まる",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/8091e117d3479c81a74aff1258480a65024bda0ea67ece5b8499aee7cf6ea314.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
-			"title": "トランプ氏 イラン攻撃長期化否定",
+			"number": 12,
+			"title": "トランプ氏、イラン攻撃の長期化を否定　終結が近いと表明",
 			"url": "https://news.yahoo.co.jp/pickup/6572625",
-			"note": "「終結が近い」と表明、攻撃開始10日目で収束方針示す",
+			"note": "攻撃開始10日目で収束方針を示す。イスラエルと連携して判断と表明",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/038ff544da6a5e39f1b8a480c8a2de08eccb6d02e056fc08866db9f7ddf94cf5.jpg"
 		},
 		{
-			"number": 12,
-			"title": "サウジがイランに攻撃停止を要求",
-			"url": "https://news.yahoo.co.jp/pickup/6572576",
-			"note": "エネルギー施設攻撃が続けば報復も辞さないと警告",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/d5223f147cc0804e8f686fa35fa34009c2453796a6433cbb68eac385d7ef1af9.jpg"
-		},
-		{
 			"number": 13,
-			"title": "イランがトルコ向けミサイル 迎撃",
-			"url": "https://news.yahoo.co.jp/pickup/6572610",
-			"note": "NATOがイランのトルコ向けミサイルを迎撃、直接関与へ",
-			"image": "https://s.yimg.jp/images/news-web/versions/20260309-c47466b/all/images/jsonld_image_1244x700.png"
+			"title": "イランがトルコ向けミサイル発射、NATOが迎撃",
+			"url": "https://news.yahoo.co.jp/articles/95f4a069f252bd74f56c0b17040af93a70f4ba4a",
+			"note": "NATOがイランの弾道ミサイルを迎撃。中東紛争の欧州波及リスクが高まる",
+			"image": "https://s.yimg.jp/images/news-web/versions/20260310-6af29cb/all/images/jsonld_image_1244x700.png"
 		},
 		{
 			"number": 14,
-			"title": "イラン最高指導者にモジタバ師",
-			"url": "https://news.yahoo.co.jp/pickup/6572516",
-			"note": "ハメネイ師死去後の後継にハメネイ次男モジタバ師選出",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/ea173d33c923929081874aeae02b505d3611478b04c9a0af93fd2d6b009d1b45.jpg"
-		},
-		{
-			"number": 15,
-			"title": "台湾行政院長訪日 日本に中国抗議",
-			"url": "https://news.yahoo.co.jp/pickup/6572557",
-			"note": "卓栄泰院長の訪日に中国外務次官が駐中大使に抗議",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/691baa8cac9e055808b46a42467a1c664dc2bf60278b3e87d0bee37197e89ae7.jpg"
+			"title": "米露首脳が電話会談、イラン攻撃めぐる早期解決策を協議",
+			"url": "https://news.yahoo.co.jp/articles/072e95dbb9da2d08e0612b04a36eb554a3303ec6",
+			"note": "プーチン・トランプ会談でイラン紛争の早期収束に向けた提案を協議",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/8b47b10f57118e052b51785dde27af0b2f0d35df636eab5e32079355ddbf5dad.jpg"
 		}
 	]
 }
