@@ -2,100 +2,79 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "GoogleがAI「Gemini」をGoogle Workspace全面展開、文書・表計算・スライドで草案自動生成が可能に",
-			"url": "https://gigazine.net/news/20260311-gemini-workspace/",
-			"note": "Docs・Sheets・Slides・Driveに統合、指示一つで自動生成",
-			"image": "https://i.gzn.jp/img/2026/03/11/gemini-workspace/00.png"
+			"title": "AI専用SNSのMoltbook、Metaが買収",
+			"url": "https://news.yahoo.co.jp/pickup/6572809",
+			"note": "MetaがAIエージェント特化SNS「Moltbook」を買収",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/50a241bc337221b80b4baff5bc13343fa4f3b8a98945407db93b12a11e4b2283.jpg"
 		},
 		{
 			"number": 2,
-			"title": "Amazonがプライム会員向けにヘルスケアAIエージェント「Health AI」を24時間無料で提供開始",
-			"url": "https://gigazine.net/news/20260311-amazon-health-ai/",
-			"note": "健康相談・処方管理を24時間無料でAIが対応",
-			"image": "https://i.gzn.jp/img/2026/03/11/amazon-health-ai/00_m.jpg"
-		},
-		{
-			"number": 3,
-			"title": "ブラウザ・ファイルをAIで無料自動操作できる「Agent Zero」公開、ChatGPT・Claude・Gemini連携対応",
-			"url": "https://gigazine.net/news/20260311-agent-zero/",
-			"note": "主要LLMとローカルAI対応のオープンソースAIエージェント",
-			"image": "https://i.gzn.jp/img/2026/03/11/agent-zero/00.png"
-		},
-		{
-			"number": 4,
-			"title": "MetaがAIエージェント専用SNS「Moltbook」を買収、Superintelligence Labsへ統合",
-			"url": "https://gigazine.net/news/20260311-moltbook-agent/",
-			"note": "AIエージェントが自律交流するSNSがMeta傘下に",
-			"image": "https://i.gzn.jp/img/2026/03/11/moltbook-agent/00.png"
+			"title": "アンソロピック、米国防総省を提訴",
+			"url": "https://news.yahoo.co.jp/pickup/6572629",
+			"note": "AnthropicがDoD「供給網リスク企業」指定の撤回求め提訴",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/7329b672ec0df1c6ae1a6798e5184dabb8c53cbbca31f2adffa2e8b72b925e2b.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "Apple「iPhone 17e」「iPad Air（M4）」が本日3月11日に発売開始",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2089909.html",
-			"note": "iPhone 17e＋iPad Air M4が同日発売、10万円以下の注目モデル",
-			"image": ""
-		},
-		{
-			"number": 6,
-			"title": "新しいMacユーザーを開拓する「MacBook Neo」──10万円の良質エントリーモデル本日発売",
-			"url": "https://news.yahoo.co.jp/articles/fe098057a13a186ef6787d38189441d3dde82b26",
-			"note": "Appleシリコンで10万円切り、大人のニーズにも応える",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260311-00093375-forbes-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "パナソニック、BDレコーダーの供給遅れを謝罪──ソニー・REGZA撤退で需要急増",
-			"url": "https://news.yahoo.co.jp/articles/57dda7f79e92c2289602181a3e87ed385d9216a1",
-			"note": "2022年発売モデルに想定超の注文殺到、生産体制強化へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260311-00000019-zdn_n-000-1-view.jpg?exp=10800"
+			"number": 3,
+			"title": "サムスン「Galaxy S26」を3月12日発売、先回りするAIフォンに進化",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2087422.html",
+			"note": "AI機能強化の最新フラッグシップが明日発売",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2087/422/115417.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
-			"title": "きょう震災15年 いまだ2519人不明",
+			"number": 4,
+			"title": "首相「災害に強い国づくり」強調",
+			"url": "https://news.yahoo.co.jp/pickup/6572802",
+			"note": "高市首相が震災15年式典で防災庁設置など体制強化を表明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/e0e3196e743a8fcf2864cee9aa90b56fdee9862c02d9959a858ea93eda1529a0.jpg"
+		},
+		{
+			"number": 5,
+			"title": "震災15年、いまだ2519人不明",
 			"url": "https://news.yahoo.co.jp/pickup/6572739",
-			"note": "東日本大震災から15年、死者1万5901人・行方不明2519人",
+			"note": "東日本大震災から15年、行方不明者2519人が今も見つからず",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/a5a60698202b2ad25391fd4015a7aa1e43376fa375334a92049ecd8b1ba21eb9.jpg"
 		},
 		{
-			"number": 9,
-			"title": "首相、11日の福島訪問表明 震災15年「復興に全力」",
-			"url": "https://news.yahoo.co.jp/articles/ce3428bb6ac3ca56f18a28645d01f2eeab35be7d",
-			"note": "高市首相が福島追悼式に出席、復興継続を改めて表明",
-			"image": ""
-		},
-		{
-			"number": 10,
-			"title": "「反撃能力」長射程ミサイル、静岡・富士駐屯地に3月31日配備",
+			"number": 6,
+			"title": "長射程ミサイル、静岡に31日配備",
 			"url": "https://news.yahoo.co.jp/pickup/6572729",
-			"note": "敵基地攻撃能力になり得る新型ミサイルを陸自へ配備",
+			"note": "防衛省が反撃能力用の新型長射程ミサイルを富士駐屯地に配備",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/f8fd67b6a97b7628779bdb25c2250cee9b095dcadb1643b7821be96f8d1021de.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
-			"title": "米軍がイランの機雷敷設艦を破壊、ホルムズ海峡封鎖なら「前例なき報復」と警告",
+			"number": 7,
+			"title": "商船三井の船に攻撃か ペルシャ湾",
+			"url": "https://news.yahoo.co.jp/pickup/6572812",
+			"note": "ペルシャ湾で商船三井のコンテナ船が攻撃を受け一部損傷",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/df4e120fda57da72fc6d35b543e7540577f4d30fd53156acc3f86a10a0cb7a17.jpg"
+		},
+		{
+			"number": 8,
+			"title": "米ウ露和平協議、来週にも開催か",
+			"url": "https://news.yahoo.co.jp/pickup/6572751",
+			"note": "ゼレンスキー氏が米ロ3者和平協議の来週開催可能性を示唆",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/5a2c9037cbe24f708c29a62be3995dd33798c8ce52e2a27984f814db8149796b.jpg"
+		},
+		{
+			"number": 9,
+			"title": "イランの機雷敷設艦を破壊 米発表",
 			"url": "https://news.yahoo.co.jp/pickup/6572753",
-			"note": "トランプ大統領が機雷敷設艦10隻破壊を発表、強硬姿勢鮮明",
+			"note": "米軍がイランの機雷敷設艦10隻を破壊、ホルムズ封鎖に対抗",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/5a8a200c36b9fe6e4f5b607afb53032c4a9fee51bfa7bd8be29316224e517478.jpg"
 		},
 		{
-			"number": 12,
-			"title": "米大統領、ホルムズ海峡封鎖なら「20倍の報復」とイランに最終警告",
-			"url": "https://news.yahoo.co.jp/articles/e0ff89a52b4b50c4e1790b66fc516107bf643594",
-			"note": "トランプ氏が前例のない軍事報復を示唆、石油市場も動揺",
-			"image": ""
-		},
-		{
-			"number": 13,
-			"title": "米・ウ・露の和平協議、来週にも開催か──ゼレンスキー氏が見通し示す",
-			"url": "https://news.yahoo.co.jp/pickup/6572751",
-			"note": "中東情勢で延期の3者協議が再始動、来週開催の可能性",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/5a2c9037cbe24f708c29a62be3995dd33798c8ce52e2a27984f814db8149796b.jpg"
+			"number": 10,
+			"title": "米大統領、海峡封鎖なら20倍報復",
+			"url": "https://news.yahoo.co.jp/pickup/6572705",
+			"note": "トランプ大統領がホルムズ海峡封鎖に対し前例なき軍事報復を警告",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/3e2f48e60924f6f642ae5bb3b6e0ee875c2eed6d78cd995f6cf89e2f40b20b5e.jpg"
 		}
 	]
 }
