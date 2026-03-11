@@ -2,79 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "無料で簡単にAIエージェントでブラウザやファイルの自動操作ができる「Agent Zero」、ChatGPT・Claude・Geminiと連携できローカルAIも使用可能",
-			"url": "https://gigazine.net/news/20260311-agent-zero/",
-			"note": "オープンソースAIエージェントがブラウザ自動操作に完全対応",
-			"image": "https://i.gzn.jp/img/2026/03/11/agent-zero/00.png"
+			"title": "GoogleがAI「Gemini」をGoogle Workspace全面展開、文書・表計算・スライドで草案自動生成が可能に",
+			"url": "https://gigazine.net/news/20260311-gemini-workspace/",
+			"note": "Docs・Sheets・Slides・Driveに統合、指示一つで自動生成",
+			"image": "https://i.gzn.jp/img/2026/03/11/gemini-workspace/00.png"
 		},
 		{
 			"number": 2,
-			"title": "「Excelで学ぶデータ分析」生成AIによってデータ処理の精度は向上するか？「仮説検定」で明らかにする",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/11/news012.html",
-			"note": "複数AIモデルの回答時間差を仮説検定で統計的に比較・検証",
-			"image": "https://image.itmedia.co.jp/ait/articles/2603/11/cover_news012.jpg"
+			"title": "Amazonがプライム会員向けにヘルスケアAIエージェント「Health AI」を24時間無料で提供開始",
+			"url": "https://gigazine.net/news/20260311-amazon-health-ai/",
+			"note": "健康相談・処方管理を24時間無料でAIが対応",
+			"image": "https://i.gzn.jp/img/2026/03/11/amazon-health-ai/00_m.jpg"
+		},
+		{
+			"number": 3,
+			"title": "ブラウザ・ファイルをAIで無料自動操作できる「Agent Zero」公開、ChatGPT・Claude・Gemini連携対応",
+			"url": "https://gigazine.net/news/20260311-agent-zero/",
+			"note": "主要LLMとローカルAI対応のオープンソースAIエージェント",
+			"image": "https://i.gzn.jp/img/2026/03/11/agent-zero/00.png"
+		},
+		{
+			"number": 4,
+			"title": "MetaがAIエージェント専用SNS「Moltbook」を買収、Superintelligence Labsへ統合",
+			"url": "https://gigazine.net/news/20260311-moltbook-agent/",
+			"note": "AIエージェントが自律交流するSNSがMeta傘下に",
+			"image": "https://i.gzn.jp/img/2026/03/11/moltbook-agent/00.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "新しいMacユーザーを開拓する「Neo」──10万円の良質エントリーモデル誕生",
-			"url": "https://news.yahoo.co.jp/articles/fe098057a13a186ef6787d38189441d3dde82b26",
-			"note": "A18 Pro搭載・99,800円〜のApple最安ノートPCが本日発売",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260311-00093375-forbes-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 4,
-			"title": "iPhone 17e レビュー：99,800円でMagSafe対応、ストレージ倍増で「10万円以下の決定版」",
-			"url": "https://av.watch.impress.co.jp/docs/review/minireview/2091559.html",
-			"note": "MagSafe新対応・A19チップ・256GB標準で本日より発売開始",
-			"image": ""
-		},
-		{
 			"number": 5,
-			"title": "Apple「iPhone 17e」「iPad Air（M4）」が本日3月11日に発売",
+			"title": "Apple「iPhone 17e」「iPad Air（M4）」が本日3月11日に発売開始",
 			"url": "https://k-tai.watch.impress.co.jp/docs/news/2089909.html",
-			"note": "iPad Air M4は前世代比30%高速化・11インチ98,800円〜で同日発売",
+			"note": "iPhone 17e＋iPad Air M4が同日発売、10万円以下の注目モデル",
 			"image": ""
+		},
+		{
+			"number": 6,
+			"title": "新しいMacユーザーを開拓する「MacBook Neo」──10万円の良質エントリーモデル本日発売",
+			"url": "https://news.yahoo.co.jp/articles/fe098057a13a186ef6787d38189441d3dde82b26",
+			"note": "Appleシリコンで10万円切り、大人のニーズにも応える",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260311-00093375-forbes-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
+			"title": "パナソニック、BDレコーダーの供給遅れを謝罪──ソニー・REGZA撤退で需要急増",
+			"url": "https://news.yahoo.co.jp/articles/57dda7f79e92c2289602181a3e87ed385d9216a1",
+			"note": "2022年発売モデルに想定超の注文殺到、生産体制強化へ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260311-00000019-zdn_n-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "きょう震災15年 いまだ2519人不明",
-			"url": "https://news.yahoo.co.jp/articles/135f23f8042c054e67fd8c5ec3d724a716830cbc",
-			"note": "東日本大震災から15年、死者1万5901人・2519人が今も行方不明",
-			"image": ""
-		},
-		{
-			"number": 7,
-			"title": "首相、11日の福島訪問表明 震災15年「復興に全力」",
-			"url": "https://news.yahoo.co.jp/articles/ce3428bb6ac3ca56f18a28645d01f2eeab35be7d",
-			"note": "高市首相が福島県主催の震災15年追悼式に出席し復興継続を表明",
-			"image": ""
-		}
-	],
-	"国際情勢": [
-		{
 			"number": 8,
-			"title": "「海峡に機雷」報道 米大統領否定",
-			"url": "https://news.yahoo.co.jp/articles/2ab1ed535db9fb6b52fc935443de137f8891bf09",
-			"note": "イランのホルムズ海峡機雷設置報道をトランプ大統領が即座に否定",
-			"image": ""
+			"title": "きょう震災15年 いまだ2519人不明",
+			"url": "https://news.yahoo.co.jp/pickup/6572739",
+			"note": "東日本大震災から15年、死者1万5901人・行方不明2519人",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/a5a60698202b2ad25391fd4015a7aa1e43376fa375334a92049ecd8b1ba21eb9.jpg"
 		},
 		{
 			"number": 9,
-			"title": "米大統領 海峡封鎖なら20倍報復",
-			"url": "https://news.yahoo.co.jp/articles/e0ff89a52b4b50c4e1790b66fc516107bf643594",
-			"note": "トランプ氏がイランにホルムズ封鎖なら「これまでを遥かに上回る攻撃」と警告",
+			"title": "首相、11日の福島訪問表明 震災15年「復興に全力」",
+			"url": "https://news.yahoo.co.jp/articles/ce3428bb6ac3ca56f18a28645d01f2eeab35be7d",
+			"note": "高市首相が福島追悼式に出席、復興継続を改めて表明",
 			"image": ""
 		},
 		{
 			"number": 10,
-			"title": "レバノン人道危機が深刻化、子ども84人死亡・66万人超が避難",
-			"url": "https://news.yahoo.co.jp/articles/864e1476c15dd21ca88226a0248fbd485fb4f21b",
-			"note": "中東紛争拡大でレバノン66万7千人超が避難、国連が緊急警告",
+			"title": "「反撃能力」長射程ミサイル、静岡・富士駐屯地に3月31日配備",
+			"url": "https://news.yahoo.co.jp/pickup/6572729",
+			"note": "敵基地攻撃能力になり得る新型ミサイルを陸自へ配備",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/10/f8fd67b6a97b7628779bdb25c2250cee9b095dcadb1643b7821be96f8d1021de.jpg"
+		}
+	],
+	"国際情勢": [
+		{
+			"number": 11,
+			"title": "米軍がイランの機雷敷設艦を破壊、ホルムズ海峡封鎖なら「前例なき報復」と警告",
+			"url": "https://news.yahoo.co.jp/pickup/6572753",
+			"note": "トランプ大統領が機雷敷設艦10隻破壊を発表、強硬姿勢鮮明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/5a8a200c36b9fe6e4f5b607afb53032c4a9fee51bfa7bd8be29316224e517478.jpg"
+		},
+		{
+			"number": 12,
+			"title": "米大統領、ホルムズ海峡封鎖なら「20倍の報復」とイランに最終警告",
+			"url": "https://news.yahoo.co.jp/articles/e0ff89a52b4b50c4e1790b66fc516107bf643594",
+			"note": "トランプ氏が前例のない軍事報復を示唆、石油市場も動揺",
 			"image": ""
+		},
+		{
+			"number": 13,
+			"title": "米・ウ・露の和平協議、来週にも開催か──ゼレンスキー氏が見通し示す",
+			"url": "https://news.yahoo.co.jp/pickup/6572751",
+			"note": "中東情勢で延期の3者協議が再始動、来週開催の可能性",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/5a2c9037cbe24f708c29a62be3995dd33798c8ce52e2a27984f814db8149796b.jpg"
 		}
 	]
 }
