@@ -2,100 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "MetaのAIチップ「MTIA 300」「MTIA 400」「MTIA 450」「MTIA 500」を一斉に発表",
-			"url": "https://gigazine.net/news/20260312-meta-mtia-ai-chips/",
-			"note": "Meta製AIチップ4種を発表。MTIA 300は量産中、残りも2年以内に稼働",
-			"image": "https://i.gzn.jp/img/2026/03/12/meta-mtia-ai-chips/00.jpg"
+			"title": "優秀な創業者ほど今、「Claudeにハマっている」理由とそれが意味するもの",
+			"url": "https://news.yahoo.co.jp/articles/306675216391f4cbe7438688c046d79e6364f263",
+			"note": "Claude活用で業務自動化する起業家が急増",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00093516-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "Anthropic、AI関連リスク研究シンクタンク「Anthropic Institute」を新設",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/12/news066.html",
-			"note": "AI安全性・規制研究のシンクタンクを設立、政府規制に知見提供",
-			"image": "https://image.itmedia.co.jp/news/articles/2603/12/cover_news066.jpg"
+			"title": "AnthropicがAIの社会課題を研究する機関「Anthropic Institute」を設立",
+			"url": "https://gigazine.net/news/20260312-launching-anthropic-institute/",
+			"note": "AnthropicがAI社会課題研究機関を約30人体制で設立",
+			"image": "https://i.gzn.jp/img/2026/03/12/launching-anthropic-institute/00.jpg"
 		},
 		{
 			"number": 3,
-			"title": "「産業用AI市場」を徹底解説、トヨタも巨額投資…2030年「24兆円市場」の10大トレンド",
-			"url": "https://news.yahoo.co.jp/articles/fd2a2cd1ddfcb836db5503b7ef43bc007584a6cd",
-			"note": "2030年に24兆円規模へ。産業用AI市場の10大トレンドを解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00182003-biz_plus-000-1-view.jpg?exp=10800"
+			"title": "NVIDIAが1200億パラメータ規模の日本語対応ハイブリッドMoEモデル「Nemotron 3 Super」を発表",
+			"url": "https://gigazine.net/news/20260312-nvidia-nemotron-3-super/",
+			"note": "NVIDIAが日本語対応120B MoEモデルを発表、前世代比5倍のスループット",
+			"image": "https://i.gzn.jp/img/2026/03/12/nvidia-nemotron-3-super/00_m.png"
+		},
+		{
+			"number": 4,
+			"title": "PerplexityがPC操作を自動化するMac上で動作するAIエージェント「Personal Computer」を発表",
+			"url": "https://gigazine.net/news/20260312-perplexity-personal-computer/",
+			"note": "Perplexityが24時間稼働PC操作AIエージェントを発表",
+			"image": "https://i.gzn.jp/img/2026/03/12/perplexity-personal-computer/00.png"
+		},
+		{
+			"number": 5,
+			"title": "アプリ切り替え時の再説明が不要に — Claude for ExcelとPowerPointにコンテキスト共有機能追加",
+			"url": "https://gigazine.net/news/20260312-claude-excel-powerpoint-share-context/",
+			"note": "ClaudeのOffice連携でアプリ間コンテキスト共有が可能に",
+			"image": "https://i.gzn.jp/img/2026/03/12/claude-excel-powerpoint-share-context/00.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "Samsung「Galaxy S26」シリーズを本日3月12日発売 先回りするAIフォンに進化",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2087422.html",
-			"note": "Snapdragon 8 Elite Gen5搭載、AIが次行動を先読みして提案",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2087/422/115417.jpg"
-		},
-		{
-			"number": 5,
-			"title": "PCと家庭用ゲームを統合する次世代Xbox「Project Helix」の概要をMicrosoftが発表",
-			"url": "https://gigazine.net/news/20260312-microsoft-project-helix/",
-			"note": "AMDカスタムSoC搭載。2026年4月からPCに「Xboxモード」展開",
-			"image": "https://i.gzn.jp/img/2026/03/12/microsoft-project-helix/00_m.png"
-		},
-		{
 			"number": 6,
-			"title": "iCloudの無料枠がいつまで経っても5GBから増えないことを確認できるサイトが登場",
-			"url": "https://gigazine.net/news/20260312-is-icloud-free-tier-still-5gb/",
-			"note": "2011年から15年間変わらないAppleのiCloud無料容量に皮肉",
-			"image": "https://i.gzn.jp/img/2026/03/12/is-icloud-free-tier-still-5gb/00.png"
+			"title": "値上がりが続く中、次期iPhone 18 Proの「価格」に関する新情報",
+			"url": "https://news.yahoo.co.jp/articles/a7a0fccddbb0596c2a2cc874eedef2cdcaeb797f",
+			"note": "iPhone 18 Pro価格据え置き説、Appleがコスト吸収か",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00093605-forbes-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
+			"title": "IntelがゲーマーのためのCPU「Core Ultra 200S Plus」シリーズを発表",
+			"url": "https://gigazine.net/news/20260312-intel-core-ultra-200s-plus/",
+			"note": "AI最適化でゲーム性能15%向上の新CPU発表",
+			"image": "https://i.gzn.jp/img/2026/03/12/intel-core-ultra-200s-plus/00.jpg"
+		},
+		{
+			"number": 8,
+			"title": "「メモリ価格が1日で50%値上げされた」とPhisonのCEOが発言",
+			"url": "https://gigazine.net/news/20260312-nand-prices-jumped-overnight/",
+			"note": "NANDフラッシュが一夜で最大50%値上がり、供給危機深刻化",
+			"image": "https://i.gzn.jp/img/2026/03/12/nand-prices-jumped-overnight/00_m.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 7,
-			"title": "年度内成立へ 予算案の攻防ヤマ場　衆院13日通過を目指す",
-			"url": "https://news.yahoo.co.jp/pickup/6572871",
-			"note": "自民・維新が2026年度予算案の13日衆院通過に向け最終調整",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/7f0e11aec3c473010faf6ac0b92a0a53f6803c473f92e7b3b0f5350f11773bc6.jpg"
-		},
-		{
-			"number": 8,
-			"title": "16日にも石油備蓄放出へ　高市首相が表明、原油高騰対応",
-			"url": "https://news.yahoo.co.jp/articles/84af48354a966e4f02abe8ae98d50d8e1e5812d3",
-			"note": "中東情勢悪化による原油高に対応。ガソリン170円水準に抑制へ",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/cdf64e687a4d8dbc0a95055f59d0b7696bac1d71d16f640531a9285d9e860f8e.jpg"
-		},
-		{
 			"number": 9,
-			"title": "酒酔い運転 事実上厳罰化で調整",
-			"url": "https://news.yahoo.co.jp/pickup/6572847",
-			"note": "与党が酒酔い運転の罰則強化に向けた法整備を本格調整",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/6f54688f92a6f1d0df059578eda285a90643aaaa4251e951d4f5fb6961f5b512.jpg"
+			"title": "野党 予算委員長の解任案を提出へ",
+			"url": "https://news.yahoo.co.jp/articles/c3f5c9f2ca6910735ee1176f71e0f88a4d98cc6c",
+			"note": "野党が予算委員長解任決議案の提出を調整",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/f5af7b2a219ca31e124eb8a816ffeffffe359dd5137bbf3505360093c9184f93.jpg"
+		},
+		{
+			"number": 10,
+			"title": "高市内閣支持59.3%に低下 時事世論調査",
+			"url": "https://news.yahoo.co.jp/articles/7d6d0491caa602590d5ba909c8b02946247082a5",
+			"note": "高市内閣支持率が59.3%に低下、カタログギフト問題影響か",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/067a036910fcdbb0fa8f20a5ef7f6626e544a8047b38d2bc3fc530d920f6dfed.jpg"
+		},
+		{
+			"number": 11,
+			"title": "不倫報道の松本文科相陳謝 辞任は否定",
+			"url": "https://news.yahoo.co.jp/articles/0070b3c6cabee1afb2b3fcd649612cd8100ede01",
+			"note": "松本文科相が不倫報道を陳謝、辞任は否定し職責を全う",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/5bc149b0c51be699f501a7467dd6fc0c551c15966709d84727b6d0ca14fec68d.jpg"
+		},
+		{
+			"number": 12,
+			"title": "「エプスタイン文書」総理に質問した直後に審議ストップ→外務大臣が登場する異例展開",
+			"url": "https://news.yahoo.co.jp/articles/2c7ed86b08b05fa1c4de42ea993c436e69bd43d5",
+			"note": "エプスタイン文書質問直後に国会審議が中断の異例展開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-10231318-abemav-000-1-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 10,
-			"title": "ペルシャ湾で石油タンカー2隻炎上、38人救助",
-			"url": "https://news.yahoo.co.jp/pickup/6572865",
-			"note": "イラク領海でタンカー2隻が被弾・炎上。1人死亡、38人を救助",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/2c756cda0fcd10d2e5a8b972e0bb72b70aa4f7a741927c1e2c75d5de9cc74bce.jpg"
-		},
-		{
-			"number": 11,
-			"title": "イラン、ホルムズ海峡に十数個の機雷敷設　位置は特定＝関係筋",
-			"url": "https://news.yahoo.co.jp/articles/f8acdee478f26905a5b250b827ed57162a387d6e",
-			"note": "ホルムズ海峡に機雷敷設が確認。世界の原油輸送に深刻な脅威",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00000004-reut-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "イランが米西海岸にドローン攻撃の可能性、当局がカリフォルニアに警告",
-			"url": "https://news.yahoo.co.jp/articles/9c6534a813ee820e3d888624d1bbfb13713676a8",
-			"note": "FBIがカリフォルニア当局にイランのドローン攻撃可能性を警告",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00000007-reut-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 13,
-			"title": "ヒズボラ 対イスラエルで応酬激化",
-			"url": "https://news.yahoo.co.jp/pickup/6572855",
-			"note": "ヒズボラが新たな対イスラエル作戦を開始、空爆応酬が継続",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/2ab123fadb80057173dd20aa7b81091c6ea1f619c455eac3e11ab1824e74ee91.jpg"
+			"title": "米 新関税導入へ不公正貿易の調査 日本含む16か国・地域が対象",
+			"url": "https://news.yahoo.co.jp/articles/23384f062c9f7a4cda5cb2896fe9fc3832fd463d",
+			"note": "トランプ政権が通商法301条で日本含む16か国調査を開始",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/9c46f007fddf18ea4e3a9505be609fc58635784fa50bb0141635d1c00cd0ad39.jpg"
+		},
+		{
+			"number": 14,
+			"title": "民族団結法を可決 中国・全人代 台湾統一を念頭に",
+			"url": "https://news.yahoo.co.jp/articles/a5c955e263dce4190bdff40a297c8e2d5cc71b97",
+			"note": "中国全人代が台湾統一を念頭に民族団結法を可決",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/6b60ad60822c254e069e69418053cb5e76f5882095cf63644d8571f57a13ca13.jpg"
+		},
+		{
+			"number": 15,
+			"title": "イランが停戦の条件提示 米に再侵略防止の保証を要求",
+			"url": "https://news.yahoo.co.jp/articles/6364907071ef6b298055f938c3c9d62d5858a0fc",
+			"note": "イランが停戦条件として米の再侵略防止保証を要求",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/06d752431425aab3d8ed3c97b79640e2d975bbf185039ac21c46c3200d519c6f.jpg"
+		},
+		{
+			"number": 16,
+			"title": "ペルシャ湾で石油タンカー2隻が炎上、イランの攻撃か　1人死亡、38人救助",
+			"url": "https://news.yahoo.co.jp/articles/351933fbdd0862c4945452dbdc9179543ca85d05",
+			"note": "ペルシャ湾でタンカー2隻がイランに攻撃され炎上",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-35244927-cnn-000-4-view.jpg?exp=10800"
 		}
 	]
 }
