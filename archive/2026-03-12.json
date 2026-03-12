@@ -2,29 +2,43 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「産業用AI市場」を徹底解説、トヨタも巨額投資…2030年\"24兆円市場\"の10大トレンド",
-			"url": "https://news.yahoo.co.jp/articles/fd2a2cd1ddfcb836db5503b7ef43bc007584a6cd",
-			"note": "2030年24兆円規模の産業用AI市場10大トレンドを解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00182003-biz_plus-000-1-view.jpg?exp=10800"
+			"title": "MetaのAIチップ「MTIA 300」「MTIA 400」「MTIA 450」「MTIA 500」を一斉に発表",
+			"url": "https://gigazine.net/news/20260312-meta-mtia-ai-chips/",
+			"note": "Meta製AIチップ4種を発表。MTIA 300は量産中、残りも2年以内に稼働",
+			"image": "https://i.gzn.jp/img/2026/03/12/meta-mtia-ai-chips/00.jpg"
 		},
 		{
 			"number": 2,
-			"title": "Anthropic、AI関連リスク研究シンクタンク「Anthropic Institute」を新設 政府規制に知見提供",
+			"title": "Anthropic、AI関連リスク研究シンクタンク「Anthropic Institute」を新設",
 			"url": "https://www.itmedia.co.jp/news/articles/2603/12/news066.html",
-			"note": "AI安全性・規制研究を目的としたシンクタンクを新設",
+			"note": "AI安全性・規制研究のシンクタンクを設立、政府規制に知見提供",
 			"image": "https://image.itmedia.co.jp/news/articles/2603/12/cover_news066.jpg"
+		},
+		{
+			"number": 3,
+			"title": "「産業用AI市場」を徹底解説、トヨタも巨額投資…2030年「24兆円市場」の10大トレンド",
+			"url": "https://news.yahoo.co.jp/articles/fd2a2cd1ddfcb836db5503b7ef43bc007584a6cd",
+			"note": "2030年に24兆円規模へ。産業用AI市場の10大トレンドを解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00182003-biz_plus-000-1-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "Samsung「Galaxy S26」シリーズを本日3月12日発売　\"先回りするAIフォン\"に進化",
+			"number": 4,
+			"title": "Samsung「Galaxy S26」シリーズを本日3月12日発売 先回りするAIフォンに進化",
 			"url": "https://k-tai.watch.impress.co.jp/docs/news/2087422.html",
-			"note": "Snapdragon 8 Elite Gen5搭載、AIが次行動を先読み提案",
+			"note": "Snapdragon 8 Elite Gen5搭載、AIが次行動を先読みして提案",
 			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2087/422/115417.jpg"
 		},
 		{
-			"number": 4,
+			"number": 5,
+			"title": "PCと家庭用ゲームを統合する次世代Xbox「Project Helix」の概要をMicrosoftが発表",
+			"url": "https://gigazine.net/news/20260312-microsoft-project-helix/",
+			"note": "AMDカスタムSoC搭載。2026年4月からPCに「Xboxモード」展開",
+			"image": "https://i.gzn.jp/img/2026/03/12/microsoft-project-helix/00_m.png"
+		},
+		{
+			"number": 6,
 			"title": "iCloudの無料枠がいつまで経っても5GBから増えないことを確認できるサイトが登場",
 			"url": "https://gigazine.net/news/20260312-is-icloud-free-tier-still-5gb/",
 			"note": "2011年から15年間変わらないAppleのiCloud無料容量に皮肉",
@@ -33,48 +47,55 @@
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
+			"number": 7,
+			"title": "年度内成立へ 予算案の攻防ヤマ場　衆院13日通過を目指す",
+			"url": "https://news.yahoo.co.jp/pickup/6572871",
+			"note": "自民・維新が2026年度予算案の13日衆院通過に向け最終調整",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/7f0e11aec3c473010faf6ac0b92a0a53f6803c473f92e7b3b0f5350f11773bc6.jpg"
+		},
+		{
+			"number": 8,
+			"title": "16日にも石油備蓄放出へ　高市首相が表明、原油高騰対応",
+			"url": "https://news.yahoo.co.jp/articles/84af48354a966e4f02abe8ae98d50d8e1e5812d3",
+			"note": "中東情勢悪化による原油高に対応。ガソリン170円水準に抑制へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/cdf64e687a4d8dbc0a95055f59d0b7696bac1d71d16f640531a9285d9e860f8e.jpg"
+		},
+		{
+			"number": 9,
 			"title": "酒酔い運転 事実上厳罰化で調整",
 			"url": "https://news.yahoo.co.jp/pickup/6572847",
 			"note": "与党が酒酔い運転の罰則強化に向けた法整備を本格調整",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/6f54688f92a6f1d0df059578eda285a90643aaaa4251e951d4f5fb6961f5b512.jpg"
-		},
-		{
-			"number": 6,
-			"title": "16日にも石油備蓄放出へ 高市首相表明 原油高騰対応",
-			"url": "https://news.yahoo.co.jp/articles/84af48354a966e4f02abe8ae98d50d8e1e5812d3",
-			"note": "イラン情勢悪化による原油高騰対応で日本単独で石油備蓄放出",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/cdf64e687a4d8dbc0a95055f59d0b7696bac1d71d16f640531a9285d9e860f8e.jpg"
-		},
-		{
-			"number": 7,
-			"title": "文科相 不倫相手と議員会館で面会",
-			"url": "https://news.yahoo.co.jp/articles/7058ee2a842c90e2c219fbbbd46bb5845b3b405b",
-			"note": "松本洋平文科相の既婚女性との不倫関係が報道、進退問題に発展か",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/6442c6c969e48a32db4f9c76a796aaccfe344ca3e274a5eb32b0ef8a589bd048.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 8,
-			"title": "イランが米西海岸にドローン攻撃の可能性、当局が加州に警告＝報道",
+			"number": 10,
+			"title": "ペルシャ湾で石油タンカー2隻炎上、38人救助",
+			"url": "https://news.yahoo.co.jp/pickup/6572865",
+			"note": "イラク領海でタンカー2隻が被弾・炎上。1人死亡、38人を救助",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/2c756cda0fcd10d2e5a8b972e0bb72b70aa4f7a741927c1e2c75d5de9cc74bce.jpg"
+		},
+		{
+			"number": 11,
+			"title": "イラン、ホルムズ海峡に十数個の機雷敷設　位置は特定＝関係筋",
+			"url": "https://news.yahoo.co.jp/articles/f8acdee478f26905a5b250b827ed57162a387d6e",
+			"note": "ホルムズ海峡に機雷敷設が確認。世界の原油輸送に深刻な脅威",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00000004-reut-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "イランが米西海岸にドローン攻撃の可能性、当局がカリフォルニアに警告",
 			"url": "https://news.yahoo.co.jp/articles/9c6534a813ee820e3d888624d1bbfb13713676a8",
 			"note": "FBIがカリフォルニア当局にイランのドローン攻撃可能性を警告",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00000007-reut-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 9,
-			"title": "イラン、ホルムズ海峡に十数個の機雷敷設　位置は特定＝関係筋",
-			"url": "https://news.yahoo.co.jp/articles/f8acdee478f26905a5b250b827ed57162a387d6e",
-			"note": "ホルムズ海峡での機雷敷設確認、原油輸送に深刻な脅威",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260312-00000004-reut-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 10,
-			"title": "トランプ氏、軍事作戦「間もなく終わる」 成果強調、原油急騰に対処か",
-			"url": "https://www.jiji.com/jc/article?k=2026031000170&g=int",
-			"note": "トランプ氏がイラン作戦終結を示唆、原油価格100ドル突破で焦り",
-			"image": ""
+			"number": 13,
+			"title": "ヒズボラ 対イスラエルで応酬激化",
+			"url": "https://news.yahoo.co.jp/pickup/6572855",
+			"note": "ヒズボラが新たな対イスラエル作戦を開始、空爆応酬が継続",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/12/2ab123fadb80057173dd20aa7b81091c6ea1f619c455eac3e11ab1824e74ee91.jpg"
 		}
 	]
 }
