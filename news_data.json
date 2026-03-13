@@ -2,100 +2,107 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Anthropic、「Claude」で画像生成のインライン機能を公開",
-			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news068.html",
-			"note": "Claudeが会話中にテキストと画像を組み合わせて回答する新機能",
-			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/13/cover_news068.jpg"
-		},
-		{
-			"number": 2,
 			"title": "「AIの説明は文章だらけで分かりにくい」という問題を解消するアップデートがClaudeに登場、会話中にインタラクティブな図を生成して分かりやすくしてくれる",
 			"url": "https://gigazine.net/news/20260313-claude-interactive-visual/",
-			"note": "Claudeが会話中に元素周期表などのインタラクティブな図を生成可能に",
+			"note": "ClaudeがAI会話中にインタラクティブな図を生成する機能を追加",
 			"image": "https://i.gzn.jp/img/2026/03/13/claude-interactive-visual/00.png"
 		},
 		{
-			"number": 3,
+			"number": 2,
 			"title": "GoogleマップにAIと会話しながら場所を探せる「Ask Maps」実装＆建物などを3D表示してナビゲーションする機能も追加",
 			"url": "https://gigazine.net/news/20260313-google-map-new-ai-features/",
-			"note": "GoogleマップにAI会話検索「Ask Maps」と3Dイマーシブナビゲーション追加",
+			"note": "Googleマップに会話型AI検索と3Dナビゲーション機能が実装",
 			"image": "https://i.gzn.jp/img/2026/03/13/google-map-new-ai-features/00.jpg"
 		},
 		{
-			"number": 4,
+			"number": 3,
 			"title": "MicrosoftがAI健康情報機能「Copilot Health」発表、「医学的アドバイスの代わりにはならない」との注意あり",
 			"url": "https://gigazine.net/news/20260313-microsoft-copilot-health/",
-			"note": "医療記録・ウェアラブルデータをまとめるMicrosoftのAI健康機能を発表",
+			"note": "MicrosoftがAI健康情報機能を発表、医療記録やウェアラブルデータを統合",
 			"image": "https://i.gzn.jp/img/2026/03/13/microsoft-copilot-health/00.png"
+		},
+		{
+			"number": 4,
+			"title": "AI音声で初の議員点呼 衆院本会議",
+			"url": "https://news.yahoo.co.jp/pickup/6573005",
+			"note": "衆議院が本会議でAI音声による議員点呼を初めて実施",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/ec4ef710f23b262d08ecdc6f802eb048b20fee6dcc5b9ece21480b68d94a579b.jpg"
+		},
+		{
+			"number": 5,
+			"title": "Sakana AI、ドメイン横断的な知識連携を実現　複雑な業務分野の意思決定を支援するAI技術を発表",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news083.html",
+			"note": "Sakana AIが複数領域の知識を統合するAIエージェント技術を発表",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/13/l_ts1648348_202603131_1_w490.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "「ロボットの家電化」進む中国、アジア最大級の家電見本市で多数展示",
-			"url": "https://news.yahoo.co.jp/pickup/6572954",
-			"note": "上海家電見本市で日常生活に組み込まれるロボット製品が続々と登場",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/18b567ecd53ebf59412280507a864ea4cf5ad6f3da81ca89d850654932ed905e.jpg"
-		},
-		{
 			"number": 6,
-			"title": "Uberが日産とロボタクシー分野での提携を発表、日本における初のパートナーシップ",
-			"url": "https://gigazine.net/news/20260313-uber-nissan/",
-			"note": "Uber・日産・Wayveが提携、2026年後半に東京でロボタクシー実証実験へ",
-			"image": "https://i.gzn.jp/img/2026/03/13/uber-nissan/00.jpg"
+			"title": "MacBook Neoはわずか10分以内で分解可能、接着剤なしでネジ留めのみのモジュール設計なので他のMacBookよりも修理が簡単",
+			"url": "https://gigazine.net/news/20260313-macbook-neo-makes-repairs-easier/",
+			"note": "AppleのMacBook Neoは接着剤不使用・ネジ留めのみで修理が容易",
+			"image": "https://i.gzn.jp/img/2026/03/13/macbook-neo-makes-repairs-easier/00.jpg"
 		},
 		{
 			"number": 7,
-			"title": "iPhoneからNothingに乗り換えて約2年。やっぱりPhone (3a)がいい理由",
-			"url": "https://news.yahoo.co.jp/articles/e2fc73ede0e6795434b3274b1dcdef3d20d5d2cf",
-			"note": "4万円台のNothing Phone(3a)が日常使いに十分と実使用2年レポート",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260313-00000001-giz-000-1-view.jpg?exp=10800"
+			"title": "「ロボットの家電化」進む中国",
+			"url": "https://news.yahoo.co.jp/pickup/6572954",
+			"note": "中国・上海の家電見本市で人型ロボットなど日常用ロボットが注目",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/18b567ecd53ebf59412280507a864ea4cf5ad6f3da81ca89d850654932ed905e.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 8,
-			"title": "予算案13日衆院通過公算 野党反発、委員長解任決議案を提出",
-			"url": "https://news.yahoo.co.jp/pickup/6572940",
-			"note": "2026年度予算案が本日衆院通過の公算、野党は強く反発し解任案提出",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/750d472968616c08bbb35442c6326d3ca4a3e03bedd55af98ffc6ba997968a61.jpg"
+			"title": "国家情報会議設置へ 法案閣議決定",
+			"url": "https://news.yahoo.co.jp/pickup/6572977",
+			"note": "政府が首相トップの国家情報会議設置法案を閣議決定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/4a9105ddd2c5e2e190a1ff4ab268175043b097cada87d9cde22046796ab31072.jpg"
 		},
 		{
 			"number": 9,
-			"title": "政府、米「ゴールデン・ドーム」ミサイル防衛構想への参加を表明へ",
+			"title": "政府 米ミサイル防衛構想参加へ",
 			"url": "https://news.yahoo.co.jp/pickup/6572948",
-			"note": "日本政府が米次世代ミサイル防衛構想参加へ、中露対処強化が目的",
+			"note": "日本政府が米国の次世代ミサイル防衛「ゴールデン・ドーム」への参加を表明予定",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/2352ddf6ce4bdfa1018b364f33a2ef17976db3c8f43dcdb287beaeaa01ce7775.jpg"
 		},
 		{
 			"number": 10,
-			"title": "国民民主、物価高再燃対策を提言へ ガソリン補助継続など盛り込む",
-			"url": "https://news.yahoo.co.jp/pickup/6572962",
-			"note": "国民民主がガソリン補助継続など物価対策の緊急提言を取りまとめ",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/6d9f478f7a0a4511c5d3809cfb3770820f9494b404af85d2e75a9bb0251125ee.jpg"
+			"title": "衆院予算委員長の解任決議案 否決",
+			"url": "https://news.yahoo.co.jp/pickup/6572987",
+			"note": "野党4党提出の解任決議案が与党多数で否決",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/4251b8f0eeb3ba2b0fb7bdf7a266e48d165800b296324b92502e777495587c9d.jpg"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 11,
-			"title": "露がウクライナの子ども1200人を強制移送 国連が「戦争犯罪」と指摘",
-			"url": "https://news.yahoo.co.jp/pickup/6572967",
-			"note": "国連がロシアの子ども強制移送を戦争犯罪・人道に対する罪と認定",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/d03bc1bdb85e1f2651b4ff84f5705064d998d0a8fb79baf12f5a8476ce9d5bf8.jpg"
+			"title": "米 露産原油への制裁を一時緩和",
+			"url": "https://news.yahoo.co.jp/pickup/6573011",
+			"note": "イラン戦争による原油高騰対策でロシア産原油購入を約1ヶ月間認める",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/e4cd641c306cc5be784bf8f5ef3c4da1bc728446e96afbfd7f14c1ac689e3c91.jpg"
 		},
 		{
 			"number": 12,
-			"title": "イスラエル首相、イラン新指導者モジタバ師に警告 「中東のパワーバランスが変化」",
-			"url": "https://news.yahoo.co.jp/pickup/6572953",
-			"note": "ネタニヤフ首相がイランの新指導者モジタバ師を名指しで牽制",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/b54395837f51dc0d4ee47930649af82b47c5318c75dd5c85ec35ac75c8078aef.jpg"
+			"title": "イラン戦争 終結巡り米政権内対立",
+			"url": "https://news.yahoo.co.jp/pickup/6572999",
+			"note": "トランプ政権内でイラン戦争の終結戦略をめぐり意見が対立",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/1342dbd703ba61010735f5eb15a8c9d50576e2d8d069fde2581d0c62efb31610.jpg"
 		},
 		{
 			"number": 13,
-			"title": "トランプ氏、FRBに再び利下げ要求 中東情勢悪化で世界経済に不安",
+			"title": "露がウ子供1200人を強制移送 国連",
+			"url": "https://news.yahoo.co.jp/pickup/6572967",
+			"note": "国連がロシアによるウクライナ子ども強制移送を戦争犯罪と認定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/d03bc1bdb85e1f2651b4ff84f5705064d998d0a8fb79baf12f5a8476ce9d5bf8.jpg"
+		},
+		{
+			"number": 14,
+			"title": "トランプ氏 FRBに再び利下げ要求",
 			"url": "https://news.yahoo.co.jp/pickup/6572945",
-			"note": "トランプ大統領がパウエルFRB議長に利下げを重ねて要求",
-			"image": "https://s.yimg.jp/images/news-web/versions/20260312-3fc576e/all/images/jsonld_image_1244x700.png"
+			"note": "トランプ大統領がパウエルFRB議長に利下げを改めて要求",
+			"image": "https://s.yimg.jp/images/news-web/versions/20260313-0d12d24/all/images/jsonld_image_1244x700.png"
 		}
 	]
 }
