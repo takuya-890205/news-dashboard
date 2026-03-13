@@ -2,72 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "VS Codeの週間リリース移行。第1弾のバージョン1.111でAIエージェント対応が加速",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news023.html",
-			"note": "MicrosoftがVS Codeを週次リリースへ移行、AIエージェント機能が中心に",
-			"image": "https://image.itmedia.co.jp/ait/articles/2603/13/cover_news023.jpg"
+			"title": "Anthropic、「Claude」で画像生成のインライン機能を公開",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news068.html",
+			"note": "Claudeが会話中にテキストと画像を組み合わせて回答する新機能",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/13/cover_news068.jpg"
 		},
 		{
 			"number": 2,
-			"title": "GPT-5.4登場、AI自動化タスク機能100万トークンコンテキスト対応 Codexアプリ連携で自動化作業実現へ",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news009.html",
-			"note": "OpenAI新モデルGPT-5.4が100万トークン対応、コーディング能力が大幅向上",
-			"image": "https://image.itmedia.co.jp/ait/articles/2603/13/cover_news009.jpg"
+			"title": "「AIの説明は文章だらけで分かりにくい」という問題を解消するアップデートがClaudeに登場、会話中にインタラクティブな図を生成して分かりやすくしてくれる",
+			"url": "https://gigazine.net/news/20260313-claude-interactive-visual/",
+			"note": "Claudeが会話中に元素周期表などのインタラクティブな図を生成可能に",
+			"image": "https://i.gzn.jp/img/2026/03/13/claude-interactive-visual/00.png"
+		},
+		{
+			"number": 3,
+			"title": "GoogleマップにAIと会話しながら場所を探せる「Ask Maps」実装＆建物などを3D表示してナビゲーションする機能も追加",
+			"url": "https://gigazine.net/news/20260313-google-map-new-ai-features/",
+			"note": "GoogleマップにAI会話検索「Ask Maps」と3Dイマーシブナビゲーション追加",
+			"image": "https://i.gzn.jp/img/2026/03/13/google-map-new-ai-features/00.jpg"
+		},
+		{
+			"number": 4,
+			"title": "MicrosoftがAI健康情報機能「Copilot Health」発表、「医学的アドバイスの代わりにはならない」との注意あり",
+			"url": "https://gigazine.net/news/20260313-microsoft-copilot-health/",
+			"note": "医療記録・ウェアラブルデータをまとめるMicrosoftのAI健康機能を発表",
+			"image": "https://i.gzn.jp/img/2026/03/13/microsoft-copilot-health/00.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "iPhoneからNothingに乗り換えて約2年。やっぱりPhone (3a)がいい理由",
-			"url": "https://www.gizmodo.jp/2026/03/from-iphone-to-nothing-phone-3a.html",
-			"note": "iPhoneからNothing Phone 3aに乗り換えた理由、デザインとGlyph機能が魅力",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/10/_DSC4893-1.png?w=1280"
+			"number": 5,
+			"title": "「ロボットの家電化」進む中国、アジア最大級の家電見本市で多数展示",
+			"url": "https://news.yahoo.co.jp/pickup/6572954",
+			"note": "上海家電見本市で日常生活に組み込まれるロボット製品が続々と登場",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/18b567ecd53ebf59412280507a864ea4cf5ad6f3da81ca89d850654932ed905e.jpg"
 		},
 		{
-			"number": 4,
-			"title": "ワークマンの｢着る空気清浄機｣。1,900円のブルゾンに隠されたギミック",
-			"url": "https://www.gizmodo.jp/2026/03/workman-aero-cluster-pocket-blouson.html",
-			"note": "1900円の花粉対策ブルゾン、エアロクラスター加工で花粉タンパク質を低減",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/12/44178_c2(1)-1.jpg?w=1280"
+			"number": 6,
+			"title": "Uberが日産とロボタクシー分野での提携を発表、日本における初のパートナーシップ",
+			"url": "https://gigazine.net/news/20260313-uber-nissan/",
+			"note": "Uber・日産・Wayveが提携、2026年後半に東京でロボタクシー実証実験へ",
+			"image": "https://i.gzn.jp/img/2026/03/13/uber-nissan/00.jpg"
+		},
+		{
+			"number": 7,
+			"title": "iPhoneからNothingに乗り換えて約2年。やっぱりPhone (3a)がいい理由",
+			"url": "https://news.yahoo.co.jp/articles/e2fc73ede0e6795434b3274b1dcdef3d20d5d2cf",
+			"note": "4万円台のNothing Phone(3a)が日常使いに十分と実使用2年レポート",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260313-00000001-giz-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "予算案、夜にも衆院通過　委員長解任案否決へ",
-			"url": "https://www.jiji.com/jc/article?k=2026031300179&g=pol",
-			"note": "2026年度予算案が本日夜衆院可決見通し、与党が強硬姿勢で審議短縮",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260313ds40_o.jpg"
+			"number": 8,
+			"title": "予算案13日衆院通過公算 野党反発、委員長解任決議案を提出",
+			"url": "https://news.yahoo.co.jp/pickup/6572940",
+			"note": "2026年度予算案が本日衆院通過の公算、野党は強く反発し解任案提出",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/750d472968616c08bbb35442c6326d3ca4a3e03bedd55af98ffc6ba997968a61.jpg"
 		},
 		{
-			"number": 6,
-			"title": "大量ドローンで沿岸防衛　数千機導入、課題も―「新しい戦い方」へ対応急務・防衛省",
-			"url": "https://www.jiji.com/jc/article?k=2026031200809&g=pol",
-			"note": "防衛省が沿岸ドローン防衛「シールド」構築へ、2027年度中の実現目指す",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260312at35S_o.jpg"
+			"number": 9,
+			"title": "政府、米「ゴールデン・ドーム」ミサイル防衛構想への参加を表明へ",
+			"url": "https://news.yahoo.co.jp/pickup/6572948",
+			"note": "日本政府が米次世代ミサイル防衛構想参加へ、中露対処強化が目的",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/2352ddf6ce4bdfa1018b364f33a2ef17976db3c8f43dcdb287beaeaa01ce7775.jpg"
+		},
+		{
+			"number": 10,
+			"title": "国民民主、物価高再燃対策を提言へ ガソリン補助継続など盛り込む",
+			"url": "https://news.yahoo.co.jp/pickup/6572962",
+			"note": "国民民主がガソリン補助継続など物価対策の緊急提言を取りまとめ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/6d9f478f7a0a4511c5d3809cfb3770820f9494b404af85d2e75a9bb0251125ee.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "デトロイトのシナゴーグに車突入、容疑者死亡　爆発物発見との情報",
-			"url": "https://news.yahoo.co.jp/articles/07e0bb75b8a71afa51f00b36b7ead9cc72bd4e54",
-			"note": "米デトロイトのユダヤ教会堂にトラックが突入、後部座席から大量の爆発物",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260313-00000017-reut-000-1-view.jpg?exp=10800"
+			"number": 11,
+			"title": "露がウクライナの子ども1200人を強制移送 国連が「戦争犯罪」と指摘",
+			"url": "https://news.yahoo.co.jp/pickup/6572967",
+			"note": "国連がロシアの子ども強制移送を戦争犯罪・人道に対する罪と認定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/d03bc1bdb85e1f2651b4ff84f5705064d998d0a8fb79baf12f5a8476ce9d5bf8.jpg"
 		},
 		{
-			"number": 8,
-			"title": "対イラン作戦中に空中給油機1機墜落と米軍",
-			"url": "https://news.yahoo.co.jp/articles/098d37303d1811e9e575c73fa3f6376fbd615408",
-			"note": "米中央軍、イラン軍事作戦中にKC135給油機がイラク西部に墜落と発表",
-			"image": ""
+			"number": 12,
+			"title": "イスラエル首相、イラン新指導者モジタバ師に警告 「中東のパワーバランスが変化」",
+			"url": "https://news.yahoo.co.jp/pickup/6572953",
+			"note": "ネタニヤフ首相がイランの新指導者モジタバ師を名指しで牽制",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/b54395837f51dc0d4ee47930649af82b47c5318c75dd5c85ec35ac75c8078aef.jpg"
 		},
 		{
-			"number": 9,
-			"title": "ホルムズ海峡、イラン海軍と調整なら航行可能＝外務省",
-			"url": "https://news.yahoo.co.jp/articles/0c8ef524aa214255c90aad7271e6301b505b3653",
-			"note": "イラン外務省、海軍と調整すれば多くの船舶はホルムズ海峡航行可能と表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260313-00000010-reut-000-1-view.jpg?exp=10800"
+			"number": 13,
+			"title": "トランプ氏、FRBに再び利下げ要求 中東情勢悪化で世界経済に不安",
+			"url": "https://news.yahoo.co.jp/pickup/6572945",
+			"note": "トランプ大統領がパウエルFRB議長に利下げを重ねて要求",
+			"image": "https://s.yimg.jp/images/news-web/versions/20260312-3fc576e/all/images/jsonld_image_1244x700.png"
 		}
 	]
 }
