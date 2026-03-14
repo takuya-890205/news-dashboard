@@ -1,72 +1,94 @@
 {
-	"生成AI・LLM・AIエージェント": [],
-	"デジタルガジェット": [
+	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "中国製EVが音声アシスタントの不具合で走行中にライトが消えて衝突",
+			"title": "XboxにゲームAI「Gaming Copilot」搭載　2026年中に現行機で",
+			"url": "https://gigazine.net/news/20260314-xbox-gaming-copilot-current-generation-consoles/",
+			"note": "GDC 2026でMicrosoftがXbox Series X|Sへの搭載を発表",
+			"image": "https://i.gzn.jp/img/2026/03/14/xbox-gaming-copilot-current-generation-consoles/00_m.jpg"
+		},
+		{
+			"number": 2,
+			"title": "AIボットがネット通信の52%を占める　Metaボットが主因",
+			"url": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html",
+			"note": "FastlyがAIボット急増を報告、ネット通信の過半数に到達",
+			"image": "https://image.itmedia.co.jp/enterprise/articles/2603/14/cover_news013.png"
+		},
+		{
+			"number": 3,
+			"title": "AIボット攻撃でSNSサイトDiggが起動2カ月で「ハードリセット」",
+			"url": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
+			"note": "AIスパムで復活したDiggがわずか2カ月でサービス一時停止",
+			"image": "https://image.itmedia.co.jp/news/articles/2603/14/cover_news025.jpg"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 4,
+			"title": "中国製EVが音声AIの誤作動でヘッドライトが消灯し衝突",
 			"url": "https://gigazine.net/news/20260314-car-headlight-ai/",
-			"note": "音声AIの誤解釈でヘッドライトが消灯、中央分離帯に衝突",
+			"note": "音声AIの誤解釈でライト消灯、中央分離帯に衝突する事故",
 			"image": "https://i.gzn.jp/img/2026/03/14/car-headlight-ai/00.jpg"
+		},
+		{
+			"number": 5,
+			"title": "iPhone 17eの狙い　Apple幹部が語る",
+			"url": "https://news.yahoo.co.jp/articles/ae1d726bd6f9053b47950da19e49d8777d66037d",
+			"note": "Appleが廉価版iPhoneのA19搭載とMagSafe対応の狙いを説明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260314-00000022-zdn_m-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 2,
-			"title": "高市首相 来週訪米し日米首脳会談 イランへの対応も焦点",
+			"number": 6,
+			"title": "高市首相、来週訪米し日米首脳会談　イランへの対応も焦点",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015075371000",
-			"note": "来週訪米、トランプ大統領と日米同盟・中東情勢を協議",
+			"note": "来週訪米、トランプ大統領と日米同盟・中東情勢を協議予定",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075371_2603140409_0314063311_01_02.jpg"
 		},
 		{
-			"number": 3,
-			"title": "新年度予算案 参院で論戦へ 政府・与党は年度内成立の道筋探る",
+			"number": 7,
+			"title": "新年度予算案、参院で論戦へ　与党が年度内成立の道筋探る",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015075361000",
-			"note": "衆院通過後に参院審議入り。与党が参院で過半数割れで難航も",
+			"note": "衆院通過後に参院審議入り、与党が過半数割れで難航も",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075361_2603140303_0314062841_01_02.jpg"
 		},
 		{
-			"number": 4,
-			"title": "高市首相 ブータン首相と会談 \"民間投資の後押しなど協力\"",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075461000",
-			"note": "インド太平洋の安定に向けブータンへの投資支援を約束",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075461_2603140122_0314024903_01_02.jpg"
+			"number": 8,
+			"title": "中東から退避希望の邦人、全員帰国",
+			"url": "https://news.yahoo.co.jp/articles/18256f4092e9ed1e128fcc01838bc60201dc724d",
+			"note": "中東情勢悪化で退避を希望していた日本人が全員帰国完了",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/e9cca0b8a872d1f7cffcff9036d3071134400918b8fad76a75916326c657595d.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 5,
-			"title": "在日米軍 強襲揚陸艦と海兵隊を中東に派遣へ 米メディア報道",
+			"number": 9,
+			"title": "在日米軍、強襲揚陸艦と海兵隊を中東に派遣へ",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015075591000",
-			"note": "佐世保の揚陸艦・沖縄の海兵隊がイラン情勢対応で中東へ",
+			"note": "佐世保の揚陸艦・沖縄の海兵隊がイラン情勢対応で中東派遣",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075591_2603140712_0314071421_01_02.jpg"
 		},
 		{
-			"number": 6,
-			"title": "軍事作戦開始から2週間 イランは徹底抗戦の構え 収束見通せず",
+			"number": 10,
+			"title": "軍事作戦開始から2週間、イランは徹底抗戦の構え　収束見通せず",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015075561000",
 			"note": "米・イスラエルのイラン軍事作戦から2週間、終結見通し立たず",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075561_2603140623_0314063031_01_02.jpg"
 		},
 		{
-			"number": 7,
-			"title": "原油高でアメリカがロシア産原油の制裁緩和 ウクライナは反発",
+			"number": 11,
+			"title": "原油高でアメリカがロシア産原油の制裁緩和　ウクライナは反発",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015075491000",
-			"note": "イラン情勢による原油高を受け、米がロシア産制裁を一時緩和",
+			"note": "イラン情勢による原油高を受け、米がロシア産原油制裁を一時緩和",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075491_2603140226_0314053957_01_02.jpg"
 		},
 		{
-			"number": 8,
-			"title": "「トランプ大統領 訪中後 台湾への武器売却承認の可能性」報道",
+			"number": 12,
+			"title": "「トランプ大統領、訪中後に台湾への武器売却承認の可能性」報道",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015075521000",
 			"note": "今月末の習近平訪問後に台湾向け大規模武器売却を検討か",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075521_2603140446_0314053538_01_02.jpg"
-		},
-		{
-			"number": 9,
-			"title": "日米やアジアなどエネルギー担当相会合 安定供給の対応協議へ",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075341000",
-			"note": "東京でエネルギー担当相会合、ホルムズ情勢受け安定供給議論",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075341_2603140104_0314072401_01_02.jpg"
 		}
 	]
 }
