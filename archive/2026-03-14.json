@@ -2,93 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "XboxにゲームAI「Gaming Copilot」搭載　2026年中に現行機で",
-			"url": "https://gigazine.net/news/20260314-xbox-gaming-copilot-current-generation-consoles/",
-			"note": "GDC 2026でMicrosoftがXbox Series X|Sへの搭載を発表",
-			"image": "https://i.gzn.jp/img/2026/03/14/xbox-gaming-copilot-current-generation-consoles/00_m.jpg"
+			"title": "AI音声で初の議員点呼 衆院本会議",
+			"url": "https://news.yahoo.co.jp/articles/ad5590fd20f5f8cbe99c360498e038c756c19a3c",
+			"note": "記名投票時の点呼をAI音声で初実施、男女2種類",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/ec4ef710f23b262d08ecdc6f802eb048b20fee6dcc5b9ece21480b68d94a579b.jpg"
 		},
 		{
 			"number": 2,
-			"title": "AIボットがネット通信の52%を占める　Metaボットが主因",
-			"url": "https://www.itmedia.co.jp/enterprise/articles/2603/14/news013.html",
-			"note": "FastlyがAIボット急増を報告、ネット通信の過半数に到達",
-			"image": "https://image.itmedia.co.jp/enterprise/articles/2603/14/cover_news013.png"
+			"title": "AI専用SNSのMoltbook メタが買収",
+			"url": "https://news.yahoo.co.jp/articles/e64a24c6c426e711f212a2d076d4675530062fe9",
+			"note": "人間お断り・AI同士が交流するSNSをメタが買収",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/50a241bc337221b80b4baff5bc13343fa4f3b8a98945407db93b12a11e4b2283.jpg"
 		},
 		{
 			"number": 3,
-			"title": "AIボット攻撃でSNSサイトDiggが起動2カ月で「ハードリセット」",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
-			"note": "AIスパムで復活したDiggがわずか2カ月でサービス一時停止",
-			"image": "https://image.itmedia.co.jp/news/articles/2603/14/cover_news025.jpg"
+			"title": "Claudeに会話中インタラクティブ図を生成する機能が追加",
+			"url": "https://gigazine.net/news/20260313-claude-interactive-visual/",
+			"note": "AIの説明を視覚化、無料プランでも利用可能に",
+			"image": "https://i.gzn.jp/img/2026/03/13/claude-interactive-visual/00.png"
+		},
+		{
+			"number": 4,
+			"title": "「ロボットの家電化」進む中国",
+			"url": "https://news.yahoo.co.jp/articles/cb65489db1186f04cf3c45c3070afeea1bba9048",
+			"note": "上海家電見本市に人型ロボットなど日常向け技術が多数",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/18b567ecd53ebf59412280507a864ea4cf5ad6f3da81ca89d850654932ed905e.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "中国製EVが音声AIの誤作動でヘッドライトが消灯し衝突",
-			"url": "https://gigazine.net/news/20260314-car-headlight-ai/",
-			"note": "音声AIの誤解釈でライト消灯、中央分離帯に衝突する事故",
-			"image": "https://i.gzn.jp/img/2026/03/14/car-headlight-ai/00.jpg"
-		},
-		{
 			"number": 5,
-			"title": "iPhone 17eの狙い　Apple幹部が語る",
+			"title": "iPhone17eの狙い Apple幹部語る",
 			"url": "https://news.yahoo.co.jp/articles/ae1d726bd6f9053b47950da19e49d8777d66037d",
-			"note": "Appleが廉価版iPhoneのA19搭載とMagSafe対応の狙いを説明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260314-00000022-zdn_m-000-1-view.jpg?exp=10800"
+			"note": "エントリーモデルとしてエコシステム戦略を幹部が解説",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/f17adc5ea4978ea0256dd43bd2c1e04b314d12f0e69fcb1278a9f98d6b5b4a99.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 6,
-			"title": "高市首相、来週訪米し日米首脳会談　イランへの対応も焦点",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075371000",
-			"note": "来週訪米、トランプ大統領と日米同盟・中東情勢を協議予定",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075371_2603140409_0314063311_01_02.jpg"
+			"title": "国民民主と亀裂深まる 自民に懸念",
+			"url": "https://news.yahoo.co.jp/articles/655366fc513f646f3ba52f3f6ec461da12140ede",
+			"note": "予算案採決強行で自民と国民民主の相互不信が深化",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/7213d0f54b51a0ca91426dd4a50aee459578de50e9eef132fed896587c2cea57.jpg"
 		},
 		{
 			"number": 7,
-			"title": "新年度予算案、参院で論戦へ　与党が年度内成立の道筋探る",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075361000",
-			"note": "衆院通過後に参院審議入り、与党が過半数割れで難航も",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075361_2603140303_0314062841_01_02.jpg"
+			"title": "130万円の壁 4月からの新ルール",
+			"url": "https://news.yahoo.co.jp/articles/d73c52fee0e3e28b45e4b84ac0839fdcf48ec0c3",
+			"note": "扶養認定で残業代を除外する新ルールが4月から適用",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2019/6/26/1561537863_1561537849_aflo_92044812.jpg"
 		},
 		{
 			"number": 8,
-			"title": "中東から退避希望の邦人、全員帰国",
-			"url": "https://news.yahoo.co.jp/articles/18256f4092e9ed1e128fcc01838bc60201dc724d",
-			"note": "中東情勢悪化で退避を希望していた日本人が全員帰国完了",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/e9cca0b8a872d1f7cffcff9036d3071134400918b8fad76a75916326c657595d.jpg"
+			"title": "中道代表 政治資金パーティー奨励",
+			"url": "https://news.yahoo.co.jp/articles/7d5aadf3c18e3b97bf688219c83f334697921320",
+			"note": "中道改革連合・小川代表が資金難対策で方針を大転換",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/51e45f112f7885e4b203a217709a3649c9e8b004636faad339557efff737a571.jpg"
+		},
+		{
+			"number": 9,
+			"title": "憲法誤記を訂正せず裁判例に掲載",
+			"url": "https://news.yahoo.co.jp/articles/a3c951fe223f740c52996027d1bae9596bdb2399",
+			"note": "菊池事件再審決定の憲法誤記が訂正されず公開中",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/c06ef975bdf699720a6fb90137a43a4d92a4c54bf3f4d17f3577ee2702be2347.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "在日米軍、強襲揚陸艦と海兵隊を中東に派遣へ",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075591000",
-			"note": "佐世保の揚陸艦・沖縄の海兵隊がイラン情勢対応で中東派遣",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075591_2603140712_0314071421_01_02.jpg"
-		},
-		{
 			"number": 10,
-			"title": "軍事作戦開始から2週間、イランは徹底抗戦の構え　収束見通せず",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075561000",
-			"note": "米・イスラエルのイラン軍事作戦から2週間、終結見通し立たず",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075561_2603140623_0314063031_01_02.jpg"
+			"title": "北朝鮮 弾道ミサイル約10発発射か",
+			"url": "https://news.yahoo.co.jp/articles/330c5987ffa27f56a7dfe09c7155e58797fd6dc5",
+			"note": "韓国軍が北朝鮮の弾道ミサイル約10発発射を発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/1e2fdd1706a632165fe22cfe3fd228a175c903c0e998e111ac347e937e640968.jpg"
 		},
 		{
 			"number": 11,
-			"title": "原油高でアメリカがロシア産原油の制裁緩和　ウクライナは反発",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075491000",
-			"note": "イラン情勢による原油高を受け、米がロシア産原油制裁を一時緩和",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075491_2603140226_0314053957_01_02.jpg"
+			"title": "米大統領 イラン経済要衝の島攻撃",
+			"url": "https://news.yahoo.co.jp/articles/c7155bcfd2d718a37eede23b3027ede15ab5db1a",
+			"note": "トランプ大統領がイラン原油輸出9割担うカーグ島を爆撃",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/c9da1e7dda49d1ffd1a88175376b978f74cf95e6ad313cd84ee059199f3ad6df.jpg"
 		},
 		{
 			"number": 12,
-			"title": "「トランプ大統領、訪中後に台湾への武器売却承認の可能性」報道",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015075521000",
-			"note": "今月末の習近平訪問後に台湾向け大規模武器売却を検討か",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260314/K10015075521_2603140446_0314053538_01_02.jpg"
+			"title": "空中給油機が墜落 米兵6人死亡",
+			"url": "https://news.yahoo.co.jp/articles/c42aa0cb4a580f73298296e888468f2d5c37533a",
+			"note": "イラク西部でKC-135給油機が墜落、乗員6人全員死亡",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/1a682b8297aa42a34196f0bacf9baf7e61f865c86d2f1b3f3f1e3d13ca70d988.jpg"
+		},
+		{
+			"number": 13,
+			"title": "トルコ領空に弾道ミサイル 迎撃",
+			"url": "https://news.yahoo.co.jp/articles/fb6cd4dc8f731efe359c05026d280d11d9bd2922",
+			"note": "イランからの弾道ミサイルがトルコ領空へ飛来し迎撃",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/a5cbe65596d9b81d5d3c0424e5264ddac742cdded8eada39c0597c7c81be0795.jpg"
 		}
 	]
 }
