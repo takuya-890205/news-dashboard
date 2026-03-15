@@ -6,61 +6,117 @@
 			"url": "https://gigazine.net/news/20260315-meta-plan-sweeping-layoffs-ai-costs-mount/",
 			"note": "AI投資拡大に備え最大約1.6万人の大規模解雇を計画",
 			"image": "https://i.gzn.jp/img/2026/03/15/meta-plan-sweeping-layoffs-ai-costs-mount/00_m.jpg"
+		},
+		{
+			"number": 2,
+			"title": "無料＆広告なしで音声をテキストに変換できる「Notely Voice」レビュー、ネット不要でスマホのみでWhisperを実行",
+			"url": "https://gigazine.net/news/20260315-notely-voice-ai-transcription/",
+			"note": "オフラインでWhisper動作の音声テキスト変換アプリ",
+			"image": "https://i.gzn.jp/img/2026/03/15/notely-voice-ai-transcription/00.jpg"
+		},
+		{
+			"number": 3,
+			"title": "世界100以上の言語のあらゆる報道やSNSを収集・分析「GDELTプロジェクト」、AIで25年分のテレビニュース翻訳も",
+			"url": "https://gigazine.net/news/20260315-gdelt-project/",
+			"note": "100言語以上の報道をAIで大規模分析する公開データ基盤",
+			"image": "https://i.gzn.jp/img/2026/03/15/gdelt-project/00.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 2,
+			"number": 4,
 			"title": "MacBook NeoをiFixitが分解 「過去14年で最も修理しやすいMacBook」",
 			"url": "https://www.itmedia.co.jp/news/articles/2603/15/news018.html",
 			"note": "iFixitがMacBook Neoを分解、修理性が過去14年で最高と評価",
 			"image": "https://image.itmedia.co.jp/news/articles/2603/15/cover_news018.jpg"
 		},
 		{
-			"number": 3,
-			"title": "無料でYouTubeなどから動画・音楽をダウンロードできる「ytdlp-interface」公開",
-			"url": "https://gigazine.net/news/20260315-ytdlp-interface/",
-			"note": "yt-dlpのGUI版、広告不要のオープンソースWindowsツール",
-			"image": "https://i.gzn.jp/img/2026/03/15/ytdlp-interface/00.png"
+			"number": 5,
+			"title": "ガラケー型スマホ 在庫切れの店も",
+			"url": "https://news.yahoo.co.jp/pickup/6573205",
+			"note": "韓国発「ケースマ」が日本で人気急上昇、入手困難に",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/4ede0db9e6513b6a5c2dfb8adc55952b7b23b23b0ddb28a4b181af95ab81c6b7.jpg"
+		},
+		{
+			"number": 6,
+			"title": "iPhone17eの狙い Apple幹部語る",
+			"url": "https://news.yahoo.co.jp/pickup/6573064",
+			"note": "iPhone 17eのエコシステム統合戦略をApple幹部が解説",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/f17adc5ea4978ea0256dd43bd2c1e04b314d12f0e69fcb1278a9f98d6b5b4a99.jpg"
+		},
+		{
+			"number": 7,
+			"title": "もう「小さいだけ」じゃない。「ミニPC」に起きている3つの変化",
+			"url": "https://news.yahoo.co.jp/articles/5a7753cbe4834ec7399a78395a02bcae81fc4b21",
+			"note": "高性能チップ搭載でミニPCの「遅い」イメージが払拭",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260315-00000001-giz-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 4,
+			"number": 8,
 			"title": "中東からチャーター機で1100人余退避 政府「追加運航なし」",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015075981000",
-			"note": "イラン情勢緊迫で政府が在留邦人退避を支援、追加便なしと発表",
+			"note": "イラン情勢緊迫で政府が在留邦人退避を支援、追加便なし",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260315/K10015075981_2603142307_0315054341_01_02.jpg"
+		},
+		{
+			"number": 9,
+			"title": "日米 レアアース最低価格協議へ",
+			"url": "https://news.yahoo.co.jp/pickup/6573217",
+			"note": "19日の日米首脳会談でレアアース最低価格制度を協議",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/1fa9cd4eec712369b7fc89d910ef33b640f71317c164cf9bdbe64e85c7d5b7eb.jpg"
+		},
+		{
+			"number": 10,
+			"title": "予算案は参院攻防へ 円滑審議課題",
+			"url": "https://news.yahoo.co.jp/pickup/6573187",
+			"note": "与党が参院過半数に届かず、予算年度内成立に課題",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/97873bb8bca6fd8adbc2412cdf83ad58aa53fdfbe28a37b42048f3245dc66b46.jpg"
+		},
+		{
+			"number": 11,
+			"title": "公明党 統一選は独自候補を擁立",
+			"url": "https://news.yahoo.co.jp/pickup/6573114",
+			"note": "公明党が2027年統一選で中道改革連合合流を見送り",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/6269d0abf988906683812d9f524258c6c895711ad3ee5750682251cd05fe61f4.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 5,
+			"number": 12,
+			"title": "イラン攻撃 トランプ氏の誤算",
+			"url": "https://news.yahoo.co.jp/pickup/6573212",
+			"note": "原油高騰・機雷敷設でトランプ大統領の計算が狂う",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/faf9e7cda499e07a658fb232e2497102cd659796a15f67c2d99b3494e977d5bd.jpg"
+		},
+		{
+			"number": 13,
 			"title": "トランプ政権 イラン停戦交渉を拒否 中東同盟国の働きかけ退ける",
 			"url": "https://news.yahoo.co.jp/articles/d5a84637f7fb49c2964d2f6d035a93bf0486b4b8",
-			"note": "米政権がイランとの外交交渉を拒否、軍事的圧力を継続する姿勢",
+			"note": "米政権がイランとの外交交渉を拒否、軍事的圧力を継続",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/fafd341b937dfd302f234232924fab5dc4cbcbbc168771642412490ce34df169.jpg"
 		},
 		{
-			"number": 6,
-			"title": "イラン、UAE3港を攻撃目標と警告 周辺住民に退避呼びかけ",
-			"url": "https://news.yahoo.co.jp/articles/0c65e9c24874ee25f9e21993b7f93871fb299fed",
-			"note": "イランがフジャイラなどUAE港湾3か所を攻撃目標と宣言し脅威拡大",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/774105c482581258ebc466cc962dd01dc44dc0bdaf1338d59709ad804b3253a5.jpg"
-		},
-		{
-			"number": 7,
+			"number": 14,
 			"title": "トランプ氏 ホルムズ海峡安全確保へ 日本など各国に艦船派遣を期待",
 			"url": "https://news.web.nhk/newsweb/na/na-k10015076011000",
 			"note": "トランプ氏が日中韓英仏に艦船派遣を求めホルムズ防衛に言及",
 			"image": "https://imgu.web.nhk/news/u/news/html/20260315/K10015076011_2603150554_0315055708_01_02.jpg"
 		},
 		{
-			"number": 8,
+			"number": 15,
 			"title": "バンクシーの正体を特定 ロイター報道 手がかりは四半世紀前の逮捕",
 			"url": "https://news.yahoo.co.jp/articles/7e24422e21ee5d8ca9f286a691b07ed1c35afe70",
-			"note": "ロイターがバンクシーを「ロビン・ガニンガム」と特定、逮捕記録が根拠",
+			"note": "ロイターがバンクシーを「ロビン・ガニンガム」と特定",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260315-00000002-asahi-000-3-view.jpg?exp=10800"
+		},
+		{
+			"number": 16,
+			"title": "独の哲学者 ハーバーマスさん死去",
+			"url": "https://news.yahoo.co.jp/pickup/6573150",
+			"note": "ドイツの哲学者ユルゲン・ハーバーマスさんが96歳で死去",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/768c69545513648f672fc17e8fb0db50a67fe65e17a15660510df422fe2f1329.jpg"
 		}
 	]
 }
