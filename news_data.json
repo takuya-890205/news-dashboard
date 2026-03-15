@@ -1,51 +1,66 @@
 {
-	"生成AI・LLM・AIエージェント": [],
-	"デジタルガジェット": [
+	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
+			"title": "Metaは従業員の最大20％の解雇を計画、AIコスト増大を受け",
+			"url": "https://gigazine.net/news/20260315-meta-plan-sweeping-layoffs-ai-costs-mount/",
+			"note": "AI投資拡大に備え最大約1.6万人の大規模解雇を計画",
+			"image": "https://i.gzn.jp/img/2026/03/15/meta-plan-sweeping-layoffs-ai-costs-mount/00_m.jpg"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 2,
 			"title": "MacBook NeoをiFixitが分解 「過去14年で最も修理しやすいMacBook」",
 			"url": "https://www.itmedia.co.jp/news/articles/2603/15/news018.html",
 			"note": "iFixitがMacBook Neoを分解、修理性が過去14年で最高と評価",
 			"image": "https://image.itmedia.co.jp/news/articles/2603/15/cover_news018.jpg"
+		},
+		{
+			"number": 3,
+			"title": "無料でYouTubeなどから動画・音楽をダウンロードできる「ytdlp-interface」公開",
+			"url": "https://gigazine.net/news/20260315-ytdlp-interface/",
+			"note": "yt-dlpのGUI版、広告不要のオープンソースWindowsツール",
+			"image": "https://i.gzn.jp/img/2026/03/15/ytdlp-interface/00.png"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 2,
-			"title": "中国衛星が日本上空を10分に1回通過、自衛隊や米軍基地「監視」",
-			"url": "https://news.yahoo.co.jp/articles/89cb3b805b7422f62f0cfb23792de5080932d54c",
-			"note": "中国偵察衛星約80基が日米基地を高頻度で定期監視していることが判明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260314-00000442-yom-000-9-view.jpg?exp=10800"
-		},
-		{
-			"number": 3,
-			"title": "ウクライナ製無人機導入 政府検討",
-			"url": "https://news.yahoo.co.jp/articles/39a9ee333dd382c7510e01ae6aaf9ed9c5c81150",
-			"note": "実戦経験豊富なウクライナ製攻撃型無人機を自衛隊導入へ検討開始",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/14/a5fa9b1d2922fa62880624278a792241c3af01d9d79a5eddac872232c1cacc62.jpg"
+			"number": 4,
+			"title": "中東からチャーター機で1100人余退避 政府「追加運航なし」",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015075981000",
+			"note": "イラン情勢緊迫で政府が在留邦人退避を支援、追加便なしと発表",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260315/K10015075981_2603142307_0315054341_01_02.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 4,
-			"title": "バンクシーの正体を特定　ロイター報道　手がかりは四半世紀前の逮捕",
-			"url": "https://news.yahoo.co.jp/articles/7e24422e21ee5d8ca9f286a691b07ed1c35afe70",
-			"note": "ロイターがバンクシーを「ロビン・ガニンガム」と特定、00年逮捕記録が根拠",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260315-00000002-asahi-000-3-view.jpg?exp=10800"
-		},
-		{
 			"number": 5,
-			"title": "トランプ、ホルムズ海峡に「艦船」派遣を各国に呼びかけ──日本など名指し",
-			"url": "https://news.yahoo.co.jp/articles/e0636467fd3da3efb6a9b59ee98d9b26a68a58a5",
-			"note": "イラン攻撃後、トランプが日本名指しで海峡防衛への軍艦派遣を要請",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260315-00093783-forbes-000-1-view.jpg?exp=10800"
+			"title": "トランプ政権 イラン停戦交渉を拒否 中東同盟国の働きかけ退ける",
+			"url": "https://news.yahoo.co.jp/articles/d5a84637f7fb49c2964d2f6d035a93bf0486b4b8",
+			"note": "米政権がイランとの外交交渉を拒否、軍事的圧力を継続する姿勢",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/fafd341b937dfd302f234232924fab5dc4cbcbbc168771642412490ce34df169.jpg"
 		},
 		{
 			"number": 6,
-			"title": "トランプ政権元副補佐官が予測、イラン攻撃後の「最大リスク」北京とモスクワが…",
-			"url": "https://news.yahoo.co.jp/articles/abaa38c72e6078985377ec328546adff63b60a71",
-			"note": "イラン政権崩壊で中ロの中東戦略に打撃の可能性を元副補佐官が指摘",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260315-00086727-bunshun-000-1-view.jpg?exp=10800"
+			"title": "イラン、UAE3港を攻撃目標と警告 周辺住民に退避呼びかけ",
+			"url": "https://news.yahoo.co.jp/articles/0c65e9c24874ee25f9e21993b7f93871fb299fed",
+			"note": "イランがフジャイラなどUAE港湾3か所を攻撃目標と宣言し脅威拡大",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/15/774105c482581258ebc466cc962dd01dc44dc0bdaf1338d59709ad804b3253a5.jpg"
+		},
+		{
+			"number": 7,
+			"title": "トランプ氏 ホルムズ海峡安全確保へ 日本など各国に艦船派遣を期待",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015076011000",
+			"note": "トランプ氏が日中韓英仏に艦船派遣を求めホルムズ防衛に言及",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260315/K10015076011_2603150554_0315055708_01_02.jpg"
+		},
+		{
+			"number": 8,
+			"title": "バンクシーの正体を特定 ロイター報道 手がかりは四半世紀前の逮捕",
+			"url": "https://news.yahoo.co.jp/articles/7e24422e21ee5d8ca9f286a691b07ed1c35afe70",
+			"note": "ロイターがバンクシーを「ロビン・ガニンガム」と特定、逮捕記録が根拠",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260315-00000002-asahi-000-3-view.jpg?exp=10800"
 		}
 	]
 }
