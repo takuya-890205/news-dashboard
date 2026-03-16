@@ -13,25 +13,39 @@
 			"url": "https://gigazine.net/news/20260316-bytedance-pauses-global-launch-seedance-2/",
 			"note": "ハリウッドの著作権侵害批判でSeedance 2.0のグローバルリリース延期",
 			"image": "https://i.gzn.jp/img/2026/03/16/bytedance-pauses-global-launch-seedance-2/00_m.jpg"
+		},
+		{
+			"number": 3,
+			"title": "ドコモ前田社長に聞く、新AIサービス「SyncMe」の狙い",
+			"url": "https://news.yahoo.co.jp/articles/a1624dc2b9c9d3a36fbcaddde583962df2d135c2",
+			"note": "dポイントデータをAIで価値変換する新サービスをMWC Barcelona 2026で発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/a7d18b799197691b05369fbac573fb1ad32a626c88066ba21875a4cf9759a5aa.jpg"
+		},
+		{
+			"number": 4,
+			"title": "卒業アルバムなど 性的なAI加工に注意 ディープフェイク被害が深刻化",
+			"url": "https://news.yahoo.co.jp/expert/articles/e0e7e857f94cc4f54e1624174f156efada0948b8",
+			"note": "卒アル写真のディープフェイク悪用が深刻化、10代が被害者・加害者に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitomoko/02576702/title-1773634738340.jpeg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "Apple 創業50周年の祝典を開催、世界中の創造性とイノベーションを表彰",
-			"url": "https://news.yahoo.co.jp/pickup/6573291",
-			"note": "ティム・クックCEOらNYに集結し創立50周年記念祝典を開始",
+			"number": 5,
+			"title": "アップル50周年の祝典がスタート、ティム・クックCEOらがNYに集結",
+			"url": "https://news.yahoo.co.jp/articles/014f992d43084ff703de34d2354105292fa3df72",
+			"note": "Apple創業50周年祝典開始、世界の創造性・イノベーションを数週間表彰",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/57883b9b9952a3ba8df4cfa2a74769ef37e0d360c520661bc0d756e3b99bc9d8.jpg"
 		},
 		{
-			"number": 4,
+			"number": 6,
 			"title": "無料の画像編集アプリ「GIMP 3.2」がリリース、レイヤーリンクとダークモード対応追加",
 			"url": "https://gigazine.net/news/20260316-gimp-3-2/",
 			"note": "外部アプリ編集を即反映するレイヤーリンクとOS連動ダークモードを実装",
 			"image": "https://i.gzn.jp/img/2026/03/16/gimp-3-2/00.png"
 		},
 		{
-			"number": 5,
+			"number": 7,
 			"title": "Adobeがアメリカ司法省と和解、対象ユーザーに約120億円相当のサービスを無償提供",
 			"url": "https://gigazine.net/news/20260316-adobe-settlement-dos/",
 			"note": "Adobe独禁法訴訟和解、影響を受けたユーザーへ約120億円相当のサービスを無償提供",
@@ -40,51 +54,58 @@
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "高市首相、艦船派遣は「対応を検討中」―ホルムズ海峡へのトランプ派遣要請に回答",
+			"number": 8,
+			"title": "高市首相、艦船派遣は「対応を検討中」ホルムズ海峡へのトランプ派遣要請に回答",
 			"url": "https://news.yahoo.co.jp/pickup/6573290",
 			"note": "トランプ大統領のホルムズ海峡艦船派遣要請に高市首相が「検討中」と答弁",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/bad33e10ce0bfbf3e6a67d3c01b25ae972ec2dd3fffab3f128b6407a9ce72554.jpg"
 		},
 		{
-			"number": 7,
-			"title": "石油備蓄の放出開始、過去最大規模8000万バレル―国内備蓄の約2割",
-			"url": "https://news.yahoo.co.jp/pickup/6573274",
-			"note": "イラン情勢悪化受け政府が過去最大8000万バレルの石油備蓄放出を開始",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/f7d00b0bdccd0c4941a5b2f2f37d0435d089bc93171be6717e665a2497c4c672.jpg"
+			"number": 9,
+			"title": "選択的夫婦別姓めぐり 高市総理「慎重な立場」と明言",
+			"url": "https://news.yahoo.co.jp/articles/3f2248591bf4b9cfa8cf60ab80219a03e97e72d8",
+			"note": "参院予算委員会で高市首相が夫婦別姓に慎重姿勢を正式表明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/eb4a80f58ab3e2eb76bdc011ae63d4dcbf386701b5faaa08f936f2ae9cf59272.jpg"
 		},
 		{
-			"number": 8,
-			"title": "中国海警局の船2隻が尖閣沖で領海侵入、漁船に接近",
-			"url": "https://news.yahoo.co.jp/pickup/6573294",
-			"note": "中国海警局公船2隻が尖閣諸島沖の日本領海に侵入、今年3度目",
-			"image": "https://s.yimg.jp/images/news-web/versions/20260313-0d12d24/all/images/jsonld_image_1244x700.png"
+			"number": 10,
+			"title": "自民支持率は31.8%、7.6ポイント減 衆院選前の水準に戻る",
+			"url": "https://news.yahoo.co.jp/articles/fe45425fc8bd05e15627484201bb1d7f01ffafcf",
+			"note": "産経・FNN世論調査で自民支持率が衆院選大勝前の水準に急落",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/ddb4f838b716c390bae2f28ce487d99832860b0903a6d71fd908b60350cb0462.jpg"
+		},
+		{
+			"number": 11,
+			"title": "石油備蓄の放出開始 過去最大見込み、国内備蓄の約2割",
+			"url": "https://news.yahoo.co.jp/articles/528c0efa1464a25ba1c3ae795a6f93f82a89d760",
+			"note": "イラン情勢悪化受け政府が8000万バレルの過去最大規模の石油放出を開始",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/f7d00b0bdccd0c4941a5b2f2f37d0435d089bc93171be6717e665a2497c4c672.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "イラン革命防衛隊元司令官が日本に警告、米軍基地使用なら船舶通過困難に",
-			"url": "https://news.yahoo.co.jp/pickup/6573271",
-			"note": "イラン元司令官が日本の米軍基地使用でイランが日本も攻撃対象にすると警告",
+			"number": 12,
+			"title": "トランプ氏、NATOと中国に圧力 ホルムズ海峡協力巡り=FT",
+			"url": "https://news.yahoo.co.jp/articles/5d8fab48757f5381bcc1f726b8cea129b3b4a7a9",
+			"note": "FTインタビューでNATOと中国に艦船派遣協力を迫り訪中延期も示唆",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/ffff01d32e503006a9ab804b493ad5e2e4f979d4f6dc7054bae65ff131917269.jpg"
+		},
+		{
+			"number": 13,
+			"title": "日本の船狙われる可能性 イラン元司令官が警告 機雷はホルムズ海底に",
+			"url": "https://news.yahoo.co.jp/articles/b58af9df9402bc729782b2970e0b07fcfda5a84f",
+			"note": "イラン革命防衛隊元司令官が日本船舶への攻撃可能性を独占警告",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/6633e0c0e33ddd7214270ba191696ebce40e81a8a7daacd3ade63c0d3a80aa3e.jpg"
 		},
 		{
-			"number": 10,
-			"title": "日本など艦船派遣は「極めて合理的」 米エネルギー長官が表明",
-			"url": "https://news.yahoo.co.jp/pickup/6573258",
-			"note": "米エネルギー長官がホルムズ封鎖で被害を受ける日本への艦船派遣要請を合理的と支持",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/fd08f3faf03e2e6b110a0453ad3de2c7b24a34b2d2443012bfbea8739a9dd014.jpg"
-		},
-		{
-			"number": 11,
-			"title": "ネタニヤフ首相が「死亡説」を否定、「きょうもイランを激しく攻撃」と宣言",
+			"number": 14,
+			"title": "ネタニヤフ首相が死亡説を否定、きょうもイランを激しく攻撃と宣言",
 			"url": "https://news.yahoo.co.jp/pickup/6573262",
 			"note": "ネタニヤフ首相が動画で死亡説を否定し、イランへの攻撃継続を宣言",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/37aaeec7da04d34c38c4efd5674c128fb6b66606b44be722f21868591669dbe7.jpg"
 		},
 		{
-			"number": 12,
+			"number": 15,
 			"title": "キューバで停電巡り異例の暴動か、共産党事務所が襲撃される",
 			"url": "https://news.yahoo.co.jp/pickup/6573265",
 			"note": "米制裁による慢性的停電に怒るデモ隊が共産党事務所を襲撃、一党独裁下で異例",
