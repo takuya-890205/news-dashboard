@@ -2,113 +2,113 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "SBG、米オハイオ州に80兆円規模の巨大AI拠点を建設へ",
-			"url": "https://news.yahoo.co.jp/pickup/6573762",
-			"note": "孫正義氏、日米21社参画の巨大データセンター計画発表",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/4a5cd46e1f51e38f7aa32193eda97d53054b043f9c3f62763fe578bd5739071d.jpg"
+			"title": "ソフトバンクGなど日本企業連合、米オハイオ州でAIインフラ5兆円投資",
+			"url": "https://news.yahoo.co.jp/articles/ca78166bf3ea9e05a173d33aec29c5b9b7189678",
+			"note": "SBG主導で巨大AIデータセンター建設、ガス火力で電力確保",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-00183020-biz_plus-000-3-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "新人は「AI使用禁止」の企業、なぜ？思考力育成の議論広がる",
-			"url": "https://news.yahoo.co.jp/pickup/6573773",
-			"note": "AI普及の裏で新入社員のAI利用を禁じる企業が出現",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/f84b32df34084bb0c70da808432f32d4568111c235c64b2032553d089491f960.jpg"
+			"title": "新人に「AI使用禁止令」は是か非か？言語脳科学の権威は警鐘",
+			"url": "https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3",
+			"note": "AI禁止で基礎力向上の一方、思考力喪失の懸念も",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-10233022-abema-000-4-view.jpg?exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "NVIDIA、GTC 2026で次世代AIチップ「Vera Rubin」発表",
+			"title": "NVIDIA、GTC 2026で次世代AIプラットフォーム「Vera Rubin」発表",
 			"url": "https://monoist.itmedia.co.jp/mn/articles/2603/21/news008.html",
-			"note": "推論コスト10分の1、6つの新チップで量産開始",
-			"image": ""
-		},
-		{
-			"number": 4,
-			"title": "Microsoft、Windows 11の「Copilot」統合見直しを計画",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/21/news021.html",
-			"note": "タスクバー移動機能復活やCopilot配置の再検討",
+			"note": "Groq 3 LPU統合で推論スループット最大35倍に",
 			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
+			"number": 4,
 			"title": "PC価格は17%上昇し格安モデルは消滅、メモリ暴騰の影響深刻",
 			"url": "https://news.yahoo.co.jp/articles/4546198b9a76ebc4c0dfdf3afb1cfa0fd6661848",
 			"note": "AI向けHBM優先でDDR5生産減、PC市場に深刻な影響",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-00000001-zdn_tt-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 6,
+			"number": 5,
 			"title": "中国TECNO、3つ折りスマホ「PHANTOM Ultimate G Fold」発表",
 			"url": "https://www.itmedia.co.jp/mobile/articles/2603/21/news019.html",
 			"note": "G字型ヒンジで薄型化、MWC 2026で展示",
 			"image": "https://image.itmedia.co.jp/mobile/articles/2603/21/cover_news019.jpg"
 		},
 		{
-			"number": 7,
+			"number": 6,
 			"title": "NTTソノリティ、耳をふさがない集音器「cocoe Ear」発表",
 			"url": "https://www.itmedia.co.jp/pcuser/articles/2603/21/news020.html",
 			"note": "TV音量問題を解消、個人音響化技術搭載で3.96万円",
 			"image": "https://image.itmedia.co.jp/pcuser/articles/2603/21/cover_news020.jpg"
 		},
 		{
-			"number": 8,
-			"title": "マイクロソフト、「Windows 11」の品質向上を表明",
-			"url": "https://news.yahoo.co.jp/articles/cdb95d0993812c4e93f5217d7cb17c1d850e33fb",
-			"note": "顧客の不満を受け、安定性改善に本格着手",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-35245301-zdnet-000-1-view.jpg?exp=10800"
+			"number": 7,
+			"title": "古いiPhone・iOSユーザーはすぐにアップデートを、アップルが厳重警告",
+			"url": "https://news.yahoo.co.jp/articles/159a9f8e4d547b5365a47c4a4565b65cbb1334d1",
+			"note": "iOS 13・14を狙うエクスプロイトキットの脅威に緊急警告",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-00094157-forbes-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 8,
+			"title": "高市首相、日米首脳会談を終え帰国の途に",
+			"url": "https://news.yahoo.co.jp/articles/3e09d969da16fe914bea6556e3d54e07a841783e",
+			"note": "初訪米を終え帰国、対米投融資11.5兆円で合意",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-04726973-nnn-000-2-thumb.jpg?exp=10800"
+		},
+		{
 			"number": 9,
-			"title": "高市首相、訪米終え帰国の途　ホルムズ海峡対応の検討継続",
-			"url": "https://www.nikkei.com/article/DGXZQOUA210810R20C26A3000000/",
-			"note": "日米首脳会談を終え、ホルムズ対応は今後も検討",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2783936021032026000000-1.jpg"
+			"title": "首相、維新との連立合意内容の実現に決意表明",
+			"url": "https://news.yahoo.co.jp/articles/28319f3b44c68ea110f94f6fa891e993c10912a5",
+			"note": "維新党大会でビデオメッセージ、経済・外交・改憲を推進",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/2fb838357bf764dc007071673c0ff1a84be4d1d7bb066d7346c0ba5a0e680e68.jpg"
 		},
 		{
 			"number": 10,
-			"title": "関西ドクターヘリ2機減へ、人材難で運航体制に影響",
-			"url": "https://news.yahoo.co.jp/pickup/6573768",
-			"note": "医師不足でドクターヘリの運航体制縮小の見通し",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/05485e1045f9b6fd7b3f4308725d787ba2a6eadac53b209cbd96d645441133c1.jpg"
+			"title": "大島元衆院議長、予算審議の速さに苦言",
+			"url": "https://news.yahoo.co.jp/articles/e4ed5f468c101f7008036c1687645cb8f77fb8b0",
+			"note": "歴代最長議長が充実した国会議論の重要性を主張",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/74aab65ff12f58cd30593e9f39e65ac812207ef318eff6a8f4c8d2957e2055d7.jpg"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 11,
-			"title": "イラン外相、日本船のホルムズ海峡通過を認める用意",
-			"url": "https://news.yahoo.co.jp/pickup/6573764",
-			"note": "日本との協議を経て通過認める可能性を示唆",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/dbc61703b9d7be37687677619652ded2ea580d8dfc05729b2fedd8a687122619.jpg"
+			"title": "トランプ氏「日本関与せざるを得ない」ホルムズ海峡の安全確保で",
+			"url": "https://www.jiji.com/jc/article?k=2026032100204&g=int",
+			"note": "中東原油依存を指摘、日本に海峡安全確保への関与要求",
+			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260321ds40_o.jpg"
 		},
 		{
 			"number": 12,
-			"title": "トランプ大統領、対イラン軍事作戦の縮小を検討",
-			"url": "https://news.yahoo.co.jp/pickup/6573755",
-			"note": "目標達成に近づいていると発表、縮小に含み",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/0ef20c092c98ad9ea96f4ccfa5db0f96ba64165968d9407bae282356aa71a927.jpg"
+			"title": "イラン外相、日本船のホルムズ海峡通過を認める用意を表明",
+			"url": "https://news.yahoo.co.jp/articles/2e9801f39d3e5de4bf1c32aa6af2417488f950b8",
+			"note": "日本との協議で海峡通過容認の姿勢を示す",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/dbc61703b9d7be37687677619652ded2ea580d8dfc05729b2fedd8a687122619.jpg"
 		},
 		{
 			"number": 13,
-			"title": "米、中東に海兵隊員ら数千人を追加派遣へ",
-			"url": "https://news.yahoo.co.jp/pickup/6573752",
-			"note": "ロイター報道、中東地域の軍事プレゼンス強化",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/2ad89f4cdb46d33e52bb03173bbfe988be0b107ce08671017650d3ce1beeee0d.jpg"
+			"title": "ドイツ、安保で日本との連携強化に意欲 インド太平洋に部隊派遣拡大",
+			"url": "https://news.yahoo.co.jp/articles/081a12887d0635a89318ab88ac1864dc19709747",
+			"note": "独国防相が過去最大規模の空軍部隊派遣を予定",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-00000093-kyodonews-000-8-view.jpg?exp=10800"
 		},
 		{
 			"number": 14,
-			"title": "米国防総省の取材規制、連邦地裁が違憲と判断",
-			"url": "https://news.yahoo.co.jp/pickup/6573769",
-			"note": "報道の自由を保障する憲法修正第1条に違反",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/754562c04e0fc1cb89a342ff8c1b53675923a02ff1ac97db8339d3ce55a636d5.jpg"
+			"title": "ツイッター買収訴訟でマスク氏敗訴、投資家を欺いたと認定",
+			"url": "https://news.yahoo.co.jp/pickup/6573803",
+			"note": "連邦地裁がTwitter買収で投資家欺きと判断",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/7c3e4e4ea89eb61cd207dadc0d70a205a4c789f2b43679168cc4429ad3caea1b.jpg"
 		},
 		{
 			"number": 15,
-			"title": "韓国の自動車部品工場で大規模火災、10人死亡4人不明",
-			"url": "https://news.yahoo.co.jp/pickup/6573761",
-			"note": "自動車部品工場で火災、被害拡大の恐れ",
+			"title": "韓国中部の自動車部品工場で大規模火災、10人死亡4人不明",
+			"url": "https://news.yahoo.co.jp/articles/324fa34aa5f261bd20f24b10faf6cefc56e184ec",
+			"note": "自動車部品工場で火災、救助活動続く",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/02b30d68ca6dd01e994582ea0cb771877d1b57f7d398e8efb73654807f34d2d6.jpg"
 		}
 	]
