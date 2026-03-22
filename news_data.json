@@ -2,16 +2,16 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "GPT-5.4 mini／nanoリリースなど週末ITニュースまとめ",
+			"title": "「GPT-5.4 mini」「GPT-5.4 nano」のリリースからWindows 11のセキュリティパッチまで！ 今週のITニュースまとめ",
 			"url": "https://www.itmedia.co.jp/pcuser/articles/2603/22/news015.html",
-			"note": "OpenAI新モデルGPT-5.4 mini/nanoの性能と活用法を解説",
+			"note": "OpenAI新モデルGPT-5.4 mini/nanoなど今週のIT動向を総括",
 			"image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_pcuser.gif"
 		},
 		{
 			"number": 2,
 			"title": "ドライブスルーAIで注文するとジャンキーな食べ物を選んでしまいがちになるという研究結果",
 			"url": "https://gigazine.net/news/20260322-drive-thru-ai-indulgent-food/",
-			"note": "音声AIが食の選択に心理的影響を与えることが判明",
+			"note": "音声AIとの対話が高カロリー食品選択を促進と判明",
 			"image": "https://i.gzn.jp/img/2026/03/22/drive-thru-ai-indulgent-food/00.jpg"
 		}
 	],
@@ -27,25 +27,74 @@
 			"number": 4,
 			"title": "バルミューダが\"6万円の時計\"発表、価格や仕様が「人を選ぶ」一台に…体験重視の設計も",
 			"url": "https://news.yahoo.co.jp/articles/183f3355e0b2d644e4f3501974018691283a1386",
-			"note": "体験重視設計の高級デスク時計を新発表",
+			"note": "75個のLEDと環境音で時を表現する体験重視の高級時計",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00071600-otakulab-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 5,
+			"title": "空冷ファン搭載スマホがまた登場　ゲーミングモデルの標準機能になる？",
+			"url": "https://news.yahoo.co.jp/articles/1f9368e7aba8fe1d479db228b33e2b3049b1aa87",
+			"note": "iQOO 15 Ultra発表、空冷ファン搭載が業界トレンドに",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000001-zdn_m-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
+			"number": 6,
 			"title": "世界が注目した日米首脳会談で「高市総理は正しい訴え方をした」　トランプ大統領の支持率低下　広がる\"イラン攻撃反対\"",
 			"url": "https://news.yahoo.co.jp/articles/f1c81e6f81653e97c542f7aec85142fe6a55207e",
-			"note": "日米首脳会談の評価と専門家解説",
+			"note": "高市首相のエネルギー投資戦略が交渉成功と評価",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00010000-asahibc-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
+			"title": "タブレットは「品位」を欠くのか　本会議で使用不可、解禁求める声【政界Web】",
+			"url": "https://news.yahoo.co.jp/pickup/6573859",
+			"note": "国会本会議場でのタブレット使用解禁を巡る議論",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/22/df6dced7761f952f7d99bc1de851eb5232142fee9f9495f58da66f8009e1fc50.jpg"
+		},
+		{
+			"number": 8,
+			"title": "イランで拘束の邦人 1人が帰国",
+			"url": "https://news.yahoo.co.jp/pickup/6573870",
+			"note": "イラン拘束の邦人2人のうち1人が帰国、残り1人も交渉中",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/22/2f13d2b1b75763a4fd827db923dd37b28a645c8ed7478e60f9285f321b007a05.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 6,
+			"number": 9,
+			"title": "【速報】トランプ大統領「48時間以内にホルムズ海峡を完全に開放しない場合、イランの発電所を攻撃し、壊滅させる」",
+			"url": "https://news.yahoo.co.jp/articles/6f37ce65cec433357f3c70bbbca7f49c2d24ea24",
+			"note": "トランプ氏がイランに48時間の最後通牒、発電所攻撃を警告",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-07293894-jnn-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "米国、イランの兵器保管施設を破壊 ホルムズ海峡への脅威「低下」",
+			"url": "https://news.yahoo.co.jp/articles/3128bb9102a86ba8d38b73a15a038dd881d6be5c",
+			"note": "米軍がイラン沿岸の地下兵器施設を爆撃、対艦能力を低下",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000004-jij_afp-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "イランがイスラエル南部攻撃、100人超負傷 迎撃失敗",
+			"url": "https://news.yahoo.co.jp/articles/20f9c55b3de78662ec776750a2f33a3c424623b0",
+			"note": "イランのミサイルが防空網を突破、イスラエル南部で大規模被害",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000005-jij_afp-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "22か国がホルムズ海峡の安全確保に協力表明、共同声明",
+			"url": "https://news.yahoo.co.jp/articles/24b80cb10dfa743b96ddb0f3376d8abfef10ae4c",
+			"note": "欧州中心に22か国がイランの海峡封鎖を非難、航行安全を表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000001-jij_afp-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
 			"title": "中東情勢混乱でロシアはクーデター懸念、カタールのLNG生産停止は世界に影響",
 			"url": "https://news.yahoo.co.jp/articles/1b4e6eda115f4ba3ee75699e362ec7cb989abf14",
-			"note": "中東危機がロシア・カタールに波及、世界経済に影響",
+			"note": "中東危機がロシア・カタールに波及、世界エネルギー供給に影響",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00094172-forbes-000-1-view.jpg?exp=10800"
 		}
 	]
