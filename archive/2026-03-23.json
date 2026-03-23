@@ -2,86 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "【最新動向】AIバブルは崩壊するのか？ イラン情勢を背景にAI・半導体・電力が一蓮托生で沈む新シナリオ",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/23/news018.html",
-			"note": "AIバブル崩壊の可能性とエネルギー危機の影響を分析",
-			"image": "https://image.itmedia.co.jp/ait/articles/2603/23/cover_news018.jpg"
+			"title": "OpenClawとは？NVIDIAも絶賛した中国発AIエージェントがなぜ世界で爆発的に広まっているのか",
+			"url": "https://digital-hacks.jp/blog/archives/22758",
+			"note": "中国発オープンソースAIエージェントが世界的ブームに",
+			"image": "https://digital-hacks.jp/blog/wp-content/uploads/2026/03/Create_a_professional_eye-catching_blog_thumbnail-1774223977267.jpg"
 		},
 		{
 			"number": 2,
-			"title": "VS Codeチームは週次リリースをどう実現したのか AIエージェント活用で見えた6つのポイント",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/23/news022.html",
-			"note": "VS CodeがAIエージェント活用で週次リリースを実現",
-			"image": "https://image.itmedia.co.jp/ait/articles/2603/23/cover_news022.jpg"
+			"title": "コーディングAI「Cursor」、新モデルの中国製基盤「Kimi」利用を認め透明性問題が浮上",
+			"url": "https://note.com/hitori_de_life/n/n50ba557d9773",
+			"note": "CursorがKimi基盤利用を認めAI透明性が問題に",
+			"image": "https://assets.st-note.com/production/uploads/images/261347964/f3fa2b68316d7645392f8e5e8ac9f9af.png"
 		},
 		{
 			"number": 3,
-			"title": "マスク氏、次世代半導体工場「Terafab」発表 計算リソースは宇宙空間へ",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/23/news053.html",
-			"note": "マスク氏がAI半導体工場Terafab構想を発表",
-			"image": ""
+			"title": "「2040年に売上40兆円」の勝ち筋は？ 経産省が描く「AI・半導体・ロボット」三位一体の産業戦略",
+			"url": "https://www.itmedia.co.jp/business/articles/2603/23/news024.html",
+			"note": "経産省がAI・半導体・ロボット統合産業戦略を提示",
+			"image": "https://image.itmedia.co.jp/business/articles/2603/23/cover_news024.jpg"
+		},
+		{
+			"number": 4,
+			"title": "「罰を与えるには銃を使え」10代の凶悪犯罪に加担するAI、銃撃や爆破の計画に助言",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/23/news036.html",
+			"note": "生成AIがテロ・暴力計画に悪用される実態を調査",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/23/l_tm1636144_03191_1_w490.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "せっかくのMWCなのでAirPods Pro 3の「ライブ翻訳」機能を試してみた",
-			"url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2094551.html",
-			"note": "MWCでAirPods Pro 3のリアルタイム翻訳を実機検証",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2094/551/1.jpg"
+			"number": 5,
+			"title": "Windows 11の大改革。メモリ削減やMicrosoftアカウント不要化へ",
+			"url": "https://news.yahoo.co.jp/articles/a5d033b783b011ce37c6a0dbe49378a107dfca48",
+			"note": "Windows 11が性能改善とMSアカウント強制を廃止",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000001-imppcw-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
-			"title": "春のCIOケーブルたちが俺の財布を空にしていく!!!",
-			"url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2094177.html",
-			"note": "CIOの最新ケーブル製品を複数購入レビュー",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2094/177/stptncs2026-03-23thumbnail.jpg"
+			"number": 6,
+			"title": "サムスン電子のGalaxyが「AirDrop」に対応 iPhoneなどと写真のやりとりが可能に",
+			"url": "https://www.itmedia.co.jp/mobile/articles/2603/23/news058.html",
+			"note": "GalaxyのQuick ShareがApple AirDropと連携",
+			"image": "https://image.itmedia.co.jp/mobile/articles/2603/23/cover_news058.jpg"
+		},
+		{
+			"number": 7,
+			"title": "GoogleがAndroidで安全なAPKサイドローディングを実現する「Advanced Flow」の詳細を発表",
+			"url": "https://gigazine.net/news/20260323-google-android-advanced-flow/",
+			"note": "Google、詐欺対策としてAPK導入に24時間待機を導入",
+			"image": "https://i.gzn.jp/img/2026/03/23/google-android-advanced-flow/00.png"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "自衛隊派遣「すべきでない」52％ 8割超がイラン攻撃「支持しない」 ANN世論調査",
-			"url": "https://news.yahoo.co.jp/articles/b422ce00be6d88899be6a1b2d97c8644da1c0558",
-			"note": "ホルムズ海峡封鎖受け自衛隊派遣に反対が過半数",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/23/e8dae24a6bdc84c8069113f1340dabda5976c01990c04048e9c714e6b1daf692.jpg"
+			"number": 8,
+			"title": "政府「暫定予算案」を編成する方向で検討 新年度予算案の年度内成立厳しさ増す",
+			"url": "https://news.yahoo.co.jp/articles/680dfd0ccf0f2827a612e0ad76418073e52a9183",
+			"note": "新年度予算の年度内成立困難で暫定予算を検討",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-07294012-jnn-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "首相答弁後 中国が大規模認知戦か",
+			"number": 9,
+			"title": "自衛隊派遣「すべきでない」52% 8割超がイラン攻撃「支持しない」 ANN世論調査",
+			"url": "https://news.yahoo.co.jp/articles/b422ce00be6d88899be6a1b2d97c8644da1c0558",
+			"note": "ホルムズ派遣に反対52%、イラン攻撃不支持86%",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000002-ann-000-10-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "中国が大規模な認知戦、高市首相答弁後に対日批判の投稿急増…読売・サカナAIが共同分析",
 			"url": "https://news.yahoo.co.jp/articles/ef1359ae83f2a97a73f528e05e3eaa6e829adbc9",
-			"note": "高市首相答弁後の中国による大規模情報戦を報道",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/23/761dc89cb5d149aeebb26bf76f9b3d0eeeac1d22a132f98972338a85794a4ed2.jpg"
+			"note": "中国のSNS認知戦をAI分析で初めて実態解明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000255-yom-000-17-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "中道改革連合、事務局構築に本腰…資金難で1億円CFに「焼け石に水」の声も",
+			"url": "https://news.yahoo.co.jp/articles/b3bc6205c74d1f84ed4b7d3e355d95b8525daa93",
+			"note": "中道改革連合が組織基盤強化も深刻な資金難",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000347-yom-000-2-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 8,
+			"number": 12,
+			"title": "イラン、日本を名指しして「ホルムズの通行について協議」…日本外相は否定",
+			"url": "https://news.yahoo.co.jp/articles/4d15f452984df77588d7cff22a0707c5115ef34a",
+			"note": "イランが日本とのホルムズ通行協議を主張、外相否定",
+			"image": ""
+		},
+		{
+			"number": 13,
+			"title": "米国連大使「日本の総理が自衛隊による支援を約束」と主張 ホルムズ海峡の安全な航行確保で",
+			"url": "https://news.yahoo.co.jp/articles/86b2207357e6ec7f7a835c02813f084c62dac7c0",
+			"note": "米国が自衛隊支援約束を主張、日本側は明言せず",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-07293971-jnn-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 14,
+			"title": "NATO事務総長、ホルムズ海峡を再開できると「確信」",
+			"url": "https://news.yahoo.co.jp/articles/3fa344134f3bb11dfe57fb04caba9a73d5bb7985",
+			"note": "NATO事務総長がホルムズ海峡の再開に自信を表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-35245342-cnn-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 15,
 			"title": "「トランプよ、彼らの目を見ろ」イラン紙一面に衝撃の1枚が掲載",
 			"url": "https://news.yahoo.co.jp/articles/2d29313c52b6687f3a7e83c16a80e56ffe9db7df",
-			"note": "イラン紙がミナブ空爆犠牲者写真で米国を非難",
+			"note": "イラン紙がトランプ氏名指しで空爆犠牲者を報道",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-10054057-bfj-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 9,
-			"title": "イラン側 発電所攻撃なら海峡封鎖",
-			"url": "https://news.yahoo.co.jp/articles/a3675b8989647a45a1d5ae3790aded322e427809",
-			"note": "発電所攻撃示唆にイランが海峡完全封鎖で対抗",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/23/ee154c49353489d34fb1a199d70f98829f09ea35e2885c7ec85e3e59f2fe856f.jpg"
-		},
-		{
-			"number": 10,
-			"title": "「最強鋭の第82空挺師団が派兵準備」…米地上軍投入の兆候",
-			"url": "https://news.yahoo.co.jp/articles/3a1a362052849fbb28392aa158db1386e9ed9187",
-			"note": "米軍第82空挺師団がイラン地上戦に備え配備準備",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000001-cnippou-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 11,
-			"title": "米国連大使「日本の総理が自衛隊による支援を約束」と主張",
-			"url": "https://news.yahoo.co.jp/articles/86b2207357e6ec7f7a835c02813f084c62dac7c0",
-			"note": "米国連大使がホルムズ安全確保で日本の自衛隊支援を主張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-07293971-jnn-000-3-view.jpg?exp=10800"
+			"number": 16,
+			"title": "韓国国内で保管中の国際共同備蓄原油、イラン戦争後90万バレルを海外に販売していた",
+			"url": "https://news.yahoo.co.jp/articles/02c3fc8dd1449f0275b6fae94fbef0a1099d83f3",
+			"note": "韓国が備蓄原油90万バレルを海外販売、監査着手",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00080014-chosun-000-11-view.jpg?exp=10800"
 		}
 	]
 }
