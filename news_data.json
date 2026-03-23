@@ -2,31 +2,31 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenClawとは？NVIDIAも絶賛した中国発AIエージェントがなぜ世界で爆発的に広まっているのか",
-			"url": "https://digital-hacks.jp/blog/archives/22758",
-			"note": "中国発オープンソースAIエージェントが世界的ブームに",
-			"image": "https://digital-hacks.jp/blog/wp-content/uploads/2026/03/Create_a_professional_eye-catching_blog_thumbnail-1774223977267.jpg"
+			"title": "TencentがWeChatにOpenClawベースのAIエージェント「微信ClawBot」を発表、10億人超が利用可能に",
+			"url": "https://gigazine.net/news/20260323-tencent-weixin-wechat/",
+			"note": "WeChatにAIエージェント統合、アプリ切替不要に",
+			"image": "https://i.gzn.jp/img/2026/03/23/tencent-weixin-wechat/00_m.png"
 		},
 		{
 			"number": 2,
-			"title": "コーディングAI「Cursor」、新モデルの中国製基盤「Kimi」利用を認め透明性問題が浮上",
-			"url": "https://note.com/hitori_de_life/n/n50ba557d9773",
-			"note": "CursorがKimi基盤利用を認めAI透明性が問題に",
-			"image": "https://assets.st-note.com/production/uploads/images/261347964/f3fa2b68316d7645392f8e5e8ac9f9af.png"
-		},
-		{
-			"number": 3,
 			"title": "「2040年に売上40兆円」の勝ち筋は？ 経産省が描く「AI・半導体・ロボット」三位一体の産業戦略",
 			"url": "https://www.itmedia.co.jp/business/articles/2603/23/news024.html",
 			"note": "経産省がAI・半導体・ロボット統合産業戦略を提示",
 			"image": "https://image.itmedia.co.jp/business/articles/2603/23/cover_news024.jpg"
 		},
 		{
-			"number": 4,
+			"number": 3,
 			"title": "「罰を与えるには銃を使え」10代の凶悪犯罪に加担するAI、銃撃や爆破の計画に助言",
 			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/23/news036.html",
 			"note": "生成AIがテロ・暴力計画に悪用される実態を調査",
 			"image": "https://image.itmedia.co.jp/aiplus/articles/2603/23/l_tm1636144_03191_1_w490.jpg"
+		},
+		{
+			"number": 4,
+			"title": "トランプ支持の美しい金髪の陸軍女性兵士ジェシカ・フォスターは100％AI製のニセモノだった",
+			"url": "https://gigazine.net/news/20260323-jessicaa-foster-ai/",
+			"note": "SNS上の愛国ポルノを煽るAI生成人物が発覚",
+			"image": "https://i.gzn.jp/img/2026/03/23/jessicaa-foster-ai/00.jpg"
 		}
 	],
 	"デジタルガジェット": [
@@ -46,77 +46,91 @@
 		},
 		{
 			"number": 7,
-			"title": "GoogleがAndroidで安全なAPKサイドローディングを実現する「Advanced Flow」の詳細を発表",
-			"url": "https://gigazine.net/news/20260323-google-android-advanced-flow/",
-			"note": "Google、詐欺対策としてAPK導入に24時間待機を導入",
-			"image": "https://i.gzn.jp/img/2026/03/23/google-android-advanced-flow/00.png"
+			"title": "「motorola razr 60」FIFA ワールドカップ2026限定モデルが登場、3月31日発売",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2095299.html",
+			"note": "背面にFIFAロゴ入り限定モデル、価格102,026円",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2095/299/list.jpg"
+		},
+		{
+			"number": 8,
+			"title": "HUAWEIが新製品3種を発表、目玉はランナー向け「WATCH GT Runner 2」",
+			"url": "https://www.gizmodo.jp/2026/03/huawei_gt-runner-2_smartwatch.html",
+			"note": "約34.5g・10.7mm薄型のランニングウォッチ",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/18/2603_HUAWEIWATCHRUNNER2_01-A.jpeg?w=1280"
+		},
+		{
+			"number": 9,
+			"title": "「スマホ業界の巨大な闇」──告発動画でベンチマークブースト問題が再燃",
+			"url": "https://www.itmedia.co.jp/news/articles/2603/23/news091.html",
+			"note": "ゲーミングスマホのベンチ不正が議論に",
+			"image": "https://image.itmedia.co.jp/news/articles/2603/23/l_ts0153_boostmode01.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
-			"title": "政府「暫定予算案」を編成する方向で検討 新年度予算案の年度内成立厳しさ増す",
-			"url": "https://news.yahoo.co.jp/articles/680dfd0ccf0f2827a612e0ad76418073e52a9183",
-			"note": "新年度予算の年度内成立困難で暫定予算を検討",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-07294012-jnn-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 9,
-			"title": "自衛隊派遣「すべきでない」52% 8割超がイラン攻撃「支持しない」 ANN世論調査",
-			"url": "https://news.yahoo.co.jp/articles/b422ce00be6d88899be6a1b2d97c8644da1c0558",
-			"note": "ホルムズ派遣に反対52%、イラン攻撃不支持86%",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000002-ann-000-10-thumb.jpg?exp=10800"
-		},
-		{
 			"number": 10,
-			"title": "中国が大規模な認知戦、高市首相答弁後に対日批判の投稿急増…読売・サカナAIが共同分析",
-			"url": "https://news.yahoo.co.jp/articles/ef1359ae83f2a97a73f528e05e3eaa6e829adbc9",
-			"note": "中国のSNS認知戦をAI分析で初めて実態解明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000255-yom-000-17-view.jpg?exp=10800"
+			"title": "「ドナルドだけ」発言について高市首相が説明",
+			"url": "https://news.yahoo.co.jp/articles/8b9020df507401e7faf156c5355ed6d9509e1ac2",
+			"note": "日米首脳会談での呼称発言を首相が釈明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000032-jij-000-11-view.jpg?exp=10800"
 		},
 		{
 			"number": 11,
-			"title": "中道改革連合、事務局構築に本腰…資金難で1億円CFに「焼け石に水」の声も",
-			"url": "https://news.yahoo.co.jp/articles/b3bc6205c74d1f84ed4b7d3e355d95b8525daa93",
-			"note": "中道改革連合が組織基盤強化も深刻な資金難",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260322-00000347-yom-000-2-view.jpg?exp=10800"
+			"title": "政府「暫定予算案」を編成する方向で検討 新年度予算案の年度内成立厳しさ増す",
+			"url": "https://news.yahoo.co.jp/articles/680dfd0ccf0f2827a612e0ad76418073e52a9183",
+			"note": "新年度予算の年度内成立困難で暫定予算を検討",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-07294012-jnn-000-4-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "自衛隊派遣「すべきでない」52% 8割超がイラン攻撃「支持しない」 ANN世論調査",
+			"url": "https://news.yahoo.co.jp/articles/b422ce00be6d88899be6a1b2d97c8644da1c0558",
+			"note": "ホルムズ派遣に反対52%、イラン攻撃不支持86%",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000002-ann-000-12-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "ガソリン補助に予備費8千億円活用",
+			"url": "https://news.yahoo.co.jp/articles/8fb38750d86930162fc05ea44ec40135347a4a9b",
+			"note": "原油高騰対策として予備費から大規模支出",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000070-kyodonews-000-20-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 12,
-			"title": "イラン、日本を名指しして「ホルムズの通行について協議」…日本外相は否定",
-			"url": "https://news.yahoo.co.jp/articles/4d15f452984df77588d7cff22a0707c5115ef34a",
-			"note": "イランが日本とのホルムズ通行協議を主張、外相否定",
-			"image": ""
-		},
-		{
-			"number": 13,
-			"title": "米国連大使「日本の総理が自衛隊による支援を約束」と主張 ホルムズ海峡の安全な航行確保で",
-			"url": "https://news.yahoo.co.jp/articles/86b2207357e6ec7f7a835c02813f084c62dac7c0",
-			"note": "米国が自衛隊支援約束を主張、日本側は明言せず",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-07293971-jnn-000-4-view.jpg?exp=10800"
-		},
-		{
 			"number": 14,
-			"title": "NATO事務総長、ホルムズ海峡を再開できると「確信」",
-			"url": "https://news.yahoo.co.jp/articles/3fa344134f3bb11dfe57fb04caba9a73d5bb7985",
-			"note": "NATO事務総長がホルムズ海峡の再開に自信を表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-35245342-cnn-000-1-view.jpg?exp=10800"
+			"title": "76人搭乗の機体が消防車と衝突、機長ら死亡 NY空港で全便運航停止",
+			"url": "https://news.yahoo.co.jp/articles/b21f0df1f6fb2027ba92c29c8d62ae0852a592d2",
+			"note": "ニューヨーク空港で航空機と消防車が衝突する重大事故",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00000014-jij_afp-000-7-view.jpg?exp=10800"
 		},
 		{
 			"number": 15,
+			"title": "イラン、ホルムズ海峡「完全封鎖」警告　発電所攻撃なら湾岸諸国も標的",
+			"url": "https://www.jiji.com/jc/article?k=2026032300133&g=int",
+			"note": "米の48時間最後通牒にイランが全面対決姿勢",
+			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260323ax02S_o.jpg"
+		},
+		{
+			"number": 16,
+			"title": "【解説】イランが米F-35ステルス戦闘機に熱源追尾ミサイルで反撃か?",
+			"url": "https://news.yahoo.co.jp/articles/2919be08c8d8988e55c4c088a2aa3669a00fd550",
+			"note": "イランが最新鋭F-35に対しミサイル迎撃の可能性",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-01118601-fnnprimev-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 17,
 			"title": "「トランプよ、彼らの目を見ろ」イラン紙一面に衝撃の1枚が掲載",
 			"url": "https://news.yahoo.co.jp/articles/2d29313c52b6687f3a7e83c16a80e56ffe9db7df",
 			"note": "イラン紙がトランプ氏名指しで空爆犠牲者を報道",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-10054057-bfj-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 16,
-			"title": "韓国国内で保管中の国際共同備蓄原油、イラン戦争後90万バレルを海外に販売していた",
-			"url": "https://news.yahoo.co.jp/articles/02c3fc8dd1449f0275b6fae94fbef0a1099d83f3",
-			"note": "韓国が備蓄原油90万バレルを海外販売、監査着手",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-00080014-chosun-000-11-view.jpg?exp=10800"
+			"number": 18,
+			"title": "NATO事務総長、ホルムズ海峡を再開できると「確信」",
+			"url": "https://news.yahoo.co.jp/articles/3fa344134f3bb11dfe57fb04caba9a73d5bb7985",
+			"note": "NATO事務総長がホルムズ海峡の再開に自信を表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260323-35245342-cnn-000-1-view.jpg?exp=10800"
 		}
 	]
 }
