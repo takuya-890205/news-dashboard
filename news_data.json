@@ -1,108 +1,108 @@
 {
-	"生成AI・LLM・AIエージェント": [
-		{
-			"number": 1,
-			"title": "アマゾン・グーグルらVSエヌビディア「攻防戦」の行く末予想、AI時代の「覇者」は誰？",
-			"url": "https://news.yahoo.co.jp/articles/a5c81596ec4b53cf0d18f7cd9432ff0e4587bc86",
-			"note": "AI半導体の覇権争いと各社の戦略を徹底分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00182554-biz_plus-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 2,
-			"title": "AIコーディングで現場が疲弊するのはツールのせいではない──KDDIアジャイル開発センターに聞く「本当の生産性」",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/24/news010.html",
-			"note": "正しく取り組めない組織は数カ月で時代に取り残される",
-			"image": ""
-		},
-		{
-			"number": 3,
-			"title": "341職種をAI×データで分析「伸びる」か「危機」か、あなたの仕事はどっち？",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/24/news018.html",
-			"note": "AIによる職種別影響をデータで可視化",
-			"image": "https://image.itmedia.co.jp/ait/articles/2603/24/cover_news018.jpg"
-		}
-	],
-	"デジタルガジェット": [
-		{
-			"number": 4,
-			"title": "【本日から】PayPayポイントとVポイントが\"禁断の合体\"　ただし交換には注意点が…",
-			"url": "https://news.yahoo.co.jp/articles/9d9941a67891a58e92207788975fe640d4df1e6f",
-			"note": "本日から相互交換スタート、交換レートに注意",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000001-ascii-000-1-view.png?fmt=jpeg&q=85&exp=10800"
-		},
-		{
-			"number": 5,
-			"title": "Appleの年次開発者会議「WWDC26」基調講演は6月8日（月）",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/24/news065.html",
-			"note": "Apple開発者会議の日程が正式に発表",
-			"image": "https://image.itmedia.co.jp/news/articles/2603/24/cover_news065.jpg"
-		},
-		{
-			"number": 6,
-			"title": "Wi-Fi 7、Wi-Fi 8の裏で普及を目指す「Wi-Fi放送」の規格とは",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/24/news027.html",
-			"note": "一方向配信型の新しい無線規格の動向を解説",
-			"image": ""
-		}
-	],
-	"政治（日本）": [
-		{
-			"number": 7,
-			"title": "登記の住所氏名変更 4月から義務化",
-			"url": "https://news.yahoo.co.jp/pickup/6574038",
-			"note": "不動産登記の住所・氏名変更届出が義務に",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/a0b27528cb1899969edb41340bc92b4e880a796af99d35d66e3273c036b68b4e.jpg"
-		},
-		{
-			"number": 8,
-			"title": "4月から自転車も対象 青切符とは",
-			"url": "https://news.yahoo.co.jp/pickup/6574043",
-			"note": "自転車の交通違反に反則金制度が4月導入",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/3a3c1a64c431360bf1695eb60870332519cba9542db740458720ceb4df4f2aec.jpg"
-		},
-		{
-			"number": 9,
-			"title": "暫定予算案 政府が編成する方向で検討開始 自民が立民に伝達",
-			"url": "https://www.newsweekjapan.jp/headlines/business/2026/03/591407.php",
-			"note": "2026年度予算の年度内成立が不透明な情勢に",
-			"image": ""
-		}
-	],
-	"国際情勢": [
-		{
-			"number": 10,
-			"title": "イラン「ペルシャ湾に機雷は必要ない」米の発電所攻撃延期で態度軟化か",
-			"url": "https://news.yahoo.co.jp/pickup/6574045",
-			"note": "ホルムズ海峡掌握を主張しつつ態度軟化の兆し",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/b02d55d45c07797b0bc9dd75a9e8d85a7d8859bab12c32341dd87ab9d0319862.jpg"
-		},
-		{
-			"number": 11,
-			"title": "「生産的な協議」トランプ大統領がイラン発電所攻撃を5日間延期　イランは協議否定「対話はない」",
-			"url": "https://news.yahoo.co.jp/pickup/6574039",
-			"note": "米は協議を主張、イラン側は「時間稼ぎ」と反発",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/8e058ae3b04bda2511bff862e5b6e13d98224fa9b3d849ff9fc7b0d69b647b83.jpg"
-		},
-		{
-			"number": 12,
-			"title": "ロシア、ウクライナへ春季攻勢を開始",
-			"url": "https://news.yahoo.co.jp/pickup/6573975",
-			"note": "東部戦線で大規模攻撃を再開",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/23/b6054d96d927c5feca2eedfbdae2ef18fcb016d087ce81392ad2b8e2d28835bf.jpg"
-		},
-		{
-			"number": 13,
-			"title": "アラブ各国がイラン大使館員を国外退去　湾岸諸国の忍耐が切れ始めた背景",
-			"url": "https://news.yahoo.co.jp/pickup/6573966",
-			"note": "周辺国がイランへの姿勢を一斉に転換",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02583011/title-1774158544557.jpeg?exp=10800"
-		},
-		{
-			"number": 14,
-			"title": "NYで着陸機と消防車が衝突 機長ら死亡、全便運航停止",
-			"url": "https://news.yahoo.co.jp/pickup/6574028",
-			"note": "ニューヨーク空港で航空機と地上車両が衝突する重大事故",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/23/f93c0e9ac47c4d9253af977d2bb85c2fab8b45451e33cd5217d7c0923293b4b9.jpg"
-		}
-	]
+  "生成AI・LLM・AIエージェント": [
+    {
+      "number": 1,
+      "title": "Anthropic、Claudeに「PC操作」機能を追加──Dispatchと組み合わせスマホから複数タスク自動処理",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news073.html",
+      "note": "AIがPC画面を見てマウス・キーボード操作を実行",
+      "image": "https://image.itmedia.co.jp/aiplus/articles/2603/24/cover_news073.jpg"
+    },
+    {
+      "number": 2,
+      "title": "Sakana AI、新AIモデル「Namazu」を発表──AIチャット「Sakana Chat」も公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news071.html",
+      "note": "東京発AIスタートアップが独自学習技術の新モデル発表",
+      "image": "https://image.itmedia.co.jp/news/articles/2603/24/l_tm1636144_03241_1_w490.jpg"
+    },
+    {
+      "number": 3,
+      "title": "Meta、AIエージェント「Dreamer」を発表──元Oculus幹部率いるSuper Intelligence Labsから",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news066.html",
+      "note": "個人向け「超知能」を目指す新AIエージェント",
+      "image": "https://image.itmedia.co.jp/news/articles/2603/24/cover_news066.jpg"
+    }
+  ],
+  "デジタルガジェット": [
+    {
+      "number": 4,
+      "title": "もう画面足りないとは言わせない。3画面ラップトップ「XbooK」という革命",
+      "url": "https://www.gizmodo.jp/2026/03/xbook-laptop.html",
+      "note": "広げると3枚のタッチモニターが現れる折りたたみPC",
+      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/260324_xbook.jpg?w=1280"
+    },
+    {
+      "number": 5,
+      "title": "MacBook NeoはMagSafe非搭載…なので1,580円で後付けしました",
+      "url": "https://www.gizmodo.jp/2026/03/cio-usb-c-magnetic-adapter.html",
+      "note": "CIOのUSB-Cマグネットアダプタで手軽にMagSafe化",
+      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/260323_CioMagnet_03.gif?w=1280"
+    },
+    {
+      "number": 6,
+      "title": "3COINSのレコードプレーヤーは、アナログ音楽を楽しむ最初の1台にぴったり",
+      "url": "https://www.gizmodo.jp/2026/03/3coins-record-player-1c2-9si.html",
+      "note": "手軽にアナログレコードを楽しめるお手頃プレーヤー",
+      "image": "https://media.loom-app.com/gizmodo/dist/images/2025/07/15/COVA0715_03.JPG?w=1280"
+    }
+  ],
+  "政治（日本）": [
+    {
+      "number": 7,
+      "title": "暫定予算、11年ぶり編成着手──「不測事態に備え」4月1～11日の11日間分",
+      "url": "https://news.yahoo.co.jp/articles/0a98aab3a11b379ed9bd92c83efda145e734f30f",
+      "note": "2015年以来11年ぶりの暫定予算案編成に着手",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000027-jij-000-16-view.jpg?exp=10800"
+    },
+    {
+      "number": 8,
+      "title": "ドローン規制強化へ──重要施設周辺の飛行禁止エリアを半径1kmに拡大、法案閣議決定",
+      "url": "https://news.yahoo.co.jp/articles/d668c648fe55575ea41bea053956e24db860bcb0",
+      "note": "テロ脅威への対応で禁止圏を300mから1kmに拡大",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-07294215-jnn-000-4-view.jpg?exp=10800"
+    },
+    {
+      "number": 9,
+      "title": "電気事業法改正案を閣議決定──メガソーラー監視強化、第三者機関が安全性確認",
+      "url": "https://news.yahoo.co.jp/articles/077da1db36144d307bf37c0f8b9c5736e3050763",
+      "note": "トラブル相次ぐ大規模太陽光の安全性を第三者が確認",
+      "image": ""
+    }
+  ],
+  "国際情勢": [
+    {
+      "number": 10,
+      "title": "米、第82空挺師団の派遣検討か──対イラン、石油拠点カーグ島制圧も想定",
+      "url": "https://news.yahoo.co.jp/articles/e2388b91fabcb206967d6e7d3bc63dcebbaec877",
+      "note": "NYT報道、約3000人規模の即応部隊を中東へ",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000056-kyodonews-000-5-view.jpg?exp=10800"
+    },
+    {
+      "number": 11,
+      "title": "イスラエル、費用抑えて防空網が誤作動──イランのミサイル迎撃に失敗、負傷者約200人",
+      "url": "https://news.yahoo.co.jp/articles/439b395f80f5b8070662f966188e8eb526eb1915",
+      "note": "コスト削減で中距離体系を選択した結果の被害拡大",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000011-cnippou-000-10-view.jpg?exp=10800"
+    },
+    {
+      "number": 12,
+      "title": "モサドの「イラン内部蜂起」シナリオは外れた──戦争長期化の兆し",
+      "url": "https://news.yahoo.co.jp/articles/02e1b9523d68c8f8421fe6dc44f5d54485dda9a7",
+      "note": "イラン政府は統制力を維持、ホルムズ海峡が焦点に",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000040-cnippou-000-10-view.jpg?exp=10800"
+    },
+    {
+      "number": 13,
+      "title": "ウクライナがロシア深部への攻撃を拡大──巡航ミサイル「フラミンゴ」が1400km先のミサイル工場に命中",
+      "url": "https://news.yahoo.co.jp/articles/62b4bde8aca27045e3f93acf217b7cf456da5157",
+      "note": "国産長距離打撃能力の急速な拡大を誇示",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00094307-forbes-000-1-view.jpg?exp=10800"
+    },
+    {
+      "number": 14,
+      "title": "「史上最も困難な日米首脳会談」を高市政権はどう乗り越えたか",
+      "url": "https://news.yahoo.co.jp/articles/bb412d76b7cad4080b25c79c7d278f8e5dd26703",
+      "note": "イラン情勢急変でホルムズ海峡への艦船派遣要求が焦点に",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00140375-wedge-000-1-view.jpg?exp=10800"
+    }
+  ]
 }
