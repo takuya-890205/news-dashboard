@@ -107,7 +107,6 @@
 			gap: 12px;
 			padding: 12px 20px;
 			transition: background 0.15s;
-			cursor: pointer;
 			text-decoration: none;
 			color: inherit;
 		}
@@ -126,6 +125,16 @@
 			flex: 1;
 			min-width: 0;
 		}
+		.article-item__link {
+			text-decoration: none;
+			color: inherit;
+			display: flex;
+			align-items: center;
+			gap: 12px;
+			flex: 1;
+			min-width: 0;
+			cursor: pointer;
+		}
 		.article-item__title {
 			font-size: 0.875rem;
 			font-weight: 500;
@@ -137,6 +146,103 @@
 			color: #5f6368;
 			margin-top: 2px;
 			line-height: 1.4;
+		}
+
+		/* === いいねボタン === */
+		.like-btn {
+			background: none;
+			border: none;
+			cursor: pointer;
+			padding: 8px;
+			border-radius: 50%;
+			transition: background 0.15s, transform 0.15s;
+			flex-shrink: 0;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			-webkit-tap-highlight-color: transparent;
+		}
+		.like-btn:hover {
+			background: #fce4ec;
+		}
+		.like-btn:active {
+			transform: scale(1.2);
+		}
+		.like-btn .material-icons-round {
+			font-size: 22px;
+			color: #bdbdbd;
+			transition: color 0.2s;
+		}
+		.like-btn.liked .material-icons-round {
+			color: #e91e63;
+		}
+
+		/* === フィードバック送信FAB === */
+		.fab-container {
+			position: fixed;
+			bottom: 24px;
+			right: 24px;
+			z-index: 100;
+			display: flex;
+			flex-direction: column;
+			align-items: flex-end;
+			gap: 12px;
+		}
+		.fab {
+			background: #e91e63;
+			color: #fff;
+			border: none;
+			border-radius: 28px;
+			padding: 14px 24px;
+			font-size: 0.875rem;
+			font-weight: 500;
+			font-family: 'Noto Sans JP', sans-serif;
+			cursor: pointer;
+			box-shadow: 0 4px 12px rgba(233, 30, 99, 0.4);
+			display: flex;
+			align-items: center;
+			gap: 8px;
+			transition: transform 0.2s, box-shadow 0.2s;
+			-webkit-tap-highlight-color: transparent;
+		}
+		.fab:hover {
+			transform: translateY(-2px);
+			box-shadow: 0 6px 16px rgba(233, 30, 99, 0.5);
+		}
+		.fab:disabled {
+			background: #bdbdbd;
+			box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+			cursor: default;
+			transform: none;
+		}
+		.fab__badge {
+			background: #fff;
+			color: #e91e63;
+			border-radius: 12px;
+			padding: 2px 8px;
+			font-size: 0.75rem;
+			font-weight: 700;
+		}
+
+		/* === トースト通知 === */
+		.toast {
+			position: fixed;
+			bottom: 90px;
+			left: 50%;
+			transform: translateX(-50%) translateY(100px);
+			background: #323232;
+			color: #fff;
+			padding: 12px 24px;
+			border-radius: 8px;
+			font-size: 0.8rem;
+			z-index: 200;
+			opacity: 0;
+			transition: transform 0.3s, opacity 0.3s;
+			pointer-events: none;
+		}
+		.toast.show {
+			transform: translateX(-50%) translateY(0);
+			opacity: 1;
 		}
 
 		/* === カテゴリ別カラー === */
@@ -190,6 +296,7 @@
 		.footer {
 			text-align: center;
 			padding: 16px;
+			padding-bottom: 80px;
 			font-size: 0.75rem;
 			color: #9aa0a6;
 		}
@@ -202,6 +309,7 @@
 			.card { border-radius: 12px; margin-bottom: 12px; }
 			.article-item { padding: 10px 16px; }
 			.article-item__thumb { width: 64px; height: 42px; border-radius: 6px; }
+			.fab { padding: 12px 20px; font-size: 0.8rem; }
 		}
 
 		/* === 2カラムグリッド（PC表示） === */
@@ -240,6 +348,16 @@
 		</div>
 	</div>
 
+	<div class="fab-container">
+		<button class="fab" id="syncBtn" disabled>
+			<span class="material-icons-round">favorite</span>
+			フィードバックを送信
+			<span class="fab__badge" id="likeCount">0</span>
+		</button>
+	</div>
+
+	<div class="toast" id="toast"></div>
+
 	<div class="footer">
 		Powered by Claude Code
 	</div>
@@ -253,16 +371,151 @@
 			"国際情勢":                    { icon: "public",          colorClass: "color-world" },
 		};
 
+		const REPO_OWNER = "takuya-890205";
+		const REPO_NAME = "news-dashboard";
+
 		let archiveIndex = [];
 		let currentIndex = 0;
+		let currentDateStr = "";
 
-		// 日付文字列を日本語に変換
+		// === いいね管理（localStorage） ===
+		function getLikes() {
+			try {
+				return JSON.parse(localStorage.getItem("news_likes") || "{}");
+			} catch { return {}; }
+		}
+
+		function saveLikes(likes) {
+			localStorage.setItem("news_likes", JSON.stringify(likes));
+		}
+
+		// 記事のユニークキーを生成（URL + 日付）
+		function articleKey(url, dateStr) {
+			return `${dateStr}::${url}`;
+		}
+
+		function toggleLike(url, title, category, dateStr) {
+			const likes = getLikes();
+			const key = articleKey(url, dateStr);
+			if (likes[key]) {
+				delete likes[key];
+			} else {
+				likes[key] = {
+					url: url,
+					title: title,
+					category: category,
+					date: dateStr,
+					liked_at: new Date().toISOString()
+				};
+			}
+			saveLikes(likes);
+			updateLikeUI();
+		}
+
+		function isLiked(url, dateStr) {
+			const likes = getLikes();
+			return !!likes[articleKey(url, dateStr)];
+		}
+
+		// 未送信のいいね数を取得
+		function getUnsentLikes() {
+			const likes = getLikes();
+			const sent = getSentKeys();
+			return Object.entries(likes).filter(([key]) => !sent.has(key));
+		}
+
+		function getSentKeys() {
+			try {
+				return new Set(JSON.parse(localStorage.getItem("news_likes_sent") || "[]"));
+			} catch { return new Set(); }
+		}
+
+		function markAsSent(keys) {
+			const sent = getSentKeys();
+			keys.forEach(k => sent.add(k));
+			localStorage.setItem("news_likes_sent", JSON.stringify([...sent]));
+		}
+
+		function updateLikeUI() {
+			// いいねボタンの状態を更新
+			document.querySelectorAll(".like-btn").forEach(btn => {
+				const url = btn.dataset.url;
+				const date = btn.dataset.date;
+				const icon = btn.querySelector(".material-icons-round");
+				if (isLiked(url, date)) {
+					btn.classList.add("liked");
+					icon.textContent = "favorite";
+				} else {
+					btn.classList.remove("liked");
+					icon.textContent = "favorite_border";
+				}
+			});
+
+			// FABのバッジを更新
+			const unsent = getUnsentLikes();
+			const countEl = document.getElementById("likeCount");
+			const syncBtn = document.getElementById("syncBtn");
+			countEl.textContent = unsent.length;
+			syncBtn.disabled = unsent.length === 0;
+		}
+
+		// === トースト通知 ===
+		function showToast(message) {
+			const toast = document.getElementById("toast");
+			toast.textContent = message;
+			toast.classList.add("show");
+			setTimeout(() => toast.classList.remove("show"), 2500);
+		}
+
+		// === フィードバック送信（GitHub Issue経由） ===
+		document.getElementById("syncBtn").addEventListener("click", () => {
+			const unsent = getUnsentLikes();
+			if (unsent.length === 0) return;
+
+			// Issue本文を組み立て
+			const articles = unsent.map(([, article]) => article);
+			const grouped = {};
+			articles.forEach(a => {
+				if (!grouped[a.category]) grouped[a.category] = [];
+				grouped[a.category].push(a);
+			});
+
+			let body = "## いいね記事フィードバック\n\n";
+			body += `送信日時: ${new Date().toLocaleString("ja-JP")}\n\n`;
+			for (const [cat, arts] of Object.entries(grouped)) {
+				body += `### ${cat}\n`;
+				arts.forEach(a => {
+					body += `- [${a.title}](${a.url}) (${a.date})\n`;
+				});
+				body += "\n";
+			}
+
+			// JSON形式も添付（スクリプトで自動処理しやすいように）
+			body += "---\n";
+			body += "```json\n";
+			body += JSON.stringify(articles, null, 2);
+			body += "\n```\n";
+
+			const title = encodeURIComponent(`フィードバック: ${articles.length}件のいいね (${new Date().toLocaleDateString("ja-JP")})`);
+			const encodedBody = encodeURIComponent(body);
+			const labels = encodeURIComponent("feedback");
+			const issueUrl = `https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${title}&body=${encodedBody}&labels=${labels}`;
+
+			// 送信済みとしてマーク
+			markAsSent(unsent.map(([key]) => key));
+			updateLikeUI();
+			showToast("GitHubが開きます。Issueを作成してください");
+
+			window.open(issueUrl, "_blank");
+		});
+
+		// === 日付フォーマット ===
 		function formatDate(dateStr) {
 			const [y, m, d] = dateStr.split("-").map(Number);
 			return `${y}年${m}月${d}日`;
 		}
 
-		// ニュースカードを描画
+		// === ニュースカード描画 ===
 		function renderNews(data) {
 			const grid = document.getElementById("grid");
 			grid.innerHTML = "";
@@ -292,21 +545,48 @@
 					const list = document.createElement("ul");
 					list.className = "article-list";
 					for (const article of articles) {
-						const item = document.createElement("a");
+						const item = document.createElement("li");
 						item.className = "article-item";
-						item.href = article.url || "#";
-						item.target = "_blank";
-						item.rel = "noopener noreferrer";
+
+						const link = document.createElement("a");
+						link.className = "article-item__link";
+						link.href = article.url || "#";
+						link.target = "_blank";
+						link.rel = "noopener noreferrer";
+
 						const thumbHtml = article.image
 							? `<img class="article-item__thumb" src="${article.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
 							: "";
-						item.innerHTML = `
+						link.innerHTML = `
 							${thumbHtml}
 							<div class="article-item__body">
 								<div class="article-item__title">${article.title}</div>
 								${article.note ? `<div class="article-item__note">${article.note}</div>` : ""}
 							</div>
 						`;
+
+						// いいねボタン
+						const likeBtn = document.createElement("button");
+						likeBtn.className = "like-btn";
+						likeBtn.dataset.url = article.url || "";
+						likeBtn.dataset.date = currentDateStr;
+						likeBtn.dataset.title = article.title || "";
+						likeBtn.dataset.category = category;
+						const liked = isLiked(article.url, currentDateStr);
+						if (liked) likeBtn.classList.add("liked");
+						likeBtn.innerHTML = `<span class="material-icons-round">${liked ? "favorite" : "favorite_border"}</span>`;
+						likeBtn.addEventListener("click", (e) => {
+							e.stopPropagation();
+							toggleLike(
+								likeBtn.dataset.url,
+								likeBtn.dataset.title,
+								likeBtn.dataset.category,
+								likeBtn.dataset.date
+							);
+						});
+
+						item.appendChild(link);
+						item.appendChild(likeBtn);
 						list.appendChild(item);
 					}
 					card.appendChild(list);
@@ -319,12 +599,15 @@
 
 				grid.appendChild(card);
 			}
+
+			updateLikeUI();
 		}
 
-		// 日付を切り替えてデータを読み込む
+		// === 日付切り替え ===
 		function loadDate(index) {
 			currentIndex = index;
 			const dateStr = archiveIndex[index];
+			currentDateStr = dateStr;
 			document.getElementById("dateLabel").textContent = formatDate(dateStr);
 			document.getElementById("date").textContent = formatDate(dateStr);
 			document.getElementById("prevBtn").disabled = (index >= archiveIndex.length - 1);
@@ -339,7 +622,7 @@
 				});
 		}
 
-		// 初期化
+		// === 初期化 ===
 		fetch("archive/index.json")
 			.then(res => res.json())
 			.then(dates => {
@@ -352,11 +635,12 @@
 				}
 			})
 			.catch(() => {
-				// アーカイブがなければ最新データを表示
 				fetch("news_data.json")
 					.then(res => res.json())
 					.then(data => {
 						const now = new Date();
+						const todayStr = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,"0")}-${String(now.getDate()).padStart(2,"0")}`;
+						currentDateStr = todayStr;
 						document.getElementById("date").textContent =
 							`${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日`;
 						renderNews(data);
@@ -370,6 +654,9 @@
 		document.getElementById("nextBtn").addEventListener("click", () => {
 			if (currentIndex > 0) loadDate(currentIndex - 1);
 		});
+
+		// 初回ロード時にUIを更新
+		updateLikeUI();
 	</script>
 </body>
 </html>
