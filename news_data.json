@@ -1,136 +1,136 @@
 {
-  "生成AI・LLM・AIエージェント": [
-    {
-      "number": 1,
-      "title": "ChatGPTからClaudeへ乗り換えるユーザーが1487%急増　仕事はどう変わる？",
-      "url": "https://news.yahoo.co.jp/articles/9d75d67b3ce96d9e4608bdd38ba9485eaff70eb2",
-      "note": "企業環境でClaudeがChatGPTの2倍のセッション数を達成",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00094341-forbes-000-1-view.jpg?exp=10800"
-    },
-    {
-      "number": 2,
-      "title": "Sakana AI、新AIモデル「Namazu」開発 AIチャット「Sakana Chat」を公開",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news071.html",
-      "note": "日本語ベンチマークでベースモデル超えの独自LLM",
-      "image": "https://image.itmedia.co.jp/news/articles/2603/24/l_tm1636144_03241_1_w490.jpg"
-    },
-    {
-      "number": 3,
-      "title": "KADOKAWA・note連携構想：AI活用で「垂直統合型エコシステム」構築",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news116.html",
-      "note": "RAG技術でコンテンツ保護と利益享受の両立を目指す",
-      "image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_aiplus.gif"
-    },
-    {
-      "number": 4,
-      "title": "作曲で詰んだらAIがお助け。ローランドがメロディー生成AI「Melody Flip」を開発",
-      "url": "https://www.gizmodo.jp/2026/03/roland-melody-flip.html",
-      "note": "ソニーCSLと共同開発、約300種パレットで無料提供",
-      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/04_MelodyFlip_PR_zenbeats.jpg?w=1280"
-    },
-    {
-      "number": 5,
-      "title": "患者情報の文書AI要約広がる　「10〜15分が5秒に短縮」",
-      "url": "https://news.yahoo.co.jp/articles/62df0ed075c5ea37d30443184203f7ef785b302d",
-      "note": "医療現場でAI要約導入が拡大、転院業務を効率化",
-      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/67f6592b5c5ff075c4d983f8940d92522358e158bdf16830b2751c47fa142edb.jpg"
-    }
-  ],
-  "デジタルガジェット": [
-    {
-      "number": 6,
-      "title": "「用と美」の妙。エレコムから士郎正宗デザインのマウスが登場",
-      "url": "https://www.gizmodo.jp/2026/03/shirow-masamune-elecom-design-mouse.html",
-      "note": "攻殻機動隊作者が23年越しで人間工学マウスを復刻",
-      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/24/shirow-masamune-elecom-design-mouse-001.jpg?w=1280"
-    },
-    {
-      "number": 7,
-      "title": "Apple Watchかざすだけでカギ開くスマートロック「Aqara J200」",
-      "url": "https://kaden.watch.impress.co.jp/docs/news/2095424.html",
-      "note": "Matter over Thread対応、Makuakeで先行予約16,080円",
-      "image": "https://asset.watch.impress.co.jp/img/kdw/docs/2095/424/00-top_l.jpg"
-    },
-    {
-      "number": 8,
-      "title": "90年代デザインの正統進化。SUUNTOの90周年限定スマートウォッチ",
-      "url": "https://www.gizmodo.jp/2026/03/suunto-vertical-2.html",
-      "note": "1998年VECTORの復刻デザイン、チタンベゼル搭載",
-      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/sub1.jpg?w=1280"
-    },
-    {
-      "number": 9,
-      "title": "MacBook NeoはMagSafe非搭載…なので1,580円で後付けしました",
-      "url": "https://www.gizmodo.jp/2026/03/cio-usb-c-magnetic-adapter.html",
-      "note": "CIO製USB-Cマグネットアダプタで充電の安全性確保",
-      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/260323_CioMagnet_03.gif?w=1280"
-    }
-  ],
-  "政治（日本）": [
-    {
-      "number": 10,
-      "title": "暫定予算、11年ぶり編成着手　4月1〜11日の11日間分",
-      "url": "https://news.yahoo.co.jp/articles/0a98aab3a11b379ed9bd92c83efda145e734f30f",
-      "note": "2015年以来の暫定予算、高校無償化も計上見通し",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000027-jij-000-21-view.jpg?exp=10800"
-    },
-    {
-      "number": 11,
-      "title": "石油30日分、26日に放出開始　国家備蓄、全国11カ所",
-      "url": "https://news.yahoo.co.jp/articles/5bdbd0c784585708f1b68afc32fb645279ceba8d",
-      "note": "ホルムズ海峡封鎖で原油調達困難、約850万kL放出",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000074-kyodonews-000-5-view.jpg?exp=10800"
-    },
-    {
-      "number": 12,
-      "title": "電気事業法改正案を閣議決定　メガソーラー監視強化",
-      "url": "https://news.yahoo.co.jp/articles/077da1db36144d307bf37c0f8b9c5736e3050763",
-      "note": "第三者機関が安全性確認、10kW以上が対象",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000067-kyodonews-000-13-view.jpg?exp=10800"
-    },
-    {
-      "number": 13,
-      "title": "社会保障国民会議に25日参加へ　中立公、幹事長が合意",
-      "url": "https://news.yahoo.co.jp/articles/3ff75240f71d60d0dd1ea2b2032319f56c0c9fe0",
-      "note": "消費税減税と給付付き税額控除の協議が本格化",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000071-kyodonews-000-6-view.jpg?exp=10800"
-    }
-  ],
-  "国際情勢": [
-    {
-      "number": 14,
-      "title": "トランプ大統領がイラン発電所攻撃を5日間延期　イランは協議否定「対話はない」",
-      "url": "https://news.yahoo.co.jp/articles/d0a75165a01c0f13b8bf2b58aeae4b82595093c7",
-      "note": "パキスタンでの和平交渉の可能性も報道",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-07294196-jnn-000-6-thumb.jpg?exp=10800"
-    },
-    {
-      "number": 15,
-      "title": "イラン「ペルシャ湾に機雷不要」　米の発電所攻撃延期で態度軟化か",
-      "url": "https://news.yahoo.co.jp/articles/350b5f0660c22cffdb086bf6283c4c0a830de58b",
-      "note": "ホルムズ海峡「強力に掌握」と主張しつつ緊張緩和の兆し",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000026-kyodonews-000-14-view.jpg?exp=10800"
-    },
-    {
-      "number": 16,
-      "title": "コロンビア軍輸送機が離陸直後に墜落、66人死亡・数十人負傷",
-      "url": "https://news.yahoo.co.jp/articles/b6ae8e170c11af3b75e6b799ec920b69708bc1bb",
-      "note": "アマゾン地域で125人搭乗のヘラクレス輸送機が事故",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000044-reut-000-2-view.jpg?exp=10800"
-    },
-    {
-      "number": 17,
-      "title": "金正恩氏「核保有国の地位堅持」　施政演説、韓国を敵と公認",
-      "url": "https://news.yahoo.co.jp/articles/fc652288a944d7600559b58f990480dfcc762d25",
-      "note": "最高人民会議で韓国を「最も敵対的な国」と認定",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000030-kyodonews-000-10-view.jpg?exp=10800"
-    },
-    {
-      "number": 18,
-      "title": "各国が苦悩　燃料備蓄残り1カ月…スリランカ週休3日制、タイでは火葬も困難",
-      "url": "https://news.yahoo.co.jp/articles/94c8f111bca420a5f6a12cb376a3a0f56eeafa73",
-      "note": "ホルムズ海峡閉鎖でアジア諸国が深刻な燃料危機",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-90186787-ann-000-4-view.jpg?exp=10800"
-    }
-  ]
+	"生成AI・LLM・AIエージェント": [
+		{
+			"number": 1,
+			"title": "ChatGPTからClaudeへ乗り換えるユーザーが1487%急増　仕事はどう変わる？",
+			"url": "https://news.yahoo.co.jp/articles/9d75d67b3ce96d9e4608bdd38ba9485eaff70eb2",
+			"note": "企業環境でClaudeがChatGPTの2倍のセッション数を達成",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00094341-forbes-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 2,
+			"title": "Sakana AI、新AIモデル「Namazu」開発 AIチャット「Sakana Chat」を公開",
+			"url": "https://www.itmedia.co.jp/news/articles/2603/24/news071.html",
+			"note": "日本語ベンチマークでベースモデル超えの独自LLM",
+			"image": "https://image.itmedia.co.jp/news/articles/2603/24/l_tm1636144_03241_1_w490.jpg"
+		},
+		{
+			"number": 3,
+			"title": "KADOKAWA・note連携構想：AI活用で「垂直統合型エコシステム」構築",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news116.html",
+			"note": "RAG技術でコンテンツ保護と利益享受の両立を目指す",
+			"image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_aiplus.gif"
+		},
+		{
+			"number": 4,
+			"title": "作曲で詰んだらAIがお助け。ローランドがメロディー生成AI「Melody Flip」を開発",
+			"url": "https://www.gizmodo.jp/2026/03/roland-melody-flip.html",
+			"note": "ソニーCSLと共同開発、約300種パレットで無料提供",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/04_MelodyFlip_PR_zenbeats.jpg?w=1280"
+		},
+		{
+			"number": 5,
+			"title": "患者情報の文書AI要約広がる　「10〜15分が5秒に短縮」",
+			"url": "https://news.yahoo.co.jp/articles/62df0ed075c5ea37d30443184203f7ef785b302d",
+			"note": "医療現場でAI要約導入が拡大、転院業務を効率化",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/67f6592b5c5ff075c4d983f8940d92522358e158bdf16830b2751c47fa142edb.jpg"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 6,
+			"title": "「用と美」の妙。エレコムから士郎正宗デザインのマウスが登場",
+			"url": "https://www.gizmodo.jp/2026/03/shirow-masamune-elecom-design-mouse.html",
+			"note": "攻殻機動隊作者が23年越しで人間工学マウスを復刻",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/24/shirow-masamune-elecom-design-mouse-001.jpg?w=1280"
+		},
+		{
+			"number": 7,
+			"title": "Apple Watchかざすだけでカギ開くスマートロック「Aqara J200」",
+			"url": "https://kaden.watch.impress.co.jp/docs/news/2095424.html",
+			"note": "Matter over Thread対応、Makuakeで先行予約16,080円",
+			"image": "https://asset.watch.impress.co.jp/img/kdw/docs/2095/424/00-top_l.jpg"
+		},
+		{
+			"number": 8,
+			"title": "90年代デザインの正統進化。SUUNTOの90周年限定スマートウォッチ",
+			"url": "https://www.gizmodo.jp/2026/03/suunto-vertical-2.html",
+			"note": "1998年VECTORの復刻デザイン、チタンベゼル搭載",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/sub1.jpg?w=1280"
+		},
+		{
+			"number": 9,
+			"title": "MacBook NeoはMagSafe非搭載…なので1,580円で後付けしました",
+			"url": "https://www.gizmodo.jp/2026/03/cio-usb-c-magnetic-adapter.html",
+			"note": "CIO製USB-Cマグネットアダプタで充電の安全性確保",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/260323_CioMagnet_03.gif?w=1280"
+		}
+	],
+	"政治（日本）": [
+		{
+			"number": 10,
+			"title": "暫定予算、11年ぶり編成着手　4月1〜11日の11日間分",
+			"url": "https://news.yahoo.co.jp/articles/0a98aab3a11b379ed9bd92c83efda145e734f30f",
+			"note": "2015年以来の暫定予算、高校無償化も計上見通し",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000027-jij-000-21-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "石油30日分、26日に放出開始　国家備蓄、全国11カ所",
+			"url": "https://news.yahoo.co.jp/articles/5bdbd0c784585708f1b68afc32fb645279ceba8d",
+			"note": "ホルムズ海峡封鎖で原油調達困難、約850万kL放出",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000074-kyodonews-000-5-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "電気事業法改正案を閣議決定　メガソーラー監視強化",
+			"url": "https://news.yahoo.co.jp/articles/077da1db36144d307bf37c0f8b9c5736e3050763",
+			"note": "第三者機関が安全性確認、10kW以上が対象",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000067-kyodonews-000-13-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "社会保障国民会議に25日参加へ　中立公、幹事長が合意",
+			"url": "https://news.yahoo.co.jp/articles/3ff75240f71d60d0dd1ea2b2032319f56c0c9fe0",
+			"note": "消費税減税と給付付き税額控除の協議が本格化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000071-kyodonews-000-6-view.jpg?exp=10800"
+		}
+	],
+	"国際情勢": [
+		{
+			"number": 14,
+			"title": "トランプ大統領がイラン発電所攻撃を5日間延期　イランは協議否定「対話はない」",
+			"url": "https://news.yahoo.co.jp/articles/d0a75165a01c0f13b8bf2b58aeae4b82595093c7",
+			"note": "パキスタンでの和平交渉の可能性も報道",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-07294196-jnn-000-6-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "イラン「ペルシャ湾に機雷不要」　米の発電所攻撃延期で態度軟化か",
+			"url": "https://news.yahoo.co.jp/articles/350b5f0660c22cffdb086bf6283c4c0a830de58b",
+			"note": "ホルムズ海峡「強力に掌握」と主張しつつ緊張緩和の兆し",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000026-kyodonews-000-14-view.jpg?exp=10800"
+		},
+		{
+			"number": 16,
+			"title": "コロンビア軍輸送機が離陸直後に墜落、66人死亡・数十人負傷",
+			"url": "https://news.yahoo.co.jp/articles/b6ae8e170c11af3b75e6b799ec920b69708bc1bb",
+			"note": "アマゾン地域で125人搭乗のヘラクレス輸送機が事故",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000044-reut-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 17,
+			"title": "金正恩氏「核保有国の地位堅持」　施政演説、韓国を敵と公認",
+			"url": "https://news.yahoo.co.jp/articles/fc652288a944d7600559b58f990480dfcc762d25",
+			"note": "最高人民会議で韓国を「最も敵対的な国」と認定",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000030-kyodonews-000-10-view.jpg?exp=10800"
+		},
+		{
+			"number": 18,
+			"title": "各国が苦悩　燃料備蓄残り1カ月…スリランカ週休3日制、タイでは火葬も困難",
+			"url": "https://news.yahoo.co.jp/articles/94c8f111bca420a5f6a12cb376a3a0f56eeafa73",
+			"note": "ホルムズ海峡閉鎖でアジア諸国が深刻な燃料危機",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-90186787-ann-000-4-view.jpg?exp=10800"
+		}
+	]
 }
