@@ -2,117 +2,96 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenAI「Sora」終了へ～公開から半年足らずで撤退",
-			"url": "https://forest.watch.impress.co.jp/docs/news/2095940.html",
-			"note": "計算資源をロボティクス研究に集中、Disney契約も終了",
-			"image": "https://forest.watch.impress.co.jp/img/wf/list/2095/940/list.jpg"
+			"title": "OpenAI、動画生成アプリ「Sora」終了へ　なぜ？ 理由を聞いた",
+			"url": "https://news.yahoo.co.jp/articles/1a84564ec0fdf329f16104236d6d07137ec70f86",
+			"note": "動画生成AI「Sora」公開半年で撤退、計算資源をロボティクスに転換",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-35245437-cnetj-000-3-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "クックパッド「レシピスクラップ」AIレシピ自動取込で料理家ら反発",
-			"url": "https://news.yahoo.co.jp/expert/articles/0548eccda12da96102439c1d14f2dd3872f846b1",
-			"note": "リュウジvs堀江論争、AIコンテンツ取込の著作権が焦点",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nishiyamamamoru/02584928/title-1774310449448.jpeg?exp=10800"
+			"title": "Claude CodeがAWSのアーキテクチャ構築等の機能を搭載「Agent Plugins for AWS」が登場",
+			"url": "https://www.itmedia.co.jp/news/articles/2603/25/news073.html",
+			"note": "AWSがClaude Code対応のAIインフラ自動化プラグイン発表",
+			"image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_news.gif"
 		},
 		{
 			"number": 3,
-			"title": "\"AIイヤホン\"「GLIDiC AI +u Buds」会議文字起こし・行動支援",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2095636.html",
-			"note": "SB C&Sが会話記録＋次の行動をAI提案するイヤホンを先行販売",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2095/636/25.jpg"
+			"title": "英アーム、AI向け半導体 関連事業を強化",
+			"url": "https://news.livedoor.com/topics/detail/30837176/",
+			"note": "アームがAI向け自社設計CPU初投入で事業強化",
+			"image": "https://image.news.livedoor.com/newsimage/stf/7/d/7dcc3_1675_8b125120138eacbf5f7308b43a202c7a.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 4,
-			"title": "SUUNTO限定スマートウォッチ 90年代デザインの正統進化 本日発売",
-			"url": "https://www.gizmodo.jp/2026/03/suunto-vertical-2.html",
-			"note": "1998年VECTORの復刻、チタンベゼル×100m防水で13.97万円",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/23/sub1.jpg?w=1280"
+			"title": "iPhone Air売れてない説は本当？ 実は意外に人気を集めていた",
+			"url": "https://www.gizmodo.jp/2026/03/315430.html",
+			"note": "iPhone Airの売上は予想に反しアジア圏で好調",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/25/shutterstock_2682429393.jpg?w=1280"
 		},
 		{
 			"number": 5,
-			"title": "ガーミン「Instinct 3」限定Alpine Rushコレクション 4/1発売",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2095799.html",
-			"note": "山岳ガイド推薦、高バッテリー＋GPSナビの本格登山ウォッチ",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2095/799/list.jpg"
+			"title": "まさに、俺専属ディレクター。アプリ不要でトラッキングできるスマホジンバル",
+			"url": "https://www.gizmodo.jp/2026/03/zhiyun-smooth-q5-ultra.html",
+			"note": "ZHIYUN新型AIトラッキング搭載スマホジンバル",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/24/260324zhiyunq5ultra_01-1.jpg?w=1280"
 		},
 		{
 			"number": 6,
-			"title": "「ANAモバイル」登場 月額料金の20%をマイル還元",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2095710.html",
-			"note": "ANA系MVNO、ドコモ・au回線対応で1GB〜100GBプラン",
-			"image": ""
+			"title": "エルメスから良いお値段すぎるMagSafe充電器が登場",
+			"url": "https://www.gizmodo.jp/2026/03/hermes-magsafe.html",
+			"note": "エルメスが18万〜56万円の高級MagSafe充電器発売",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/24/20260324_80394_01.png?w=1280"
 		},
 		{
 			"number": 7,
-			"title": "米FCC 海外製新型ルーターの輸入を全面禁止",
-			"url": "https://news.yahoo.co.jp/articles/8dc5a5ebbb25e55ebdb8a7bd44d4afd0f1eca179",
-			"note": "セキュリティ懸念で中国製含む民生用ルーターの輸入停止",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/2911314b1a68629449a00d0a5fc9b826986b669f0209cb2ef5c0b6581321c179.jpg"
+			"title": "330円でめちゃ使える。クルマに常備しておきたいダイソーの充電式ライト",
+			"url": "https://www.gizmodo.jp/2026/03/daiso-rechargeable-light-review-hm7.html",
+			"note": "330円で高輝度LED搭載の充電式ライトがコスパ抜群",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/02/13/260212_daiso_04.jpg?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 8,
-			"title": "予算案 年度内成立困難 野党「暫定」先行審議を要求",
+			"title": "予算案、年度内成立は困難な情勢　野党「暫定」審議要求",
 			"url": "https://news.yahoo.co.jp/articles/420d0dcb826ccf8b7e4d1ddbdec39f9334f1cd71",
-			"note": "立憲が暫定予算の先行審議を要求、3月末成立は絶望的",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/839d89d3f03573a4f1400c533d143d2cb703205e46da1770d50d365ce9ae85eb.jpg"
-		},
-		{
-			"number": 9,
-			"title": "石油備蓄26日から放出 首相「経済影響を最小限に」",
-			"url": "https://news.yahoo.co.jp/articles/5bdbd0c784585708f1b68afc32fb645279ceba8d",
-			"note": "中東情勢受け政府備蓄30日分＋民間15日分を明日から放出",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/7be83dbf68de1efdd2e5ad87a3ebb404d93626c29b8958118d8f9553e5518886.jpg"
-		},
-		{
-			"number": 10,
-			"title": "高校無償化 暫定予算に計上見通し 11年ぶり編成へ",
-			"url": "https://news.yahoo.co.jp/articles/9cd6cb31ed7cabadf20c7f5a721e7e80876aca16",
-			"note": "財務相が暫定予算検討を表明、高校無償化拡充を盛り込む方針",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/77f371b0c2efb742835875a9b83686639dc753135359ae32675143f4e303fcfe.jpg"
-		},
-		{
-			"number": 11,
-			"title": "中立3党「国民会議」参加合意 消費減税・給付付き税額控除を協議",
-			"url": "https://news.yahoo.co.jp/articles/3ff75240f71d60d0dd1ea2b2032319f56c0c9fe0",
-			"note": "中道改革連合・立憲・公明が社会保障国民会議への参加で合意",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/0a33f9393a1dad15fdc68823ba744ed65ead81109b898dcdbe9995583883f969.jpg"
+			"note": "26年度予算案の年度内成立困難、11年ぶり暫定予算編成へ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000122-jij-000-22-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 12,
-			"title": "イラン モジタバ師が米との和平交渉を許可か イスラエルメディア報道",
-			"url": "https://news.yahoo.co.jp/articles/401f7e7fa9c170dbba2245b9729ca4440001feb6",
-			"note": "最高指導者が戦闘終結へ交渉承認、イラン側は即座に否定",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/a8f59faacbee19ac6a5d942638297383104abb087e6455f2e92b434ecc1c4748.jpg"
+			"number": 9,
+			"title": "トランプ米大統領、ヘグセス国防長官に「君が最初に声を上げたと思う」　対イラン軍事作戦",
+			"url": "https://news.yahoo.co.jp/articles/41e0f2b0a90e27eab97ac5c02325599c08a4d391",
+			"note": "トランプがヘグセス長官の対イラン作戦功績を称賛",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000032-san-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 13,
+			"number": 10,
+			"title": "イラン、「非敵対船舶」はホルムズ海峡を通過可能",
+			"url": "https://news.yahoo.co.jp/articles/2326b155b5ced55a30344c8307a8a1bef842e9b4",
+			"note": "イランが非敵対船舶のホルムズ海峡通過を容認",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000001-jij_afp-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
 			"title": "イスラエル レバノン南部に「緩衝地帯」構想 国防相が占領明言",
 			"url": "https://news.yahoo.co.jp/articles/0950e5439f67459ff30344b2a9c5b715bd68c49c",
 			"note": "カッツ国防相がリタニ川までの領土占領意図を初表明",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/405fb0b34d3abaa4fbc2c79b93ac8e9de0ff1f0ffd6eaeedc3fce71ae7c34375.jpg"
 		},
 		{
-			"number": 14,
-			"title": "イラン「非敵対船舶」ホルムズ海峡通過容認も 国連に書簡",
-			"url": "https://news.yahoo.co.jp/articles/f6dde0d1eb941f11dcbf7dacaf34a11dff75f971",
-			"note": "事前調整で通航容認の可能性、米・イスラエル船は除外",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000016-reut-000-1-view.jpg?exp=10800"
+			"number": 12,
+			"title": "北朝鮮の人事変動…金正恩総書記の実妹・金与正氏が国務委を離れた意味とは",
+			"url": "https://news.yahoo.co.jp/articles/586da3dc4f4f39760c743d10d5bd1095d43fa137",
+			"note": "金与正氏が国務委員会離脱、昇進後の異例人事",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-03628126-clc_korea-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 15,
-			"title": "燃料不足 スリランカ週休3日制に アジア各国で深刻化",
-			"url": "https://news.yahoo.co.jp/articles/94c8f111bca420a5f6a12cb376a3a0f56eeafa73",
-			"note": "ホルムズ海峡閉鎖の影響、タイでは火葬にも支障",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/aca5cea0bb5d6382f18449105a87bfcee045404b3aa9f051195058f2e836a118.jpg"
-		},
-		{
-			"number": 16,
+			"number": 13,
 			"title": "自衛隊「戦闘部隊」米比合同演習に初参加へ フィリピン軍発表",
 			"url": "https://news.yahoo.co.jp/articles/2f74877f8c101d86f77eb5933d67d2599c4fdcc2",
 			"note": "来月の「バリカタン」演習に戦闘部隊として初参加、対中連携強化",
