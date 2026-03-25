@@ -2,114 +2,107 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenAI、動画生成AI「Sora」終了へ　Disneyとの提携も白紙に",
-			"url": "https://news.yahoo.co.jp/pickup/6574187",
-			"note": "ロボティクス研究に資源集約、年内IPO準備で事業整理",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/42df41ba3ddf537bb089d2f71e4ad22589493bd19404a4a4bf85925a2beebc54.jpg"
+			"title": "OpenAI、動画生成AIアプリ「Sora」終了へ――ディズニー提携も解消",
+			"url": "https://www.gizmodo.jp/2026/03/openai_announced_sora_closing.html",
+			"note": "公開半年で撤退、ディズニー10億ドル契約も白紙に",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/25/sora_x-1.jpg?w=1280"
 		},
 		{
 			"number": 2,
-			"title": "NVIDIAのジェンスン・フアンCEOが「AGIに到達した」と発言",
-			"url": "https://gigazine.net/news/20260325-jensen-huang-agi/",
-			"note": "ポッドキャストでAGI実現を主張、AI業界で議論に",
-			"image": "https://i.gzn.jp/img/2026/03/25/jensen-huang-agi/00.jpg"
+			"title": "800V直流電力供給で次世代AIデータセンターが実現可能に",
+			"url": "https://gigazine.net/news/20260326-data-centers-transitioning-ac-dc/",
+			"note": "エネルギー損失5%削減、銅使用量45%削減で低コスト化",
+			"image": "https://i.gzn.jp/img/2026/03/26/data-centers-transitioning-ac-dc/00_m.jpg"
 		},
 		{
 			"number": 3,
-			"title": "Armが35年以上の歴史で初の自社製シリコン「AGI CPU」を発表",
-			"url": "https://gigazine.net/news/20260325-arm-agi-cpu-launched/",
-			"note": "MetaとTSMC協力、エッジAI向け次世代プロセッサ",
-			"image": "https://i.gzn.jp/img/2026/03/25/arm-agi-cpu-launched/00.png"
-		},
-		{
-			"number": 4,
-			"title": "Claude CodeとAWS連携「Agent Plugins for AWS」が公開",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/25/news073.html",
-			"note": "AIエージェントでAWS設計・コスト試算・デプロイ可能に",
-			"image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_news.gif"
+			"title": "自動車修理工場向けにAI受付システムを構築した記録",
+			"url": "https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/",
+			"note": "RAGと音声AIで修理工場の受付を自動化した実践事例",
+			"image": "https://i.gzn.jp/img/2026/03/26/build-ai-receptionist-auto-repair-shop/00.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
+			"number": 4,
+			"title": "ソニーの「PlayStationカー」構想、突然の打ち切り",
+			"url": "https://news.yahoo.co.jp/articles/b74727efd8cab38722aa20c5cb60157bf82450e4",
+			"note": "ホンダとの合弁EV「Afeela」セダン・SUV両モデル開発中止",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-35245511-cnetj-000-1-view.jpg?exp=10800"
+		},
+		{
 			"number": 5,
-			"title": "アップル「iOS 26.4」配信開始──新絵文字やセキュリティ強化",
-			"url": "https://news.yahoo.co.jp/articles/ba7d62bb86b5edb22c72b5af2fd2edd721406da6",
-			"note": "AI Playlistやアクセシビリティ改善など多数の新機能",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00094383-forbes-000-1-view.jpg?exp=10800"
+			"title": "「バッテリー交換可能」な新Nintendo Switch 2が登場するかも",
+			"url": "https://www.gizmodo.jp/2026/03/nintendo-switch-2-68.html",
+			"note": "欧州電池規則対応でバッテリー交換式への変更を検討",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/25/shutterstock_2658119281.jpg?w=1280"
 		},
 		{
 			"number": 6,
-			"title": "CPU偽装で物議のCHUWI、返品で全額返金へ",
-			"url": "https://news.yahoo.co.jp/articles/48a0dc18c2d777b3ef15888a395e62dbc215bb64",
-			"note": "CoreBook X/Plusの誤CPU搭載問題で5月末まで対応",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000003-imppcw-000-1-view.jpg?exp=10800"
+			"title": "ドラゴンレーダー感のあるイヤホン。Philipsからレトロなオーディオが続々",
+			"url": "https://www.gizmodo.jp/2026/03/im-helpless-against-the-80s-nostalgia-in-philips-new-wireless-speakers-and-headphones.html",
+			"note": "80年代Moving Soundを現代に復活、ANCイヤホンも",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/25/008.jpg?w=1280"
 		},
 		{
 			"number": 7,
-			"title": "米FCC、海外製新型ルーターの輸入禁止へ",
-			"url": "https://news.yahoo.co.jp/pickup/6574118",
-			"note": "中国製を念頭にセキュリティ懸念で規制強化",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/2911314b1a68629449a00d0a5fc9b826986b669f0209cb2ef5c0b6581321c179.jpg"
+			"title": "Windows標準より4倍高速な圧縮ソフト「CoZip」が登場",
+			"url": "https://gigazine.net/news/20260326-gpu-accelerated-compression-cozip/",
+			"note": "GPU活用で7.59GBを34秒で圧縮、無料オープンソース",
+			"image": "https://i.gzn.jp/img/2026/03/26/gpu-accelerated-compression-cozip/00.png"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 8,
-			"title": "高市首相「機雷除去は法律に則り判断」イラン停戦後の対応言及",
-			"url": "https://news.yahoo.co.jp/articles/833a2e5b9b5724d57ecde965cabc52f4d4a54060",
-			"note": "アメリカの建設的役割を後押しすると強調",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-01120012-fnn-000-8-view.jpg?exp=10800"
+			"title": "予算案、年度内成立は困難な情勢　野党「暫定」審議要求",
+			"url": "https://news.yahoo.co.jp/articles/420d0dcb826ccf8b7e4d1ddbdec39f9334f1cd71",
+			"note": "11年ぶり暫定予算編成へ、27日にも閣議決定の方針",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000122-jij-000-22-view.jpg?exp=10800"
 		},
 		{
 			"number": 9,
-			"title": "小泉進次郎防衛相が「看過できません」れいわ議員発言に抗議",
-			"url": "https://news.yahoo.co.jp/articles/f8be9de58c4c8cb908a4b000c08dd0e950d82627",
-			"note": "予算委で「人殺しの武器」発言に強く反発",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-33250654-nksports-000-17-view.jpg?exp=10800"
+			"title": "高市首相、石油備蓄の追加協調放出をIEAに要請",
+			"url": "https://news.yahoo.co.jp/articles/f14a18db2a973b02932a5e9a0ee6194840b67546",
+			"note": "ホルムズ海峡情勢を背景にエネルギー安全保障強化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000061-jij-000-16-view.jpg?exp=10800"
 		},
 		{
 			"number": 10,
-			"title": "木原長官「誠に遺憾」自衛官の中国大使館侵入問題",
-			"url": "https://news.yahoo.co.jp/articles/69b759796aca6dc84c9f4ba5895f0772c778bc9a",
-			"note": "中国側に遺憾の意を伝え再発防止を説明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-01120041-fnn-000-9-view.jpg?exp=10800"
+			"title": "「不適切行為ない」松本文科相が説明、高校無償化法案は本日から審議再開",
+			"url": "https://news.yahoo.co.jp/articles/4c0757edd54cdf5ee0a4924d1a376066fca10f7a",
+			"note": "書面で不貞行為を否定、法案審議が26日から再開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00010028-annd-000-5-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 11,
-			"title": "米イラン「1か月停戦」構想浮上、15項目の要求提示",
-			"url": "https://news.yahoo.co.jp/articles/2736e2557febe26a413c8843ac75e5d7c0bf94ed",
-			"note": "核施設破壊など極めて高いハードル、合意は不透明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-07294434-jnn-000-10-thumb.jpg?exp=10800"
+			"title": "ロシア原子力企業「地域に壊滅的被害の恐れ」警告　イラン南部の稼働中原発に攻撃か",
+			"url": "https://news.yahoo.co.jp/articles/c9c440d9713a0b6195958ff8b8d28e7e369fe8a6",
+			"note": "ブシェール原発付近に攻撃、ロスアトムが技術者撤退検討",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-00000000-ann-000-9-view.jpg?exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "トランプ氏支持率36%、2期目で最低を記録",
-			"url": "https://news.yahoo.co.jp/articles/d2aaa1c096c2ddec37b61ceddea8d4583992bc45",
-			"note": "ガソリン高騰やイラン紛争への不満が影響",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000014-reut-000-2-view.jpg?exp=10800"
+			"title": "米、日本の高速滑空弾の支援承認　総額540億円",
+			"url": "https://news.yahoo.co.jp/articles/99f69a2e81329701c564109391c786f5fa77eac7",
+			"note": "島嶼防衛強化へ米国がFMS承認、約3.4億ドル規模",
+			"image": ""
 		},
 		{
 			"number": 13,
-			"title": "イスラエル、レバノン南部に「緩衝地帯」構想　占領を明言",
-			"url": "https://news.yahoo.co.jp/articles/0950e5439f67459ff30344b2a9c5b715bd68c49c",
-			"note": "国防相がリタニ川までの地域占領を表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000009-reut-000-1-view.jpg?exp=10800"
+			"title": "「1隻当たり通航料200万ドル」ホルムズ料金所狙うイラン",
+			"url": "https://news.yahoo.co.jp/articles/7b34a1a01e7aecf6dda97a8c88d423d7f9dda17a",
+			"note": "IMOに通達、非敵対的船舶のみ通過許容する戦略",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-00000004-cnippou-000-10-view.jpg?exp=10800"
 		},
 		{
 			"number": 14,
-			"title": "中国当局が日本人2人を拘束、麻薬所持の疑い",
-			"url": "https://news.yahoo.co.jp/articles/ffff76b8f3acd673618daa0270cbe5f25ffad7d6",
-			"note": "広州空港で今年1月に拘束、1人は釈放済み",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-06771485-nnn-000-5-thumb.jpg?exp=10800"
-		},
-		{
-			"number": 15,
-			"title": "ホルムズ海峡封鎖から1ヶ月、日本関係船45隻が湾内に",
-			"url": "https://news.yahoo.co.jp/articles/c9bfb7fbb32f0a3f4c15593c572cf5a3602223b2",
-			"note": "日本船主協会が政府に通航再開を強く要望",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000048-ann-000-5-view.jpg?exp=10800"
+			"title": "インサイダーか？米先物市場で謎の巨額取引　攻撃延期発表15分前に\"完璧な取引\"",
+			"url": "https://news.yahoo.co.jp/articles/2999c1b769787ca78ca7750843d7f3559b9d1dd3",
+			"note": "株先物買い・原油先物売りが攻撃延期発表直前に集中",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-01120254-fnn-000-1-view.jpg?exp=10800"
 		}
 	]
 }
