@@ -1,0 +1,101 @@
+{
+	"生成AI・LLM・AIエージェント": [
+		{
+			"number": 1,
+			"title": "OpenAI、動画生成アプリ「Sora」終了へ　なぜ？ 理由を聞いた",
+			"url": "https://news.yahoo.co.jp/articles/1a84564ec0fdf329f16104236d6d07137ec70f86",
+			"note": "動画生成AI「Sora」公開半年で撤退、計算資源をロボティクスに転換",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-35245437-cnetj-000-3-view.jpg?exp=10800"
+		},
+		{
+			"number": 2,
+			"title": "Claude CodeがAWSのアーキテクチャ構築等の機能を搭載「Agent Plugins for AWS」が登場",
+			"url": "https://www.itmedia.co.jp/news/articles/2603/25/news073.html",
+			"note": "AWSがClaude Code対応のAIインフラ自動化プラグイン発表",
+			"image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_news.gif"
+		},
+		{
+			"number": 3,
+			"title": "英アーム、AI向け半導体 関連事業を強化",
+			"url": "https://news.livedoor.com/topics/detail/30837176/",
+			"note": "アームがAI向け自社設計CPU初投入で事業強化",
+			"image": "https://image.news.livedoor.com/newsimage/stf/7/d/7dcc3_1675_8b125120138eacbf5f7308b43a202c7a.jpg"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 4,
+			"title": "iPhone Air売れてない説は本当？ 実は意外に人気を集めていた",
+			"url": "https://www.gizmodo.jp/2026/03/315430.html",
+			"note": "iPhone Airの売上は予想に反しアジア圏で好調",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/25/shutterstock_2682429393.jpg?w=1280"
+		},
+		{
+			"number": 5,
+			"title": "まさに、俺専属ディレクター。アプリ不要でトラッキングできるスマホジンバル",
+			"url": "https://www.gizmodo.jp/2026/03/zhiyun-smooth-q5-ultra.html",
+			"note": "ZHIYUN新型AIトラッキング搭載スマホジンバル",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/24/260324zhiyunq5ultra_01-1.jpg?w=1280"
+		},
+		{
+			"number": 6,
+			"title": "エルメスから良いお値段すぎるMagSafe充電器が登場",
+			"url": "https://www.gizmodo.jp/2026/03/hermes-magsafe.html",
+			"note": "エルメスが18万〜56万円の高級MagSafe充電器発売",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/24/20260324_80394_01.png?w=1280"
+		},
+		{
+			"number": 7,
+			"title": "330円でめちゃ使える。クルマに常備しておきたいダイソーの充電式ライト",
+			"url": "https://www.gizmodo.jp/2026/03/daiso-rechargeable-light-review-hm7.html",
+			"note": "330円で高輝度LED搭載の充電式ライトがコスパ抜群",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/02/13/260212_daiso_04.jpg?w=1280"
+		}
+	],
+	"政治（日本）": [
+		{
+			"number": 8,
+			"title": "予算案、年度内成立は困難な情勢　野党「暫定」審議要求",
+			"url": "https://news.yahoo.co.jp/articles/420d0dcb826ccf8b7e4d1ddbdec39f9334f1cd71",
+			"note": "26年度予算案の年度内成立困難、11年ぶり暫定予算編成へ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260324-00000122-jij-000-22-view.jpg?exp=10800"
+		}
+	],
+	"国際情勢": [
+		{
+			"number": 9,
+			"title": "トランプ米大統領、ヘグセス国防長官に「君が最初に声を上げたと思う」　対イラン軍事作戦",
+			"url": "https://news.yahoo.co.jp/articles/41e0f2b0a90e27eab97ac5c02325599c08a4d391",
+			"note": "トランプがヘグセス長官の対イラン作戦功績を称賛",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000032-san-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "イラン、「非敵対船舶」はホルムズ海峡を通過可能",
+			"url": "https://news.yahoo.co.jp/articles/2326b155b5ced55a30344c8307a8a1bef842e9b4",
+			"note": "イランが非敵対船舶のホルムズ海峡通過を容認",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000001-jij_afp-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "イスラエル レバノン南部に「緩衝地帯」構想 国防相が占領明言",
+			"url": "https://news.yahoo.co.jp/articles/0950e5439f67459ff30344b2a9c5b715bd68c49c",
+			"note": "カッツ国防相がリタニ川までの領土占領意図を初表明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/405fb0b34d3abaa4fbc2c79b93ac8e9de0ff1f0ffd6eaeedc3fce71ae7c34375.jpg"
+		},
+		{
+			"number": 12,
+			"title": "北朝鮮の人事変動…金正恩総書記の実妹・金与正氏が国務委を離れた意味とは",
+			"url": "https://news.yahoo.co.jp/articles/586da3dc4f4f39760c743d10d5bd1095d43fa137",
+			"note": "金与正氏が国務委員会離脱、昇進後の異例人事",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-03628126-clc_korea-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "自衛隊「戦闘部隊」米比合同演習に初参加へ フィリピン軍発表",
+			"url": "https://news.yahoo.co.jp/articles/2f74877f8c101d86f77eb5933d67d2599c4fdcc2",
+			"note": "来月の「バリカタン」演習に戦闘部隊として初参加、対中連携強化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-07294414-jnn-000-5-view.jpg?exp=10800"
+		}
+	]
+}
