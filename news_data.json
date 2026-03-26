@@ -2,128 +2,64 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "動画生成AI「Sora」提供終了へ、ディズニーとの10億ドル提携も解消",
-			"url": "https://news.yahoo.co.jp/pickup/6574141",
-			"note": "OpenAI、公開半年で撤退しIPO前にコーディング事業集中",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/3dff6e3bad6c3242da8886d740b64e34adc41b77aadecd4aa0fccfe7d0e95a34.jpg"
+			"title": "対話型AIは「おべっか」　研究で明らかに　人間関係にも悪影響",
+			"url": "https://news.yahoo.co.jp/articles/bfc0657822295cf5cdb1562fee280390819dc00f",
+			"note": "スタンフォード大研究、AIが人間の行動を過度に肯定する傾向",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000005-mai-000-3-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "Googleが音楽生成AI「Lyria 3 Pro」を発表、最大3分のボーカル付き楽曲を生成可能に",
-			"url": "https://gigazine.net/news/20260326-google-lyria-3-pro-music-generation-ai/",
-			"note": "Geminiアプリに統合、SynthID透かしで安全性確保",
-			"image": "https://i.gzn.jp/img/2026/03/26/google-lyria-3-pro-music-generation-ai/00.png"
+			"title": "【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識",
+			"url": "https://news.yahoo.co.jp/articles/8f787fdb51402813b84963c85187774074ad78c0",
+			"note": "Microsoft Copilot Studioで業務の自動化を実現",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00182668-biz_plus-000-1-view.png?fmt=jpeg&q=85&exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "SNS依存で企業に賠償責任、米陪審がメタとGoogleに有責評決",
-			"url": "https://news.yahoo.co.jp/pickup/6574293",
-			"note": "未成年のSNS依存でアルゴリズム設計の責任認定",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/62ec42fde5aa416d2ee2a730ed83b297e1a544fe68028dc8aac48a75b47a014b.jpg"
-		},
-		{
-			"number": 4,
-			"title": "メルカリ、出品ページの生成AI画像に注意喚起",
-			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news117.html",
-			"note": "AI生成・加工画像の出品トラブル防止へルール公開",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/5a1240d75b8900790d5239524c3de4e1398341db5ff3e8dc49337ea9f5ede656.jpg"
+			"title": "【SaaS vs SIerのAI戦争解説】なぜ、これから国内系SIerの「大逆襲」がはじまるのか？",
+			"url": "https://news.yahoo.co.jp/articles/e390a8a185b01c10a6d281a600448190b02f1bc0",
+			"note": "AI時代にSIerが巻き返す構造的理由を解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00182664-biz_plus-000-1-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
+			"number": 4,
+			"title": "Apple、「Mac Pro」の販売を終了　20年の歴史に幕",
+			"url": "https://news.yahoo.co.jp/articles/397e077cb54ef521f77c2ad83a08233216d43c70",
+			"note": "後継機の予定なし、Mac Studioに役割統合",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000034-zdn_n-000-1-view.jpg?exp=10800"
+		},
+		{
 			"number": 5,
-			"title": "iPhoneの\"壊れ気味だったキーボード\"が改善されてました【iOS 26.4】",
-			"url": "https://www.gizmodo.jp/2026/03/ios-26-4-asap-to-fix-its-broken-keyboard.html",
-			"note": "高速入力時の誤変換・遅延が大幅改善",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/26/ios26-4-keyboard-fix.jpg?w=1280"
+			"title": "ASUSの27インチ5Kゲーミングモニター「ROG Strix 5K XG27JCG」が発売",
+			"url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2096684.html",
+			"note": "5K/180HzとQHD/330Hz切替対応、約14.3万円",
+			"image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2096/684/s1.jpg"
 		},
 		{
 			"number": 6,
-			"title": "ソニーの「PlayStationカー」構想、突然の打ち切り",
-			"url": "https://news.yahoo.co.jp/articles/b74727efd8cab38722aa20c5cb60157bf82450e4",
-			"note": "ホンダとの合弁EV「Afeela」セダン・SUV両モデル開発中止",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-35245511-cnetj-000-2-view.jpg?exp=10800"
-		},
+			"title": "CORSAIRのStream Deck内蔵メカニカルキーボード「GALLEON 100 SD」が発売",
+			"url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2096551.html",
+			"note": "キーボードにStream Deck機能を統合した新製品",
+			"image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2096/551/a1.jpg"
+		}
+	],
+	"政治（日本）": [],
+	"国際情勢": [
 		{
 			"number": 7,
-			"title": "任天堂がSwitch 2でパッケージ版とDL版の価格を変えると発表",
-			"url": "https://gigazine.net/news/20260326-nintendo-switch-2-pricing/",
-			"note": "製造・流通コストの差を反映、5月発売タイトルから適用",
-			"image": "https://i.gzn.jp/img/2026/03/26/nintendo-switch-2-pricing/00_m.jpg"
+			"title": "トランプ大統領「イラン発電所への攻撃をさらに10日間延期」イランの要請受け",
+			"url": "https://news.yahoo.co.jp/articles/e412f740454edb0b5fe4cb2db176db1870225982",
+			"note": "4月6日まで猶予延長、「交渉は順調」と主張",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000008-ann-000-10-thumb.jpg?exp=10800"
 		},
 		{
 			"number": 8,
-			"title": "Corsair XENEON EDGE 14.5\" 新色ホワイト/パープル本日発売",
-			"url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2096224.html",
-			"note": "14.5型マルチタッチスクリーンのカラバリ、42,780円",
-			"image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2096/224/a1.jpg"
-		}
-	],
-	"政治（日本）": [
-		{
-			"number": 9,
-			"title": "国家備蓄の石油放出開始、計30日分を全国11基地から順次",
-			"url": "https://news.yahoo.co.jp/pickup/6574281",
-			"note": "イラン情勢受け過去最大規模の備蓄放出",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/47d2b526e296535440cf1d8ee60f4c938d81fda6feb1cc07060857005f5bd895.jpg"
-		},
-		{
-			"number": 10,
-			"title": "暫定予算案、27日に国会提出　11年ぶり編成で30日成立方針",
-			"url": "https://www.jiji.com/jc/article?k=2026032600383&g=pol",
-			"note": "一般会計8.6兆円規模、4月11日までの11日間分",
-			"image": ""
-		},
-		{
-			"number": 11,
-			"title": "大川原冤罪 拘束巡り遺族が国を提訴へ",
-			"url": "https://news.yahoo.co.jp/pickup/6574238",
-			"note": "勾留中死亡の元顧問遺族、国に1.6億円賠償請求",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/7e47a9106a58edfda7ada584bb0e209da9d92761aac3e462cc06a4d99f809c2b.jpg"
-		},
-		{
-			"number": 12,
-			"title": "米、日本の高速滑空弾開発を支援　改良型540億円で承認",
-			"url": "https://www.jiji.com/jc/article?k=2026032600198&g=pol",
-			"note": "対外有償軍事援助を承認、離島防衛の切り札に",
-			"image": "https://www.jiji.com/news2/kiji_photos/202603/20260326ds46_o.jpg"
-		}
-	],
-	"国際情勢": [
-		{
-			"number": 13,
-			"title": "イラン、米の停戦提案を拒否し5条件を逆提案",
-			"url": "https://news.yahoo.co.jp/pickup/6574232",
-			"note": "軍事行動停止・暗殺停止など5項目を要求",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/70484436004f42d57f2f55b42571e1216b7dae3ecf0d486f56e46a2248953409.jpg"
-		},
-		{
-			"number": 14,
-			"title": "イランが米国との協議を全面否定、外相「交渉していない」",
-			"url": "https://news.yahoo.co.jp/pickup/6574292",
-			"note": "トランプ氏の「生産的な対話」主張をイラン側が否定",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/6b179ea193675aac824624572a8911c4f53b0a4d8d1659ef7a10751ac7c18081.jpg"
-		},
-		{
-			"number": 15,
-			"title": "G7外相会合がフランスで開幕、イラン情勢対応が焦点",
-			"url": "https://www.jiji.com/jc/article?k=2026032500695&g=int",
-			"note": "ウクライナ外相も参加し2日間の協議",
-			"image": ""
-		},
-		{
-			"number": 16,
-			"title": "米中首脳会談、5月14日・15日に開催決定",
-			"url": "https://news.yahoo.co.jp/pickup/6574229",
-			"note": "イラン軍事作戦で延期の会談、日程確定",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/3f510cd398e0300e5e0131e5a049beb24114c613f8ce1a4947c1a3967d2a7035.jpg"
-		},
-		{
-			"number": 17,
-			"title": "米空港の保安検査待ち最大4時間半、予算凍結でTSA職員無給",
-			"url": "https://news.yahoo.co.jp/pickup/6574266",
-			"note": "政府予算凍結で約5万人が無給で業務継続",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/e10745cf22e57e3e46ab0a32e405f2d72ce6d31f7207833eb24214ee07584309.jpg"
+			"title": "イラン、米の戦闘終結条件を拒否「戦力が丸裸になる」",
+			"url": "https://news.yahoo.co.jp/articles/5c8ccb279cd0d8ccc85dabe447c79f2e9df82034",
+			"note": "核放棄要求に反発、日本の仲介役に期待の声も",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-22557091-mbsnews-000-1-view.jpg?exp=10800"
 		}
 	]
 }
