@@ -2,84 +2,84 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Googleが音楽生成AI「Lyria 3 Pro」を発表、最大3分のボーカル付き楽曲を生成可能に",
-			"url": "https://gigazine.net/news/20260326-google-lyria-3-pro-music-generation-ai/",
-			"note": "API公開でアプリへの音楽生成機能の組込みも可能に",
-			"image": "https://i.gzn.jp/img/2026/03/26/google-lyria-3-pro-music-generation-ai/00.png"
+			"title": "動画生成AI「Sora」提供終了へ、ディズニーとの10億ドル提携も解消",
+			"url": "https://news.yahoo.co.jp/pickup/6574141",
+			"note": "OpenAI、公開半年で撤退しIPO前にコーディング事業集中",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/3dff6e3bad6c3242da8886d740b64e34adc41b77aadecd4aa0fccfe7d0e95a34.jpg"
 		},
 		{
 			"number": 2,
-			"title": "MicrosoftがClaude Code向け「Azure Skills Plugin」を開発、AIが最適なクラウド基盤を自動構築",
-			"url": "https://www.itmedia.co.jp/news/articles/2603/26/news089.html",
-			"note": "AIエージェントがアプリから自動でAzureインフラをデプロイ",
-			"image": ""
+			"title": "Googleが音楽生成AI「Lyria 3 Pro」を発表、最大3分のボーカル付き楽曲を生成可能に",
+			"url": "https://gigazine.net/news/20260326-google-lyria-3-pro-music-generation-ai/",
+			"note": "Geminiアプリに統合、SynthID透かしで安全性確保",
+			"image": "https://i.gzn.jp/img/2026/03/26/google-lyria-3-pro-music-generation-ai/00.png"
 		},
 		{
 			"number": 3,
-			"title": "800V直流電力供給で次世代AIデータセンターが実現可能に",
-			"url": "https://gigazine.net/news/20260326-data-centers-transitioning-ac-dc/",
-			"note": "エネルギー損失5%削減、銅使用量45%削減で低コスト化",
-			"image": "https://i.gzn.jp/img/2026/03/26/data-centers-transitioning-ac-dc/00_m.jpg"
+			"title": "SNS依存で企業に賠償責任、米陪審がメタとGoogleに有責評決",
+			"url": "https://news.yahoo.co.jp/pickup/6574293",
+			"note": "未成年のSNS依存でアルゴリズム設計の責任認定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/62ec42fde5aa416d2ee2a730ed83b297e1a544fe68028dc8aac48a75b47a014b.jpg"
 		},
 		{
 			"number": 4,
-			"title": "自動車修理工場向けにAI受付システムを構築した記録",
-			"url": "https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/",
-			"note": "RAGと音声AIで修理工場の受付を自動化した実践事例",
-			"image": "https://i.gzn.jp/img/2026/03/26/build-ai-receptionist-auto-repair-shop/00.jpg"
+			"title": "メルカリ、出品ページの生成AI画像に注意喚起",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news117.html",
+			"note": "AI生成・加工画像の出品トラブル防止へルール公開",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/5a1240d75b8900790d5239524c3de4e1398341db5ff3e8dc49337ea9f5ede656.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 5,
 			"title": "iPhoneの\"壊れ気味だったキーボード\"が改善されてました【iOS 26.4】",
-			"url": "https://news.yahoo.co.jp/articles/2091722af0246119cdf954e7c595691a11505e68",
-			"note": "iOS 26.4で日本語キーボードの入力不具合が改善",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-00000004-giz-000-1-view.jpg?exp=10800"
+			"url": "https://www.gizmodo.jp/2026/03/ios-26-4-asap-to-fix-its-broken-keyboard.html",
+			"note": "高速入力時の誤変換・遅延が大幅改善",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/26/ios26-4-keyboard-fix.jpg?w=1280"
 		},
 		{
 			"number": 6,
-			"title": "今年の目玉は折りたたみiPhone。いきなりシェア約30%の予想も",
-			"url": "https://news.yahoo.co.jp/articles/27cb481818bccdab9254e1df486936b4eea785e4",
-			"note": "Apple初の折りたたみモデル、発売初年度でシェア30%予測",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-00000003-giz-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "モトローラから高輝度ディスプレイ搭載の最新スマホ「moto g06」が登場",
-			"url": "https://news.yahoo.co.jp/articles/bf045c6b9cd80545a02af4e402a589aeddd66113",
-			"note": "コスパ重視の新エントリーモデル、大画面＋高輝度が特徴",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-00010000-dime-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 8,
 			"title": "ソニーの「PlayStationカー」構想、突然の打ち切り",
 			"url": "https://news.yahoo.co.jp/articles/b74727efd8cab38722aa20c5cb60157bf82450e4",
 			"note": "ホンダとの合弁EV「Afeela」セダン・SUV両モデル開発中止",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-35245511-cnetj-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 9,
+			"number": 7,
 			"title": "任天堂がSwitch 2でパッケージ版とDL版の価格を変えると発表",
 			"url": "https://gigazine.net/news/20260326-nintendo-switch-2-pricing/",
 			"note": "製造・流通コストの差を反映、5月発売タイトルから適用",
 			"image": "https://i.gzn.jp/img/2026/03/26/nintendo-switch-2-pricing/00_m.jpg"
+		},
+		{
+			"number": 8,
+			"title": "Corsair XENEON EDGE 14.5\" 新色ホワイト/パープル本日発売",
+			"url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2096224.html",
+			"note": "14.5型マルチタッチスクリーンのカラバリ、42,780円",
+			"image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2096/224/a1.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 9,
+			"title": "国家備蓄の石油放出開始、計30日分を全国11基地から順次",
+			"url": "https://news.yahoo.co.jp/pickup/6574281",
+			"note": "イラン情勢受け過去最大規模の備蓄放出",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/47d2b526e296535440cf1d8ee60f4c938d81fda6feb1cc07060857005f5bd895.jpg"
+		},
+		{
 			"number": 10,
-			"title": "石油の国家備蓄、午前11時から放出開始　愛媛・今治の菊間備蓄基地から",
-			"url": "https://news.yahoo.co.jp/articles/3f1c853c62c662db434dd66f75bf052170292a51",
-			"note": "ホルムズ封鎖を受け国家備蓄1カ月分を全国11カ所で放出",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-07294612-jnn-000-7-thumb.jpg?exp=10800"
+			"title": "暫定予算案、27日に国会提出　11年ぶり編成で30日成立方針",
+			"url": "https://www.jiji.com/jc/article?k=2026032600383&g=pol",
+			"note": "一般会計8.6兆円規模、4月11日までの11日間分",
+			"image": ""
 		},
 		{
 			"number": 11,
-			"title": "暫定予算案、27日に国会提出　政府・与党、30日成立方針",
-			"url": "https://www.jiji.com/jc/article?k=2026032600383&g=pol",
-			"note": "11年ぶりの暫定予算、一般会計8.6兆円規模で4月11日まで",
-			"image": ""
+			"title": "大川原冤罪 拘束巡り遺族が国を提訴へ",
+			"url": "https://news.yahoo.co.jp/pickup/6574238",
+			"note": "勾留中死亡の元顧問遺族、国に1.6億円賠償請求",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/7e47a9106a58edfda7ada584bb0e209da9d92761aac3e462cc06a4d99f809c2b.jpg"
 		},
 		{
 			"number": 12,
@@ -92,38 +92,38 @@
 	"国際情勢": [
 		{
 			"number": 13,
-			"title": "「1隻当たり通航料200万ドル」ホルムズ料金所狙うイラン",
-			"url": "https://news.yahoo.co.jp/articles/7b34a1a01e7aecf6dda97a8c88d423d7f9dda17a",
-			"note": "イランがホルムズ海峡の通航料徴収を開始、新たな緊張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-00000004-cnippou-000-10-view.jpg?exp=10800"
+			"title": "イラン、米の停戦提案を拒否し5条件を逆提案",
+			"url": "https://news.yahoo.co.jp/pickup/6574232",
+			"note": "軍事行動停止・暗殺停止など5項目を要求",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/70484436004f42d57f2f55b42571e1216b7dae3ecf0d486f56e46a2248953409.jpg"
 		},
 		{
 			"number": 14,
-			"title": "イラン、戦闘終結で「侵略や暗殺停止」など5条件　米案と隔たり",
-			"url": "https://news.yahoo.co.jp/articles/1de8842f50427e9a9ca79f42f4d974746125d741",
-			"note": "イランが停戦5条件を提示、米国案との溝は深い",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-00000002-mai-000-4-view.jpg?exp=10800"
+			"title": "イランが米国との協議を全面否定、外相「交渉していない」",
+			"url": "https://news.yahoo.co.jp/pickup/6574292",
+			"note": "トランプ氏の「生産的な対話」主張をイラン側が否定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/6b179ea193675aac824624572a8911c4f53b0a4d8d1659ef7a10751ac7c18081.jpg"
 		},
 		{
 			"number": 15,
-			"title": "トランプ大統領「プレゼント」イランがタンカーのホルムズ通行容認か",
-			"url": "https://news.yahoo.co.jp/articles/9e59bc7ae4f56e24940de68fc3a18d1685a56541",
-			"note": "イランが規則順守を条件に一部船舶の通航を容認へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-01120643-fnn-000-1-view.jpg?exp=10800"
+			"title": "G7外相会合がフランスで開幕、イラン情勢対応が焦点",
+			"url": "https://www.jiji.com/jc/article?k=2026032500695&g=int",
+			"note": "ウクライナ外相も参加し2日間の協議",
+			"image": ""
 		},
 		{
 			"number": 16,
-			"title": "イラン、バブルマンデブ海峡で戦線開く可能性を警告",
-			"url": "https://news.yahoo.co.jp/articles/9774aa30da20520ab5e754218661c211e0154127",
-			"note": "南部攻撃なら紅海の要衝でも対抗措置とイランが警告",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260326-35245516-cnn-000-1-view.jpg?exp=10800"
+			"title": "米中首脳会談、5月14日・15日に開催決定",
+			"url": "https://news.yahoo.co.jp/pickup/6574229",
+			"note": "イラン軍事作戦で延期の会談、日程確定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/3f510cd398e0300e5e0131e5a049beb24114c613f8ce1a4947c1a3967d2a7035.jpg"
 		},
 		{
 			"number": 17,
-			"title": "米フロリダ州補選、民主が勝利　トランプ氏「地元」で番狂わせ",
-			"url": "https://news.yahoo.co.jp/articles/67156631a7fe0caa2500b5310db794f3cb349dec",
-			"note": "トランプ氏のお膝元で民主党が議席奪取、中間選挙に影響",
-			"image": ""
+			"title": "米空港の保安検査待ち最大4時間半、予算凍結でTSA職員無給",
+			"url": "https://news.yahoo.co.jp/pickup/6574266",
+			"note": "政府予算凍結で約5万人が無給で業務継続",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/26/e10745cf22e57e3e46ab0a32e405f2d72ce6d31f7207833eb24214ee07584309.jpg"
 		}
 	]
 }
