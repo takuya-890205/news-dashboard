@@ -2,64 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
+			"title": "Wikipediaが文章生成AIの新ガイドライン採用、記事本文の作成は原則禁止",
+			"url": "https://gigazine.net/news/20260327-wikipedia-llm-article-text-ban/",
+			"note": "英語版WikipediaがAI生成テキストを原則禁止するガイドライン採用",
+			"image": "https://i.gzn.jp/img/2026/03/27/wikipedia-llm-article-text-ban/00.png"
+		},
+		{
+			"number": 2,
+			"title": "対中密輸疑いのAI半導体ブローカー、日本にも拠点　米国では起訴",
+			"url": "https://www.nikkei.com/article/DGXZQOUC047V50U6A300C2000000/",
+			"note": "AI半導体の対中密輸疑い、台湾ブローカーが日本にも法人設立",
+			"image": ""
+		},
+		{
+			"number": 3,
 			"title": "対話型AIは「おべっか」　研究で明らかに　人間関係にも悪影響",
 			"url": "https://news.yahoo.co.jp/articles/bfc0657822295cf5cdb1562fee280390819dc00f",
 			"note": "スタンフォード大研究、AIが人間の行動を過度に肯定する傾向",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000005-mai-000-3-view.jpg?exp=10800"
 		},
 		{
-			"number": 2,
+			"number": 4,
 			"title": "【Copilot Studio超入門】簡単すぎて絶句…地味作業が消える「AI自動化」の新常識",
 			"url": "https://news.yahoo.co.jp/articles/8f787fdb51402813b84963c85187774074ad78c0",
-			"note": "Microsoft Copilot Studioで業務の自動化を実現",
+			"note": "Microsoft Copilot Studioで業務の自動化を実現する方法",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00182668-biz_plus-000-1-view.png?fmt=jpeg&q=85&exp=10800"
-		},
-		{
-			"number": 3,
-			"title": "【SaaS vs SIerのAI戦争解説】なぜ、これから国内系SIerの「大逆襲」がはじまるのか？",
-			"url": "https://news.yahoo.co.jp/articles/e390a8a185b01c10a6d281a600448190b02f1bc0",
-			"note": "AI時代にSIerが巻き返す構造的理由を解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00182664-biz_plus-000-1-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
+			"number": 5,
 			"title": "Apple、「Mac Pro」の販売を終了　20年の歴史に幕",
 			"url": "https://news.yahoo.co.jp/articles/397e077cb54ef521f77c2ad83a08233216d43c70",
 			"note": "後継機の予定なし、Mac Studioに役割統合",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000034-zdn_n-000-1-view.jpg?exp=10800"
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000034-zdn_n-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
+			"number": 6,
 			"title": "ASUSの27インチ5Kゲーミングモニター「ROG Strix 5K XG27JCG」が発売",
 			"url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2096684.html",
 			"note": "5K/180HzとQHD/330Hz切替対応、約14.3万円",
 			"image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2096/684/s1.jpg"
 		},
 		{
-			"number": 6,
+			"number": 7,
 			"title": "CORSAIRのStream Deck内蔵メカニカルキーボード「GALLEON 100 SD」が発売",
 			"url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2096551.html",
 			"note": "キーボードにStream Deck機能を統合した新製品",
 			"image": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2096/551/a1.jpg"
 		}
 	],
-	"政治（日本）": [],
+	"政治（日本）": [
+		{
+			"number": 8,
+			"title": "帰化の要件厳格化　\"在留5年以上\"を10年以上に　法務省が運用見直し",
+			"url": "https://news.yahoo.co.jp/articles/e3891dd624cd30b89e3ddc748cfd6542cd87a149",
+			"note": "帰化要件が4月から厳格化、在留期間を5年→10年に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00010005-annd-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 9,
+			"title": "小中高生の自殺者過去最多538人　動機最多は「学校問題」　厚労省",
+			"url": "https://news.yahoo.co.jp/articles/8158c1021cf791d83c77f228497524985d143639",
+			"note": "全体の自殺者は過去最少も、小中高生は538人で最多",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00010000-fnn-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "同性婚6訴訟、大法廷に回付　高裁判決割れる、統一判断へ　最高裁",
+			"url": "https://news.yahoo.co.jp/articles/d1d8feb242413c17e54d3b854c45ff82315676b3",
+			"note": "同性婚訴訟6件を最高裁大法廷で統一判断へ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000068-jij-000-32-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "海自イージス艦、米国製ミサイル「トマホーク」の発射能力を獲得",
+			"url": "https://news.yahoo.co.jp/articles/fe6cc230a19095763c3a83cdef6c54f70ce41822",
+			"note": "イージス艦「ちょうかい」がトマホーク運用能力を取得",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000000-mai-000-3-view.jpg?exp=10800"
+		}
+	],
 	"国際情勢": [
 		{
-			"number": 7,
+			"number": 12,
 			"title": "トランプ大統領「イラン発電所への攻撃をさらに10日間延期」イランの要請受け",
 			"url": "https://news.yahoo.co.jp/articles/e412f740454edb0b5fe4cb2db176db1870225982",
 			"note": "4月6日まで猶予延長、「交渉は順調」と主張",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000008-ann-000-10-thumb.jpg?exp=10800"
 		},
 		{
-			"number": 8,
+			"number": 13,
 			"title": "イラン、米の戦闘終結条件を拒否「戦力が丸裸になる」",
 			"url": "https://news.yahoo.co.jp/articles/5c8ccb279cd0d8ccc85dabe447c79f2e9df82034",
 			"note": "核放棄要求に反発、日本の仲介役に期待の声も",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-22557091-mbsnews-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 14,
+			"title": "欧州はウクライナ優先　対イランで米と亀裂",
+			"url": "https://news.yahoo.co.jp/pickup/6574353",
+			"note": "米のイラン作戦に欧州が距離、米欧の亀裂が鮮明に",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/27/60d051d673708d6163b83bc95c767f580fee0ff0eb570eaf2b18407650dd07cb.jpg"
+		},
+		{
+			"number": 15,
+			"title": "トランプ氏、ネタニヤフ首相からの「一緒にイラン国民に政権打倒の呼びかけを」を拒否",
+			"url": "https://news.yahoo.co.jp/articles/6ec0e09ad626d1c9cbe5a85cb4d3b99cc205af40",
+			"note": "ネタニヤフのイラン民衆蜂起共同呼びかけ提案を拒否",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000169-yom-000-5-view.jpg?exp=10800"
+		},
+		{
+			"number": 16,
+			"title": "イランが石油タンカー10隻のホルムズ海峡通過を認可　トランプ大統領「大きなプレゼント」",
+			"url": "https://news.yahoo.co.jp/articles/a575ab91f9696aef38215a956da64db0d071b42e",
+			"note": "戦闘停止協議の進展でタンカー通過を許可",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-07294857-jnn-000-5-view.jpg?exp=10800"
 		}
 	]
 }
