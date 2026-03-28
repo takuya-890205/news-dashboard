@@ -2,72 +2,93 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "グーグル、AIメモリを1/6に圧縮する新技術「TurboQuant」発表　推論速度は最大8倍に",
-			"url": "https://news.yahoo.co.jp/articles/ed6abcf5e227784e4982112a0675d5b7e08a64da",
-			"note": "AIメモリ消費量を1/6に削減、メモリ銘柄株価下落",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00183469-biz_plus-000-2-view.jpg?exp=10800"
+			"title": "AI使用疑惑の小説、米で出版中止　曖昧な「人間が執筆」の線引き",
+			"url": "https://www.nikkei.com/article/DGXZQOGN26C1Z0W6A320C2000000/",
+			"note": "米出版社がAI使用疑惑で小説の出版を中止、創作とAIの線引き問題",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2817114027032026000000-1.jpg"
+		},
+		{
+			"number": 2,
+			"title": "【第87回】UbuntuでもついにLLMでRyzen AI NPU活用できるようになった！",
+			"url": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2096828.html",
+			"note": "LinuxでRyzen AI NPUを使いローカルLLM実行が可能に",
+			"image": "https://asset.watch.impress.co.jp/img/pcw/docs/2096/828/cover_l.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 2,
-			"title": "PC向けDDR5メモリ市場に変化？ 一部値下がりで「値下がり観測」広がる",
-			"url": "https://www.itmedia.co.jp/pcuser/articles/2603/28/news024.html",
-			"note": "DDR5メモリに値下がり傾向、市場に変化の兆し",
-			"image": "https://image.itmedia.co.jp/pcuser/articles/2603/28/cover_news024.jpg"
+			"number": 3,
+			"title": "Apple創立50周年、表参道にMori Calliopeが登場。日本ならではの「Think Different」を表現",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2097147.html",
+			"note": "Apple50周年イベント、日本ではVTuberが登場し独自の祝賀",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/147/01.jpg"
 		},
 		{
-			"number": 3,
-			"title": "5Gマネタイズの鍵「ネットワークスライシング」始動　ドコモとソフトバンクの戦略を読み解く",
-			"url": "https://www.itmedia.co.jp/mobile/articles/2603/28/news027.html",
-			"note": "ドコモ・ソフトバンクが5Gスライシング開始",
-			"image": "https://image.itmedia.co.jp/mobile/articles/2603/28/cover_news027.jpg"
+			"number": 4,
+			"title": "「iPhoneのマイナンバーカード」でマイナポータルの運転免許関連サービスが全て利用可能に",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2097043.html",
+			"note": "iPhone内蔵マイナカードで運転免許の住所変更等が可能に",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/043/list.jpg"
+		},
+		{
+			"number": 5,
+			"title": "CIO、燃えにくい半固体系セル採用のモバイルバッテリ。旧機種の無償交換も",
+			"url": "https://pc.watch.impress.co.jp/docs/news/2097030.html",
+			"note": "CIOが安全性重視の半固体系セルモバイルバッテリを発売",
+			"image": "https://asset.watch.impress.co.jp/img/pcw/docs/2097/030/01_l.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 4,
-			"title": "首相、予算案年度内成立を断念　参院審議の短縮めど立たず　暫定案は30日成立へ",
-			"url": "https://news.yahoo.co.jp/articles/ed39c2f0b67977cf30a51c5e08402db38fdbdbd9",
-			"note": "高市首相が年度内成立を断念、暫定予算30日成立へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00010000-doshin-000-1-view.jpg?exp=10800"
+			"number": 6,
+			"title": "「ほとんど人が通らない歩道でも自転車で走ると反則金？」4月開始の自転車「青切符」 国会で質問相次ぐ",
+			"url": "https://news.yahoo.co.jp/articles/94aee8ed7633b8b03bcaf284f4c9c516d903e373",
+			"note": "4月施行の自転車青切符制度、歩道走行の反則金6000円と判明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-10234840-abemav-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
-			"title": "使用済み核燃料搬入、青森県が拒否方針…再処理工場完成27回延期で「搬入の前提なくなった」",
-			"url": "https://news.yahoo.co.jp/articles/95bc88cb5503b48ef0daa4a03bd5c6f68970b283",
-			"note": "再処理工場遅延で核燃料搬入を青森県が拒否",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000020-yom-000-2-view.jpg?exp=10800"
+			"number": 7,
+			"title": "「事故究明が求められる以上コメントしようがない」共産・田村氏　辺野古転覆船長について",
+			"url": "https://news.yahoo.co.jp/articles/f8e7a542c11b63ae96250495c981cf78aa57d961",
+			"note": "辺野古沖の船転覆事故について共産党・田村委員長が言及",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000022-san-000-2-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 6,
-			"title": "米国務長官、地上部隊使わず対イラン目標達成へ「数週間」で終結も",
-			"url": "https://news.yahoo.co.jp/articles/319fdf59c4905ede648607fb6a2121a91d2b0b59",
-			"note": "ルビオ国務長官、地上部隊なしで数週間内の終結示唆",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000009-reut-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "イランは取引したがっているとトランプ氏　「壊滅的な打撃を受けている」",
-			"url": "https://news.yahoo.co.jp/articles/582488bf65d716d8cc96402c05eb66bd1e50ec39",
-			"note": "トランプ氏「イランは壊滅的打撃で取引希望」と主張",
-			"image": ""
-		},
-		{
 			"number": 8,
-			"title": "イエメンの親イラン組織フーシ派が「軍事介入」警告　紅海での商船攻撃再開の懸念",
-			"url": "https://news.yahoo.co.jp/articles/d6608991d77a0a8cb2d69053a35dbd8ff3b7946b",
-			"note": "フーシ派がイラン攻撃激化時の軍事介入を警告",
-			"image": ""
+			"title": "トランプ大統領「次はキューバだ」 イラン攻撃を続ける中でさらなる圧力",
+			"url": "https://news.yahoo.co.jp/articles/c7ec321e311abf8b8e8f82ef9841b5a5e698ab6f",
+			"note": "トランプ氏がイラン攻撃に続きキューバへの圧力強化を示唆",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-07295098-jnn-000-6-view.jpg?exp=10800"
 		},
 		{
 			"number": 9,
-			"title": "イラン女子学校攻撃巡り国連が緊急会合　イラン外相「戦争犯罪だ」責任追及を要請",
-			"url": "https://news.yahoo.co.jp/articles/296c72cc2fc7d2d66b84c7142ac8557c60abdbce",
-			"note": "イラン南部の女子学校空爆で国連人権理事会が緊急会合",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000093-ann-000-9-thumb.jpg?exp=10800"
+			"title": "米国務長官、地上部隊使わず対イラン目標達成へ　「数週間」で終結も",
+			"url": "https://news.yahoo.co.jp/articles/319fdf59c4905ede648607fb6a2121a91d2b0b59",
+			"note": "ルビオ国務長官、イラン作戦は数週間以内に終結と発言",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000009-reut-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "フーシ派「軍事介入」警告　商船攻撃再開の恐れ",
+			"url": "https://news.yahoo.co.jp/articles/f8ee1f6e333a23a867f7967e1356546a87576805",
+			"note": "親イラン・フーシ派が軍事介入を警告、紅海の商船攻撃再開の懸念",
+			"image": ""
+		},
+		{
+			"number": 11,
+			"title": "プーチン氏支持率下落　侵攻下で最低、情報統制に不満か",
+			"url": "https://news.yahoo.co.jp/articles/e5441a7eae9650bb6065db478f4b118f4c0d9971",
+			"note": "プーチン支持率が70%台に低下、情報統制への不満が背景",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000026-jij-000-9-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "ネパール警察、オリ前首相を逮捕　反政府デモで学生殺害に関与",
+			"url": "https://news.yahoo.co.jp/articles/3c757f275b03340a69ff53ad4ebffce0e92cb349",
+			"note": "ネパールで前首相がデモ弾圧の容疑で逮捕される",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000040-jij-000-8-view.jpg?exp=10800"
 		}
 	]
 }
