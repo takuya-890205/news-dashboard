@@ -2,72 +2,92 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "中国が仕掛ける認知戦、2月の衆院選も照準か…サカナAIと読売のSNS分析で判明",
-			"url": "https://news.yahoo.co.jp/articles/602f4754a5044576b46c884043fc74456fbc7d49",
-			"note": "AI活用のSNS分析で中国の英語圏向け世論工作を検出",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/29/2a34f082eb16b8ac1288eb43aaaae891ec97f135cb762d99add96420ea69ba7b.jpg"
-		}
-	],
-	"デジタルガジェット": [
-		{
-			"number": 2,
-			"title": "「性能テスト時だけ本気出す」スマホの闇に、メーカーが見解示す",
-			"url": "https://news.yahoo.co.jp/articles/4a2b69408702ceb930cd08c7dfa439e49db24b52",
-			"note": "REDMAGIC 11 Proのベンチマーク不正が発覚し業界議論",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000027-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "「Kingdom Come: Deliverance II」の開発者が解雇され「AIに取って代わられた」と主張",
+			"url": "https://gigazine.net/news/20260329-kingdom-come-deliverance-2-developer-ai-replacing/",
+			"note": "ゲーム翻訳担当者がAI置換を理由に解雇",
+			"image": "https://i.gzn.jp/img/2026/03/29/kingdom-come-deliverance-2-developer-ai-replacing/00.jpg"
 		},
 		{
+			"number": 2,
+			"title": "中国が仕掛ける認知戦、2月の衆院選も照準か…英語発信強め国際世論工作に重点",
+			"url": "https://news.yahoo.co.jp/articles/602f4754a5044576b46c884043fc74456fbc7d49",
+			"note": "AI分析で中国の対日認知戦が判明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000350-yom-000-9-view.jpg?exp=10800"
+		}
+	],
+	"デジタルガジェット": [],
+	"政治（日本）": [
+		{
 			"number": 3,
-			"title": "失効日が迫る「東京駅100周年記念Suica」、今後も使い続けるには？",
-			"url": "https://news.yahoo.co.jp/articles/cf06a5e422f0b0d63123a8c1d4103a2828e1e023",
-			"note": "3月31日失効、約210万枚が未使用のまま期限迫る",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000024-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "高市首相、取材対応は少なく　歴代と比べ、Xでは連日発信",
+			"url": "https://news.yahoo.co.jp/articles/35025b91a0679bae3c5bd83b7fa8a84253d5e7b6",
+			"note": "ぶら下がり取材少なくX発信に注力",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000058-kyodonews-000-14-view.jpg?exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "アンダー1万円でバナナが鳴った──カセット型シンセ「Synth-a-Sette」",
-			"url": "https://www.gizmodo.jp/2026/03/synth_a_sette-5vc.html",
-			"note": "ワニ口クリップで日用品を楽器にする9,900円のガジェット",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2025/08/07/synth-a-sette_main2.jpeg?w=1280"
-		}
-	],
-	"政治（日本）": [
-		{
-			"number": 5,
 			"title": "安保法10年、広がる自衛隊活動　国会の監視強化求める声",
 			"url": "https://news.yahoo.co.jp/articles/48bcef752df3ec8d56e8f2c487de4df04651243e",
-			"note": "イラン情勢で「存立危機事態」認定の可能性が議論に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000009-jij-000-6-view.jpg?exp=10800"
+			"note": "存立危機事態認定の可能性も浮上",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000009-jij-000-14-view.jpg?exp=10800"
+		},
+		{
+			"number": 5,
+			"title": "立憲民主党、中道合流の判断時期示さず　統一選は独自候補擁立へ",
+			"url": "https://news.yahoo.co.jp/articles/1c9e7c9e8786fda378064eae6cc0f0bc33b24de0",
+			"note": "定期党大会で合流時期の明示を見送り",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000027-jij-000-13-view.jpg?exp=10800"
 		},
 		{
 			"number": 6,
-			"title": "予算案「7日成立」案、自民に浮上　野党、充実審議の主張崩さず",
-			"url": "https://news.yahoo.co.jp/articles/3fa07ff6bdb8fa0d16431b3ecbcc87ae86a62f52",
-			"note": "2026年度予算案の成立時期めぐり与野党調整が本格化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000007-jij-000-13-view.jpg?exp=10800"
+			"title": "「斎藤知事やめろデモ」本人は知らぬ存ぜぬ　約850人参加",
+			"url": "https://news.yahoo.co.jp/articles/90874e0b49efc7f714798117d0d528a133775d03",
+			"note": "不起訴後も辞職求める声が継続",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000016-jct-000-2-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 7,
-			"title": "米揚陸艦トリポリと海兵隊が中東着　日本拠点部隊、地上作戦なら複雑化",
-			"url": "https://news.yahoo.co.jp/articles/ef50218cc8429cf452bfb94a86ff2eba1b7836ca",
-			"note": "日本から約3500人の海兵隊が中東展開、地上戦の懸念",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000007-asahi-000-5-view.jpg?exp=10800"
+			"title": "イラン駐日大使「日本の船舶はホルムズ海峡を通過させるよう調整」戦争終結へ日本に求めること",
+			"url": "https://news.yahoo.co.jp/articles/bc1881b40e2cc7b88f3b80b6c9ec363b20f56e05",
+			"note": "友好国・日本に停戦仲介の役割を要請",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-04775815-ytv-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 8,
-			"title": "米イラン、戦闘終結へ駆け引き　「ホルムズ封鎖」で誤算、収拾遠く",
+			"title": "米イラン、戦闘終結へ駆け引き　「ホルムズ封鎖」で誤算　収拾遠く",
 			"url": "https://news.yahoo.co.jp/articles/6b6be6c63ec7a08d847b7165ab0cb79e1a588e5e",
-			"note": "開戦1ヶ月、出口戦略なき米国とイスラエルの強硬姿勢",
+			"note": "開戦1カ月、核放棄条件で膠着状態",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000006-jij-000-8-view.jpg?exp=10800"
 		},
 		{
 			"number": 9,
-			"title": "「NO KINGS」全米各地でトランプ政権に抗議デモ…「逮捕せよ」「憲法軽視するな」",
+			"title": "フーシ派なぜ参戦？「もう一つの海峡」バベルマンデブ封鎖が火種に",
+			"url": "https://news.yahoo.co.jp/articles/27115dcf654ec46421fc24e963939028c53c4b12",
+			"note": "紅海の戦略的要衝めぐり緊張拡大",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000005-mai-000-5-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "日本拠点の海兵隊と揚陸艦が中東着　地上作戦なら戦況複雑化",
+			"url": "https://news.yahoo.co.jp/articles/ef50218cc8429cf452bfb94a86ff2eba1b7836ca",
+			"note": "約3500人の部隊が中東に到着",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000007-asahi-000-7-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "「NO KINGS」全米各地でトランプ政権に抗議デモ　移民政策・イラン攻撃に反対",
 			"url": "https://news.yahoo.co.jp/articles/a875267d065aab9b6872248accc5e2eec8df4ff5",
-			"note": "ワシントン・NYで大規模行進、移民政策やイラン攻撃に反対",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000071-yom-000-7-view.jpg?exp=10800"
+			"note": "全米規模の大規模反政権デモ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000071-yom-000-10-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "金正恩氏がICBMエンジン視察　新型「火星20」向け、能力25%向上",
+			"url": "https://news.yahoo.co.jp/articles/7a9f9ad3c612d08a129e6c576ce434abbcbd8404",
+			"note": "固体燃料式エンジンの燃焼実験を視察",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000062-asahi-000-1-view.jpg?exp=10800"
 		}
 	]
 }
