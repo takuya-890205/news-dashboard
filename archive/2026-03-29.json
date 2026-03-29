@@ -2,93 +2,72 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Meta、人間の脳反応を予測するAI基盤モデル「TRIBE v2」発表　神経科学の\"仮想実験\"を可能に",
-			"url": "https://ledge.ai/articles/meta_tribe_v2_brain_prediction_foundation_model",
-			"note": "720人の脳データで学習、計算機上の神経科学実験を実現",
-			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/tribe2_7b58b4fc37/tribe2_7b58b4fc37.jpg"
-		},
-		{
-			"number": 2,
-			"title": "国内AIエージェント動向（2026/3/28号）PoC超えて実運用フェーズへ",
-			"url": "https://note.com/yasuhitoo/n/ne62640ca559d",
-			"note": "日程調整・保険請求など完全自動化が国内で加速中",
-			"image": "https://assets.st-note.com/production/uploads/images/262732182/a630c6a3282113bc2c1ee76450f5a6d7.png"
+			"title": "中国が仕掛ける認知戦、2月の衆院選も照準か…サカナAIと読売のSNS分析で判明",
+			"url": "https://news.yahoo.co.jp/articles/602f4754a5044576b46c884043fc74456fbc7d49",
+			"note": "AI活用のSNS分析で中国の英語圏向け世論工作を検出",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/29/2a34f082eb16b8ac1288eb43aaaae891ec97f135cb762d99add96420ea69ba7b.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
+			"number": 2,
 			"title": "「性能テスト時だけ本気出す」スマホの闇に、メーカーが見解示す",
 			"url": "https://news.yahoo.co.jp/articles/4a2b69408702ceb930cd08c7dfa439e49db24b52",
-			"note": "REDMAGIC 11 Proのベンチマークブースト発覚で業界議論",
+			"note": "REDMAGIC 11 Proのベンチマーク不正が発覚し業界議論",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000027-zdn_m-000-1-view.jpg?exp=10800"
 		},
 		{
+			"number": 3,
+			"title": "失効日が迫る「東京駅100周年記念Suica」、今後も使い続けるには？",
+			"url": "https://news.yahoo.co.jp/articles/cf06a5e422f0b0d63123a8c1d4103a2828e1e023",
+			"note": "3月31日失効、約210万枚が未使用のまま期限迫る",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000024-zdn_m-000-1-view.jpg?exp=10800"
+		},
+		{
 			"number": 4,
-			"title": "「AQUOS sense10」「Xperia 10 VII」徹底比較　スペック表に現れない差",
-			"url": "https://news.yahoo.co.jp/articles/b8788f60cfb2a4bc5dea0f7c46651dceb59b44c5",
-			"note": "ミドルレンジ人気2機種の実使用感を詳細比較",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000033-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "アンダー1万円でバナナが鳴った──カセット型シンセ「Synth-a-Sette」",
+			"url": "https://www.gizmodo.jp/2026/03/synth_a_sette-5vc.html",
+			"note": "ワニ口クリップで日用品を楽器にする9,900円のガジェット",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2025/08/07/synth-a-sette_main2.jpeg?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 5,
-			"title": "首相、予算案年度内成立を断念　暫定予算は30日成立へ",
-			"url": "https://news.yahoo.co.jp/articles/ed39c2f0b67977cf30a51c5e08402db38fdbdbd9",
-			"note": "11年ぶり暫定予算8.6兆円、4月11日までの歳出を賄う",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00010000-doshin-000-1-view.jpg?exp=10800"
+			"title": "安保法10年、広がる自衛隊活動　国会の監視強化求める声",
+			"url": "https://news.yahoo.co.jp/articles/48bcef752df3ec8d56e8f2c487de4df04651243e",
+			"note": "イラン情勢で「存立危機事態」認定の可能性が議論に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000009-jij-000-6-view.jpg?exp=10800"
 		},
 		{
 			"number": 6,
-			"title": "防衛増税4月開始　法人税4％上乗せ、加熱式たばこ値上げ",
-			"url": "https://news.yahoo.co.jp/articles/4564fbca65ad9e37e342db69c2015955910e3ff0",
-			"note": "所得税は来年1月から、3税で1兆円強の確保目指す",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000153-san-000-4-view.jpg?exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "「106万円の壁」31日に事実上解消　パートらの厚生年金・健保加入",
-			"url": "https://news.yahoo.co.jp/articles/c26562df4d1795d70b8adf653426a2efacfbca55",
-			"note": "全都道府県で最低賃金が壁を超え約110万人が新規加入見込み",
-			"image": ""
+			"title": "予算案「7日成立」案、自民に浮上　野党、充実審議の主張崩さず",
+			"url": "https://news.yahoo.co.jp/articles/3fa07ff6bdb8fa0d16431b3ecbcc87ae86a62f52",
+			"note": "2026年度予算案の成立時期めぐり与野党調整が本格化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000007-jij-000-13-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
+			"number": 7,
+			"title": "米揚陸艦トリポリと海兵隊が中東着　日本拠点部隊、地上作戦なら複雑化",
+			"url": "https://news.yahoo.co.jp/articles/ef50218cc8429cf452bfb94a86ff2eba1b7836ca",
+			"note": "日本から約3500人の海兵隊が中東展開、地上戦の懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000007-asahi-000-5-view.jpg?exp=10800"
+		},
+		{
 			"number": 8,
-			"title": "米イラン、戦闘終結へ駆け引き　「ホルムズ封鎖」で誤算　収拾遠く",
+			"title": "米イラン、戦闘終結へ駆け引き　「ホルムズ封鎖」で誤算、収拾遠く",
 			"url": "https://news.yahoo.co.jp/articles/6b6be6c63ec7a08d847b7165ab0cb79e1a588e5e",
-			"note": "開戦1ヶ月、米の目標が体制転換からホルムズ開放へ移行",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000006-jij-000-4-view.jpg?exp=10800"
+			"note": "開戦1ヶ月、出口戦略なき米国とイスラエルの強硬姿勢",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000006-jij-000-8-view.jpg?exp=10800"
 		},
 		{
 			"number": 9,
-			"title": "「爆弾で交渉」米政府高官の演説が波紋　トランプ氏も驚きの表情",
-			"url": "https://news.yahoo.co.jp/articles/ab33b0117adf530350c64e566a204389ae3974d6",
-			"note": "ヘグセス戦争長官がイラン作戦で物議醸す発言",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-10054432-bfj-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 10,
-			"title": "「NO KINGS」全米各地でトランプ政権に抗議デモ　移民政策やイラン攻撃に反対",
+			"title": "「NO KINGS」全米各地でトランプ政権に抗議デモ…「逮捕せよ」「憲法軽視するな」",
 			"url": "https://news.yahoo.co.jp/articles/a875267d065aab9b6872248accc5e2eec8df4ff5",
-			"note": "ワシントン・NYなどで大規模行進、憲法軽視を批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000071-yom-000-3-view.jpg?exp=10800"
-		},
-		{
-			"number": 11,
-			"title": "フーシ派がイスラエルにミサイル発射　中東戦争に初参戦を宣言",
-			"url": "https://news.yahoo.co.jp/articles/10c3f71b9f12f167de6df22774f41376efea8ffa",
-			"note": "イランへの攻撃停止まで軍事作戦を継続すると表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260328-00000020-jij_afp-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "習近平が「もっとも恐れている」展開…イランを助けられない中国の弱み",
-			"url": "https://news.yahoo.co.jp/articles/65ae9229b882c3371a06c04e5a10be6711513706",
-			"note": "原油高騰が社会不安に直結、石油備蓄放出も拒否",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00386797-diamond-000-1-view.jpg?exp=10800"
+			"note": "ワシントン・NYで大規模行進、移民政策やイラン攻撃に反対",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260329-00000071-yom-000-7-view.jpg?exp=10800"
 		}
 	]
 }
