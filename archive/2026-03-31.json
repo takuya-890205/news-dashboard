@@ -2,107 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「Qwen3.5-Omni」が登場、文章生成・コード生成・映像認識・音声合成・ウェブ検索が可能",
-			"url": "https://gigazine.net/news/20260331-qwen3-5-omni/",
-			"note": "Alibabaがオムニモーダルモデルを発表、全領域対応",
-			"image": "https://i.gzn.jp/img/2026/03/31/qwen3-5-omni/00.png"
+			"title": "OpenAIが新モデルSpud着手、動画Sora撤退　AI「使い放題」幻想に幕",
+			"url": "https://www.nikkei.com/article/DGXZQOGN306H30Q6A330C2000000/",
+			"note": "計算資源逼迫でSora終了、AGI開発に経営資源集中",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2Ftopic%2Fog%2F23053001-1.png"
 		},
 		{
 			"number": 2,
-			"title": "BlueskyのAIツール「Attie」が13万人以上にブロック、副大統領に次ぐ不評",
-			"url": "https://gigazine.net/news/20260331-bluesky-attie-blocked/",
-			"note": "BlueskyのAIアプリが発表数日で大量ブロックの事態に",
-			"image": "https://i.gzn.jp/img/2026/03/31/bluesky-attie-blocked/00.png"
+			"title": "日本のアニメ・漫画キャラに酷似、AI生成の動画や画像氾濫…政府が実態調査へ",
+			"url": "https://news.yahoo.co.jp/articles/f4eeec169c472fc777f1993863c775996915a0dd",
+			"note": "GeminiやChatGPTで無許諾出力、権利侵害が深刻化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000075-yom-000-9-view.jpg?exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "結局、M365 Copilotって元取れるの？ グループ9000人に導入した住友商事に聞いた",
+			"title": "結局、M365 Copilotって元取れるの？ 住友商事9000人導入の成果",
 			"url": "https://news.yahoo.co.jp/articles/893b7042fdb2b4900635017de0bbde7f62dd38f3",
-			"note": "住友商事9000人にCopilot導入、年12億円コスト削減効果",
+			"note": "年12億円コスト削減効果、AIで業務効率化の実例",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000015-zdn_ep-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "OpenClaw開発者「AIエージェントでChatGPT変わる」",
+			"title": "OpenClaw開発者「AIエージェントでChatGPTは変わる」ClawCon Tokyo開催",
 			"url": "https://www.nikkei.com/article/DGXZQOUC307VI0Q6A330C2000000/",
-			"note": "OSS AIエージェント「OpenClaw」開発者が来日、業界変革を語る",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2824695030032026000000-1.jpg"
+			"note": "OSS AIエージェント開発者が来日、渋谷でアジア初イベント",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2824695030032026000000-2.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 5,
-			"title": "ドコモの3G「FOMA」と「iモード」が本日31日終了――歴史に残るサービスはどう始まったのか",
+			"title": "ドコモの3G「FOMA」と「iモード」が本日31日終了――歴史に残るサービスの始まり",
 			"url": "https://k-tai.watch.impress.co.jp/docs/interview/2097249.html",
-			"note": "FOMA・iモード25年の歴史に幕、立ち上げ関係者が振り返る",
+			"note": "1999年開始のiモード、25年超の歴史に幕",
 			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/249/13.jpg"
 		},
 		{
 			"number": 6,
-			"title": "折りたたみiPhoneは「史上最大の刷新」に 折り目や耐久性などの欠点解消に期待",
-			"url": "https://news.yahoo.co.jp/articles/8cf1f42508c259c964c3dacc74d9fe845b103de4",
-			"note": "Apple開発中のiPhone Foldが折りたたみの課題を解決か",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-35245824-cnetj-000-1-view.jpg?exp=10800"
+			"title": "4月からいよいよ始まる「JAPANローミング」の仕組みとは",
+			"url": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/2097567.html",
+			"note": "通信障害時に他社回線へ自動切替、4月1日開始",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/567/000.png"
 		},
 		{
 			"number": 7,
-			"title": "4月からいよいよ始まる「JAPANローミング」の仕組みとは",
-			"url": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/2097567.html",
-			"note": "通信障害時に他キャリアへ接続する新制度が4月開始",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/567/000.png"
+			"title": "KDDI子会社の架空循環取引は2461億円で確定、グループ外流出329億円",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2097868.html",
+			"note": "不正取引調査完了、通期業績を下方修正",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/868/list.jpg"
 		},
 		{
 			"number": 8,
 			"title": "壊れてないのに買い替えろ？ Wi-Fiルーターに潜む5年の壁の正体",
 			"url": "https://news.yahoo.co.jp/articles/067cc0ac534c4c07092ea2f4afbfff845d8d76b5",
-			"note": "セキュリティ含む3つの寿命で5年での買い替えが推奨",
+			"note": "セキュリティ含む3つの寿命で5年での買い替え推奨",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000019-zdn_ep-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 9,
-			"title": "自民党内にきしみ 高市首相がこだわった当初予算案、年度内成立を断念",
-			"url": "https://news.yahoo.co.jp/articles/00990ea24387a4871fa889c4dbc3cfe2a3592742",
-			"note": "高市首相の予算案固執に党内から批判、参院の壁に阻まれる",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00010000-nishinp-000-4-view.jpg?exp=10800"
+			"title": "長射程ミサイルを本日国内初配備　熊本・健軍駐屯地、射程約1000km",
+			"url": "https://news.yahoo.co.jp/articles/2802e99d4af21f0727d8f7377aa8eaee08a852f9",
+			"note": "12式地対艦誘導弾能力向上型、中国沿岸部や北朝鮮が射程",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260330-00000171-san-000-10-view.jpg?exp=10800"
 		},
 		{
 			"number": 10,
-			"title": "「危険運転」見直しへ法案 数値基準を導入、高速度は処罰範囲拡大も",
+			"title": "「危険運転」見直しへ法案閣議決定　飲酒・速度超過に数値基準導入",
 			"url": "https://news.yahoo.co.jp/articles/2e9b1e7987581dfe485033b24b15d8742dbb1618",
-			"note": "飲酒・高速度に数値基準を設ける改正案を閣議決定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000020-asahi-000-4-view.jpg?exp=10800"
+			"note": "呼気アルコール0.5mg以上、速度50-60km超過で適用",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000020-asahi-000-5-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "宅配便、非対面受取50%に倍増へ　政府が総合物流施策大綱を閣議決定",
+			"url": "https://news.yahoo.co.jp/articles/ef3311f021e0f35fb09be8d64b3840d96eca7d78",
+			"note": "置き配推進で再配達削減、2030年度目標",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000066-kyodonews-000-9-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "教材に「性的同意」の重要性を明記　子どもの性暴力防止へ　文科省",
+			"url": "https://news.yahoo.co.jp/articles/27929d06648d99b8e7469e49a9c1c6462d493d12",
+			"note": "刑法改正踏まえ教材改定、デジタル性暴力も追記",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000054-mai-000-2-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
-			"title": "ホルムズ・紅海で史上初の「二重封鎖」か 世界のエネルギー供給網の危機",
-			"url": "https://news.yahoo.co.jp/articles/bf7605f8ff65466a16f25a9d28df2df4f774f5d7",
-			"note": "フーシ派参戦宣言で2海峡同時封鎖の懸念、世界供給危機",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00055800-hankyoreh-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "イラン、原油満載のタンカー攻撃か",
-			"url": "https://news.yahoo.co.jp/articles/dc11c2a2920cfd4c3f54bc790bdf51dbd64c687e",
-			"note": "UAE停泊中の原油タンカーがイランの攻撃を受けたと報道",
-			"image": ""
-		},
-		{
 			"number": 13,
-			"title": "米国の3億ドル「空の目」を破壊したイラン 「ロシアが100%支援」",
-			"url": "https://news.yahoo.co.jp/articles/c7d59985dfb31860089b481897342697ef127f33",
-			"note": "サウジ米空軍基地攻撃でロシアが衛星情報支援とゼレンスキー主張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000037-cnippou-000-1-view.jpg?exp=10800"
+			"title": "トランプ氏「ホルムズ海峡閉鎖のままでも作戦終結の用意」米WSJ報道",
+			"url": "https://news.yahoo.co.jp/articles/ed3d316095d6b57b33347c01fe0b0ef52113922f",
+			"note": "海峡開放にこだわれば紛争長期化と判断か",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000011-asahi-000-6-view.jpg?exp=10800"
 		},
 		{
 			"number": 14,
-			"title": "ブルドーザで市場をなぎ倒す 「多数死亡」の目撃談にも中国当局は公式発表行わず",
-			"url": "https://news.yahoo.co.jp/articles/7a87371a2f70e1a8e403ba1fa9f432518f7b48ff",
-			"note": "北京郊外で市場にブルドーザー突進、当局は情報を削除",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000034-cnippou-000-1-view.png?fmt=jpeg&q=85&exp=10800"
+			"title": "ホルムズ・紅海で史上初の「二重封鎖」か　世界のエネルギー供給網の危機",
+			"url": "https://news.yahoo.co.jp/articles/bf7605f8ff65466a16f25a9d28df2df4f774f5d7",
+			"note": "フーシ派参戦宣言で2海峡同時封鎖の懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00055800-hankyoreh-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "パームビーチ空港が「トランプ空港」に改名へ　フロリダ州知事が署名",
+			"url": "https://news.yahoo.co.jp/articles/6ea3dcc80d10b5de64f782a680fad3ac7aa10804",
+			"note": "7月にも改名見通し、共和党が州議会で可決",
+			"image": ""
+		},
+		{
+			"number": 16,
+			"title": "中東情勢悪化で医療物資の供給不安　政府が対策本部を設置",
+			"url": "https://news.yahoo.co.jp/articles/bd441c634e55c579fc832a5fba30df0daf239625",
+			"note": "石油不足で医療用容器・透析機器に影響懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000039-ann-000-10-thumb.jpg?exp=10800"
 		}
 	]
 }
