@@ -2,65 +2,107 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenAIが新モデルSpud着手、動画Sora撤退 AI「使い放題」幻想に幕",
-			"url": "https://www.nikkei.com/article/DGXZQOGN306H30Q6A330C2000000/",
-			"note": "OpenAIがSora撤退しSpud開発に集中、AI無制限利用に限界",
-			"image": ""
+			"title": "「Qwen3.5-Omni」が登場、文章生成・コード生成・映像認識・音声合成・ウェブ検索が可能",
+			"url": "https://gigazine.net/news/20260331-qwen3-5-omni/",
+			"note": "Alibabaがオムニモーダルモデルを発表、全領域対応",
+			"image": "https://i.gzn.jp/img/2026/03/31/qwen3-5-omni/00.png"
 		},
 		{
 			"number": 2,
+			"title": "BlueskyのAIツール「Attie」が13万人以上にブロック、副大統領に次ぐ不評",
+			"url": "https://gigazine.net/news/20260331-bluesky-attie-blocked/",
+			"note": "BlueskyのAIアプリが発表数日で大量ブロックの事態に",
+			"image": "https://i.gzn.jp/img/2026/03/31/bluesky-attie-blocked/00.png"
+		},
+		{
+			"number": 3,
 			"title": "結局、M365 Copilotって元取れるの？ グループ9000人に導入した住友商事に聞いた",
 			"url": "https://news.yahoo.co.jp/articles/893b7042fdb2b4900635017de0bbde7f62dd38f3",
 			"note": "住友商事9000人にCopilot導入、年12億円コスト削減効果",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000015-zdn_ep-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 4,
+			"title": "OpenClaw開発者「AIエージェントでChatGPT変わる」",
+			"url": "https://www.nikkei.com/article/DGXZQOUC307VI0Q6A330C2000000/",
+			"note": "OSS AIエージェント「OpenClaw」開発者が来日、業界変革を語る",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2824695030032026000000-1.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
+			"number": 5,
 			"title": "ドコモの3G「FOMA」と「iモード」が本日31日終了――歴史に残るサービスはどう始まったのか",
 			"url": "https://k-tai.watch.impress.co.jp/docs/interview/2097249.html",
 			"note": "FOMA・iモード25年の歴史に幕、立ち上げ関係者が振り返る",
 			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/249/13.jpg"
 		},
 		{
-			"number": 4,
-			"title": "自転車\"ながらスマホ\"明日から罰金1.2万円 青切符で取り締まるが増える?",
-			"url": "https://news.yahoo.co.jp/articles/9a44751e43eab9c245bf0197e695e8a19f66111d",
-			"note": "4月1日から自転車交通反則制度開始、スマホ罰金1.2万円",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000002-impress-000-1-view.jpg?exp=10800"
+			"number": 6,
+			"title": "折りたたみiPhoneは「史上最大の刷新」に　折り目や耐久性などの欠点解消に期待",
+			"url": "https://news.yahoo.co.jp/articles/8cf1f42508c259c964c3dacc74d9fe845b103de4",
+			"note": "Apple開発中のiPhone Foldが折りたたみの課題を解決か",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-35245824-cnetj-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
+			"number": 7,
+			"title": "4月からいよいよ始まる「JAPANローミング」の仕組みとは",
+			"url": "https://k-tai.watch.impress.co.jp/docs/column/fujioka/2097567.html",
+			"note": "通信障害時に他キャリアへ接続する新制度が4月開始",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2097/567/000.png"
+		},
+		{
+			"number": 8,
 			"title": "壊れてないのに買い替えろ？ Wi-Fiルーターに潜む\"5年の壁\"の正体",
 			"url": "https://news.yahoo.co.jp/articles/067cc0ac534c4c07092ea2f4afbfff845d8d76b5",
 			"note": "セキュリティ含む3つの寿命で5年での買い替えが推奨",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000019-zdn_ep-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 6,
-			"title": "いよいよ最終日！Google ストア「新生活キャンペーン」",
-			"url": "https://jetstream.blog/2026/03/31/google-store-new-life-campaign-2026-final-day/",
-			"note": "Pixel 10等16製品群対象のGoogleストアセール最終日",
-			"image": "https://jetstream.blog/wp-content/uploads/2026/03/Google-Store-new-life-campaign.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 7,
-			"title": "「過ちを認められない」高市首相が招いている経済パニック 中東危機なのに「ガソリン補助」と「原子力推進」という愚策",
-			"url": "https://news.yahoo.co.jp/articles/5f5d6482dd0075c1a4d34573b35feb43ac18a3a9",
-			"note": "中東危機でエネルギー供給の脆弱性露呈、高市政策に批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00279411-sasahi-000-1-view.jpg?exp=10800"
+			"number": 9,
+			"title": "「自分のメンツ守りたいだけだったのか」自民党内に"きしみ"　高市首相がこだわった当初予算案、年度内成立を断念",
+			"url": "https://news.yahoo.co.jp/articles/00990ea24387a4871fa889c4dbc3cfe2a3592742",
+			"note": "高市首相の予算案固執に党内から批判、参院の壁に阻まれる",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00010000-nishinp-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "「危険運転」見直しへ法案　数値基準を導入、高速度は処罰範囲拡大も",
+			"url": "https://news.yahoo.co.jp/articles/2e9b1e7987581dfe485033b24b15d8742dbb1618",
+			"note": "飲酒・高速度に数値基準を設ける改正案を閣議決定",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000020-asahi-000-4-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 8,
-			"title": "トランプ氏、硬軟の発信で揺さぶり 地上作戦を見据えた増派のさなか",
-			"url": "https://news.yahoo.co.jp/articles/ed3d316095d6b57b33347c01fe0b0ef52113922f",
-			"note": "停戦協議と軍事圧力を使い分けイランを揺さぶるトランプ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000011-asahi-000-1-view.jpg?exp=10800"
+			"number": 11,
+			"title": "ホルムズ・紅海で史上初の「二重封鎖」か…世界のエネルギー供給網の危機",
+			"url": "https://news.yahoo.co.jp/articles/bf7605f8ff65466a16f25a9d28df2df4f774f5d7",
+			"note": "フーシ派参戦宣言で2海峡同時封鎖の懸念、世界供給危機",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00055800-hankyoreh-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "イラン、原油満載のタンカー攻撃か",
+			"url": "https://news.yahoo.co.jp/articles/dc11c2a2920cfd4c3f54bc790bdf51dbd64c687e",
+			"note": "UAE停泊中の原油タンカーがイランの攻撃を受けたと報道",
+			"image": ""
+		},
+		{
+			"number": 13,
+			"title": "米国の3億ドル「空の目」を破壊したイラン…「ロシアが100％支援」",
+			"url": "https://news.yahoo.co.jp/articles/c7d59985dfb31860089b481897342697ef127f33",
+			"note": "サウジ米空軍基地攻撃でロシアが衛星情報支援とゼレンスキー主張",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000037-cnippou-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 14,
+			"title": "ブルドーザで市場をなぎ倒す…「多数死亡」の目撃談にも中国当局は公式発表行わず",
+			"url": "https://news.yahoo.co.jp/articles/7a87371a2f70e1a8e403ba1fa9f432518f7b48ff",
+			"note": "北京郊外で市場にブルドーザー突進、当局は情報を削除",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000034-cnippou-000-1-view.png?fmt=jpeg&q=85&exp=10800"
 		}
 	]
 }
