@@ -2,79 +2,86 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "なぜ9万円のヘッドホンが売れるのか──AirPods Max 2が提示するウェアラブルAIという新市場",
-			"url": "https://news.yahoo.co.jp/articles/878c20a012990b3be9954fa7abea6e8da87192c2",
-			"note": "H2チップのAI機能が高価格ヘッドホン市場を変革",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00094869-forbes-000-1-view.jpg?exp=10800"
+			"title": "OpenAI、ソフトバンクやNVIDIAなど約19億ドル調達　AIスーパーコンピューター構想を推進",
+			"url": "https://www.itmedia.co.jp/news/articles/2604/01/news059.html",
+			"note": "Amazon・NVIDIA・SB参加、AIインフラ整備加速",
+			"image": "https://image.itmedia.co.jp/news/articles/2604/01/cover_news059.jpg"
+		},
+		{
+			"number": 2,
+			"title": "Anthropic「Claude Code」のソースコードがnpm経由で一時アクセス可能に、セキュリティ懸念",
+			"url": "https://www.itmedia.co.jp/news/articles/2604/01/news056.html",
+			"note": "npmパッケージからソースマップが参照可能に",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 2,
-			"title": "恥ずかしいGmailアドレス、ついに変更可能に--Googleが新機能を順次提供",
+			"number": 3,
+			"title": "恥ずかしいGmailアドレス、ついに変更可能に──Googleが新機能を順次提供",
 			"url": "https://news.yahoo.co.jp/articles/ad3c57d2abcd06fd927e247fc2d78d401746a041",
-			"note": "米国全ユーザーでGmailアドレス変更が可能に",
+			"note": "米国で提供開始、12ヶ月に1度・最大3回変更可",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-35245860-cnetj-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 3,
+			"number": 4,
+			"title": "米国が外国製ルーターの販売を全面禁止──消費者が買える製品はあるのか",
+			"url": "https://news.yahoo.co.jp/articles/021846630f26bd5f853c43e9a8a6d370ffc67039",
+			"note": "FCC決定、米国製はStarlinkのみという状況に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00094909-forbes-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 5,
 			"title": "スターリンク衛星、宇宙で分解した可能性",
 			"url": "https://news.yahoo.co.jp/articles/e191c433fba79a9ff5bea1786d5169aff73250b2",
-			"note": "SpaceX衛星が高度560kmで異常・分解か",
+			"note": "高度560kmで1機が異常、SpaceXが調査中",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-35245862-cnetj-000-2-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 4,
-			"title": "コメ最高値から一転、スーパーで「5キロ3000円割れ」も…鈴木農水相「備蓄米の買い戻し」発表に疑問の声",
-			"url": "https://news.yahoo.co.jp/articles/2f4e9c0fe7f3627bc51ea37fe9f2209a777477d3",
-			"note": "コメ価格が5000円台から2900円台へ急落",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-01436673-shincho-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 5,
-			"title": "「必要性はない」自民・岩屋毅氏、国章損壊罪に消極的「外国国章損壊罪と同列はおかしい」",
-			"url": "https://news.yahoo.co.jp/articles/3a267fbb98afd39b577f2d127bb86ec179f7938b",
-			"note": "日本国旗損壊罪の創設に必要性なしとの立場",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000032-san-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 6,
-			"title": "《宮内庁も警戒》皇室典範・養子縁組案が加速のなか皇室に再接近する「旧宮家当主」",
-			"url": "https://news.yahoo.co.jp/articles/89f201e22a7cdab841acb3311554b694efbf2d17",
-			"note": "旧宮家養子縁組案めぐり宮内庁に懸念広がる",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000002-jisin-000-6-view.jpg?exp=10800"
+			"title": "自転車反則金、増減税、私立高実質無償化…4月から変わる暮らし",
+			"url": "https://news.yahoo.co.jp/articles/956779e48163c566c4782be767349a124eeee14b",
+			"note": "共同親権・子育て支援金徴収など多数の制度改正",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000004-mai-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
+			"title": "万博にあわせ調達「EVバス」190台の路線バス転用断念…中国メーカー製、不具合相次ぎ使用中止",
+			"url": "https://news.yahoo.co.jp/articles/f47db9569aa73753aa2379b648e74608fc1f93b6",
+			"note": "大阪メトロが中国製EVバスの全面使用中止を決定",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000174-yomosaka-000-7-view.jpg?exp=10800"
+		},
+		{
+			"number": 8,
+			"title": "「必要性はない」自民・岩屋毅氏、国章損壊罪に消極的",
+			"url": "https://news.yahoo.co.jp/articles/3a267fbb98afd39b577f2d127bb86ec179f7938b",
+			"note": "外国国旗損壊罪と同列は不適切との認識示す",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000032-san-000-1-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "米国防長官「爆弾で交渉する」…イスファハンに907キロ級バンカーバスター投下",
-			"url": "https://news.yahoo.co.jp/articles/db3a0a1969d1dd23d1525936f8e0878218140d5e",
-			"note": "4/6期限迫る中、米がイラン核施設近くに大型爆弾",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000002-cnippou-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 8,
-			"title": "イラン、報復対象の米企業18社を公開──IT企業含む",
-			"url": "https://news.yahoo.co.jp/articles/038ab985fcbb90c1929e820380f7b2a4114eb851",
-			"note": "革命防衛隊が米企業への報復リストを公表",
-			"image": ""
-		},
-		{
 			"number": 9,
-			"title": "NY株大幅続伸、1125ドル高　中東戦闘終結に期待　原油は下落",
-			"url": "https://news.yahoo.co.jp/articles/687770ebe0411f946e81c3fbab828ec1eb8e1c8e",
-			"note": "停戦期待でダウ4万6341ドル、原油は下落",
-			"image": ""
+			"title": "イラン大統領、戦闘を停止する用意あり「再び攻撃を受けないことが分かれば」",
+			"url": "https://news.yahoo.co.jp/articles/c48ae8de3139968b03a5a195bb7b17a3aaeb01c2",
+			"note": "ペゼシュキアン大統領が停戦条件を提示",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-35245867-cnn-000-3-view.jpg?exp=10800"
 		},
 		{
 			"number": 10,
-			"title": "トランプのゴルフに160億円以上の税金⇒カリフォルニア州知事が強く批判",
-			"url": "https://news.yahoo.co.jp/articles/cbfa33ded71472eecac0c0cfeaa5fa48a5093a9e",
-			"note": "1億ドル超の公費使用にカリフォルニア州知事が批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00010000-huffpost-000-1-view.jpg?exp=10800"
+			"title": "「目標は達成された」トランプ氏が2〜3週間以内にイランから撤退と発言",
+			"url": "https://news.yahoo.co.jp/articles/9af8e2d13cfbb1edfc943be0c73d27d823421f4f",
+			"note": "核兵器阻止の目標達成を主張、早期撤退示唆",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-85598997-bloom_st-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "イランが米企業に報復すると発表「指導者暗殺はIT企業のせい」18社を名指し",
+			"url": "https://news.yahoo.co.jp/articles/038ab985fcbb90c1929e820380f7b2a4114eb851",
+			"note": "Google・Apple・Metaなど米テック18社が報復対象",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000001-ann-000-8-thumb.jpg?exp=10800"
 		}
 	]
 }
