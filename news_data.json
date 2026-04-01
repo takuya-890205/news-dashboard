@@ -2,86 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenAI、ソフトバンクやNVIDIAなど約19億ドル調達　AIスーパーコンピューター構想を推進",
-			"url": "https://www.itmedia.co.jp/news/articles/2604/01/news059.html",
-			"note": "Amazon・NVIDIA・SB参加、AIインフラ整備加速",
-			"image": "https://image.itmedia.co.jp/news/articles/2604/01/cover_news059.jpg"
+			"title": "Slack、SlackbotにAIエージェント連携とオートメーション機能を追加",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news101.html",
+			"note": "エージェント機能やワークフロー最適化ツール追加",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2604/01/l_yu_slack1.jpg"
 		},
 		{
 			"number": 2,
-			"title": "Anthropic「Claude Code」のソースコードがnpm経由で一時アクセス可能に、セキュリティ懸念",
-			"url": "https://www.itmedia.co.jp/news/articles/2604/01/news056.html",
-			"note": "npmパッケージからソースマップが参照可能に",
-			"image": ""
+			"title": "投資戦略AI比較：Claudeは「コツコツ」、Geminiは「大ぶり」と運用スタイルに差",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news042.html",
+			"note": "LLM別の投資運用スタイルの違いが判明",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2604/01/cover_news042.jpg"
+		},
+		{
+			"number": 3,
+			"title": "NTTデータハイブリッド、MCPサーバー提供開始　AIエージェントのデータ連携を強化",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news098.html",
+			"note": "AIエージェントがクラウドデータを容易に取得可能に",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2604/01/cover_news098.jpg"
+		},
+		{
+			"number": 4,
+			"title": "東大、オープンソース型AI行動認識ロボット「MEVIUS2」を開発",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news121.html",
+			"note": "LiDAR・HDRカメラ搭載で3D環境認識が可能",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2604/01/l_ts1648348_202604012_1_w490.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "恥ずかしいGmailアドレス、ついに変更可能に──Googleが新機能を順次提供",
+			"number": 5,
+			"title": "恥ずかしいGmailアドレス、ついに変更可能に　Googleが新機能を提供開始",
 			"url": "https://news.yahoo.co.jp/articles/ad3c57d2abcd06fd927e247fc2d78d401746a041",
-			"note": "米国で提供開始、12ヶ月に1度・最大3回変更可",
+			"note": "データ引継ぎ可能、旧アドレスは別名として残る",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-35245860-cnetj-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 4,
-			"title": "米国が外国製ルーターの販売を全面禁止──消費者が買える製品はあるのか",
-			"url": "https://news.yahoo.co.jp/articles/021846630f26bd5f853c43e9a8a6d370ffc67039",
-			"note": "FCC決定、米国製はStarlinkのみという状況に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00094909-forbes-000-1-view.jpg?exp=10800"
+			"number": 6,
+			"title": "迷走の5年間を経て――MicrosoftがWindows 11の改善を宣言した背景",
+			"url": "https://news.yahoo.co.jp/articles/4211750132a26c1af2be32cd364535595eb884aa",
+			"note": "タスクバー改善・Update柔軟化など長年の要望に対応",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000047-zdn_pc-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
-			"title": "スターリンク衛星、宇宙で分解した可能性",
+			"number": 7,
+			"title": "スターリンク衛星、宇宙で分解した可能性　SpaceXが発表",
 			"url": "https://news.yahoo.co.jp/articles/e191c433fba79a9ff5bea1786d5169aff73250b2",
-			"note": "高度560kmで1機が異常、SpaceXが調査中",
+			"note": "地上560km上空で異常発生、ISS等への影響なし",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-35245862-cnetj-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 8,
+			"title": "日本版「Pixel 10a」限定特典メール登録が本日最終日　4月8日予約開始・14日発売",
+			"url": "https://jetstream.blog/2026/04/01/japan-pixel-10a-limited-offer-registration-last-day/",
+			"note": "Google Storeポイント追加特典、Tensor G4搭載",
+			"image": "https://jetstream.blog/wp-content/uploads/2026/04/Google-Pixel-10a.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "自転車反則金、増減税、私立高実質無償化…4月から変わる暮らし",
-			"url": "https://news.yahoo.co.jp/articles/956779e48163c566c4782be767349a124eeee14b",
-			"note": "共同親権・子育て支援金徴収など多数の制度改正",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000004-mai-000-1-view.jpg?exp=10800"
+			"number": 9,
+			"title": "今年度予算、今週中の成立断念　野党「審議時間が不足」と強く反発",
+			"url": "https://news.yahoo.co.jp/articles/3e40789c779bc04c8baea3414348cfc89df294f9",
+			"note": "自民の今週成立目標を断念、来週以降に協議継続",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-08565675-nnn-000-3-thumb.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "万博にあわせ調達「EVバス」190台の路線バス転用断念…中国メーカー製、不具合相次ぎ使用中止",
-			"url": "https://news.yahoo.co.jp/articles/f47db9569aa73753aa2379b648e74608fc1f93b6",
-			"note": "大阪メトロが中国製EVバスの全面使用中止を決定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260331-00000174-yomosaka-000-7-view.jpg?exp=10800"
+			"number": 10,
+			"title": "離婚後の共同親権スタート　当事者に賛否「定着の礎に」「DV続く恐れ」",
+			"url": "https://news.yahoo.co.jp/articles/1a3184806d3c0589841085eb909debda23bf39f4",
+			"note": "改正民法施行、親子交流促進とDV懸念が共存",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000015-jij-000-24-view.jpg?exp=10800"
 		},
 		{
-			"number": 8,
-			"title": "「必要性はない」自民・岩屋毅氏、国章損壊罪に消極的",
-			"url": "https://news.yahoo.co.jp/articles/3a267fbb98afd39b577f2d127bb86ec179f7938b",
-			"note": "外国国旗損壊罪と同列は不適切との認識示す",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000032-san-000-1-view.jpg?exp=10800"
+			"number": 11,
+			"title": "長距離攻撃が可能な無人機、自衛隊に導入へ　安保3文書に盛り込む方針",
+			"url": "https://news.yahoo.co.jp/articles/9c9c0f1bc0c2ef1ac8fac6beb8718138c702938b",
+			"note": "航続1000km以上、中国への抑止力強化が狙い",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000034-yom-000-10-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "子ども・子育て支援金制度が本日始動　年収別の負担額と6つの使い道",
+			"url": "https://news.yahoo.co.jp/articles/703b579a6274ea577781b81850c3ad6def2ac9e6",
+			"note": "医療保険料に上乗せ、児童手当拡充等に充当",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-22567735-rkbv-000-3-thumb.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "イラン大統領、戦闘を停止する用意あり「再び攻撃を受けないことが分かれば」",
+			"number": 13,
+			"title": "イラン大統領「戦闘停止の用意ある」　再攻撃されない保証が条件",
 			"url": "https://news.yahoo.co.jp/articles/c48ae8de3139968b03a5a195bb7b17a3aaeb01c2",
-			"note": "ペゼシュキアン大統領が停戦条件を提示",
+			"note": "ペゼシュキアン大統領が戦闘終結の決意表明",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-35245867-cnn-000-3-view.jpg?exp=10800"
 		},
 		{
-			"number": 10,
-			"title": "「目標は達成された」トランプ氏が2〜3週間以内にイランから撤退と発言",
+			"number": 14,
+			"title": "トランプ氏「目標は達成された」2〜3週間以内にイランから撤退と発言",
 			"url": "https://news.yahoo.co.jp/articles/9af8e2d13cfbb1edfc943be0c73d27d823421f4f",
-			"note": "核兵器阻止の目標達成を主張、早期撤退示唆",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-85598997-bloom_st-000-4-view.jpg?exp=10800"
+			"note": "軍事目標達成の認識、ホルムズ問題は他国に委ねる姿勢",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-85598997-bloom_st-000-5-view.jpg?exp=10800"
 		},
 		{
-			"number": 11,
-			"title": "イランが米企業に報復すると発表「指導者暗殺はIT企業のせい」18社を名指し",
+			"number": 15,
+			"title": "イラン革命防衛隊、Apple・Google・NVIDIAなど米企業18社を報復対象に指定",
 			"url": "https://news.yahoo.co.jp/articles/038ab985fcbb90c1929e820380f7b2a4114eb851",
-			"note": "Google・Apple・Metaなど米テック18社が報復対象",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000001-ann-000-8-thumb.jpg?exp=10800"
+			"note": "指導者暗殺にIT企業関与と主張、従業員に退避勧告",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000001-ann-000-10-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 16,
+			"title": "フランス、G7サミットへの中国招待を見送り　日本の懸念など考慮か",
+			"url": "https://news.yahoo.co.jp/articles/b4910c6733c02b992d80bd870ce0d6ba270ddd93",
+			"note": "中国の海洋進出・経済的威圧への懸念が影響",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260401-00000082-asahi-000-2-view.jpg?exp=10800"
 		}
 	]
 }
