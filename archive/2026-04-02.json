@@ -1,72 +1,115 @@
 {
-	"生成AI・LLM・AIエージェント": [],
-	"デジタルガジェット": [
+	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "アポロ計画以来54年ぶり有人月周回へ「アルテミス2」打ち上げ成功",
-			"url": "https://news.yahoo.co.jp/articles/4f041b3a99ef54e6759989caff084657e2c845fa",
-			"note": "NASA、4人の宇宙飛行士が月周回ミッションへ出発",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00010000-sorae_jp-000-1-view.jpg?exp=10800"
+			"title": "アンソロピックのClaudeが拡大するほど儲かる企業──評価額1.5兆円「Vercel」とは何者か",
+			"url": "https://news.yahoo.co.jp/articles/90782c268ef19bc3700afc16b0a1c3381ef79da5",
+			"note": "Claude普及で急成長するVercelの全貌",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00094270-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "アップル、iOS 18向けに異例の緊急セキュリティアップデートを拡大公開",
-			"url": "https://news.yahoo.co.jp/articles/6d38609e79620166911605cf4b57c33e7e5ba15d",
-			"note": "DarkSwordスパイウェア対策、旧OS向けに異例の対応",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-35245938-zdnet-000-1-view.jpg?exp=10800"
-		},
+			"title": "国内AIエージェント動向(2026/4/2号)──電通デジタルAI本格提供、大阪市で40%工数削減",
+			"url": "https://note.com/yasuhitoo/n/ne4e3d0a462a2",
+			"note": "電通デジタルAI本格提供、大阪市40%工数削減",
+			"image": "https://assets.st-note.com/production/uploads/images/264109370/306241fa16c496b5d0e7d533d420773b.png"
+		}
+	],
+	"デジタルガジェット": [
 		{
 			"number": 3,
-			"title": "PS5が本日から値上げ実施、ディスクドライブ付きは97,980円に",
-			"url": "https://av.watch.impress.co.jp/docs/news/2097136.html",
-			"note": "日米欧で一斉値上げ、日本語専用モデルは55,000円据え置き",
-			"image": "https://av.watch.impress.co.jp/img/avw/list/2097/136/ps1.jpg"
+			"title": "半世紀ぶりに人類を月に送るアルテミスIIミッションの打ち上げに成功",
+			"url": "https://gigazine.net/news/20260402-artemis-2-launch/",
+			"note": "NASA有人月面ミッション50年ぶりの打ち上げ成功",
+			"image": "https://i.gzn.jp/img/2026/04/02/artemis-2-launch/00.jpg"
+		},
+		{
+			"number": 4,
+			"title": "ラズパイがさらなる値上げを発表＆旧モデルのRAM容量増加版も登場",
+			"url": "https://gigazine.net/news/20260402-raspberry-pi-price-increases/",
+			"note": "関税影響で全モデル値上げ、Pi 4に3GB版追加",
+			"image": "https://i.gzn.jp/img/2026/04/02/raspberry-pi-price-increases/00.jpg"
+		},
+		{
+			"number": 5,
+			"title": "ドコモの一部4G機種で通信・通話不可の不具合、3G停波に伴い",
+			"url": "https://news.yahoo.co.jp/articles/24b244306fc100d020ed4665cc4633c0574bcd8e",
+			"note": "FOMA終了後に一部4G機種で通話・通信不可",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000007-impktw-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "今年の「iPhone 17e」はガチでコスパ良好！ ……ただし「iPhone 17」派の人もいる",
+			"url": "https://news.yahoo.co.jp/articles/749a82f65470611cd77c58484d67d61302009f14",
+			"note": "iPhone 17eの高コスパとiPhone 17との比較",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000012-ascii-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 4,
-			"title": "「激オコ」の高市早苗総理─予算年度内成立失敗で参院幹部に激怒",
-			"url": "https://news.yahoo.co.jp/articles/f22fd56bc4c4f70daff0e5af181bbbe330e42275",
-			"note": "衆院3分の2ルールの活用も検討すべきだったと指摘",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-01123027-fnn-000-1-view.jpg?exp=10800"
+			"number": 7,
+			"title": "トランプ氏演説受け日本政府「良い方向に向かうことを期待」",
+			"url": "https://news.yahoo.co.jp/articles/cf8472b8b0b3f4b8e33cdf3f6986d3d94fff7e34",
+			"note": "トランプ演説への日本政府の公式反応",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-05891434-nnn-000-4-thumb.jpg?exp=10800"
 		},
 		{
-			"number": 5,
-			"title": "自民・岩屋外相、国旗損壊罪を危惧「政治的アピールのための立法」",
-			"url": "https://news.yahoo.co.jp/articles/b9ec62bd97177633b7d543ac1743e296448dd310",
-			"note": "立法事実がないと消極的姿勢をHPで説明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000020-san-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 6,
-			"title": "旧統一教会の元幹部らが新団体設立を検討、献金管理も継続へ",
+			"number": 8,
+			"title": "【独自】旧統一教会の元幹部らが新団体設立を検討　組織的宗教活動を継続し献金も管理へ",
 			"url": "https://news.yahoo.co.jp/articles/9970e1ccedc5cf821d9407f1b8424d27a8699e75",
-			"note": "3月の解散命令後も組織的宗教活動を継続する方針",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-01124337-fnn-000-1-view.jpg?exp=10800"
+			"note": "解散命令後、組織的宗教活動継続を模索",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-01124337-fnn-000-3-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 9,
+			"title": "天皇、皇后両陛下がフランスのマクロン大統領夫妻と会見",
+			"url": "https://news.yahoo.co.jp/articles/a9640119115a2f5f8d6ef7f17b51e2a88dfcf9fe",
+			"note": "御所でフランス大統領夫妻をにこやかに迎える",
+			"image": ""
+		},
+		{
+			"number": 10,
+			"title": "百田尚樹氏、辺野古船転覆事故めぐる過去発言を撤回　遺族に謝罪",
+			"url": "https://news.yahoo.co.jp/articles/04963ee748e2dd01fce501a143a3bb8b180271ab",
+			"note": "「あまりにも軽率でした」と遺族に謝罪",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000014-jct-000-4-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "【速報】トランプ大統領、対イラン軍事作戦「まもなく全軍事目標を達成」と演説",
-			"url": "https://news.yahoo.co.jp/articles/3fef729af7af2cd850e412582ae317166e26dee2",
-			"note": "「石器時代へ引き戻す」2-3週間の集中攻撃を宣言",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-07295992-jnn-000-4-view.jpg?exp=10800"
+			"number": 11,
+			"title": "イラン軍、米イスラエルに「壊滅的な」攻撃実施すると表明",
+			"url": "https://news.yahoo.co.jp/articles/224c4a79069cc01c94feb7d4d999260a5305a500",
+			"note": "トランプの「石器時代」脅迫に対する報復宣言",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000022-jij_afp-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 8,
-			"title": "トランプ氏、ホルムズ海峡安全確保で日本を名指し「日本にさせればいい」",
-			"url": "https://news.yahoo.co.jp/articles/5c46fc4194e4c57b7dc056cb3040cf4b1ea2028b",
-			"note": "石油輸入の90%が海峡経由と指摘、韓国も批判",
+			"number": 12,
+			"title": "トランプ氏、今後2～3週間イランを極めて激しく攻撃と表明",
+			"url": "https://news.yahoo.co.jp/articles/b5879fa2dc6293387a2e132c5fe1c025683a9c52",
+			"note": "「石器時代に戻す」とイランへの猛攻撃を宣言",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000012-jij_afp-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "トランプ氏、海峡安全確保で日本名指しか",
+			"url": "https://news.yahoo.co.jp/articles/882a9cf57179ad34a08263f4a8b691a1aa983c67",
+			"note": "ホルムズ海峡防衛を日本に求める姿勢",
 			"image": ""
 		},
 		{
-			"number": 9,
-			"title": "トランプ関税1年、米貿易赤字の構造変わらず─データセンター需要で半導体輸入急増",
-			"url": "https://www.nikkei.com/article/DGXZQOGN30AT80Q6A330C2000000/",
-			"note": "相互関税発動から1年、貿易赤字はむしろ拡大",
-			"image": ""
+			"number": 14,
+			"title": "イランが米テック大手6社を「標的」にすると警告──Apple・Google・NVIDIA等",
+			"url": "https://gigazine.net/news/20260402-iran-threaten-us-company/",
+			"note": "Apple・Google・NVIDIA等6社を攻撃対象に指定",
+			"image": "https://i.gzn.jp/img/2026/04/02/iran-threaten-us-company/00.jpg"
+		},
+		{
+			"number": 15,
+			"title": "バーレーンにあるAmazonデータセンターが被災、イラン攻撃で火災発生",
+			"url": "https://gigazine.net/news/20260402-aws-damaged-iran/",
+			"note": "イラン攻撃でAWSデータセンターに火災発生",
+			"image": "https://i.gzn.jp/img/2026/04/02/aws-damaged-iran/00.jpg"
 		}
 	]
 }
