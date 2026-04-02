@@ -1,80 +1,72 @@
 {
-	"生成AI・LLM・AIエージェント": [
-		{
-			"number": 1,
-			"title": "関数はもう不要？ Gemini×スプレッドシートで実現する「爆速×高精度」データ分析術",
-			"url": "https://news.yahoo.co.jp/articles/9320a674fb0828a409fb817210196f2ef659601a",
-			"note": "自然言語の指示だけで集計や条件付き書式を自動化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00183401-biz_plus-000-1-view.jpg?exp=10800"
-		}
-	],
+	"生成AI・LLM・AIエージェント": [],
 	"デジタルガジェット": [
 		{
+			"number": 1,
+			"title": "アポロ計画以来54年ぶり有人月周回へ「アルテミス2」打ち上げ成功",
+			"url": "https://news.yahoo.co.jp/articles/4f041b3a99ef54e6759989caff084657e2c845fa",
+			"note": "NASA、4人の宇宙飛行士が月周回ミッションへ出発",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00010000-sorae_jp-000-1-view.jpg?exp=10800"
+		},
+		{
 			"number": 2,
-			"title": "約50年ぶり有人月飛行「アルテミス2」、本日朝打ち上げ成功",
-			"url": "https://news.yahoo.co.jp/articles/926e469242f3c601809ef6eeb842305f6f44f94e",
-			"note": "NASA有人月探査、日本時間7時24分に打ち上げ成功",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-35245918-cnetj-000-5-view.jpg?exp=10800"
+			"title": "アップル、iOS 18向けに異例の緊急セキュリティアップデートを拡大公開",
+			"url": "https://news.yahoo.co.jp/articles/6d38609e79620166911605cf4b57c33e7e5ba15d",
+			"note": "DarkSwordスパイウェア対策、旧OS向けに異例の対応",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-35245938-zdnet-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "PS5、本日より値上げ。ドライブ付きは97,980円、日本語専用モデルは据え置き",
-			"url": "https://news.yahoo.co.jp/articles/18e46737379cf08b342caf9b3e97de7aabe216a5",
-			"note": "ソニーがPS5・Pro・Portalの価格を本日改定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260327-00000015-impavw-000-1-view.jpg?exp=10800"
+			"title": "PS5が本日から値上げ実施、ディスクドライブ付きは97,980円に",
+			"url": "https://av.watch.impress.co.jp/docs/news/2097136.html",
+			"note": "日米欧で一斉値上げ、日本語専用モデルは55,000円据え置き",
+			"image": "https://av.watch.impress.co.jp/img/avw/list/2097/136/ps1.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 4,
-			"title": "「政治的なアピール」自民・岩屋氏、国旗損壊罪を危惧　党PTでの発言をHPで説明",
-			"url": "https://news.yahoo.co.jp/articles/b9ec62bd97177633b7d543ac1743e296448dd310",
-			"note": "岩屋外相が国旗損壊罪創設への懸念を表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000020-san-000-1-view.jpg?exp=10800"
+			"title": "「激オコ」の高市早苗総理─予算年度内成立失敗で参院幹部に激怒",
+			"url": "https://news.yahoo.co.jp/articles/f22fd56bc4c4f70daff0e5af181bbbe330e42275",
+			"note": "衆院3分の2ルールの活用も検討すべきだったと指摘",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-01123027-fnn-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "2026年度本予算、参院で委嘱審査実施中。4月11日に自然成立へ",
-			"url": "https://www.policynews.jp/schedule/2026/4.html",
-			"note": "暫定予算下で本予算審議が続く、11年ぶりの異例事態",
-			"image": ""
+			"title": "自民・岩屋外相、国旗損壊罪を危惧「政治的アピールのための立法」",
+			"url": "https://news.yahoo.co.jp/articles/b9ec62bd97177633b7d543ac1743e296448dd310",
+			"note": "立法事実がないと消極的姿勢をHPで説明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000020-san-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "旧統一教会の元幹部らが新団体設立を検討、献金管理も継続へ",
+			"url": "https://news.yahoo.co.jp/articles/9970e1ccedc5cf821d9407f1b8424d27a8699e75",
+			"note": "3月の解散命令後も組織的宗教活動を継続する方針",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-01124337-fnn-000-1-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 6,
-			"title": "トランプ氏、海峡安全確保で日本名指しか",
-			"url": "https://news.yahoo.co.jp/articles/882a9cf57179ad34a08263f4a8b691a1aa983c67",
-			"note": "ホルムズ海峡の安全確保で日本への不満を表明",
-			"image": ""
-		},
-		{
 			"number": 7,
-			"title": "トランプ氏「支持率低下」が止まらない　中東戦争で経済急停滞リスク",
-			"url": "https://news.yahoo.co.jp/articles/4fddb55f7a23f92faf59c82d2c2b934369c6937b",
-			"note": "支持率36%で二期目最低、800万人規模の抗議デモ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-01436997-shincho-000-1-view.jpg?exp=10800"
+			"title": "【速報】トランプ大統領、対イラン軍事作戦「まもなく全軍事目標を達成」と演説",
+			"url": "https://news.yahoo.co.jp/articles/3fef729af7af2cd850e412582ae317166e26dee2",
+			"note": "「石器時代へ引き戻す」2-3週間の集中攻撃を宣言",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-07295992-jnn-000-4-view.jpg?exp=10800"
 		},
 		{
 			"number": 8,
-			"title": "イラン攻撃の迷走で支持率下落も「転覆」に動かないトランプ政権",
-			"url": "https://news.yahoo.co.jp/articles/7615980a9a6c0396eb8543504839c2fd0ffe3731",
-			"note": "軍事作戦1ヵ月経過も戦闘継続、米社会に3つの問題",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00140422-wedge-000-1-view.jpg?exp=10800"
+			"title": "トランプ氏、ホルムズ海峡安全確保で日本を名指し「日本にさせればいい」",
+			"url": "https://news.yahoo.co.jp/articles/5c46fc4194e4c57b7dc056cb3040cf4b1ea2028b",
+			"note": "石油輸入の90%が海峡経由と指摘、韓国も批判",
+			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "対イラン作戦離脱の米最新鋭空母、修理のためクロアチアに到着",
-			"url": "https://news.yahoo.co.jp/articles/34eb96bb510ef57ab54a44a1d57bdf40d33d37c5",
-			"note": "紅海での火災後、クロアチアのスプリト港で修理へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00094979-forbes-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 10,
-			"title": "独紙が注目「レアアースで世界を変えた日本人」が脱レアアースの鍵を握る",
-			"url": "https://news.yahoo.co.jp/articles/d9107a1abbd6c2c4da6df1731db2b9c7c22add2e",
-			"note": "ネオジム磁石の発明者・佐川氏が80代でも研究継続",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000001-courrier-000-1-view.jpg?exp=10800"
+			"title": "トランプ関税1年、米貿易赤字の構造変わらず─データセンター需要で半導体輸入急増",
+			"url": "https://www.nikkei.com/article/DGXZQOGN30AT80Q6A330C2000000/",
+			"note": "相互関税発動から1年、貿易赤字はむしろ拡大",
+			"image": ""
 		}
 	]
 }
