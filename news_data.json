@@ -2,29 +2,57 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenAIの経営陣に大幅変更、COOは新任務−AGI開発部門CEOは医療休職",
+			"title": "Anthropicが衝撃の告白「Claudeは感情を持っている」機能的感情を論文で実証",
+			"url": "https://news.yahoo.co.jp/articles/8d3c9a9309845b2fa68ea4b4b8549884f0fa1d97",
+			"note": "Claude内部に「機能的感情」が存在すると研究発表",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00183905-biz_plus-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 2,
+			"title": "Google、エージェント特化のオープンAIモデル「Gemma 4」をApache 2.0で公開",
+			"url": "https://www.sbbit.jp/article/cont1/183899",
+			"note": "エッジ～大規模まで4種のマルチモーダルモデルを無制限商用利用可",
+			"image": "https://www.sbbit.jp/article/image/183899/OGP_bit202604040000222534.jpg"
+		},
+		{
+			"number": 3,
+			"title": "OpenAIの経営陣に大幅変更、COOは新任務・AGI開発部門CEOは医療休職",
 			"url": "https://news.yahoo.co.jp/articles/148a33e4885b50c9055466efd022479acbd4e9b1",
 			"note": "OpenAI幹部の異動・休職が相次いで発表",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-64962265-bloom_st-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 2,
-			"title": "Anthropicが衝撃の告白「Claudeは感情を持っている」",
-			"url": "https://news.yahoo.co.jp/articles/8d3c9a9309845b2fa68ea4b4b8549884f0fa1d97",
-			"note": "Claude内部に「機能的感情」が存在すると論文で実証",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00183905-biz_plus-000-1-view.jpg?exp=10800"
+			"number": 4,
+			"title": "三井不動産、「本部長の宇都宮さん」はAI　人格再現して壁打ち",
+			"url": "https://www.nikkei.com/article/DGXZQOUC318WW0R30C26A3000000/",
+			"note": "幹部の思考をAIに学習させ書類の手戻り30%削減",
+			"image": ""
+		},
+		{
+			"number": 5,
+			"title": "全国初のAI作詞・作曲の校歌、小室哲哉さんの助言受け完成",
+			"url": "https://news.yahoo.co.jp/articles/bc31bcd042af9d11badc071ac489b6169ae0f121",
+			"note": "三重県の小中一貫校で住民キーワードからAIが生成",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-00000307-yom-000-5-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
+			"number": 6,
+			"title": "深刻な半導体不足で、ソニーが一部SDカード・CFexpressの生産を停止",
+			"url": "https://www.gizmodo.jp/2026/04/sony-sd-cfexpress-cards-orders-suspended.html",
+			"note": "AI産業のRAM需要急増がストレージ供給にも波及",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/03/shutterstock_2567346367.png?w=1280"
+		},
+		{
+			"number": 7,
 			"title": "BS朝日もBS4K放送終了を発表「事業環境は厳しさを増している」",
 			"url": "https://news.yahoo.co.jp/articles/5c58e84a0f25594a603a9a0e96d8a70e0a237a82",
-			"note": "ネット配信普及で4K放送の事業環境が悪化",
+			"note": "BSフジ・BSテレ東・BS日本に続き4社目の4K撤退",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000020-zdn_n-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 4,
+			"number": 8,
 			"title": "アルテミス2の宇宙船「オリオン」から初画像…飛行士が窓越しに地球撮影",
 			"url": "https://news.yahoo.co.jp/articles/73a4e2756a0b499e28d19ee4d020cb840091b1b3",
 			"note": "NASA有人月周回探査で高解像度の地球画像を公開",
@@ -33,47 +61,68 @@
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "\"野党第1党\"はどちら？中道・小川、国民・玉木両代表の微妙な距離感と野党連携の可能性",
+			"number": 9,
+			"title": "石破氏来週訪韓、李在明大統領と面会予定　日韓連携を意見交換",
+			"url": "https://news.yahoo.co.jp/articles/f832c8d8c2c9f1a24562eea7eb9a460d3839f43f",
+			"note": "7～8日の日程で昼食会形式の面会を予定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/4/bab10422f74e055e5753a84c0bba4bc94c3879135c1244a781ced623c18a85f9.jpg"
+		},
+		{
+			"number": 10,
+			"title": "野党第1党はどちら？中道・小川、国民・玉木両代表の微妙な距離感",
 			"url": "https://news.yahoo.co.jp/articles/e19be58444cd2e6fc0c6e1aa93cbff808d75c8c5",
 			"note": "中道改革連合と国民民主の連携課題を検証",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-01124888-fnn-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 6,
-			"title": "節電・節約の要請、慎重に検討　電気・ガソリン補助金に「矛盾」疑問視も",
+			"number": 11,
+			"title": "節電・節約要請は慎重検討の方針　中東情勢の長期化受け",
 			"url": "https://news.yahoo.co.jp/articles/a954b2971f384e4038a94f51e95c55451cf7866f",
-			"note": "中東情勢悪化でエネルギー節約要請を政府が検討",
+			"note": "経産相「国民経済への影響を抑えつつ対策検討」",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000007-jij-000-7-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "教員指導の休日部活は今月廃止、平日も地域クラブに移行へ",
+			"url": "https://news.yahoo.co.jp/articles/d6a6edb7646aba4b59698dac9f9fc5e7c42124e5",
+			"note": "奈良市が指導員160人を採用し全国に先駆けて移行",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000024-yomosaka-000-23-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
+			"number": 13,
 			"title": "米、48時間停戦提案か　イラン拒否「攻撃で回答」",
 			"url": "https://news.yahoo.co.jp/articles/964862a00c2662af442bcf384516445f03c86785",
 			"note": "米国の停戦提案をイランが拒否し攻撃で応答",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000016-kyodonews-000-52-view.jpg?exp=10800"
 		},
 		{
-			"number": 8,
-			"title": "イラン軍、2機の米軍機を撃墜　対イラン攻撃後初",
+			"number": 14,
+			"title": "イラン軍、2機の米軍機を撃墜　対イラン攻撃開始後初",
 			"url": "https://news.yahoo.co.jp/articles/3f757be37aef26a11e770b64cbefb33c6027c9e6",
 			"note": "対イラン作戦開始後初の米軍機撃墜事例",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000000-jij_afp-000-4-view.jpg?exp=10800"
 		},
 		{
-			"number": 9,
-			"title": "米国防予算240兆円要求　27年度、トランプ大統領",
+			"number": 15,
+			"title": "「今回は意見が違う」トランプ氏の同盟国批判にイタリア首相が異議",
+			"url": "https://news.yahoo.co.jp/articles/82380a1f4ac6824cb433c03923e0ec9089f8bdd6",
+			"note": "メローニ首相がイラン問題で米国と距離を置く姿勢",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-35246053-cnn-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 16,
+			"title": "米国防予算240兆円要求　27年度、前年比42%増・トランプ大統領",
 			"url": "https://news.yahoo.co.jp/articles/fdd01204c17d58633b8cac0a16e813b7fca85e82",
-			"note": "前年度比42%増の国防予算、他は10%削減方針",
+			"note": "国防費を大幅増額、他省庁は10%削減方針",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000001-kyodonews-000-20-view.jpg?exp=10800"
 		},
 		{
-			"number": 10,
+			"number": 17,
 			"title": "ホルムズ海峡「通航料」の仕組み　イランの収益は1日32億円？",
 			"url": "https://news.yahoo.co.jp/articles/28a01d4bce1b8482be4855ed7acaef7f47ad4bb0",
-			"note": "イランが海峡通航料徴収を開始、1バレル1ドル超",
+			"note": "イランが海峡通航料の徴収を開始、1バレル1ドル超",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000009-mai-000-2-view.jpg?exp=10800"
 		}
 	]
