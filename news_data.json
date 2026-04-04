@@ -2,100 +2,79 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "米マイクロソフト、日本に1兆6000億円投資　AIインフラ・人材育成を推進",
-			"url": "https://news.yahoo.co.jp/articles/71e85ddf9d55c1f12a0bb091595243902186d2f7",
-			"note": "2029年までにDC新設、100万人のAI人材育成へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-82834591-bloom_st-000-5-view.jpg?exp=10800"
+			"title": "OpenAIの経営陣に大幅変更、COOは新任務−AGI開発部門CEOは医療休職",
+			"url": "https://news.yahoo.co.jp/articles/148a33e4885b50c9055466efd022479acbd4e9b1",
+			"note": "OpenAI幹部の異動・休職が相次いで発表",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-64962265-bloom_st-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "GoogleがオープンAIモデル「Gemma 4」発表、ライセンスをApache 2.0に変更",
-			"url": "https://gigazine.net/news/20260403-google-released-gemma-4/",
-			"note": "31Bモデルがオープンモデル世界3位の性能を達成",
-			"image": "https://i.gzn.jp/img/2026/04/03/google-released-gemma-4/00.png"
-		},
-		{
-			"number": 3,
-			"title": "NII、「LLM-jp-4」をオープンソースで公開　一部ベンチマークでGPT-4o超え",
-			"url": "https://gihyo.jp/article/2026/04/llm-jp-4",
-			"note": "約12兆トークンで学習した国産LLM、8Bと32Bモデル",
-			"image": ""
+			"title": "Anthropicが衝撃の告白「Claudeは感情を持っている」",
+			"url": "https://news.yahoo.co.jp/articles/8d3c9a9309845b2fa68ea4b4b8549884f0fa1d97",
+			"note": "Claude内部に「機能的感情」が存在すると論文で実証",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00183905-biz_plus-000-1-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "ドコモ3G停波で一部4G機種に通信・通話不能の不具合発生",
-			"url": "https://news.yahoo.co.jp/articles/24b244306fc100d020ed4665cc4633c0574bcd8e",
-			"note": "3月31日の3G終了後、VoLTE設定不具合が発覚",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260402-00000007-impktw-000-1-view.jpg?exp=10800"
+			"number": 3,
+			"title": "BS朝日もBS4K放送終了を発表「事業環境は厳しさを増している」",
+			"url": "https://news.yahoo.co.jp/articles/5c58e84a0f25594a603a9a0e96d8a70e0a237a82",
+			"note": "ネット配信普及で4K放送の事業環境が悪化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000020-zdn_n-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
-			"title": "ミクシィ発の家族SNS「みてね」世界で2900万人突破、想定外の快進撃",
-			"url": "https://news.yahoo.co.jp/articles/f05d642002ece535bebcd173298d1ea133c19065",
-			"note": "笠原健治氏開発、海外でも予想外の拡大続く",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-00000190-yom-000-11-view.jpg?exp=10800"
+			"number": 4,
+			"title": "アルテミス2の宇宙船「オリオン」から初画像…飛行士が窓越しに地球撮影",
+			"url": "https://news.yahoo.co.jp/articles/73a4e2756a0b499e28d19ee4d020cb840091b1b3",
+			"note": "NASA有人月周回探査で高解像度の地球画像を公開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000115-yom-000-7-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 5,
+			"title": "\"野党第1党\"はどちら？中道・小川、国民・玉木両代表の微妙な距離感と野党連携の可能性",
+			"url": "https://news.yahoo.co.jp/articles/e19be58444cd2e6fc0c6e1aa93cbff808d75c8c5",
+			"note": "中道改革連合と国民民主の連携課題を検証",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-01124888-fnn-000-1-view.jpg?exp=10800"
+		},
+		{
 			"number": 6,
-			"title": "武器輸出を原則容認へ、国会は事後通知のみ　紛争国向けにも余地",
-			"url": "https://news.yahoo.co.jp/articles/0ba635440d18fcaf6b20b3dbcdfe878f5a9c9554",
-			"note": "殺傷兵器含む完成品輸出を原則容認、政策大転換",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-00000228-kyodonews-000-7-view.jpg?exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "閣僚の資産公開　最多は小泉防衛相、妻名義で2億6484万円",
-			"url": "https://news.yahoo.co.jp/articles/4447ab6a6b287cf3b5c775922535e6991fdec863",
-			"note": "第2次高市内閣、閣僚平均6591万円",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-00010001-fnn-000-5-view.jpg?exp=10800"
-		},
-		{
-			"number": 8,
-			"title": "成年後見の終身制廃止へ、「デジタル遺言」創設も　民法改正案を閣議決定",
-			"url": "https://news.yahoo.co.jp/articles/0101bf989e051d41024e700ec44dd1ea294d8fff",
-			"note": "スマホ・PCで遺言作成可能に、押印も廃止",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-00000046-kyodonews-000-16-view.jpg?exp=10800"
+			"title": "節電・節約の要請、慎重に検討　電気・ガソリン補助金に「矛盾」疑問視も",
+			"url": "https://news.yahoo.co.jp/articles/a954b2971f384e4038a94f51e95c55451cf7866f",
+			"note": "中東情勢悪化でエネルギー節約要請を政府が検討",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000007-jij-000-7-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "米、48時間停戦提案か　イラン拒否「攻撃で回答」ミサイル・ドローン発射",
+			"number": 7,
+			"title": "米、48時間停戦提案か　イラン拒否「攻撃で回答」",
 			"url": "https://news.yahoo.co.jp/articles/964862a00c2662af442bcf384516445f03c86785",
-			"note": "ペルシャ湾岸・イスラエル向けに攻撃継続",
-			"image": ""
+			"note": "米国の停戦提案をイランが拒否し攻撃で応答",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000016-kyodonews-000-52-view.jpg?exp=10800"
+		},
+		{
+			"number": 8,
+			"title": "イラン軍、2機の米軍機を撃墜　対イラン攻撃後初",
+			"url": "https://news.yahoo.co.jp/articles/3f757be37aef26a11e770b64cbefb33c6027c9e6",
+			"note": "対イラン作戦開始後初の米軍機撃墜事例",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000000-jij_afp-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 9,
+			"title": "米国防予算240兆円要求　27年度、トランプ大統領",
+			"url": "https://news.yahoo.co.jp/articles/fdd01204c17d58633b8cac0a16e813b7fca85e82",
+			"note": "前年度比42%増の国防予算、他は10%削減方針",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000001-kyodonews-000-20-view.jpg?exp=10800"
 		},
 		{
 			"number": 10,
-			"title": "イラン、米軍F-35戦闘機を撃墜と発表　防空システムで",
-			"url": "https://news.yahoo.co.jp/articles/4815d0641828233898c1e72dbeb14afa27cd71fa",
-			"note": "イラン中部で撃墜、米側の反論なし",
-			"image": ""
-		},
-		{
-			"number": 11,
-			"title": "ホルムズ海峡の通航料「1バレル1ドル」、イランが友好国に護衛付き航行許可",
-			"url": "https://news.yahoo.co.jp/articles/0a7d9deaa28d95d58a7598ce359d3e2d06f32659",
-			"note": "原油供給の要衝、事実上の封鎖状態が継続",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-00000062-jij-000-10-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "トランプ大統領「簡単にホルムズ海峡開放できる」とSNS投稿、根拠示さず",
-			"url": "https://news.yahoo.co.jp/articles/afbe183c3c72895b22b162908beea1a689387529",
-			"note": "原油高騰の中、楽観的な見通しを主張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-07296383-jnn-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 13,
-			"title": "トランプ「戦争中だ、保育どころではない」問題発言が明るみに",
-			"url": "https://news.yahoo.co.jp/articles/d5e444e020ab4c72f6a97fa151f3c430c0caeb45",
-			"note": "非公開イースター昼食会での発言、世論と乖離",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260403-35246031-cnn-000-3-view.jpg?exp=10800"
+			"title": "ホルムズ海峡「通航料」の仕組み　イランの収益は1日32億円？",
+			"url": "https://news.yahoo.co.jp/articles/28a01d4bce1b8482be4855ed7acaef7f47ad4bb0",
+			"note": "イランが海峡通航料徴収を開始、1バレル1ドル超",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000009-mai-000-2-view.jpg?exp=10800"
 		}
 	]
 }
