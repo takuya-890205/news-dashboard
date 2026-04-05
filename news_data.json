@@ -2,24 +2,24 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "商船三井と日立が、中古船をデータセンターに変える",
-			"url": "https://news.yahoo.co.jp/articles/0be974e56ca70abfe1e88058410d03e471cc5996",
-			"note": "AI需要に対応する「浮体式データセンター」開発に着手",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000001-binsiderl-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 2,
 			"title": "「Claude」で「OpenClaw」などの利用がサブスク対象外に　API利用や追加使用量購入が必要",
 			"url": "https://news.yahoo.co.jp/articles/8b5107b1483d7cf37a4cdd7b8e52b947bba97dbb",
-			"note": "Anthropicがサードパーティツ��ル経由の利用をカバー対象外に変更",
+			"note": "Anthropicがサードパーティツール経由の利用を対象外に",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000017-zdn_n-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 3,
+			"number": 2,
 			"title": "テック業界に広がる「AIによる人員の削減」。オラクルでも大規模レイオフ",
 			"url": "https://news.yahoo.co.jp/articles/3f77e48dcbbd7edc840dfc87a4c6c9db07609f6f",
 			"note": "オラクルやアマゾン等でAI導入に伴う大規模人員削減が拡大",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000002-giz-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 3,
+			"title": "商船三井と日立が、中古船をデータセンターに変える",
+			"url": "https://news.yahoo.co.jp/articles/0be974e56ca70abfe1e88058410d03e471cc5996",
+			"note": "AI需要に対応する「浮体式データセンター」開発に着手",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000001-binsiderl-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 4,
@@ -32,42 +32,84 @@
 	"デジタルガジェット": [
 		{
 			"number": 5,
+			"title": "Metaのスマートグラス規制を求める声が全米で噴出。もはや無視できないレベルに",
+			"url": "https://news.yahoo.co.jp/articles/57809aabc9b282b6a5ef50a8904304a53befe3c3",
+			"note": "Meta Ray-Banへの規制要求が全米に拡大",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000003-giz-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "スマホ大型化の裏で高まる「小型音楽プレーヤー」待望論　現役ウォークマンか、\"ポストiPod\"のiPhone SEか",
+			"url": "https://news.yahoo.co.jp/articles/9065234e6e2a4295bc19152fdb8bcfa100d9bb6c",
+			"note": "小型音楽プレーヤーへの根強い需要を分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000015-zdn_m-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
 			"title": "メモリ高騰でRaspberry Piが再値上げ／Adobe CCがユーザーに無断でhostsファイルを書き換え？",
 			"url": "https://news.yahoo.co.jp/articles/a16f691b108c044f64d5efde434c0b6446baf1da",
 			"note": "DRAM7倍高騰でラズパイ値上げ、Pi5 16GBは305ドルに",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000012-zdn_pc-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 8,
+			"title": "Androidアプリ50本がマルウェアに感染、だがグーグルは「心配ない」と説明",
+			"url": "https://news.yahoo.co.jp/articles/3222c5b18da8560aee315d67d04988c1c9e6a1e5",
+			"note": "Google Play上のマルウェア感染230万DL超",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00095143-forbes-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "高市総理　石油��年内に必要な量は「確保されている」と強調　早��の供給不足を否定",
+			"number": 9,
+			"title": "政府、燃料供給を「仲介」　目詰まりに対処、相談呼び掛け",
+			"url": "https://news.yahoo.co.jp/articles/05ae0ff831776295acc5c82db9d7885bb4bdd06b",
+			"note": "イラン情勢受け燃料供給の仲介に政府が動く",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000006-jij-000-13-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "高市総理　石油は年内に必要な量は「確保されている」と強調　早期の供給不足を否定",
 			"url": "https://news.yahoo.co.jp/articles/e5976e45971f278d8b13068414fe2804d9c0155a",
-			"note": "イラン情勢受け石油備��と代替調達で年内��給を確保と説明",
+			"note": "石油備蓄と代替調達で年内供給を確保と説明",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-01125632-fnn-000-1-thumb.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "中国軍の偵察衛星、「中軌道」も運用し監視能力が大幅向上",
-			"url": "https://news.yahoo.co.jp/articles/7202affe990843349317918727919885edc952d4",
-			"note": "中国が中軌道偵察衛星を運用開始、米軍への優位性確保が狙い",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000351-yom-000-2-view.jpg?exp=10800"
+			"number": 11,
+			"title": "トランプ氏、「地獄まで48時間」と圧力　イラン側、「地獄の門はあなたに開く」と反発",
+			"url": "https://news.yahoo.co.jp/articles/064aba3a08c0c59b52c01c89c85cf03f70ef2212",
+			"note": "停戦交渉行き詰まり、米イラン応酬が激化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000001-jij_afp-000-5-view.jpg?exp=10800"
 		},
 		{
-			"number": 8,
+			"number": 12,
 			"title": "イラン、切り崩し強化か　ホルムズ通航、日欧も初の許可",
 			"url": "https://news.yahoo.co.jp/articles/bc88f51d29efc7add5c1266426313deb12d71a7c",
-			"note": "イランが日仏船舶にホルムズ海峡通過を初許可、国際分断狙う",
+			"note": "イランが日欧船舶のホルムズ海峡通航を初許可",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00000005-jij-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 9,
+			"number": 13,
+			"title": "NATOからの脱退をほのめかしたトランプ米大統領、実行可能性は？",
+			"url": "https://news.yahoo.co.jp/articles/875c935594b61f033595aa833747320492bd562c",
+			"note": "トランプNATO脱退発言の現実味を分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-00095171-forbes-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 14,
 			"title": "「非常事態」宣言の国では大型連休に異変　ステイホームで観光地閑散",
 			"url": "https://news.yahoo.co.jp/articles/74c0ced69b7faf3d4b0fb39a39ea2b9367cbab4a",
-			"note": "ホルムズ封鎖によるエネルギー危機でフィリピンが非常事態宣言",
+			"note": "ホルムズ封鎖でフィリピンが非常事態宣言",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260405-90187662-ann-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "中国軍の偵察衛星、「中軌道」も運用し監視能力が大幅向上…「米軍に対する優位性確保」が狙いか",
+			"url": "https://news.yahoo.co.jp/articles/7202affe990843349317918727919885edc952d4",
+			"note": "中国軍が中軌道衛星で監視能力を大幅強化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260404-00000351-yom-000-2-view.jpg?exp=10800"
 		}
 	]
 }
