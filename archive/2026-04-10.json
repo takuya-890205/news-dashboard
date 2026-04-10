@@ -2,100 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Anthropicが独自のAIチップ開発を検討しているとの報道",
-			"url": "https://gigazine.net/news/20260410-anthropic-building-own-ai-chips/",
-			"note": "AI需要増で自社チップ開発に乗り出す動き",
-			"image": "https://i.gzn.jp/img/2026/04/10/anthropic-building-own-ai-chips/00_m.jpg"
+			"title": "謎の動画生成AI「HappyHorse-1.0」はAlibaba製と判明、偽サイトに注意喚起",
+			"url": "https://gigazine.net/news/20260410-happyhorse-1-video-generation-ai-alibaba/",
+			"note": "匿名テストで世界最高性能を達成した動画生成AIの正体が判明",
+			"image": "https://i.gzn.jp/img/2026/04/10/happyhorse-1-video-generation-ai-alibaba/00.png"
 		},
 		{
 			"number": 2,
-			"title": "安いClaudeモデルと高いClaudeモデルを組み合わせて「安価かつ高性能なAI」として動作させる仕組みをAnthropicが公開",
-			"url": "https://gigazine.net/news/20260410-anthropic-advisor-tool/",
-			"note": "Advisor Toolで低コスト・高性能を両立",
-			"image": "https://i.gzn.jp/img/2026/04/10/anthropic-advisor-tool/00.jpg"
+			"title": "Anthropic「Claude Cowork」一般提供開始",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news081.html",
+			"note": "Anthropicの協調型AIワークスペースが正式リリース",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2604/10/cover_news081.jpg"
 		},
 		{
 			"number": 3,
-			"title": "素人がAIに作らせたコード、プロが見ると何点？ エンジニアレビューで分かる危険性",
-			"url": "https://news.yahoo.co.jp/articles/6756ec5b797f8570d4fda06ef1afd4537d43fa7e",
-			"note": "AI生成コードのセキュリティリスクを検証",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000008-zdn_ep-000-1-view.jpg?exp=10800"
+			"title": "Anthropicが独自のAIチップ開発を検討しているとの報道",
+			"url": "https://gigazine.net/news/20260410-anthropic-building-own-ai-chips/",
+			"note": "NVIDIA依存脱却へ、自社チップ開発の可能性",
+			"image": "https://i.gzn.jp/img/2026/04/10/anthropic-building-own-ai-chips/00_m.jpg"
 		},
 		{
 			"number": 4,
-			"title": "Gemini、シミュレーション結果を視覚化して出力する新機能",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2100676.html",
-			"note": "Google Geminiに視覚化シミュレーション機能追加",
-			"image": "https://asset.watch.impress.co.jp/img/ktw/list/2100/676/list.jpg"
+			"title": "OpenAIがChatGPT Proに月額1万6800円の新ティアを追加",
+			"url": "https://gigazine.net/news/20260410-chatgpt-new-pro-subscription/",
+			"note": "従来の月額3万円プランより手頃な上位プランが登場",
+			"image": "https://i.gzn.jp/img/2026/04/10/chatgpt-new-pro-subscription/00_m.png"
+		},
+		{
+			"number": 5,
+			"title": "MozillaがAI脆弱性スキャナー「0DIN」をオープンソースで公開",
+			"url": "https://gigazine.net/news/20260410-mozilla-0din-ai-scanner/",
+			"note": "あらゆるAIモデルの脆弱性を自動検出するツール",
+			"image": "https://i.gzn.jp/img/2026/04/10/mozilla-0din-ai-scanner/00.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "高性能なNVIDIA純正SoC「N1」を搭載したノートPC、ぼちぼち登場しそうな雰囲気",
-			"url": "https://www.gizmodo.jp/2026/04/nvidia_n1_soc_rumors.html",
-			"note": "NVIDIA ARM SoCがApple M5対抗で登場間近",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/10/nbidia_n1_board_goofish.jpg?w=1280"
-		},
-		{
 			"number": 6,
-			"title": "iPhoneの発売時期が変わる可能性。iPhone 18／18e／Air 2は来春に？",
-			"url": "https://www.gizmodo.jp/2026/04/iphone-18-183-air2-next-spring.html",
-			"note": "iPhone発売スケジュールが春に変更の可能性",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/09/20260409igaka00.jpg?w=1280"
+			"title": "ソフトバンク、ついに値上げを決断！月913円アップの「ペイトク2」開始",
+			"url": "https://news.yahoo.co.jp/articles/bc3bcf51e13484fe245041d788f0e2d468655561",
+			"note": "既存プランも7月から値上げ、料金体系を刷新",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000014-ascii-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 7,
-			"title": "「写ルンです」がデジカメだったらなーを実現したカメラ",
-			"url": "https://www.gizmodo.jp/2026/04/one35-v2-camera-noq.html",
-			"note": "使い捨てカメラ体験をデジタルで再現するONE35 V2",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/02/19/260220_flashback.jpg?w=1280"
+			"title": "「iOS 26.4.1」公開──アップルの予想外の緊急不具合修正",
+			"url": "https://news.yahoo.co.jp/articles/0ad0981cf1430cf470b5a611a207a4c921783307",
+			"note": "iPhoneユーザー向け緊急セキュリティアップデート",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260409-00095455-forbes-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 8,
+			"title": "\"なんとなく不調…\"を解析するスマートリング。RingConn Gen 2レビュー",
+			"url": "https://www.gizmodo.jp/2026/04/ringconn-gen-2.html",
+			"note": "意識低めでも健康状態が丸わかりになるウェアラブル",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/29/IMG_4436（サムネ用）-1.jpg?w=1280"
+		},
+		{
+			"number": 9,
+			"title": "ポケットラジオ絶滅せず。令和に東芝が新モデルを発売",
+			"url": "https://www.gizmodo.jp/2026/04/toshiba-pocket-radio-ax-pr40-fc7.html",
+			"note": "レトロだけど新しい、東芝のポケットラジオ最新作",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/02/16/12.png?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
-			"title": "26年版 外交青書、中国の表記を「最も重要な二国間関係」から「重要な隣国」に",
-			"url": "https://news.yahoo.co.jp/articles/49f5767d645c6b88ec62a20a88af20da2ec30c7f",
-			"note": "中国との関係を格下げする表記変更",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-07297526-jnn-000-3-view.jpg?exp=10800"
+			"number": 10,
+			"title": "氷河期世代の処遇改善が柱 政府支援策",
+			"url": "https://news.yahoo.co.jp/pickup/6575786",
+			"note": "就職氷河期世代への包括的な処遇改善策を政府が発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/7a1603527ac4b03142b4d18ad1293dfce8f07b1770323716796d79ba3ff8eba1.jpg"
 		},
 		{
-			"number": 9,
-			"title": "【速報】5月上旬以降、追加の石油国家備蓄放出へ 約20日分 高市総理が表明",
-			"url": "https://news.yahoo.co.jp/articles/d0083d2c5e9f6d2899fdcb5bc4a57c519aa68956",
-			"note": "中東情勢を受け石油備蓄20日分を追加放出",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-07297522-jnn-000-12-thumb.jpg?exp=10800"
+			"number": 11,
+			"title": "中道小川氏 3党合流「いち早く」",
+			"url": "https://news.yahoo.co.jp/pickup/6575793",
+			"note": "野党再編の動き、3党合流に向けた議論が加速",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/aa0cca158765a79abcd65866178104900f92372874dbf1709d6b6b11d65de74e.jpg"
+		},
+		{
+			"number": 12,
+			"title": "高市首相に見えてきた2つの致命的弱さ",
+			"url": "https://news.yahoo.co.jp/articles/af878bded9d7dc0ea499143ef8cbd8ffcefdc521",
+			"note": "政権運営の課題を分析、求心力に陰りか",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000016-jct-000-5-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 10,
-			"title": "トランプ大統領がイランは「ひどい対応」と批判 ホルムズ海峡開放同意で停戦も「我々が結んだ合意と異なる」",
-			"url": "https://news.yahoo.co.jp/articles/6a92edfb06e470dc5c06c52b5381e0507a9ed690",
-			"note": "停戦合意後もイランの対応に不満を表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-01128209-fnn-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 11,
-			"title": "トランプ大統領が警告「今すぐやめたほうが良い!」 イランがホルムズ海峡通過タンカーから通航料徴収…報道に",
-			"url": "https://news.yahoo.co.jp/articles/eb237630a8c1fc61a83a47530b836bd1450a11c7",
-			"note": "イランの海峡通航料徴収にトランプが警告",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-01128204-fnn-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "復活祭に合わせた一時停戦　ゼレンスキー氏が同意の意向",
-			"url": "https://news.yahoo.co.jp/articles/510cbfe7c774f9b2330daf097612809eb1ccb443",
-			"note": "ロシアが復活祭32時間停戦を発表、ウクライナも同意へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000012-mai-000-7-view.jpg?exp=10800"
-		},
-		{
 			"number": 13,
-			"title": "英スターマー首相がトランプの価値観に疑問符、各国は停戦合意に不信感",
-			"url": "https://news.yahoo.co.jp/articles/64bf8cb760ae091236a600c9715def79d25ee6a0",
-			"note": "英首相がトランプ発言を批判、停戦の不透明さ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00095501-forbes-000-1-view.jpg?exp=10800"
+			"title": "中国、台湾周辺に過去最大100隻を展開",
+			"url": "https://news.yahoo.co.jp/pickup/6575792",
+			"note": "台湾海峡の緊張が急激にエスカレート",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/d9377744a0997e08837b631b4a66884660876073cb02fa987b26af0031e16e19.jpg"
+		},
+		{
+			"number": 14,
+			"title": "ロシア、復活祭停戦を発表 ウクライナも意欲",
+			"url": "https://news.yahoo.co.jp/pickup/6575728",
+			"note": "32時間の停戦合意、和平交渉の糸口となるか",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/d26cdd49fe3ea9c32dd5b6b46ee871c14d47e634c5385d3b9a5b670903c6c8b3.jpg"
+		},
+		{
+			"number": 15,
+			"title": "海峡通行料 米大統領がイランに警告",
+			"url": "https://news.yahoo.co.jp/pickup/6575717",
+			"note": "ホルムズ海峡の航行の自由を巡り米イラン対立激化",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/ea467492868c97e624d803b9db9561835e0482411bf1f556a220407ba3f1ba21.jpg"
+		},
+		{
+			"number": 16,
+			"title": "イスラエル、レバノンに交渉命令",
+			"url": "https://news.yahoo.co.jp/pickup/6575709",
+			"note": "中東情勢の複合的な緊張が続く",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/6a4074fd4761c16694a58112c701c6083130da3c15b2b1dc185587b909cfb448.jpg"
 		}
 	]
 }
