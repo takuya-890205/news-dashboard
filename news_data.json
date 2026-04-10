@@ -1,72 +1,101 @@
 {
-	"生成AI・LLM・AIエージェント": [],
-	"デジタルガジェット": [
+	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「PayPayカード ゴールド」の特典が刷新、年間100万円で年会費相当を還元",
-			"url": "https://news.yahoo.co.jp/articles/54305abb1cb8954a76d2dc7975c2630acf976b76",
-			"note": "6月からPayPayカードゴールドの特典制度が大幅改定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000001-impktw-000-1-view.jpg?exp=10800"
+			"title": "Anthropicが独自のAIチップ開発を検討しているとの報道",
+			"url": "https://gigazine.net/news/20260410-anthropic-building-own-ai-chips/",
+			"note": "AI需要増で自社チップ開発に乗り出す動き",
+			"image": "https://i.gzn.jp/img/2026/04/10/anthropic-building-own-ai-chips/00_m.jpg"
+		},
+		{
+			"number": 2,
+			"title": "安いClaudeモデルと高いClaudeモデルを組み合わせて「安価かつ高性能なAI」として動作させる仕組みをAnthropicが公開",
+			"url": "https://gigazine.net/news/20260410-anthropic-advisor-tool/",
+			"note": "Advisor Toolで低コスト・高性能を両立",
+			"image": "https://i.gzn.jp/img/2026/04/10/anthropic-advisor-tool/00.jpg"
+		},
+		{
+			"number": 3,
+			"title": "素人がAIに作らせたコード、プロが見ると何点？ エンジニアレビューで分かる危険性",
+			"url": "https://news.yahoo.co.jp/articles/6756ec5b797f8570d4fda06ef1afd4537d43fa7e",
+			"note": "AI生成コードのセキュリティリスクを検証",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000008-zdn_ep-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 4,
+			"title": "Gemini、シミュレーション結果を視覚化して出力する新機能",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2100676.html",
+			"note": "Google Geminiに視覚化シミュレーション機能追加",
+			"image": "https://asset.watch.impress.co.jp/img/ktw/list/2100/676/list.jpg"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 5,
+			"title": "高性能なNVIDIA純正SoC「N1」を搭載したノートPC、ぼちぼち登場しそうな雰囲気",
+			"url": "https://www.gizmodo.jp/2026/04/nvidia_n1_soc_rumors.html",
+			"note": "NVIDIA ARM SoCがApple M5対抗で登場間近",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/10/nbidia_n1_board_goofish.jpg?w=1280"
+		},
+		{
+			"number": 6,
+			"title": "iPhoneの発売時期が変わる可能性。iPhone 18／18e／Air 2は来春に？",
+			"url": "https://www.gizmodo.jp/2026/04/iphone-18-183-air2-next-spring.html",
+			"note": "iPhone発売スケジュールが春に変更の可能性",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/09/20260409igaka00.jpg?w=1280"
+		},
+		{
+			"number": 7,
+			"title": "「写ルンです」がデジカメだったらなーを実現したカメラ",
+			"url": "https://www.gizmodo.jp/2026/04/one35-v2-camera-noq.html",
+			"note": "使い捨てカメラ体験をデジタルで再現するONE35 V2",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/02/19/260220_flashback.jpg?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 2,
-			"title": "高市首相から「誠意を感じない」と嫌われて…存在感薄れる「玉木雄一郎」代表の行く末は",
-			"url": "https://news.yahoo.co.jp/articles/768435cf1fe7d957634b9d502ff3c1137cd72c34",
-			"note": "国民民主・玉木代表と高市首相の関係悪化が深刻化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-01438251-shincho-000-1-view.jpg?exp=10800"
+			"number": 8,
+			"title": "26年版 外交青書、中国の表記を「最も重要な二国間関係」から「重要な隣国」に",
+			"url": "https://news.yahoo.co.jp/articles/49f5767d645c6b88ec62a20a88af20da2ec30c7f",
+			"note": "中国との関係を格下げする表記変更",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-07297526-jnn-000-3-view.jpg?exp=10800"
 		},
 		{
-			"number": 3,
-			"title": "「戦争とかムリ」若者の姿目立った反戦集会　神奈川・藤沢",
-			"url": "https://news.yahoo.co.jp/articles/20af4856a72bc26a6ed90ca6a0b73d85a1822642",
-			"note": "藤沢駅前で約180人が参加した反戦・改憲反対集会",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000004-mai-000-2-view.jpg?exp=10800"
+			"number": 9,
+			"title": "【速報】5月上旬以降、追加の石油国家備蓄放出へ 約20日分 高市総理が表明",
+			"url": "https://news.yahoo.co.jp/articles/d0083d2c5e9f6d2899fdcb5bc4a57c519aa68956",
+			"note": "中東情勢を受け石油備蓄20日分を追加放出",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-07297522-jnn-000-12-thumb.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 4,
-			"title": "トランプがイラン戦争で犯した５つの誤算…「停戦」合意も見えぬ出口",
-			"url": "https://news.yahoo.co.jp/articles/818752bd5836b4d3c8108be3212edb9c6fefb488",
-			"note": "情報軽視と判断ミスが停戦後も混迷を招く構図を分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00140468-wedge-000-1-view.jpg?exp=10800"
+			"number": 10,
+			"title": "トランプ大統領がイランは「ひどい対応」と批判 ホルムズ海峡開放同意で停戦も「我々が結んだ合意と異なる」",
+			"url": "https://news.yahoo.co.jp/articles/6a92edfb06e470dc5c06c52b5381e0507a9ed690",
+			"note": "停戦合意後もイランの対応に不満を表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-01128209-fnn-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
-			"title": "トランプのイラン攻撃迷走に習近平の笑いが止まらない…「歴史的大取引の恐怖が迫る」",
-			"url": "https://news.yahoo.co.jp/articles/2762bf93db872ca501aebc16c1f6a815c6eb4e68",
-			"note": "米国の孤立主義深化で中国が東アジアで戦略的優位に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00257223-shueisha-000-3-view.jpg?exp=10800"
+			"number": 11,
+			"title": "トランプ大統領が警告「今すぐやめたほうが良い!」 イランがホルムズ海峡通過タンカーから通航料徴収…報道に",
+			"url": "https://news.yahoo.co.jp/articles/eb237630a8c1fc61a83a47530b836bd1450a11c7",
+			"note": "イランの海峡通航料徴収にトランプが警告",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-01128204-fnn-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 6,
-			"title": "ネタニヤフ氏の汚職裁判12日に再開　イスラエル、非常事態宣言解除で",
-			"url": "https://news.yahoo.co.jp/articles/9ed0881b72d2a8e23f853fc517c6c49f51326c06",
-			"note": "非常事態解除でイスラエル首相の汚職裁判が再開へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000004-reut-000-2-view.jpg?exp=10800"
+			"number": 12,
+			"title": "復活祭に合わせた一時停戦　ゼレンスキー氏が同意の意向",
+			"url": "https://news.yahoo.co.jp/articles/510cbfe7c774f9b2330daf097612809eb1ccb443",
+			"note": "ロシアが復活祭32時間停戦を発表、ウクライナも同意へ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000012-mai-000-7-view.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "メラニア氏、エプスタイン氏との関係否定　異例の演説",
-			"url": "https://news.yahoo.co.jp/articles/1cc495d8f836d315192334dab8414e46499f2b2d",
-			"note": "ホワイトハウスで異例の演説、エプスタイン関係を否定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000010-reut-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 8,
-			"title": "トランプ氏、イランの通航料徴収に停止警告",
-			"url": "https://news.yahoo.co.jp/articles/4acd085d15dae246329b75bcfe7aeefee82889f4",
-			"note": "ホルムズ海峡での通航料徴収中止をイランに要求",
-			"image": ""
-		},
-		{
-			"number": 9,
-			"title": "我々は世界戦争のただ中にいる――レイ・ダリオが語る",
-			"url": "https://news.yahoo.co.jp/articles/0dfc61b4ba656e59c317e238299ea3b892bba011",
-			"note": "著名投資家が5年以内の紛争確率50%超と警告",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00000001-binsider-000-1-view.jpg?exp=10800"
+			"number": 13,
+			"title": "英スターマー首相がトランプの価値観に疑問符、各国は停戦合意に不信感",
+			"url": "https://news.yahoo.co.jp/articles/64bf8cb760ae091236a600c9715def79d25ee6a0",
+			"note": "英首相がトランプ発言を批判、停戦の不透明さ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260410-00095501-forbes-000-1-view.jpg?exp=10800"
 		}
 	]
 }
