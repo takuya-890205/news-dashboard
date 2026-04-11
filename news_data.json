@@ -2,121 +2,128 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "AI動画生成を\"みんなのもの\"に　OpenAIの撤退後、Googleが「無料」で仕掛ける意図を考える",
-			"url": "https://news.yahoo.co.jp/articles/44aafeb27f981b21b894f7aacb8acb149b485ea6",
-			"note": "Google、AI動画生成を無料で提供開始",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00010014-realsound-000-1-view.jpg?exp=10800"
+			"title": "無料でローカルAI環境を簡単に導入できる「Lemonade」、Windows・Linux・macOSにも対応",
+			"url": "https://gigazine.net/news/20260411-lemonade/",
+			"note": "無料OSSのローカルAI環境構築ツール、AMD GPU/NPUに最適",
+			"image": "https://i.gzn.jp/img/2026/04/11/lemonade/00.png"
 		},
 		{
 			"number": 2,
-			"title": "無料でローカルAI環境を簡単に導入できる「Lemonade」、Windows・Linux・macOSにも対応したオープンソース",
-			"url": "https://gigazine.net/news/20260411-lemonade/",
-			"note": "AMD最適化のローカルLLM実行環境が登場",
-			"image": "https://i.gzn.jp/img/2026/04/11/lemonade/00.png"
+			"title": "OpenAIのサム・アルトマンCEO宅に火炎瓶が投げ込まれる、警察は20歳男性の身柄を確保",
+			"url": "https://gigazine.net/news/20260411-sam-altman-molotov-targeted-morotov-cocktail/",
+			"note": "アルトマンCEO宅に火炎瓶、20歳男を確保",
+			"image": "https://i.gzn.jp/img/2026/04/11/sam-altman-molotov-targeted-morotov-cocktail/00.jpg"
+		},
+		{
+			"number": 3,
+			"title": "ブッダに悩み相談もAI活用、ブータン導入　京都大教授ら開発、搭載の人型ロボットも",
+			"url": "https://news.yahoo.co.jp/pickup/6575842",
+			"note": "京大開発のAI仏教対話ロボがブータンで導入",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/71d1d3dcc4bbef6045152d395f7d716b98bc83163cfe58edec5bf1590698da93.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "ソフトバンク値上げの背景に「通信品質維持の限界点」　Y!mobileは収益重視で改定、LINEMOは据え置き",
-			"url": "https://news.yahoo.co.jp/articles/45ab6cb83c25b3194fbcc7d5b04dee3d4458978f",
-			"note": "SB値上げ、通信品質維持の限界が背景",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00000023-zdn_m-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 4,
-			"title": "紛失した「AirPods Pro 3」片耳をAppleで購入したハナシ　そしてまさかの結末に",
-			"url": "https://news.yahoo.co.jp/articles/3049bc220223a7a436ec4928bd2d9ab543bd89b9",
-			"note": "AirPods Pro 3片耳紛失と購入体験記",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00000026-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "衛星経由でLINE送れる「SoftBank Starlink Direct」発表",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2100666.html",
+			"note": "ソフトバンクが衛星経由LINE通信サービスを発表",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2100/666/sbst01.jpg"
 		},
 		{
 			"number": 5,
-			"title": "日本の中古スマホは高品質？古いiPhoneの意外な使い道？専門店が語る「中古スマホ市場」の実態",
-			"url": "https://news.yahoo.co.jp/articles/e5422bc6f14c8919c4c646d3c3625623fffe92da",
-			"note": "日本の中古スマホ市場の実態を専門店が解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00616855-bcn-000-5-view.jpg?exp=10800"
+			"title": "ソフトバンク、新料金プラン「ペイトク2」を6月開始へ",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2100753.html",
+			"note": "ソフトバンクが新料金「ペイトク2」を6月提供開始",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2100/753/sb01.jpg"
 		},
 		{
 			"number": 6,
-			"title": "フックやスピーカーの位置が自由に調整可能＆音漏れも心配無用なオープンイヤーBluetoothイヤホン「400-BTTWS7」",
+			"title": "フック・スピーカー位置が自由調整のオープンイヤーBluetoothイヤホン「400-BTTWS7」",
 			"url": "https://gigazine.net/news/20260411-sanwa-400-bttws7-open-ear/",
-			"note": "装着位置自在のオープンイヤー型BTイヤホン",
+			"note": "サンワの調整自在オープンイヤーイヤホン紹介",
 			"image": "https://i.gzn.jp/img/2026/04/11/sanwa-400-bttws7-open-ear/00.jpg"
 		},
 		{
 			"number": 7,
-			"title": "2026年第1四半期の全世界PC出荷台数は前年同期比2.5％増の6560万台、メモリ不足もPC出荷は好調",
+			"title": "キーボード一体型PCで作業環境が超スッキリなHPのAI搭載PC「EliteBoard G1a」レビュー",
+			"url": "https://gigazine.net/news/20260411-hp-eliteboard-g1a-next-gen-ai-pc/",
+			"note": "HPのキーボード一体型AI搭載PCのレビュー記事",
+			"image": "https://i.gzn.jp/img/2026/04/11/hp-eliteboard-g1a-next-gen-ai-pc/00.jpg"
+		},
+		{
+			"number": 8,
+			"title": "2026年Q1の全世界PC出荷台数は前年同期比2.5％増の6560万台",
 			"url": "https://gigazine.net/news/20260411-pc-market-2026-q1/",
-			"note": "世界PC出荷2.5%増もメモリ不足が価格圧迫",
+			"note": "メモリ不足もPC出荷台数は好調を維持",
 			"image": "https://i.gzn.jp/img/2026/04/11/pc-market-2026-q1/00_m.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
-			"title": "高市政権「支持71.5％」も石油不足に7割が不安…ガソリン補助金は2か月で底の可能性",
-			"url": "https://news.yahoo.co.jp/articles/e5ed7ec4027bf1dab5c43d98dd500136b4190b1e",
-			"note": "高市政権支持71.5%も石油不足に不安",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-22592639-jnn-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 9,
-			"title": "「政治的アピールだ」自民・岩屋氏、国旗損壊罪の不要論唱え「表現の自由に照らし不適切」",
-			"url": "https://news.yahoo.co.jp/articles/a48d3865e1b7c90bc473408483eba9a830f8c3fe",
-			"note": "自民岩屋氏、国旗損壊罪は不要と主張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00000018-san-000-4-view.jpg?exp=10800"
+			"title": "高市政権「支持71.5％」も石油不足に7割が不安…ガソリン補助金は2か月で底の可能性",
+			"url": "https://news.yahoo.co.jp/pickup/6575858",
+			"note": "JNN調査で支持率71.5%も石油不安が7割",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/a64fd2c2b2a66934060ed1f09a96ccd589a62d71b2f626daa34ecb7c9f362419.jpg"
 		},
 		{
 			"number": 10,
-			"title": "「親にやめておけと言われた」兵庫県職員採用で辞退率58.9％の異常…知事告発問題と組織不信",
-			"url": "https://news.yahoo.co.jp/articles/7b96c13987b3707c56daec14a09b383c12edc123",
-			"note": "兵庫県職員採用、辞退率58.9%の異常事態",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00257245-shueisha-000-1-view.jpg?exp=10800"
+			"title": "首相「1強」自民内でくすぶる不満",
+			"url": "https://news.yahoo.co.jp/pickup/6575902",
+			"note": "高市首相の求心力に党内から不満の声",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/ef8368c68d54787d3f5baf67f0ff0fb8d2eeae9095089650c86c10229c122eae.jpg"
 		},
 		{
 			"number": 11,
-			"title": "「オール沖縄」の「抗議活動を再開」通達に「非常識極まりない」の声",
-			"url": "https://news.yahoo.co.jp/articles/99a23115cc72df0c1c049e7c24b0e20d351d157b",
-			"note": "オール沖縄、転覆事故調査中に抗議活動再開",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-01440138-shincho-000-1-view.jpg?exp=10800"
+			"title": "年度内に予算成立せず 首相の誤算",
+			"url": "https://news.yahoo.co.jp/pickup/6575844",
+			"note": "予算未成立で首相に誤算、政権運営に影響",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/e80e442113815090f6eb62a589da73de7734fa670355bc4fef327344cdd4bfd0.jpg"
+		},
+		{
+			"number": 12,
+			"title": "普天間返還合意30年 返還見通せず",
+			"url": "https://news.yahoo.co.jp/pickup/6575854",
+			"note": "普天間合意から30年、依然返還の見通し立たず",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/1216706d458739f896a3818069a488c16a345f61ffe9d175d3c7a88137522587.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 12,
-			"title": "ホルムズ海峡で機雷、行方不明か　米紙報道、イラン無計画に敷設",
-			"url": "https://news.yahoo.co.jp/articles/946d8935c75cceb3d7ef7f36e494fb3afdfbb3d3",
-			"note": "イラン、ホルムズ海峡に機雷を無計画に敷設",
-			"image": ""
-		},
-		{
 			"number": 13,
-			"title": "トランプ大統領「24時間で判断」　イランにホルムズ海峡開放要求、攻撃再開も示唆",
-			"url": "https://news.yahoo.co.jp/articles/e7dafe8593a04b75b17797bc9290a4d5e6167d30",
-			"note": "トランプ氏、イランに24時間以内の判断迫る",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-01128725-fnn-000-1-view.jpg?exp=10800"
+			"title": "米とイランの和平交渉 主な論点",
+			"url": "https://news.yahoo.co.jp/pickup/6575916",
+			"note": "米イラン和平交渉の主要論点を整理",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/86ae08cdafa9db3aee35f643bc17c9449cea5e652a94362ea95ec9712e9881a4.jpg"
 		},
 		{
 			"number": 14,
-			"title": "中国がイラン戦争一時停戦の裏で大笑い...一時停戦によって中国が「最大の勝者」となる理由",
-			"url": "https://news.yahoo.co.jp/articles/03f78918876e11a6c23c47a354a3d4c2f6f8d6b0",
-			"note": "米イラン停戦の最大勝者は中国との分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00010001-newsweek-000-1-view.jpg?exp=10800"
+			"title": "トランプ氏、強気の姿勢崩さず「ホルムズ海峡 近く開放」協議決裂なら再攻撃の構え",
+			"url": "https://news.yahoo.co.jp/pickup/6575891",
+			"note": "トランプ氏が協議決裂時の再攻撃を示唆",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/bdb201cd28c18a8f4bd70fe8ea7d303f78eb80f0762b894fa494946f42b2d5fa.jpg"
 		},
 		{
 			"number": 15,
-			"title": "米国人の間で広がる経済悲観論、過去最高水準に　イラン情勢への懸念で",
-			"url": "https://news.yahoo.co.jp/articles/f3015c67519095faf993c5a11dba69ca04859ed7",
-			"note": "米消費者信頼感がイラン情勢で過去最低に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00095566-forbes-000-1-view.jpg?exp=10800"
+			"title": "中国、イランへの肩撃ち対空ミサイル供与を準備か　米諜報　CNN EXCLUSIVE",
+			"url": "https://news.yahoo.co.jp/pickup/6575921",
+			"note": "中国がイランへ対空ミサイル供与準備との情報",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/4f30163b2b58668445b57d95773ada3e69450f1fcac32a3f0507b83da770ff6b.jpg"
 		},
 		{
 			"number": 16,
-			"title": "ネタニヤフ氏、スペインがイスラエルに「外交戦争」と非難　スペイン極左閣僚「ジェノサイド実行犯への敵意は当然」",
-			"url": "https://news.yahoo.co.jp/articles/233cb7261fac66a1f14a239424cf4b66ee25b1f2",
-			"note": "ネタニヤフ首相、スペインを外交戦争と非難",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260411-00000002-jij_afp-000-3-view.jpg?exp=10800"
+			"title": "ホルムズ海峡 機雷が行方不明か",
+			"url": "https://news.yahoo.co.jp/pickup/6575859",
+			"note": "ホルムズ海峡で機雷の所在が不明に",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/6285a32b6105526dda473ca0903e88fcf89c7aaa56943b7d93768a125e5f7ba6.jpg"
+		},
+		{
+			"number": 17,
+			"title": "ハリス氏 28年大統領選出馬を検討",
+			"url": "https://news.yahoo.co.jp/pickup/6575869",
+			"note": "ハリス前副大統領が2028年大統領選を検討",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/6f3736a70b018ceb57db78553d1645483dfde2923fb8bbfb15418b78f2bc67a7.jpg"
 		}
 	]
 }
