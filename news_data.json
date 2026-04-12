@@ -1,87 +1,87 @@
 {
-  "生成AI・LLM・AIエージェント": [
-    {
-      "number": 1,
-      "title": "ソフトバンクが国産AIの新会社設立、NECやホンダなど8社出資",
-      "url": "https://www.nikkei.com/article/DGXZQOUC1207B0S6A410C2000000/",
-      "note": "SB・NEC・ホンダら8社で1兆パラメータ国産AI開発",
-      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2881022012042026000000-1.jpg"
-    }
-  ],
-  "デジタルガジェット": [
-    {
-      "number": 2,
-      "title": "iPad Air（M4）はM3からどう進化？3つのポイントでチェック",
-      "url": "https://news.yahoo.co.jp/articles/b6007a96307e40f94870d01ef26e72b5745ebba3",
-      "note": "M4チップ搭載で処理性能最大30%向上、価格据え置き",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00000007-it_favlog-000-1-view.jpg?exp=10800"
-    },
-    {
-      "number": 3,
-      "title": "ソフトバンク、ついに値上げ――既存プランは最大550円アップ",
-      "url": "https://news.yahoo.co.jp/articles/df8eda037f3a37ccbc2ab61234c06fe6dd7d9e68",
-      "note": "既存プラン最大550円値上げ、新プランも提供開始",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-35246304-cnetj-000-2-view.jpg?exp=10800"
-    },
-    {
-      "number": 4,
-      "title": "畳めば片手で持ち運べるキングジムの「ノートパソコンスタンド(折畳式)」レビュー",
-      "url": "https://gigazine.net/news/20260412-kingjim-note-pc-foldable-stand/",
-      "note": "折りたたむと超コンパクトなノートPC用スタンド",
-      "image": "https://i.gzn.jp/img/2026/04/12/kingjim-note-pc-foldable-stand/00.jpg"
-    },
-    {
-      "number": 5,
-      "title": "月ミッションで盛り上がる今、NASA公認のスマートウォッチはいかが？",
-      "url": "https://www.gizmodo.jp/2026/04/artemis-watch.html",
-      "note": "NASA Artemis Watch 2.0、DIYキット約1.9万円から",
-      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/10/Artemis_watch_2.0_product_card.jpg?w=1280"
-    }
-  ],
-  "政治（日本）": [
-    {
-      "number": 6,
-      "title": "高市早苗首相、自民党大会で演説へ　憲法改正・積極財政の推進訴え",
-      "url": "https://www.nikkei.com/article/DGXZQOUA111B90R10C26A4000000/",
-      "note": "第93回自民党大会で憲法改正と積極財政を訴え",
-      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2881124012042026000000-1.jpg"
-    },
-    {
-      "number": 7,
-      "title": "高市首相、情報発信でX多用　透けて見える「追及嫌い」、国会出席や記者対応は減少傾向",
-      "url": "https://news.yahoo.co.jp/articles/5fd95f0f19ce2791f287d4b989e471ea4a8569ea",
-      "note": "首相のX多用で国会出席・記者対応が減少傾向",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00000006-jij-000-8-view.jpg?exp=10800"
-    }
-  ],
-  "国際情勢": [
-    {
-      "number": 8,
-      "title": "米副大統領「合意に至らず帰国」",
-      "url": "https://news.yahoo.co.jp/pickup/6575991",
-      "note": "バンス副大統領、イランとの交渉決裂で帰国表明",
-      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/c9838681e05b0d2ee9ecddaee788140a875400276ac164453340a5d6be0fc650.jpg"
-    },
-    {
-      "number": 9,
-      "title": "圧勝どころか痛み分け…トランプが見誤った米イラン戦争「停戦」の裏にある敗北",
-      "url": "https://news.yahoo.co.jp/articles/11c4c3cbe83eebe45e14811472a5f06350c02aca",
-      "note": "停戦合意の裏にあるトランプ政権の誤算を分析",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00387827-diamond-000-1-view.jpg?exp=10800"
-    },
-    {
-      "number": 10,
-      "title": "レバノン 戦闘巡り死者2000人超",
-      "url": "https://news.yahoo.co.jp/pickup/6575990",
-      "note": "レバノンの戦闘による死者が2000人を超過",
-      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/410fdc8f764a4f5bd0ba66ce3da07c7bca9d675e66b5338cfe227ba8dbb723bc.jpg"
-    },
-    {
-      "number": 11,
-      "title": "露とウの一時停戦 双方が違反報告",
-      "url": "https://news.yahoo.co.jp/pickup/6575989",
-      "note": "露ウ復活祭停戦、双方が約470件の違反を報告",
-      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/2a34ee867312ea3c19e631b8bf842e0f38965cd3ef3051f04ebee25aec53dc7a.jpg"
-    }
-  ]
+	"生成AI・LLM・AIエージェント": [
+		{
+			"number": 1,
+			"title": "ソフトバンクが国産AIの新会社設立、NECやホンダなど8社出資",
+			"url": "https://www.nikkei.com/article/DGXZQOUC1207B0S6A410C2000000/",
+			"note": "SB・NEC・ホンダら8社で1兆パラメータ国産AI開発",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2881022012042026000000-1.jpg"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 2,
+			"title": "iPad Air（M4）はM3からどう進化？3つのポイントでチェック",
+			"url": "https://news.yahoo.co.jp/articles/b6007a96307e40f94870d01ef26e72b5745ebba3",
+			"note": "M4チップ搭載で処理性能最大30%向上、価格据え置き",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00000007-it_favlog-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 3,
+			"title": "ソフトバンク、ついに値上げ――既存プランは最大550円アップ",
+			"url": "https://news.yahoo.co.jp/articles/df8eda037f3a37ccbc2ab61234c06fe6dd7d9e68",
+			"note": "既存プラン最大550円値上げ、新プランも提供開始",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-35246304-cnetj-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 4,
+			"title": "畳めば片手で持ち運べるキングジムの「ノートパソコンスタンド(折畳式)」レビュー",
+			"url": "https://gigazine.net/news/20260412-kingjim-note-pc-foldable-stand/",
+			"note": "折りたたむと超コンパクトなノートPC用スタンド",
+			"image": "https://i.gzn.jp/img/2026/04/12/kingjim-note-pc-foldable-stand/00.jpg"
+		},
+		{
+			"number": 5,
+			"title": "月ミッションで盛り上がる今、NASA公認のスマートウォッチはいかが？",
+			"url": "https://www.gizmodo.jp/2026/04/artemis-watch.html",
+			"note": "NASA Artemis Watch 2.0、DIYキット約1.9万円から",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/10/Artemis_watch_2.0_product_card.jpg?w=1280"
+		}
+	],
+	"政治（日本）": [
+		{
+			"number": 6,
+			"title": "高市早苗首相、自民党大会で演説へ　憲法改正・積極財政の推進訴え",
+			"url": "https://www.nikkei.com/article/DGXZQOUA111B90R10C26A4000000/",
+			"note": "第93回自民党大会で憲法改正と積極財政を訴え",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2881124012042026000000-1.jpg"
+		},
+		{
+			"number": 7,
+			"title": "高市首相、情報発信でX多用　透けて見える「追及嫌い」、国会出席や記者対応は減少傾向",
+			"url": "https://news.yahoo.co.jp/articles/5fd95f0f19ce2791f287d4b989e471ea4a8569ea",
+			"note": "首相のX多用で国会出席・記者対応が減少傾向",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00000006-jij-000-8-view.jpg?exp=10800"
+		}
+	],
+	"国際情勢": [
+		{
+			"number": 8,
+			"title": "米副大統領「合意に至らず帰国」",
+			"url": "https://news.yahoo.co.jp/pickup/6575991",
+			"note": "バンス副大統領、イランとの交渉決裂で帰国表明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/c9838681e05b0d2ee9ecddaee788140a875400276ac164453340a5d6be0fc650.jpg"
+		},
+		{
+			"number": 9,
+			"title": "圧勝どころか痛み分け…トランプが見誤った米イラン戦争「停戦」の裏にある敗北",
+			"url": "https://news.yahoo.co.jp/articles/11c4c3cbe83eebe45e14811472a5f06350c02aca",
+			"note": "停戦合意の裏にあるトランプ政権の誤算を分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00387827-diamond-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "レバノン 戦闘巡り死者2000人超",
+			"url": "https://news.yahoo.co.jp/pickup/6575990",
+			"note": "レバノンの戦闘による死者が2000人を超過",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/410fdc8f764a4f5bd0ba66ce3da07c7bca9d675e66b5338cfe227ba8dbb723bc.jpg"
+		},
+		{
+			"number": 11,
+			"title": "露とウの一時停戦 双方が違反報告",
+			"url": "https://news.yahoo.co.jp/pickup/6575989",
+			"note": "露ウ復活祭停戦、双方が約470件の違反を報告",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/2a34ee867312ea3c19e631b8bf842e0f38965cd3ef3051f04ebee25aec53dc7a.jpg"
+		}
+	]
 }
