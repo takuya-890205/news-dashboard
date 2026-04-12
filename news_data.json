@@ -2,85 +2,106 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "ソフトバンクが国産AIの新会社設立、NECやホンダなど8社出資",
-			"url": "https://www.nikkei.com/article/DGXZQOUC1207B0S6A410C2000000/",
-			"note": "SB・NEC・ホンダら8社で1兆パラメータ国産AI開発",
+			"title": "国産AI開発会社「日本AI基盤モデル開発」設立、ソフトバンク・NEC・ホンダ・ソニーなど8社出資",
+			"url": "https://news.yahoo.co.jp/articles/b99e5ab6ed71ea455a47f2b69b5825769fc9c731",
+			"note": "1兆パラメータの国産基盤モデル開発を目指す新会社",
 			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2881022012042026000000-1.jpg"
+		},
+		{
+			"number": 2,
+			"title": "スマホで作成「デジタル遺言」解禁へ なりすましリスクは？制度はどう変わる？",
+			"url": "https://news.yahoo.co.jp/articles/ed534d9683b68dbd6f0538a25594e3191e96a399",
+			"note": "デジタル技術活用で遺言作成の制度が大きく変化",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/1d1811a6b0c0e7cb778231bd2f21d1fb82fa69d1577d51ef366b09411c7295a8.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 2,
-			"title": "iPad Air（M4）はM3からどう進化？3つのポイントでチェック",
-			"url": "https://news.yahoo.co.jp/articles/b6007a96307e40f94870d01ef26e72b5745ebba3",
-			"note": "M4チップ搭載で処理性能最大30%向上、価格据え置き",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00000007-it_favlog-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 3,
-			"title": "ソフトバンク、ついに値上げ――既存プランは最大550円アップ",
-			"url": "https://news.yahoo.co.jp/articles/df8eda037f3a37ccbc2ab61234c06fe6dd7d9e68",
-			"note": "既存プラン最大550円値上げ、新プランも提供開始",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-35246304-cnetj-000-2-view.jpg?exp=10800"
+			"title": "iPadを超える厚さ4.8mmの極薄タブレット「HONOR MagicPad 4」",
+			"url": "https://www.gizmodo.jp/2026/04/honor-magicpad-4-d4z.html",
+			"note": "カメラ部除き厚さ4.8mm、iPad超えの極薄設計",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/04/bg@2x.png?w=1280"
 		},
 		{
 			"number": 4,
-			"title": "畳めば片手で持ち運べるキングジムの「ノートパソコンスタンド(折畳式)」レビュー",
-			"url": "https://gigazine.net/news/20260412-kingjim-note-pc-foldable-stand/",
-			"note": "折りたたむと超コンパクトなノートPC用スタンド",
-			"image": "https://i.gzn.jp/img/2026/04/12/kingjim-note-pc-foldable-stand/00.jpg"
+			"title": "衛星経由でLINE送れる「SoftBank Starlink Direct」発表",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2100666.html",
+			"note": "圏外エリアでも衛星経由でLINEメッセージ送受信",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2100/666/sbst01.jpg"
 		},
 		{
 			"number": 5,
-			"title": "月ミッションで盛り上がる今、NASA公認のスマートウォッチはいかが？",
-			"url": "https://www.gizmodo.jp/2026/04/artemis-watch.html",
-			"note": "NASA Artemis Watch 2.0、DIYキット約1.9万円から",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/10/Artemis_watch_2.0_product_card.jpg?w=1280"
+			"title": "使い捨てはもう古い。忘れ物防止スマートタグも「充電」の時代だ",
+			"url": "https://www.gizmodo.jp/2026/04/smarttags_summry.html",
+			"note": "充電式スマートタグが普及、長期利用が可能に",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/10/20260308tok00.jpg?w=1280"
+		},
+		{
+			"number": 6,
+			"title": "着替えや性行為まで…Metaスマートグラスの映像がダダ漏れしていた",
+			"url": "https://www.gizmodo.jp/2026/04/dear-meta-smart-glasses-wearers-youre-being-watched-too-ni2.html",
+			"note": "Ray-Ban Meta着用者の映像が第三者に閲覧可能",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/03/05/Meta-Ray-Ban-Display-review-17-768x512.jpg?w=1280"
+		},
+		{
+			"number": 7,
+			"title": "進化を極めたら退化した？ スマホ疲れの人たちがガラケーに回帰する流れ",
+			"url": "https://www.gizmodo.jp/2026/04/tired-of-smartphones-and-returning-to-feature-phones-v18.html",
+			"note": "スマホ中毒への反動でフィーチャーフォン再注目",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2025/10/08/shutterstock_2153625311.jpg?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "高市早苗首相、自民党大会で演説へ　憲法改正・積極財政の推進訴え",
-			"url": "https://www.nikkei.com/article/DGXZQOUA111B90R10C26A4000000/",
-			"note": "第93回自民党大会で憲法改正と積極財政を訴え",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2881124012042026000000-1.jpg"
+			"number": 8,
+			"title": "自民・鈴木幹事長、連立拡大に言及",
+			"url": "https://news.yahoo.co.jp/articles/2e1109ec6e09b2be2c076cb7b08e80d00bc5c51e",
+			"note": "自民党大会で連立の枠組み拡大の可能性に言及",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/bdbf88887f8e59ac7644c8c5a0ebeb5317bfa878d2540d6d926e9993745a30cd.jpg"
 		},
 		{
-			"number": 7,
-			"title": "高市首相、情報発信でX多用　透けて見える「追及嫌い」、国会出席や記者対応は減少傾向",
+			"number": 9,
+			"title": "世良公則「燃えろサナエ～」自民党大会サプライズゲストで生シャウト",
+			"url": "https://news.yahoo.co.jp/articles/087026ebfb1c5d017af7c9db05877f31fb9dc4f5",
+			"note": "高市首相が大喜びで拍手、党大会を盛り上げ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/c94f73c9bf572b06e45c6ee30c237d149262497314b8b43c9fa9bcbcf3d08a5d.jpg"
+		},
+		{
+			"number": 10,
+			"title": "高市首相、情報発信でX多用　国会出席や記者対応は減少傾向",
 			"url": "https://news.yahoo.co.jp/articles/5fd95f0f19ce2791f287d4b989e471ea4a8569ea",
-			"note": "首相のX多用で国会出席・記者対応が減少傾向",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00000006-jij-000-8-view.jpg?exp=10800"
+			"note": "取材機会の少なさの背景に「追及嫌い」の姿勢",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/02e6a27820b009f445f004450d1d0adebae87916397eb56beffc077b85a62554.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 8,
-			"title": "米副大統領「合意に至らず帰国」",
-			"url": "https://news.yahoo.co.jp/pickup/6575991",
-			"note": "バンス副大統領、イランとの交渉決裂で帰国表明",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/c9838681e05b0d2ee9ecddaee788140a875400276ac164453340a5d6be0fc650.jpg"
+			"number": 11,
+			"title": "米イラン協議は合意に至らず、戦争の行方は不透明なまま",
+			"url": "https://news.yahoo.co.jp/articles/6462d369bc2348d71e26a1f0a5f772f2c685bb80",
+			"note": "バンス副大統領「合意に至らず帰国」と表明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/3e042e94a28ff7adf6d6fad2fa44831c111aa82e559fb9b0cf9043b7803b496b.jpg"
 		},
 		{
-			"number": 9,
-			"title": "圧勝どころか痛み分け…トランプが見誤った米イラン戦争「停戦」の裏にある敗北",
-			"url": "https://news.yahoo.co.jp/articles/11c4c3cbe83eebe45e14811472a5f06350c02aca",
-			"note": "停戦合意の裏にあるトランプ政権の誤算を分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260412-00387827-diamond-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 10,
-			"title": "レバノン 戦闘巡り死者2000人超",
-			"url": "https://news.yahoo.co.jp/pickup/6575990",
-			"note": "レバノンの戦闘による死者が2000人を超過",
+			"number": 12,
+			"title": "レバノンの死者2000人を超える　イスラエルとヒズボラの交戦",
+			"url": "https://news.yahoo.co.jp/articles/0e82b81ed94a7d62d70c0708972fe3f6727f5436",
+			"note": "イスラエルとヒズボラの戦闘で犠牲者増加続く",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/410fdc8f764a4f5bd0ba66ce3da07c7bca9d675e66b5338cfe227ba8dbb723bc.jpg"
 		},
 		{
-			"number": 11,
-			"title": "露とウの一時停戦 双方が違反報告",
-			"url": "https://news.yahoo.co.jp/pickup/6575989",
-			"note": "露ウ復活祭停戦、双方が約470件の違反を報告",
+			"number": 13,
+			"title": "中国共産党が台湾への優遇措置を発表　野党党首訪問受け農水産物輸入促進",
+			"url": "https://news.yahoo.co.jp/articles/1f30fd12c5390b1df73e33dd10cab9c163337938",
+			"note": "台湾最大野党党首の訪中を受けた優遇策を発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/63353267100c213e6ee41e74d98841fc9d503a99418290d5bebb7177932dda8d.jpg"
+		},
+		{
+			"number": 14,
+			"title": "ロシアとウクライナの復活祭停戦、双方が違反を報告",
+			"url": "https://news.yahoo.co.jp/articles/2945a42df7ce22783feb9daae75172f5eaa1830c",
+			"note": "復活祭に合わせた一時停戦も互いに違反を主張",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/12/2a34ee867312ea3c19e631b8bf842e0f38965cd3ef3051f04ebee25aec53dc7a.jpg"
 		}
 	]
