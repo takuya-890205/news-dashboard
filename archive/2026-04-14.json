@@ -2,114 +2,128 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "アンソロピック、米国政府と一般公開を見送った新AI「Mythos」について協議 対立続く中",
-			"url": "https://news.yahoo.co.jp/articles/c8e5af2531f93dc75493d4a3dd0695ba82724f1e",
-			"note": "サイバーセキュリティ特化の最強モデル、公開巡り政府と協議",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00095743-forbes-000-1-view.jpg?exp=10800"
+			"title": "「Claude Mythos Preview」はネットワーク完全乗っ取り攻撃を自律的に実行できてしまうことがイギリス政府機関のテストで判明",
+			"url": "https://gigazine.net/news/20260414-claude-mythos-preview-aisi-evaluation/",
+			"note": "英AISIが安全性テスト、自律攻撃能力を確認",
+			"image": "https://i.gzn.jp/img/2026/04/14/claude-mythos-preview-aisi-evaluation/00.jpg"
 		},
 		{
 			"number": 2,
-			"title": "AI倫理とビジネスの間で揺れるAnthropic Mythos",
-			"url": "https://blogs.itmedia.co.jp/appliedmarketing/2026/04/anthropic_mithos.html",
-			"note": "Mythos公開制限の背景にある倫理とビジネスの葛藤",
+			"title": "MicrosoftはOpenClawのような常時稼働型AIエージェントの導入をテストしている",
+			"url": "https://gigazine.net/news/20260414-microsoft-openclaw-with-copilot/",
+			"note": "Copilotを常時稼働AIエージェントへ進化",
+			"image": "https://i.gzn.jp/img/2026/04/14/microsoft-openclaw-with-copilot/00_m.png"
+		},
+		{
+			"number": 3,
+			"title": "話題のレポート「AI 2027」から、分岐する未来を読み解く",
+			"url": "https://wired.jp/article/sz-two-paths-for-ai/",
+			"note": "AI 2027レポートが示す2つの未来シナリオ",
+			"image": ""
+		},
+		{
+			"number": 4,
+			"title": "JR東日本、駅ホーム人物検知にAI導入へ",
+			"url": "https://news.yahoo.co.jp/articles/ce8c1545c87298ec15ebd8c78e5269927bfe0ce7",
+			"note": "駅ホームの安全対策にAI画像認識を活用",
 			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
+			"number": 5,
 			"title": "最新お手頃スマホ「Pixel 10a」触ってみた。何が削られ、何が強化されたのか",
 			"url": "https://www.gizmodo.jp/2026/04/pixel-10a_first-review.html",
-			"note": "本日発売、7.99万円でフラットデザイン刷新",
+			"note": "79,900円〜、日本限定カラーも登場",
 			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/12/IMG_7150.JPG?w=1280"
 		},
 		{
-			"number": 4,
-			"title": "iPhoneの「AirDrop」とも繋がる！「Google Pixel 10a」実機レビュー",
-			"url": "https://k-tai.watch.impress.co.jp/docs/review/2101032.html",
-			"note": "AirDrop対応のQuick Share搭載が話題",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2101/032/03.jpg"
-		},
-		{
-			"number": 5,
-			"title": "「イヤーカフ型イヤホン」5機種聴き比べレビュー！ハイエンドの音と装着感を徹底解説",
-			"url": "https://news.yahoo.co.jp/articles/6af1a71407ed2844d72aa34bddedb7cf61575696",
-			"note": "ハイエンドイヤーカフ型5機種を徹底比較",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00129316-phileweb-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 6,
-			"title": "値上げのソフトバンクが仕掛ける「PayPayカード ゴールド」シフト、新プラン移行の障壁になる懸念も",
-			"url": "https://news.yahoo.co.jp/articles/8e37f2d5b7979efb27fec28b5603b100536a7f05",
-			"note": "新料金プランでPayPayゴールドカード推進",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000027-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "折り目\"ほぼゼロ\"な折りたたみスマホ OPPO「Find N6」日本初上陸 31万8000円",
+			"url": "https://www.itmedia.co.jp/news/articles/2604/14/news085.html",
+			"note": "OPPO初の日本向け折りたたみスマホ発売",
+			"image": "https://image.itmedia.co.jp/news/articles/2604/14/cover_news085.jpg"
 		},
 		{
 			"number": 7,
-			"title": "アメリカで「YouTube Premium」が値上げ、日本はいつ…？",
-			"url": "https://news.yahoo.co.jp/articles/437f04367d9f795f74c105d823fd476f0a70fc88",
-			"note": "米国で月額3ドル値上げ、日本への波及懸念",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000002-giz-000-1-view.jpg?exp=10800"
+			"title": "OPPOの最高峰スマホ「Find X9 Ultra」日本でも販売へ ハッセルブラッドカメラ搭載",
+			"url": "https://www.itmedia.co.jp/news/articles/2604/14/news095.html",
+			"note": "Hasselblad協業カメラ搭載のフラッグシップ",
+			"image": "https://image.itmedia.co.jp/news/articles/2604/14/cover_news095.jpg"
+		},
+		{
+			"number": 8,
+			"title": "Huaweiが新型折りたたみ式スマホ「Huawei Pura X Max」を発表",
+			"url": "https://gigazine.net/news/20260414-huawei-foldable/",
+			"note": "Huaweiの横開き折りたたみスマホ新モデル",
+			"image": "https://i.gzn.jp/img/2026/04/14/huawei-foldable/00.jpg"
+		},
+		{
+			"number": 9,
+			"title": "ソフトバンクも衛星通信「Starlink Direct」対応。LINEが宇宙から届く",
+			"url": "https://www.gizmodo.jp/2026/04/softbank-starlink-direct.html",
+			"note": "追加料金なしで衛星通信に対応開始",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/13/20260413sok00.jpg?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
-			"title": "高市首相、改憲「1年以内」発言が波紋　自民「追い風」「難しい」",
-			"url": "https://news.yahoo.co.jp/articles/0810ddb3764c93e36cc5cfd77bc4fdc3ca29ccae",
-			"note": "27年春までに改憲発議目指す方針を表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000008-jij-000-15-view.jpg?exp=10800"
-		},
-		{
-			"number": 9,
-			"title": "麻生太郎氏「このままじゃ先は厳しいぞ」 1強の高市首相、自民党内にまん延する意見できない空気",
-			"url": "https://news.yahoo.co.jp/articles/e803dcad520080e808e0a173f1730874ff0d3def",
-			"note": "高市1強体制への党内不満が表面化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00010000-nishinp-000-4-view.jpg?exp=10800"
-		},
-		{
 			"number": 10,
-			"title": "高市首相の「ナフサは足りる」発言は無意味…避けられない「石油ショック」で日本が行き詰まる最悪のシナリオ",
-			"url": "https://news.yahoo.co.jp/articles/e30197c1d982ffcf06f11bdaa3345389c5121ede",
-			"note": "ホルムズ封鎖で石油供給危機の懸念高まる",
-			"image": ""
+			"title": "改憲発議「1年以内」首相発言波紋",
+			"url": "https://news.yahoo.co.jp/pickup/6576192",
+			"note": "高市首相が憲法改正の国会発議を1年以内に",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/14/5238a503a87c17b42114b5341e1315e44db570c76e06d68c4db6262ad4200778.jpg"
+		},
+		{
+			"number": 11,
+			"title": "自民党大会で自衛官歌唱 法抵触か",
+			"url": "https://news.yahoo.co.jp/pickup/6576171",
+			"note": "自衛官の政治的活動制限に抵触の指摘",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/13/bc9a2294ed77438caf49d84e5e5dcbd1cfc949f80080576c5cf076eeed9078b0.jpg"
+		},
+		{
+			"number": 12,
+			"title": "首相1強 麻生氏「先は厳しいぞ」",
+			"url": "https://news.yahoo.co.jp/pickup/6576219",
+			"note": "高市1強体制に党内重鎮が警鐘",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/14/826426f3e790dcc7e7db2651313100fe2d6d47b81832054b95b17a3bd9f3335c.jpg"
+		},
+		{
+			"number": 13,
+			"title": "自維「主婦年金」の縮小で一致",
+			"url": "https://news.yahoo.co.jp/pickup/6576202",
+			"note": "自民・維新が第3号被保険者の縮小で合意",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/14/6a2b7b3b9c85230209fc3910c0360de56d8ce26d694efd6a10c4d4da55178c08.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
-			"title": "米国のホルムズ「逆封鎖」始まる、イランは報復示唆　NATOの英仏は不参加表明",
-			"url": "https://news.yahoo.co.jp/articles/88f2a4cb3fc1bf05de3f2513e00df4fbcaa088e5",
-			"note": "米軍がホルムズ海峡封鎖開始、英仏は距離",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00010000-reutv-000-2-thumb.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "数百億円の米軍無人機、ホルムズ海峡で消息を絶つ",
-			"url": "https://news.yahoo.co.jp/articles/bb5d5f42534a5b9862261c8e38ee5dc686024ae4",
-			"note": "MQ-4Cトライトンが哨戒中に消息不明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00095724-forbes-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 13,
-			"title": "トランプ大統領、自らをキリストに見立てた画像投稿…支持者「とんでもない侮辱」",
-			"url": "https://news.yahoo.co.jp/articles/11377c1b16580c9777eeedeca85ad215808145bd",
-			"note": "キリスト風画像に保守派支持者からも批判",
-			"image": ""
-		},
-		{
 			"number": 14,
-			"title": "トランプ大統領はなぜ「支持率35%」でも全く強気を崩さないのか",
-			"url": "https://news.yahoo.co.jp/articles/7446b13219bbd43c16be91c9a0f84ab64edeebff",
-			"note": "低支持率でも強気な理由を専門家が分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-01441335-shincho-000-3-view.jpg?exp=10800"
+			"title": "米とイラン 次回協議の開催検討",
+			"url": "https://news.yahoo.co.jp/pickup/6576231",
+			"note": "米イランが停戦に向け次回会合を調整中",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/14/ebd317716f94b1872a5e9ed872caeb4b1179f477c7b6a3e2e84ea3e4b5d2fb83.jpg"
 		},
 		{
 			"number": 15,
-			"title": "シリア出身ジャーナリストが明かす、イランが「容易に倒れない」納得の理由",
-			"url": "https://news.yahoo.co.jp/articles/d6c3bf8577b26c37d4e7419eeecd8c2b4a109be4",
-			"note": "イランの複雑な民族・派閥構造を解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000002-binsiderl-000-1-view.jpg?exp=10800"
+			"title": "米ホルムズ封鎖 イランは報復示唆",
+			"url": "https://news.yahoo.co.jp/pickup/6576211",
+			"note": "ホルムズ海峡封鎖にイランが報復を警告",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/14/566df2f7af70f854bed521dda241f24e560a607131731cdd51e6e196ba119afe.jpg"
+		},
+		{
+			"number": 16,
+			"title": "イスラエル 軍事作戦の再開へ準備",
+			"url": "https://news.yahoo.co.jp/pickup/6576169",
+			"note": "イスラエルがイラン関連の軍事作戦を再開へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/13/2db49afe9f118355bea6488c3ed4cd312f451ec556da4b42e2b4b14e7ec77750.jpg"
+		},
+		{
+			"number": 17,
+			"title": "トランプ氏 教皇への謝罪「拒否」",
+			"url": "https://news.yahoo.co.jp/pickup/6576215",
+			"note": "教皇批判画像を削除するも謝罪は拒否",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/14/b299a606761f008ccb3075763b97201e2304c09cda9ec30e227afeaf4f4dd7c5.jpg"
 		}
 	]
 }
