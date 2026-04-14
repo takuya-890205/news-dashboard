@@ -1,65 +1,115 @@
 {
-	"生成AI・LLM・AIエージェント": [],
-	"デジタルガジェット": [
+	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "日本版「Pixel 10a」ついに発売　約8万円で最新AI搭載のフラットデザイン",
-			"url": "https://jetstream.blog/2026/04/14/google-pixel-10a-japan-launch/",
-			"note": "Tensor G4+Gemini 3搭載、本日発売開始",
-			"image": "https://jetstream.blog/wp-content/uploads/2026/04/Google-Pixel-10a-1-1.jpg"
+			"title": "アンソロピック、米国政府と一般公開を見送った新AI「Mythos」について協議 対立続く中",
+			"url": "https://news.yahoo.co.jp/articles/c8e5af2531f93dc75493d4a3dd0695ba82724f1e",
+			"note": "サイバーセキュリティ特化の最強モデル、公開巡り政府と協議",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00095743-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
+			"title": "AI倫理とビジネスの間で揺れるAnthropic Mythos",
+			"url": "https://blogs.itmedia.co.jp/appliedmarketing/2026/04/anthropic_mithos.html",
+			"note": "Mythos公開制限の背景にある倫理とビジネスの葛藤",
+			"image": ""
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 3,
+			"title": "最新お手頃スマホ「Pixel 10a」触ってみた。何が削られ、何が強化されたのか",
+			"url": "https://www.gizmodo.jp/2026/04/pixel-10a_first-review.html",
+			"note": "本日発売、7.99万円でフラットデザイン刷新",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/12/IMG_7150.JPG?w=1280"
+		},
+		{
+			"number": 4,
+			"title": "iPhoneの「AirDrop」とも繋がる！「Google Pixel 10a」実機レビュー",
+			"url": "https://k-tai.watch.impress.co.jp/docs/review/2101032.html",
+			"note": "AirDrop対応のQuick Share搭載が話題",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2101/032/03.jpg"
+		},
+		{
+			"number": 5,
+			"title": "「イヤーカフ型イヤホン」5機種聴き比べレビュー！ハイエンドの音と装着感を徹底解説",
+			"url": "https://news.yahoo.co.jp/articles/6af1a71407ed2844d72aa34bddedb7cf61575696",
+			"note": "ハイエンドイヤーカフ型5機種を徹底比較",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00129316-phileweb-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
 			"title": "値上げのソフトバンクが仕掛ける「PayPayカード ゴールド」シフト、新プラン移行の障壁になる懸念も",
 			"url": "https://news.yahoo.co.jp/articles/8e37f2d5b7979efb27fec28b5603b100536a7f05",
 			"note": "新料金プランでPayPayゴールドカード推進",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000027-zdn_m-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
+			"title": "アメリカで「YouTube Premium」が値上げ、日本はいつ…？",
+			"url": "https://news.yahoo.co.jp/articles/437f04367d9f795f74c105d823fd476f0a70fc88",
+			"note": "米国で月額3ドル値上げ、日本への波及懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000002-giz-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 3,
+			"number": 8,
 			"title": "高市首相、改憲「1年以内」発言が波紋　自民「追い風」「難しい」",
 			"url": "https://news.yahoo.co.jp/articles/0810ddb3764c93e36cc5cfd77bc4fdc3ca29ccae",
-			"note": "改憲発議を27年春までに目指す方針表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000008-jij-000-8-view.jpg?exp=10800"
+			"note": "27年春までに改憲発議目指す方針を表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000008-jij-000-15-view.jpg?exp=10800"
+		},
+		{
+			"number": 9,
+			"title": "麻生太郎氏「このままじゃ先は厳しいぞ」 1強の高市首相、自民党内にまん延する意見できない空気",
+			"url": "https://news.yahoo.co.jp/articles/e803dcad520080e808e0a173f1730874ff0d3def",
+			"note": "高市1強体制への党内不満が表面化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00010000-nishinp-000-4-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "高市首相の「ナフサは足りる」発言は無意味…避けられない「石油ショック」で日本が行き詰まる最悪のシナリオ",
+			"url": "https://news.yahoo.co.jp/articles/e30197c1d982ffcf06f11bdaa3345389c5121ede",
+			"note": "ホルムズ封鎖で石油供給危機の懸念高まる",
+			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 4,
+			"number": 11,
+			"title": "米国のホルムズ「逆封鎖」始まる、イランは報復示唆　NATOの英仏は不参加表明",
+			"url": "https://news.yahoo.co.jp/articles/88f2a4cb3fc1bf05de3f2513e00df4fbcaa088e5",
+			"note": "米軍がホルムズ海峡封鎖開始、英仏は距離",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00010000-reutv-000-2-thumb.jpg?exp=10800"
+		},
+		{
+			"number": 12,
 			"title": "数百億円の米軍無人機、ホルムズ海峡で消息を絶つ",
 			"url": "https://news.yahoo.co.jp/articles/bb5d5f42534a5b9862261c8e38ee5dc686024ae4",
-			"note": "哨戒中MQ-4Cトライトンが消息不明に",
+			"note": "MQ-4Cトライトンが哨戒中に消息不明",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00095724-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 5,
-			"title": "トランプ大統領　自身をキリストに似せた画像を投稿　支持基盤の保守派から批判相次ぎ削除",
-			"url": "https://news.yahoo.co.jp/articles/d4ac54a9ab6eb6f4055f10d0f763e930985c8cf0",
-			"note": "キリスト風画像投稿で保守派からも批判殺到",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-07298042-jnn-000-3-view.jpg?exp=10800"
-		},
-		{
-			"number": 6,
-			"title": "イタリア、トランプ氏の教皇批判に反発　メローニ首相「容認できず」",
-			"url": "https://news.yahoo.co.jp/articles/997916ded6ce750e2a473075f7ce6000b3b6b579",
-			"note": "伊与野党一致でローマ教皇レオ14世を擁護",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000012-reut-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "アメリカ・トランプ大統領「34隻の船がホルムズ海峡通過した」SNSに投稿",
-			"url": "https://news.yahoo.co.jp/articles/12e9b6199c3b639601b503f22f451839b8b87628",
-			"note": "イラン封鎖後の最多通過数をアピール",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-07298038-jnn-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 8,
-			"title": "トランプ氏、ローマ教皇への謝罪拒否",
-			"url": "https://news.yahoo.co.jp/articles/84c39d27e1ca8f2b18d9acc5955180f13f9adc74",
-			"note": "教皇レオ14世への批判について謝罪せず",
+			"number": 13,
+			"title": "トランプ大統領、自らをキリストに見立てた画像投稿…支持者「とんでもない侮辱」",
+			"url": "https://news.yahoo.co.jp/articles/11377c1b16580c9777eeedeca85ad215808145bd",
+			"note": "キリスト風画像に保守派支持者からも批判",
 			"image": ""
+		},
+		{
+			"number": 14,
+			"title": "トランプ大統領はなぜ「支持率35%」でも全く強気を崩さないのか",
+			"url": "https://news.yahoo.co.jp/articles/7446b13219bbd43c16be91c9a0f84ab64edeebff",
+			"note": "低支持率でも強気な理由を専門家が分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-01441335-shincho-000-3-view.jpg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "シリア出身ジャーナリストが明かす、イランが「容易に倒れない」納得の理由",
+			"url": "https://news.yahoo.co.jp/articles/d6c3bf8577b26c37d4e7419eeecd8c2b4a109be4",
+			"note": "イランの複雑な民族・派閥構造を解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260414-00000002-binsiderl-000-1-view.jpg?exp=10800"
 		}
 	]
 }
