@@ -2,79 +2,114 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "MicrosoftはWindows 11からCopilotを削除したのではなく単に名前を変更しただけだったと判明",
-			"url": "https://gigazine.net/news/20260415-microsoft-copilot-renaming/",
-			"note": "Win11のCopilotは削除ではなく名称変更と判明",
-			"image": "https://i.gzn.jp/img/2026/04/15/microsoft-copilot-renaming/00.png"
+			"title": "OpenAIの社内メモが流出、次期モデル「Spud」でAnthropic「Mythos」に対抗",
+			"url": "https://news.yahoo.co.jp/articles/d5ed00bd636a5a9e0bf0cae5c68762cda6e470d8",
+			"note": "OpenAI次期モデル開発計画が明らかに",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00184484-biz_plus-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 2,
+			"title": "Microsoft、低コスト画像生成AI「MAI-Image-2-Efficient」を発表",
+			"url": "https://gigazine.net/news/20260415-microsoft-mai-image-2-efficient/",
+			"note": "Google・OpenAIより高コスパの画像生成モデル",
+			"image": "https://i.gzn.jp/img/2026/04/15/microsoft-mai-image-2-efficient/00.png"
+		},
+		{
+			"number": 3,
+			"title": "偽暗号通貨ウォレットアプリがApp Storeに潜入、約15億円を窃盗",
+			"url": "https://gigazine.net/news/20260415-fake-crypto-app-scam/",
+			"note": "Apple審査をすり抜けた詐欺アプリの手口",
+			"image": "https://i.gzn.jp/img/2026/04/15/fake-crypto-app-scam/00_m.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 2,
+			"number": 4,
 			"title": "日本初OPPOフォルダブルモデル「OPPO Find N6」が4月15日から販売開始",
-			"url": "https://www.oppo.com/jp/newsroom/press/findn6-release/",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2098929.html",
 			"note": "OPPO初の折りたたみスマホが日本上陸、31.8万円",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2100/156/01.jpg"
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2098/929/01.jpg"
 		},
 		{
-			"number": 3,
+			"number": 5,
 			"title": "NTTドコモが4月27日よりStarlink衛星とスマホの直接通信サービス「docomo Starlink Direct」を開始、当面無料",
 			"url": "https://news.yahoo.co.jp/articles/dda022f196ce999eca88bc46b488ac9463b449e8",
 			"note": "衛星通信サービスを当面無料で提供開始",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00010000-dime-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 4,
+			"number": 6,
 			"title": "GoPro、1インチセンサ搭載の新アクションカメラ「MISSION 1」シリーズを発表",
 			"url": "https://www.itmedia.co.jp/news/articles/2604/15/news067.html",
 			"note": "50MP 1インチセンサ搭載の新シリーズ発表",
 			"image": "https://image.itmedia.co.jp/news/articles/2604/15/cover_news067.jpg"
 		},
 		{
-			"number": 5,
-			"title": "NTT本社移転予定の「内幸町一丁目街区」、街区名称を「HIBIYA CROSSPARK」に決定",
-			"url": "https://news.yahoo.co.jp/articles/18fd551a379e79a0b5f812fe53917930e7fb42b0",
-			"note": "NTT新本社の次世代スマートシティ構想始動",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000001-impiw-000-1-view.jpg?exp=10800"
+			"number": 7,
+			"title": "Amazon、衛星通信のGlobalstarを1.8兆円超で買収へ",
+			"url": "https://gigazine.net/news/20260415-amazon-to-acquire-globalstar/",
+			"note": "衛星通信サービス統合で通信インフラ強化",
+			"image": "https://i.gzn.jp/img/2026/04/15/amazon-to-acquire-globalstar/00.png"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "参議院 今国会初の憲法審査会を15日開催、各党が意見表明",
-			"url": "https://news.web.nhk.or.jp/newsweb/na/na-k10015099441000",
-			"note": "高市首相の改憲意欲を受け参院で初の審査会",
-			"image": ""
+			"number": 8,
+			"title": "政府、石油民間備蓄の放出を1カ月延長",
+			"url": "https://news.yahoo.co.jp/pickup/6576323",
+			"note": "ホルムズ海峡情勢を受けた備蓄放出継続",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/aa09aeb09fefae085b1cad3193dcb9c5e71b37666264e167e0fcc243b2141862.jpg"
+		},
+		{
+			"number": 9,
+			"title": "社民・福島みずほ党首「7分半」の徹底追及",
+			"url": "https://news.yahoo.co.jp/articles/0e89aa533438f3b56e621bfc089f87c69e496d2f",
+			"note": "限られた質問時間での論戦が話題に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-10239200-abemav-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "脳死下の移植手術、拠点病院指定へ",
+			"url": "https://news.yahoo.co.jp/pickup/6576322",
+			"note": "移植医療の体制整備に向けた新制度",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/a7a214fe52cbd967dc49a70e44f1ff357a0c287981d4f6564393dfbf33adbdcb.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "トランプ氏、メローニ氏との亀裂鮮明に「彼女にはショックを受けた」",
-			"url": "https://news.yahoo.co.jp/articles/0fbfd28dba9ad202bf65b1eaddbbd5ecde7c0f4f",
-			"note": "トランプ大統領がイタリア首相を公然と批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000001-asahi-000-6-view.jpg?exp=10800"
-		},
-		{
-			"number": 8,
-			"title": "NYT、トランプ氏に踏み込む「狂ったふりか、それとも本当に狂っているのか」",
-			"url": "https://news.yahoo.co.jp/articles/90d953b7e38cdf3d98bf5cb8d84871442cff02a0",
-			"note": "NYTがトランプの行動を精神面から分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000002-cnippou-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 9,
+			"number": 11,
 			"title": "米軍、イラン港湾封鎖に1万人超を投入　24時間で突破船舶なし",
 			"url": "https://news.yahoo.co.jp/articles/d5a5b78fa63c9f4ef25b8b114e635e55d1351f9a",
-			"note": "イラン港湾封鎖作戦で米軍が大規模展開",
+			"note": "大規模軍事展開でイラン完全封鎖を実現",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000002-reut-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 10,
-			"title": "アフガン、イラク以上の泥沼か？ホルムズ海峡封鎖の脅威を終わらせる方法は2つしかない",
-			"url": "https://news.yahoo.co.jp/articles/1e387bba0b41aebfb62315022b0a68c8b28d438e",
-			"note": "米イラン対立の出口戦略を分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00140471-wedge-000-1-view.jpg?exp=10800"
+			"number": 12,
+			"title": "NYT、トランプ氏に踏み込む「狂ったふりか、それとも本当に狂っているのか」",
+			"url": "https://news.yahoo.co.jp/articles/90d953b7e38cdf3d98bf5cb8d84871442cff02a0",
+			"note": "NYTがトランプの行動を精神面から分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000002-cnippou-000-10-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "トランプ氏、メローニ氏との亀裂鮮明に「彼女にはショックを受けた」",
+			"url": "https://news.yahoo.co.jp/articles/0fbfd28dba9ad202bf65b1eaddbbd5ecde7c0f4f",
+			"note": "イタリア首相との関係悪化が表面化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000001-asahi-000-10-view.jpg?exp=10800"
+		},
+		{
+			"number": 14,
+			"title": "英国王、トランプ氏と私的に面会へ　「王室外交」による対米関係改善に期待",
+			"url": "https://news.yahoo.co.jp/articles/77c5f1ed4000e71caedc92d5a1f830b678b73922",
+			"note": "英王室が外交チャネルとして動く異例の展開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000031-reut-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "一触即発のホルムズ…米、10隻超の軍艦で「逆封鎖」vsイラン「想像しえない反撃」",
+			"url": "https://news.yahoo.co.jp/articles/0aaefdab3304c292dac0cf03565e3a5a977a894b",
+			"note": "ホルムズ海峡での米イラン軍事対峙が激化",
+			"image": ""
 		}
 	]
 }
