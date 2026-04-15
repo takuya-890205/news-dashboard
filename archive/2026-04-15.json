@@ -16,10 +16,10 @@
 		},
 		{
 			"number": 3,
-			"title": "偽暗号通貨ウォレットアプリがApp Storeに潜入、約15億円を窃盗",
-			"url": "https://gigazine.net/news/20260415-fake-crypto-app-scam/",
-			"note": "Apple審査をすり抜けた詐欺アプリの手口",
-			"image": "https://i.gzn.jp/img/2026/04/15/fake-crypto-app-scam/00_m.jpg"
+			"title": "4社中核に国産AI開発会社を設立",
+			"url": "https://news.yahoo.co.jp/pickup/6575967",
+			"note": "国内企業連合で国産AI基盤モデル開発へ",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
@@ -32,84 +32,84 @@
 		},
 		{
 			"number": 5,
+			"title": "Nothing、新ミッドレンジスマホ「Phone (4a)/(4a) Pro」国内発売日と価格発表。58,800円から",
+			"url": "https://news.yahoo.co.jp/articles/2e46d16266cc11f25fa36a1ff1bef66d24530d71",
+			"note": "Nothingの新スマホが国内正式発表",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00129337-phileweb-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
 			"title": "NTTドコモが4月27日よりStarlink衛星とスマホの直接通信サービス「docomo Starlink Direct」を開始、当面無料",
 			"url": "https://news.yahoo.co.jp/articles/dda022f196ce999eca88bc46b488ac9463b449e8",
 			"note": "衛星通信サービスを当面無料で提供開始",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00010000-dime-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 6,
+			"number": 7,
 			"title": "GoPro、1インチセンサ搭載の新アクションカメラ「MISSION 1」シリーズを発表",
 			"url": "https://www.itmedia.co.jp/news/articles/2604/15/news067.html",
 			"note": "50MP 1インチセンサ搭載の新シリーズ発表",
 			"image": "https://image.itmedia.co.jp/news/articles/2604/15/cover_news067.jpg"
-		},
-		{
-			"number": 7,
-			"title": "Amazon、衛星通信のGlobalstarを1.8兆円超で買収へ",
-			"url": "https://gigazine.net/news/20260415-amazon-to-acquire-globalstar/",
-			"note": "衛星通信サービス統合で通信インフラ強化",
-			"image": "https://i.gzn.jp/img/2026/04/15/amazon-to-acquire-globalstar/00.png"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 8,
-			"title": "政府、石油民間備蓄の放出を1カ月延長",
-			"url": "https://news.yahoo.co.jp/pickup/6576323",
-			"note": "ホルムズ海峡情勢を受けた備蓄放出継続",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/aa09aeb09fefae085b1cad3193dcb9c5e71b37666264e167e0fcc243b2141862.jpg"
+			"title": "首相、アジアに約1.6兆円支援を表明",
+			"url": "https://news.yahoo.co.jp/pickup/6576366",
+			"note": "アジア外交で大規模経済支援パッケージ発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/4d5662f82ce9277e60d9ca5cfd93021ea5700347a207d4893ad058aebf93c74b.jpg"
 		},
 		{
 			"number": 9,
-			"title": "社民・福島みずほ党首「7分半」の徹底追及",
-			"url": "https://news.yahoo.co.jp/articles/0e89aa533438f3b56e621bfc089f87c69e496d2f",
-			"note": "限られた質問時間での論戦が話題に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-10239200-abemav-000-1-view.jpg?exp=10800"
+			"title": "改憲巡り、各党の立場の違い鮮明",
+			"url": "https://news.yahoo.co.jp/pickup/6576377",
+			"note": "憲法改正議論で与野党対立が明確に",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/b1e35072b68eda01b09a1c979b05ad6c852e3ac559d42a67f1b623a1cecdefed.jpg"
 		},
 		{
 			"number": 10,
-			"title": "脳死下の移植手術、拠点病院指定へ",
-			"url": "https://news.yahoo.co.jp/pickup/6576322",
-			"note": "移植医療の体制整備に向けた新制度",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/a7a214fe52cbd967dc49a70e44f1ff357a0c287981d4f6564393dfbf33adbdcb.jpg"
+			"title": "再審制度修正案、自民から怒号飛ぶ",
+			"url": "https://news.yahoo.co.jp/pickup/6576378",
+			"note": "再審法改正を巡り自民党内で激しい議論",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/b48c800d8102d3bd8308b5b4ca3e54706f1c40651d8ef3fa8243b60b29456cd4.jpg"
+		},
+		{
+			"number": 11,
+			"title": "政府、石油民間備蓄の放出を1カ月延長",
+			"url": "https://news.yahoo.co.jp/pickup/6576323",
+			"note": "中東情勢を受けエネルギー安全保障対応",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/15/aa09aeb09fefae085b1cad3193dcb9c5e71b37666264e167e0fcc243b2141862.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
+			"number": 12,
 			"title": "米軍、イラン港湾封鎖に1万人超を投入　24時間で突破船舶なし",
 			"url": "https://news.yahoo.co.jp/articles/d5a5b78fa63c9f4ef25b8b114e635e55d1351f9a",
 			"note": "大規模軍事展開でイラン完全封鎖を実現",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000002-reut-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 12,
-			"title": "NYT、トランプ氏に踏み込む「狂ったふりか、それとも本当に狂っているのか」",
-			"url": "https://news.yahoo.co.jp/articles/90d953b7e38cdf3d98bf5cb8d84871442cff02a0",
-			"note": "NYTがトランプの行動を精神面から分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000002-cnippou-000-10-view.jpg?exp=10800"
+			"number": 13,
+			"title": "一触即発のホルムズ…米、10隻超の軍艦で「逆封鎖」vsイラン「想像しえない反撃」",
+			"url": "https://news.yahoo.co.jp/articles/0aaefdab3304c292dac0cf03565e3a5a977a894b",
+			"note": "ホルムズ海峡での米イラン軍事対峙が激化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/mutsujishoji/02603219/title-1776172526983.jpeg?exp=10800"
 		},
 		{
-			"number": 13,
+			"number": 14,
 			"title": "トランプ氏、メローニ氏との亀裂鮮明に「彼女にはショックを受けた」",
 			"url": "https://news.yahoo.co.jp/articles/0fbfd28dba9ad202bf65b1eaddbbd5ecde7c0f4f",
 			"note": "イタリア首相との関係悪化が表面化",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000001-asahi-000-10-view.jpg?exp=10800"
 		},
 		{
-			"number": 14,
+			"number": 15,
 			"title": "英国王、トランプ氏と私的に面会へ　「王室外交」による対米関係改善に期待",
 			"url": "https://news.yahoo.co.jp/articles/77c5f1ed4000e71caedc92d5a1f830b678b73922",
 			"note": "英王室が外交チャネルとして動く異例の展開",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260415-00000031-reut-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 15,
-			"title": "一触即発のホルムズ…米、10隻超の軍艦で「逆封鎖」vsイラン「想像しえない反撃」",
-			"url": "https://news.yahoo.co.jp/articles/0aaefdab3304c292dac0cf03565e3a5a977a894b",
-			"note": "ホルムズ海峡での米イラン軍事対峙が激化",
-			"image": ""
 		}
 	]
 }
