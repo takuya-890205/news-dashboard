@@ -2,43 +2,50 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "思い切った慶應義塾 全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動",
-			"url": "https://news.yahoo.co.jp/articles/c465be8fe8c52668a13fb7cc6c5e789e15c511b5",
-			"note": "慶應が全教職員にNotion導入、AIで知的資産活用へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260419-00000009-ascii-000-1-view.png?fmt=jpeg&q=85&exp=10800"
+			"title": "人間は「取締役」、AIが「CEO」 サム・アルトマンがAGI論争を終了させてまで語りたかった「ASI」の未来図",
+			"url": "https://www.itmedia.co.jp/business/articles/2604/20/news015.html",
+			"note": "OpenAI CEO、AGI達成後のASI時代を展望",
+			"image": "https://image.itmedia.co.jp/business/articles/2604/20/cover_news015.jpg"
 		},
 		{
 			"number": 2,
+			"title": "Claude Coworkとは？コード不要で業務を丸ごと自動化するAIエージェントの全貌",
+			"url": "https://sogyotecho.jp/claude-cowork/",
+			"note": "Anthropicの新機能、ノーコードで業務自動化",
+			"image": "https://sogyotecho.jp/wp-content/uploads/2026/04/c0709c0a1b0b1c86cca48f7423db4a7c.png"
+		},
+		{
+			"number": 3,
 			"title": "ChatGPTの画像生成AIが「Nano Banana」超え？ 漫画や動画風カットが実用レベルに",
 			"url": "https://news.yahoo.co.jp/articles/b78a2b9e2aa576a68d59d4a57392126973991f68",
 			"note": "ChatGPT画像生成が漫画・動画風で実用レベルに到達",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-ascii-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 3,
-			"title": "【知識ゼロでOK】Excel・Word・パワポ作業を丸投げ…Copilot最強エージェント全手順",
-			"url": "https://news.yahoo.co.jp/articles/4b966d8401452f81008273edebb07f0d03c8217f",
-			"note": "Microsoft Copilotエージェント活用の実践ガイド",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00184317-biz_plus-000-1-view.jpg?exp=10800"
+			"number": 4,
+			"title": "ロボットが北京ハーフマラソンで人間の記録を破る",
+			"url": "https://gigazine.net/news/20260420-humanoid-robot-sprints-victory-beijing-half-marathon/",
+			"note": "人型ロボットがハーフマラソン世界記録を更新",
+			"image": "https://i.gzn.jp/img/2026/04/20/humanoid-robot-sprints-victory-beijing-half-marathon/00_m.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "「高性能なWi-Fiルーターは電波が強い」は本当か？ 法律と技術から読み解くWi-Fiの現実",
-			"url": "https://news.yahoo.co.jp/articles/9754d27ce4780d3e1f5970862db0a5d920b50468",
-			"note": "Wi-Fiルーターの電波強度を法律・技術面から解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000002-impiw-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 5,
-			"title": "100年間使い続けられる「固体型原子力電池」発売へ",
-			"url": "https://news.yahoo.co.jp/articles/4396e11fc7c79aa0ff217c3a9717d5d1ed8aa912",
-			"note": "充電不要で100年動作する原子力電池が製品化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-giz-000-1-view.jpg?exp=10800"
+			"title": "「Pixel 10a」と「Pixel 10」どちらを選ぶ？ 実機比較で分かった「約5万円差の価値」と「明確な違い」",
+			"url": "https://news.yahoo.co.jp/articles/e435f68839ac684dd8fb66c4225d413fef576006",
+			"note": "Pixel 10aとPixel 10の実機比較レビュー",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000017-zdn_m-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 6,
+			"title": "100年間使い続けられる「固体型原子力電池」発売へ",
+			"url": "https://news.yahoo.co.jp/articles/4396e11fc7c79aa0ff217c3a9717d5d1ed8aa912",
+			"note": "米NRDが100年寿命の核電池NBVシリーズを発売予定",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-giz-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
 			"title": "文字盤にイヤホンを内蔵した新型スマートウォッチ「HUAWEI WATCH Buds 2」が本日発表",
 			"url": "https://daily-gadget.net/smartwatch/112571/",
 			"note": "ウォッチ内蔵イヤホンの2-in-1デバイスが復活",
@@ -47,48 +54,55 @@
 	],
 	"政治（日本）": [
 		{
-			"number": 7,
+			"number": 8,
 			"title": "高市首相と麻生副総裁に『亀裂』…党内からは「首相は王様のようだ」との声も",
 			"url": "https://news.yahoo.co.jp/articles/ec3d79a9ca358c87f96ec2d746ba8836d3f867ce",
 			"note": "高市首相と麻生氏の関係悪化が表面化",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00257318-shueisha-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 8,
-			"title": "《スクープ》悠仁さまが高校2年時に発表したトンボ論文に疑義",
-			"url": "https://news.yahoo.co.jp/articles/5dd695232a5102870f1507e6878097fad080b816",
-			"note": "悠仁さまのトンボ論文の信頼性に疑問の声",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000003-pseven-000-1-view.jpg?exp=10800"
+			"number": 9,
+			"title": "沖縄知事、政府に説明要求 普天間返還条件の新道路",
+			"url": "https://news.yahoo.co.jp/articles/c01389170033dfb8ba8e78825937809d6f593037",
+			"note": "普天間返還の新条件に沖縄知事が反発",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000060-kyodonews-000-3-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "石油節約「呼びかけるべき」6割超 ANN世論調査",
+			"url": "https://news.yahoo.co.jp/articles/6d7916fe9dd065abef27febc9c529fc0d520d4c2",
+			"note": "中東情勢受け石油節約への国民意識が高まる",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000003-ann-000-9-thumb.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "【速報】トランプ大統領　協議で合意しない場合には「イラン国内の発電所と橋を破壊する」",
-			"url": "https://news.yahoo.co.jp/articles/02c61449e6807b42c0dd8ed5154e7e0ba179228c",
-			"note": "トランプ氏がイランへの軍事攻撃を警告",
-			"image": ""
-		},
-		{
-			"number": 10,
-			"title": "米軍 イラン船籍の貨物船を拘束",
-			"url": "https://news.yahoo.co.jp/articles/62e7b3c7618aded0b85ceb8008d824d98916872b",
-			"note": "米軍がホルムズ海峡でイラン貨物船を拿捕",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000000-jij-000-18-view.jpg?exp=10800"
-		},
-		{
 			"number": 11,
-			"title": "イランが米との再協議を拒否 報道",
-			"url": "https://news.yahoo.co.jp/articles/e8b24c578a030d003509c22d07d5e7b7f6cdf78a",
-			"note": "イランが米国との交渉継続を拒否",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000000-mai-000-4-view.jpg?exp=10800"
+			"title": "米将校の行方不明に数時間怒号…トランプ、虚勢の裏に恐怖心",
+			"url": "https://news.yahoo.co.jp/articles/eb2cf7a62fd9b4ad731d005e34731d8d76eca4f8",
+			"note": "米軍将校の行方不明でトランプ政権に動揺",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000031-cnippou-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "習近平が「中東ショック」に危機感を募らせている理由…原油・ガス輸入『急減』の実態",
+			"title": "米軍、イラン船に発砲し拿捕　パキスタンへ代表団派遣も",
+			"url": "https://news.yahoo.co.jp/articles/62e7b3c7618aded0b85ceb8008d824d98916872b",
+			"note": "ホルムズ海峡で米軍がイラン船を拿捕",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000000-jij-000-24-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "北朝鮮、クラスター弾試射か　弾道ミサイルに搭載",
+			"url": "https://news.yahoo.co.jp/articles/a3021264cb552a06a96f3105753a757c531e2739",
+			"note": "北朝鮮が弾道ミサイルにクラスター弾搭載試射",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000038-kyodonews-000-16-view.jpg?exp=10800"
+		},
+		{
+			"number": 14,
+			"title": "習近平が「中東ショック」に危機感を募らせている理由…統計が語る、原油・ガス輸入「急減」の実態",
 			"url": "https://news.yahoo.co.jp/articles/0c9045e62b8d5bdaa88ee2a346bd307dea6130d6",
 			"note": "中東危機で中国のエネルギー調達に深刻な影響",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-binsiderl-000-1-view.jpg?exp=10800"
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-binsiderl-000-3-view.jpg?exp=10800"
 		}
 	]
 }
