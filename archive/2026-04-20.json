@@ -2,107 +2,135 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "人間は「取締役」、AIが「CEO」 サム・アルトマンがAGI論争を終了させてまで語りたかった「ASI」の未来図",
-			"url": "https://www.itmedia.co.jp/business/articles/2604/20/news015.html",
-			"note": "OpenAI CEO、AGI達成後のASI時代を展望",
-			"image": "https://image.itmedia.co.jp/business/articles/2604/20/cover_news015.jpg"
+			"title": "LINEヤフーが統合AIエージェント「Agent i」を発表、買い物・旅行など7種のエージェント機能",
+			"url": "https://news.yahoo.co.jp/articles/fd939cd52691e8f238aaa12d17aa1c811fa88f8f",
+			"note": "Yahoo!とLINEのAIを統合、エージェント時代本格化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000012-ascii-000-4-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "Claude Coworkとは？コード不要で業務を丸ごと自動化するAIエージェントの全貌",
-			"url": "https://sogyotecho.jp/claude-cowork/",
-			"note": "Anthropicの新機能、ノーコードで業務自動化",
-			"image": "https://sogyotecho.jp/wp-content/uploads/2026/04/c0709c0a1b0b1c86cca48f7423db4a7c.png"
+			"title": "Anthropicとホワイトハウス、Mythosへの懸念高まりを受けて\"仲直り\"を模索か",
+			"url": "https://www.itmedia.co.jp/aiplus/articles/2604/20/news077.html",
+			"note": "Anthropic、AI安全性めぐり米政権と対話再開へ",
+			"image": "https://image.itmedia.co.jp/aiplus/articles/2604/20/cover_news077.jpg"
 		},
 		{
 			"number": 3,
-			"title": "ChatGPTの画像生成AIが「Nano Banana」超え？ 漫画や動画風カットが実用レベルに",
-			"url": "https://news.yahoo.co.jp/articles/b78a2b9e2aa576a68d59d4a57392126973991f68",
-			"note": "ChatGPT画像生成が漫画・動画風で実用レベルに到達",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-ascii-000-1-view.jpg?exp=10800"
+			"title": "88％の一般的な家事を失敗、人型ロボの完成度は今なお遠い",
+			"url": "https://news.yahoo.co.jp/articles/da47c1cf3934f31895690477cdf0cbbb360abd67",
+			"note": "人型ロボット、家事成功率わずか12%の現実",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00095831-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 4,
 			"title": "ロボットが北京ハーフマラソンで人間の記録を破る",
 			"url": "https://gigazine.net/news/20260420-humanoid-robot-sprints-victory-beijing-half-marathon/",
-			"note": "人型ロボットがハーフマラソン世界記録を更新",
+			"note": "二足歩行ロボがハーフマラソンで人間を超えた",
 			"image": "https://i.gzn.jp/img/2026/04/20/humanoid-robot-sprints-victory-beijing-half-marathon/00_m.jpg"
+		},
+		{
+			"number": 5,
+			"title": "待望の新型Siri、登場はやはり今秋か　iOS 27に搭載される可能性",
+			"url": "https://news.yahoo.co.jp/articles/4b5aef35e5afe5c796054f6bf4b8f7b70db267b8",
+			"note": "Apple新型Siri、今秋iOS 27で登場見込み",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00096076-forbes-000-1-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "「Pixel 10a」と「Pixel 10」どちらを選ぶ？ 実機比較で分かった「約5万円差の価値」と「明確な違い」",
+			"number": 6,
+			"title": "「Pixel 10a」と「Pixel 10」どちらを選ぶ？ 実機比較で分かった「約5万円差の価値」",
 			"url": "https://news.yahoo.co.jp/articles/e435f68839ac684dd8fb66c4225d413fef576006",
 			"note": "Pixel 10aとPixel 10の実機比較レビュー",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000017-zdn_m-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 6,
-			"title": "100年間使い続けられる「固体型原子力電池」発売へ",
-			"url": "https://news.yahoo.co.jp/articles/4396e11fc7c79aa0ff217c3a9717d5d1ed8aa912",
-			"note": "米NRDが100年寿命の核電池NBVシリーズを発売予定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-giz-000-1-view.jpg?exp=10800"
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000017-zdn_m-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 7,
-			"title": "文字盤にイヤホンを内蔵した新型スマートウォッチ「HUAWEI WATCH Buds 2」が本日発表",
-			"url": "https://daily-gadget.net/smartwatch/112571/",
-			"note": "ウォッチ内蔵イヤホンの2-in-1デバイスが復活",
-			"image": ""
+			"title": "MacBook Proの大幅モデルチェンジ、サプライチェーン問題で2027年初頭に延期",
+			"url": "https://gigazine.net/news/20260420-apple-macbook-pro-overhaul-delayed-supply-chain-shortages/",
+			"note": "OLED搭載MacBook Pro、供給不足で延期に",
+			"image": "https://i.gzn.jp/img/2026/04/20/apple-macbook-pro-overhaul-delayed-supply-chain-shortages/00_m.jpg"
+		},
+		{
+			"number": 8,
+			"title": "povoで「認定中古スマホ」開始、バッテリー80%以上・30日保証付き",
+			"url": "https://www.itmedia.co.jp/mobile/amp/2604/20/news080.html",
+			"note": "povo、品質保証付き認定中古スマホ販売開始",
+			"image": "https://image.itmedia.co.jp/mobile/articles/2604/20/asa_povo_01.jpg"
+		},
+		{
+			"number": 9,
+			"title": "「Nintendo Switch 2」は買いやすくなったのか？ 販売店の転売対策「その後」を追う",
+			"url": "https://news.yahoo.co.jp/articles/747bab3fe3ae2f69dd60081d4211ad72dff7d8ae",
+			"note": "Switch 2転売対策の現状と販売店の苦闘",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000041-zdn_m-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
-			"title": "高市首相と麻生副総裁に『亀裂』…党内からは「首相は王様のようだ」との声も",
-			"url": "https://news.yahoo.co.jp/articles/ec3d79a9ca358c87f96ec2d746ba8836d3f867ce",
-			"note": "高市首相と麻生氏の関係悪化が表面化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00257318-shueisha-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 9,
-			"title": "沖縄知事、政府に説明要求 普天間返還条件の新道路",
-			"url": "https://news.yahoo.co.jp/articles/c01389170033dfb8ba8e78825937809d6f593037",
-			"note": "普天間返還の新条件に沖縄知事が反発",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000060-kyodonews-000-3-view.jpg?exp=10800"
-		},
-		{
 			"number": 10,
+			"title": "【速報】北海道・青森県・岩手県に津波警報　三陸沖M7.5地震",
+			"url": "https://news.yahoo.co.jp/articles/5fe80941383c371b80b32a33b53442a620c981fe",
+			"note": "三陸沖M7.5地震で津波警報、避難呼びかけ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00034491-tenki-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "参議院議員会館の刃物男　片山さつき大臣「この方が上京して私に会いたくやってくると把握していた」",
+			"url": "https://news.yahoo.co.jp/articles/b0d28c6237d4b0b6d6820786c08d01878e91b9b9",
+			"note": "参議院議員会館で刃物男を事前警備で逮捕",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-10240392-abemav-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "ホルムズ海峡をめぐる有志国首脳会合　仏英独伊韓など参加も高市総理はなぜ出席しなかった？",
+			"url": "https://news.yahoo.co.jp/articles/fff259ebd0fba6b56536738849aa167853b89d01",
+			"note": "主要国首脳参加のホルムズ会合に高市総理不在",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-10240384-abemav-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
 			"title": "石油節約「呼びかけるべき」6割超 ANN世論調査",
 			"url": "https://news.yahoo.co.jp/articles/6d7916fe9dd065abef27febc9c529fc0d520d4c2",
-			"note": "中東情勢受け石油節約への国民意識が高まる",
+			"note": "中東情勢受け石油節約への国民意識高まる",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000003-ann-000-9-thumb.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
+			"number": 14,
 			"title": "米将校の行方不明に数時間怒号…トランプ、虚勢の裏に恐怖心",
 			"url": "https://news.yahoo.co.jp/articles/eb2cf7a62fd9b4ad731d005e34731d8d76eca4f8",
-			"note": "米軍将校の行方不明でトランプ政権に動揺",
+			"note": "トランプ大統領、対イラン作戦で内心動揺か",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000031-cnippou-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 12,
-			"title": "米軍、イラン船に発砲し拿捕　パキスタンへ代表団派遣も",
-			"url": "https://news.yahoo.co.jp/articles/62e7b3c7618aded0b85ceb8008d824d98916872b",
-			"note": "ホルムズ海峡で米軍がイラン船を拿捕",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000000-jij-000-24-view.jpg?exp=10800"
+			"number": 15,
+			"title": "【分析】トランプ政権に影を落とす数々のインサイダー取引疑惑",
+			"url": "https://news.yahoo.co.jp/articles/3fa7c8308bb6c50d942d5d650ce4274fc79d1971",
+			"note": "BBC分析：トランプ政権の取引疑惑が深刻化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-16059265-bbc-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 13,
+			"number": 16,
+			"title": "ロシア、大学生を兵役募集の標的に　「凄まじい」圧力との証言も",
+			"url": "https://news.yahoo.co.jp/articles/f36c9c7c461b23c41635af0fea3f85e1910a32d1",
+			"note": "ロシア、戦力不足で大学生への兵役勧誘強化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-35246617-cnn-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 17,
+			"title": "ウクライナが前線兵士を2万5000台の地上ロボットに置き換える計画に着手",
+			"url": "https://gigazine.net/news/20260420-ukraine-replace-robot/",
+			"note": "ウクライナ、2.5万台の地上ロボで前線防衛へ",
+			"image": "https://i.gzn.jp/img/2026/04/20/ukraine-replace-robot/00_m.jpg"
+		},
+		{
+			"number": 18,
 			"title": "北朝鮮、クラスター弾試射か　弾道ミサイルに搭載",
 			"url": "https://news.yahoo.co.jp/articles/a3021264cb552a06a96f3105753a757c531e2739",
 			"note": "北朝鮮が弾道ミサイルにクラスター弾搭載試射",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000038-kyodonews-000-16-view.jpg?exp=10800"
-		},
-		{
-			"number": 14,
-			"title": "習近平が「中東ショック」に危機感を募らせている理由…統計が語る、原油・ガス輸入「急減」の実態",
-			"url": "https://news.yahoo.co.jp/articles/0c9045e62b8d5bdaa88ee2a346bd307dea6130d6",
-			"note": "中東危機で中国のエネルギー調達に深刻な影響",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000001-binsiderl-000-3-view.jpg?exp=10800"
 		}
 	]
 }
