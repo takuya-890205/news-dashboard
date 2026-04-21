@@ -4,126 +4,126 @@
 			"number": 1,
 			"title": "Claude Opus 4.6と同等性能の中国製AIモデル「Kimi K2.6」がオープンモデルとして公開",
 			"url": "https://gigazine.net/news/20260421-kimi-k2-6/",
-			"note": "Moonshot AI発の中国製LLMがオープンウェイトで公開、Opus級の性能",
+			"note": "Moonshot AIがClaude Opus 4.6同水準のオープンモデルを公開",
 			"image": "https://i.gzn.jp/img/2026/04/21/kimi-k2-6/00.png"
 		},
 		{
 			"number": 2,
-			"title": "日本でもGemini in Chromeが利用可能に、YouTube動画の要約やNano Banana 2で編集も",
+			"title": "日本でもGemini in Chromeが利用可能に、YouTube動画の要約やNano Banana 2で編集可能",
 			"url": "https://gigazine.net/news/20260421-chrome-ai-japan/",
-			"note": "ChromeサイドパネルからGemini AIを直接利用可能に",
+			"note": "GoogleのGemini in Chromeが日本で提供開始",
 			"image": "https://i.gzn.jp/img/2026/04/21/chrome-ai-japan/00.png"
 		},
 		{
 			"number": 3,
-			"title": "いまさら聞けない「フィジカルAI」の基本 8割の企業が2年以内に導入へ",
-			"url": "https://techtarget.itmedia.co.jp/tt/news/2604/21/news04.html",
-			"note": "物理世界と連携するAI、企業導入が急加速中",
-			"image": "https://image.itmedia.co.jp/tt/news/2604/21/cover_news04.jpg"
+			"title": "アマゾン、Anthropicに追加出資へ",
+			"url": "https://news.yahoo.co.jp/pickup/6577041",
+			"note": "AmazonがAnthropic社への追加投資を発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/61e3913395cb2d2428e1dec5b5ec4376c87a886348b4fdd9155de06bac872879.jpg"
 		},
 		{
 			"number": 4,
-			"title": "GrokのExcel/PowerPoint/Word用プラグインが近日公開。複雑な論文も数分でスライドに",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2103001.html",
-			"note": "xAIのGrokがOffice連携、論文→スライド自動変換も",
-			"image": "https://pc.watch.impress.co.jp/img/pcw/docs/2103/001/1_l.jpg"
+			"title": "GitHub Copilot、運用コスト倍増で課金方式をトークンベースへ段階的に移行か",
+			"url": "https://gigazine.net/news/20260421-github-copilot-plans-changes/",
+			"note": "コスト急増でCopilotのトークンベース課金への移行計画浮上",
+			"image": "https://i.gzn.jp/img/2026/04/21/github-copilot-plans-changes/00.png"
 		},
 		{
 			"number": 5,
-			"title": "【Copilot】レポート作成の常識が激変…GPTとClaudeの「合わせ技」が想像を超えた",
-			"url": "https://news.yahoo.co.jp/articles/30ee066a2a10f6e48e93983516e422726b71eefc",
-			"note": "CopilotでGPTとClaudeを組み合わせたレポート作成手法",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00184362-biz_plus-000-1-view.jpg?exp=10800"
+			"title": "新しくアップロードされる音楽の半数近くがAI生成、1年前の約4倍に",
+			"url": "https://gigazine.net/news/20260421-ai-generated-music/",
+			"note": "Deezerがデイリーアップロードの約44%がAI生成と発表",
+			"image": "https://i.gzn.jp/img/2026/04/21/ai-generated-music/00.jpg"
+		},
+		{
+			"number": 6,
+			"title": "Claude MythosやGPT-5.4-Cyberの脆弱性発見スピードにOSSメンテナーが追いつけずリスク増大",
+			"url": "https://gigazine.net/news/20260421-claude-mythos-gpt-cyber-oss-risk/",
+			"note": "高性能セキュリティAIの速度にOSS側が対応困難に",
+			"image": "https://i.gzn.jp/img/2026/04/21/claude-mythos-gpt-cyber-oss-risk/00.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 6,
-			"title": "8ボタン+2ダイヤルの液タブが4万9,980円で登場「XPPen Artist 16 3rd」",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2102756.html",
-			"note": "多ボタン＋ダイヤル搭載の新型液晶ペンタブレット",
-			"image": "https://asset.watch.impress.co.jp/img/pcw/docs/2102/756/01_l.jpg"
-		},
-		{
 			"number": 7,
-			"title": "ソフトバンクから「Galaxy A57 5G」、23日発売 Starlinkにも対応",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2102121.html",
-			"note": "Starlink衛星通信対応のミドルレンジスマホがSBから発売",
-			"image": ""
+			"title": "なぜH.265(HEVC)サポートを終了するPCメーカーが登場したのか",
+			"url": "https://gigazine.net/news/20260421-h-265-hevc-licensing-and-royalties/",
+			"note": "H.265の複雑なライセンス問題でサポート打ち切りの動き",
+			"image": "https://i.gzn.jp/img/2026/04/21/h-265-hevc-licensing-and-royalties/00_m.jpg"
 		},
 		{
 			"number": 8,
-			"title": "「Android XR」に新機能を5つ追加、YouTubeの3D化も",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2099954.html",
-			"note": "GoogleのXRプラットフォームに3D動画など新機能追加",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2099/954/00.jpg"
+			"title": "ソニーホンダ、全従業員を親会社などへ再配置",
+			"url": "https://news.yahoo.co.jp/articles/e1b3b863ccd193e134f4be773c1ca548a0f30e15",
+			"note": "ソニーホンダモビリティが事業縮小・人員再配置へ",
+			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "設営0秒の移動基地。ガジェット収納に特化したコクヨのポーチがアップデート",
-			"url": "https://www.gizmodo.jp/2026/04/hacobiz2.html",
-			"note": "コクヨのガジェット収納ポーチ「ハコビズ」第2世代",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/08/main.jpg?w=1280"
+			"title": "「起動直後に広告を出すなよ」FamiPay仕様に不満の声",
+			"url": "https://news.yahoo.co.jp/articles/dc360505cbf7fd2b8ecef4f4a8e3828c6fa86770",
+			"note": "FamiPayアプリの広告表示仕様にユーザーが不満",
+			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 10,
-			"title": "政府が武器輸出緩和「5類型」撤廃",
-			"url": "https://news.yahoo.co.jp/articles/3a20a474dc804313f2a7a4a3d6641b77bc5fcf54",
-			"note": "防衛装備品の輸出制限を大幅に緩和する方針",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000014-mai-000-6-view.jpg?exp=10800"
+			"title": "武器輸出が原則可能に 狙いと課題",
+			"url": "https://news.yahoo.co.jp/pickup/6577096",
+			"note": "政府が武器輸出緩和「5類型」撤廃を決定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/ef4aa8b9dea027f35959621a7343fb03874ffc0ded3ff27bf06f2d953951d101.jpg"
 		},
 		{
 			"number": 11,
-			"title": "再審規定案の一部削除 政府が検討",
-			"url": "https://news.yahoo.co.jp/articles/a8a20222ebeb43d5d4a63d1690347c0e3f109210",
-			"note": "再審制度改革の法案から一部規定を削除する方向",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000004-asahi-000-2-view.jpg?exp=10800"
+			"title": "首相就任半年 政権運営に危うさ",
+			"url": "https://news.yahoo.co.jp/pickup/6577062",
+			"note": "就任半年を迎えた首相の政権運営の課題を分析",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/5d7852df93d4097928f89fd964d8daf42a5ba4bac280be943b1683f37fe3368d.jpg"
 		},
 		{
 			"number": 12,
-			"title": "高市首相 靖国神社に真榊を奉納",
-			"url": "https://news.yahoo.co.jp/articles/12765968b589987c0f6deab03cbdcc4c702df960",
-			"note": "春季例大祭に合わせ真榊を奉納、外交への影響注目",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000022-kyodonews-000-26-view.jpg?exp=10800"
+			"title": "地震巡る偽・誤情報に注意 総務相",
+			"url": "https://news.yahoo.co.jp/pickup/6577043",
+			"note": "総務相が地震関連のデマ拡散に警鐘",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/f04a9e4603728418da5e0a122fa02a64a5fa307cca6ddf5d4eb94fdc39059b18.jpg"
 		},
 		{
 			"number": 13,
-			"title": "地震巡る偽・誤情報に注意 総務相",
-			"url": "https://news.yahoo.co.jp/articles/58e6f8f290687dfff13ae0cd900290a5098fc87a",
-			"note": "地震関連の偽情報拡散に対し総務相が注意喚起",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-09799158-nnn-000-3-view.jpg?exp=10800"
+			"title": "辺野古 文科省が24日同志社を調査",
+			"url": "https://news.yahoo.co.jp/pickup/6577102",
+			"note": "辺野古問題で文科省が同志社大学を調査へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/4a6587c99ecc8ebcf25da18e762d4c5339b6d9c32d9103ab62afcd4075fec5c2.jpg"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 14,
-			"title": "米 停戦延長の可能性は極めて低い",
-			"url": "https://news.yahoo.co.jp/articles/8e28cad512dbaeb9043aaf7e6f37251dd576256e",
-			"note": "ウクライナ停戦延長の見通し厳しく、交渉難航",
-			"image": ""
+			"title": "米イラン協議向け パキスタンが仲介に奔走",
+			"url": "https://news.yahoo.co.jp/pickup/6577089",
+			"note": "パキスタンが米イラン間の対話仲介に動く",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/2a637f06b9fbbd889ed78053995eed0c12224875bbc63eb030c62a5572c86e4d.jpg"
 		},
 		{
 			"number": 15,
-			"title": "米軍 イラン船籍の貨物船を拿捕",
-			"url": "https://news.yahoo.co.jp/articles/62e7b3c7618aded0b85ceb8008d824d98916872b",
-			"note": "ペルシャ湾で米軍がイラン貨物船を拿捕、緊張激化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000000-jij-000-33-view.jpg?exp=10800"
+			"title": "イスラエルとレバノン 23日に協議",
+			"url": "https://news.yahoo.co.jp/pickup/6577095",
+			"note": "イスラエルとレバノンが23日に停戦協議へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/a8898038f62bf8b0b6c2ad0a7465ab84227fc9f17ebd1b967b8373b4895d8714.jpg"
 		},
 		{
 			"number": 16,
-			"title": "ホルムズ通航混乱 Uターン相次ぐ",
-			"url": "https://news.yahoo.co.jp/articles/b6ad2164c76e2418f0f1d1512b01856884041e00",
-			"note": "ホルムズ海峡で船舶の航行混乱、原油供給に影響も",
-			"image": ""
+			"title": "BTS所属HYBE創業者の逮捕状請求",
+			"url": "https://news.yahoo.co.jp/pickup/6577076",
+			"note": "韓国検察がHYBE創業者の逮捕状を請求",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/99e53285084f7e3c83573c9338363e50eb0baf93bebd3402ae1b57089235f1e7.jpg"
 		},
 		{
 			"number": 17,
-			"title": "米労働長官辞任へ 事実上の更迭か",
-			"url": "https://news.yahoo.co.jp/articles/abea3c27b38f4cfaa2d6f20bbfc2386eee1f52cd",
-			"note": "トランプ政権の労働長官が辞任、更迭との見方も",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-07299404-jnn-000-5-view.jpg?exp=10800"
+			"title": "トランプ氏、停戦延長の可能性は「極めて低い」と表明",
+			"url": "https://www.nikkei.com/article/DGXZQOGN20B670Q6A420C2000000/",
+			"note": "対イラン停戦期限は22日夜、延長に否定的",
+			"image": ""
 		}
 	]
 }
