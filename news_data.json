@@ -2,121 +2,128 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「Claude Design」登場、AIでUIやプレゼン資料をデザイン可能に",
-			"url": "https://gigazine.net/gsc_news/en/20260420-claude-design/",
-			"note": "AnthropicがUI・資料デザインのAI支援機能を提供開始",
-			"image": ""
+			"title": "Claude Opus 4.6と同等性能の中国製AIモデル「Kimi K2.6」がオープンモデルとして公開",
+			"url": "https://gigazine.net/news/20260421-kimi-k2-6/",
+			"note": "Moonshot AI発の中国製LLMがオープンウェイトで公開、Opus級の性能",
+			"image": "https://i.gzn.jp/img/2026/04/21/kimi-k2-6/00.png"
 		},
 		{
 			"number": 2,
-			"title": "LINEに謎アイコン「Agent i」が出現、実はあなた専属AI秘書",
-			"url": "https://www.itmedia.co.jp/mobile/articles/2604/20/news109.html",
-			"note": "LINE YahooがAIエージェント「Agent i」を発表",
-			"image": "https://image.itmedia.co.jp/mobile/articles/2604/20/l_rk1640414_agenti-01.jpg"
+			"title": "日本でもGemini in Chromeが利用可能に、YouTube動画の要約やNano Banana 2で編集も",
+			"url": "https://gigazine.net/news/20260421-chrome-ai-japan/",
+			"note": "ChromeサイドパネルからGemini AIを直接利用可能に",
+			"image": "https://i.gzn.jp/img/2026/04/21/chrome-ai-japan/00.png"
 		},
 		{
 			"number": 3,
-			"title": "米中AIがほぼ拮抗、若手開発者の雇用20%減　スタンフォード報告",
-			"url": "https://ascii.jp/elem/000/004/395/4395065/",
-			"note": "スタンフォード大AI Index 2026で米中性能差がほぼ解消",
-			"image": ""
+			"title": "いまさら聞けない「フィジカルAI」の基本 8割の企業が2年以内に導入へ",
+			"url": "https://techtarget.itmedia.co.jp/tt/news/2604/21/news04.html",
+			"note": "物理世界と連携するAI、企業導入が急加速中",
+			"image": "https://image.itmedia.co.jp/tt/news/2604/21/cover_news04.jpg"
 		},
 		{
 			"number": 4,
-			"title": "Meta、8000人の大規模解雇を計画中　AI投資に集中",
-			"url": "https://gigazine.net/news/20260420-meta-layoff-8000/",
-			"note": "2026年解雇計画の第一波として8000人を予定",
-			"image": "https://i.gzn.jp/img/2026/04/20/meta-layoff-8000/00.jpg"
+			"title": "GrokのExcel/PowerPoint/Word用プラグインが近日公開。複雑な論文も数分でスライドに",
+			"url": "https://pc.watch.impress.co.jp/docs/news/2103001.html",
+			"note": "xAIのGrokがOffice連携、論文→スライド自動変換も",
+			"image": "https://pc.watch.impress.co.jp/img/pcw/docs/2103/001/1_l.jpg"
 		},
 		{
 			"number": 5,
-			"title": "Python仮想環境パスが.venvに統一へ、PEP 832が提案",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/21/news007.html",
-			"note": "Python 3.15でvenvの標準パスを.venvに統一する提案",
-			"image": "https://image.itmedia.co.jp/ait/articles/2604/21/cover_news007.jpg"
+			"title": "【Copilot】レポート作成の常識が激変…GPTとClaudeの「合わせ技」が想像を超えた",
+			"url": "https://news.yahoo.co.jp/articles/30ee066a2a10f6e48e93983516e422726b71eefc",
+			"note": "CopilotでGPTとClaudeを組み合わせたレポート作成手法",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00184362-biz_plus-000-1-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 6,
-			"title": "AppleのクックCEOが9月に退任し会長に、後任はジョン・ターナス氏",
-			"url": "https://news.yahoo.co.jp/articles/67465d2e6f9d0fd6aae594c89f845fc19f3006b1",
-			"note": "Apple CEO 15年ぶり交代、ハードウェア責任者が後任",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000028-zdn_n-000-1-view.jpg?exp=10800"
+			"title": "8ボタン+2ダイヤルの液タブが4万9,980円で登場「XPPen Artist 16 3rd」",
+			"url": "https://pc.watch.impress.co.jp/docs/news/2102756.html",
+			"note": "多ボタン＋ダイヤル搭載の新型液晶ペンタブレット",
+			"image": "https://asset.watch.impress.co.jp/img/pcw/docs/2102/756/01_l.jpg"
 		},
 		{
 			"number": 7,
-			"title": "DJIが新Vlog向けカメラ「Osmo Pocket 4」を発表",
-			"url": "https://www.gizmodo.jp/2026/04/dji-new-camera-osmo-pocket-4.html",
-			"note": "DJIのVlog向けジンバルカメラ最新モデル",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/18/dji-new-osmo-pocket-4-001.jpg?w=1280"
+			"title": "ソフトバンクから「Galaxy A57 5G」、23日発売 Starlinkにも対応",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2102121.html",
+			"note": "Starlink衛星通信対応のミドルレンジスマホがSBから発売",
+			"image": ""
 		},
 		{
 			"number": 8,
-			"title": "WWDC 26は6月8日から開催、ロゴに新機能の予告？",
-			"url": "https://www.gizmodo.jp/2026/04/wwdc-26-june8.html",
-			"note": "Apple開発者会議、iOS 27の新機能に注目",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/20/20260420wwdck00.jpg?w=1280"
+			"title": "「Android XR」に新機能を5つ追加、YouTubeの3D化も",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2099954.html",
+			"note": "GoogleのXRプラットフォームに3D動画など新機能追加",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2099/954/00.jpg"
 		},
 		{
 			"number": 9,
-			"title": "143言語対応の2画面AI翻訳機、オフラインモードあり",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2099395.html",
-			"note": "143言語対応でオフラインでも使える2画面翻訳デバイス",
-			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2099/395/01.jpg"
-		},
-		{
-			"number": 10,
-			"title": "ソフトバンク新料金「ペイトク2」「テイガク無制限」のお得度を検証",
-			"url": "https://news.yahoo.co.jp/articles/6d9a0ab1dc89b4ec3319479fc7bc44f1b42e5012",
-			"note": "ソフトバンク新料金プラン3種を徹底比較",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000025-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "設営0秒の移動基地。ガジェット収納に特化したコクヨのポーチがアップデート",
+			"url": "https://www.gizmodo.jp/2026/04/hacobiz2.html",
+			"note": "コクヨのガジェット収納ポーチ「ハコビズ」第2世代",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/08/main.jpg?w=1280"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 10,
+			"title": "政府が武器輸出緩和「5類型」撤廃",
+			"url": "https://news.yahoo.co.jp/articles/3a20a474dc804313f2a7a4a3d6641b77bc5fcf54",
+			"note": "防衛装備品の輸出制限を大幅に緩和する方針",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000014-mai-000-6-view.jpg?exp=10800"
+		},
+		{
 			"number": 11,
-			"title": "高市首相、靖国神社に真榊を奉納",
-			"url": "https://news.yahoo.co.jp/articles/12765968b589987c0f6deab03cbdcc4c702df960",
-			"note": "春季例大祭に合わせ真榊を奉納",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000022-kyodonews-000-10-view.jpg?exp=10800"
+			"title": "再審規定案の一部削除 政府が検討",
+			"url": "https://news.yahoo.co.jp/articles/a8a20222ebeb43d5d4a63d1690347c0e3f109210",
+			"note": "再審制度改革の法案から一部規定を削除する方向",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000004-asahi-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "竹中平蔵「移民法、制定するべし」外国人なしでは日本回らず",
-			"url": "https://news.yahoo.co.jp/articles/4581b465b537dbd2ab54bd44e1d862d399cc0b2e",
-			"note": "高市政権の政策を批判、移民法の制定を主張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00257315-shueisha-000-1-view.jpg?exp=10800"
+			"title": "高市首相 靖国神社に真榊を奉納",
+			"url": "https://news.yahoo.co.jp/articles/12765968b589987c0f6deab03cbdcc4c702df960",
+			"note": "春季例大祭に合わせ真榊を奉納、外交への影響注目",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000022-kyodonews-000-26-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "地震巡る偽・誤情報に注意 総務相",
+			"url": "https://news.yahoo.co.jp/articles/58e6f8f290687dfff13ae0cd900290a5098fc87a",
+			"note": "地震関連の偽情報拡散に対し総務相が注意喚起",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-09799158-nnn-000-3-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 13,
-			"title": "トランプ関税「違法」判決、関税返還手続き開始　日本企業も対象で26兆円規模",
-			"url": "https://news.yahoo.co.jp/articles/044e6927d4a05dc540acc9ef07bee4618f7dd9d3",
-			"note": "違法判決を受け26兆円規模の返還手続きが開始",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-01133156-fnn-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 14,
-			"title": "米労働長官が辞任、勤務中飲酒や不倫疑惑　事実上の更迭か",
-			"url": "https://news.yahoo.co.jp/articles/f1ea80e5c1cd6e518c1266a465a1a647f85437b9",
-			"note": "スキャンダルでトランプ政権閣僚がまた辞任",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000006-jij-000-8-view.jpg?exp=10800"
+			"title": "米 停戦延長の可能性は極めて低い",
+			"url": "https://news.yahoo.co.jp/articles/8e28cad512dbaeb9043aaf7e6f37251dd576256e",
+			"note": "ウクライナ停戦延長の見通し厳しく、交渉難航",
+			"image": ""
 		},
 		{
 			"number": 15,
-			"title": "トランプ氏、イランとの停戦期限「米東部時間22日夕」",
-			"url": "https://news.yahoo.co.jp/articles/3dbf4078f539ce2abe593300902f245a693f9bb6",
-			"note": "停戦延長の可能性は極めて低いとの見方",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000001-mai-000-1-view.jpg?exp=10800"
+			"title": "米軍 イラン船籍の貨物船を拿捕",
+			"url": "https://news.yahoo.co.jp/articles/62e7b3c7618aded0b85ceb8008d824d98916872b",
+			"note": "ペルシャ湾で米軍がイラン貨物船を拿捕、緊張激化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260420-00000000-jij-000-33-view.jpg?exp=10800"
 		},
 		{
 			"number": 16,
-			"title": "米空母3隻が中東に集結へ「ジョージ・H・W・ブッシュ」がまもなく到着",
-			"url": "https://news.yahoo.co.jp/articles/4dcef6338c138ee01915b4604d61de466883b7a5",
-			"note": "中東に米空母3隻が集結、緊張が高まる",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00096117-forbes-000-1-view.jpg?exp=10800"
+			"title": "ホルムズ通航混乱 Uターン相次ぐ",
+			"url": "https://news.yahoo.co.jp/articles/b6ad2164c76e2418f0f1d1512b01856884041e00",
+			"note": "ホルムズ海峡で船舶の航行混乱、原油供給に影響も",
+			"image": ""
+		},
+		{
+			"number": 17,
+			"title": "米労働長官辞任へ 事実上の更迭か",
+			"url": "https://news.yahoo.co.jp/articles/abea3c27b38f4cfaa2d6f20bbfc2386eee1f52cd",
+			"note": "トランプ政権の労働長官が辞任、更迭との見方も",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-07299404-jnn-000-5-view.jpg?exp=10800"
 		}
 	]
 }
