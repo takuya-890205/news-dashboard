@@ -2,128 +2,128 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenAI「ChatGPT Images 2.0」発表、推論搭載の画像生成で2K出力・多言語テキスト対応",
-			"url": "https://note.com/kazu_t/n/ne1c1138a0eed",
-			"note": "Thinking Mode搭載でWeb検索→画像生成が可能に",
-			"image": "https://assets.st-note.com/production/uploads/images/269361014/0ec503fdce631d8e854592ef4d2a5af6.png"
+			"title": "OpenAIが「ChatGPT Images 2.0」を正式リリース、日本語テキスト描画が大幅向上",
+			"url": "https://gigazine.net/news/20260422-chatgpt-images-2-0/",
+			"note": "AIが思考してから描く新画像生成モデル、無料プランでも利用可能",
+			"image": "https://i.gzn.jp/img/2026/04/22/chatgpt-images-2-0/00.png"
 		},
 		{
 			"number": 2,
-			"title": "Anthropic、AWSに1000億ドル超投資を発表 AmazonもAnthropicに最大250億ドル投資",
-			"url": "https://gigazine.net/news/20260421-amazon-anthropic-invest/",
-			"note": "Amazon製AIチップTrainium確保で提携を大幅拡大",
-			"image": "https://i.gzn.jp/img/2026/04/21/amazon-anthropic-invest/00.png"
+			"title": "GoogleがGemini 3.1 Proベースの新型AIエージェント「Deep Research Max」を発表",
+			"url": "https://gigazine.net/news/20260422-google-deep-research-max/",
+			"note": "Gemini 3.1 Pro基盤の高度なリサーチAIエージェント",
+			"image": "https://i.gzn.jp/img/2026/04/22/google-deep-research-max/00.png"
 		},
 		{
 			"number": 3,
-			"title": "LINEヤフー、AIエージェント新ブランド「Agent i」始動 LINEとYahoo!のAI機能を統合",
-			"url": "https://news.yahoo.co.jp/articles/0d2a9a0e79ac44ae77b9e66e2056cf097c6cfafb",
-			"note": "買い物・旅行・天気など7領域のAIエージェントを展開",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00184889-biz_plus-000-1-view.jpg?exp=10800"
+			"title": "AnthropicのMythosがFirefox 150で271件のセキュリティ脆弱性を発見",
+			"url": "https://gigazine.net/news/20260422-anthropic-mythos-found-271-security-vulnerabilities-firefox/",
+			"note": "AIモデルが大規模脆弱性検出、Mozillaは「防御側の朗報」と評価",
+			"image": "https://i.gzn.jp/img/2026/04/22/anthropic-mythos-found-271-security-vulnerabilities-firefox/00_m.jpg"
 		},
 		{
 			"number": 4,
-			"title": "日本でもGemini in Chromeが利用可能に、YouTube要約やNano Banana 2で編集が実行可能",
-			"url": "https://gigazine.net/news/20260421-chrome-ai-japan/",
-			"note": "Chromeサイドパネルから直接AI機能を利用可能",
-			"image": "https://i.gzn.jp/img/2026/04/21/chrome-ai-japan/00.png"
+			"title": "Anthropicが「Claude Code」をMaxプラン専用にする変更をテスト中",
+			"url": "https://gigazine.net/news/20260422-anthropic-claude-subscribe-small-test/",
+			"note": "月額100ドル以上のMaxプラン限定を一部ユーザーでテスト",
+			"image": "https://i.gzn.jp/img/2026/04/22/anthropic-claude-subscribe-small-test/00.png"
+		},
+		{
+			"number": 5,
+			"title": "Metaが従業員のマウス操作・キーストロークをAIトレーニングデータとして収集開始",
+			"url": "https://gigazine.net/news/20260422-meta-capturing-emoloyee-mouse-keystrokes/",
+			"note": "従業員の操作データをAI学習に利用、プライバシー懸念も",
+			"image": "https://i.gzn.jp/img/2026/04/22/meta-capturing-emoloyee-mouse-keystrokes/00_m.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "アップル次期CEO、ジョン・ターナスとは何者？ ジョブズが牽引した「プロダクトデザインのアップル」時代復活か",
-			"url": "https://news.yahoo.co.jp/articles/2ffc84f8f872dfef7d13964af1a858e95ccabc57",
-			"note": "Apple新体制でプロダクトデザイン重視へ回帰",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000002-binsider-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 6,
-			"title": "NASAが惑星探査機「ボイジャー1号」の科学装置をまた1つ停止、大がかりな延命対策も準備中",
-			"url": "https://news.yahoo.co.jp/articles/4358b89f85c69dfd4ffe10a44fdc37dabac33a2f",
-			"note": "48年稼働の探査機、電力節約で装置を順次停止",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00010000-sorae_jp-000-1-view.jpg?exp=10800"
+			"title": "修理・アップグレード可能な超薄型ノートPC「Framework Laptop 13 Pro」登場",
+			"url": "https://gigazine.net/news/20260422-framework-laptop-13-pro/",
+			"note": "Intel Core Ultra Series 3搭載、バッテリー20時間、6月出荷",
+			"image": "https://i.gzn.jp/img/2026/04/22/framework-laptop-13-pro/00.jpg"
 		},
 		{
 			"number": 7,
-			"title": "jig.jp、鯖江発のAIスマートグラス「SABERA」発表 度付き対応で先行販売初日4,500万円超",
-			"url": "https://ledge.ai/articles/sabera_ai_smartglasses_sabae_makuake_launch",
-			"note": "日常利用志向のAIグラスが鯖江から登場",
-			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/70695_37_190e131be1dc8f7d8b9eade13ea0e6da_1230x768_7a175c8f0c/70695_37_190e131be1dc8f7d8b9eade13ea0e6da_1230x768_7a175c8f0c.webp"
+			"title": "北京ハーフマラソンでロボットが50分26秒の世界新記録で優勝",
+			"url": "https://www.gizmodo.jp/2026/04/beijing-half-marathon-robot-win.html",
+			"note": "Honor製自走ロボが1.2万人の人間ランナーに圧勝",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/21/20260420Robots_vs_humans-1.png?w=1280"
 		},
 		{
 			"number": 8,
-			"title": "ソフトバンク「Natural AI Phone」4月24日発売、AIが複数アプリを横断して操作を代行",
-			"url": "https://www.watch.impress.co.jp/docs/series/nishida/2102811.html",
-			"note": "ユーザーの意図をAIが理解して提案する新型スマホ",
-			"image": "https://www.watch.impress.co.jp/img/ipw/list/2102/811/list.jpg"
+			"title": "100年間使い続けられる「固体型原子力電池」が発売へ",
+			"url": "https://www.gizmodo.jp/2026/04/solid-state-nuclear-battery-power-cell.html",
+			"note": "米NRD社がニッケル63燃料の超長寿命電池を発売",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/16/Photorealistic_documentary_photography_202604161622.jpeg?w=1280"
+		},
+		{
+			"number": 9,
+			"title": "SwitchBot スマートデイリーステーション レビュー：電子ペーパーお天気端末",
+			"url": "https://www.itmedia.co.jp/pcuser/articles/2604/22/news021.html",
+			"note": "「今日何着ていこう？」を解決するスマートホームデバイス",
+			"image": "https://image.itmedia.co.jp/pcuser/articles/2604/22/cover_news021.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 9,
-			"title": "城内経済財政相が靖国神社を参拝、高市内閣の閣僚で初",
-			"url": "https://news.yahoo.co.jp/articles/e022673a409f4b43eadb7c701fab5a0334cb6135",
-			"note": "春季例大祭に合わせ高市内閣初の閣僚参拝",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-08243976-nnn-000-3-view.jpg?exp=10800"
-		},
-		{
 			"number": 10,
-			"title": "「主婦年金」なぜ縮小方向？「専業主婦はもう無理な時代」制度改革の行方",
-			"url": "https://news.yahoo.co.jp/articles/3bf06034f3a68afc4e4815ece9c69206dbd4f0b7",
-			"note": "第3号被保険者制度の見直し議論が本格化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-10240654-abemav-000-4-view.jpg?exp=10800"
+			"title": "大転換 武器輸出解禁の背景と課題",
+			"url": "https://news.yahoo.co.jp/articles/6289b06a0cb75abd969a71c0463e8cf178a16eda",
+			"note": "防衛装備移転の政策転換、安全保障環境の変化が背景",
+			"image": ""
 		},
 		{
 			"number": 11,
-			"title": "陸自戦車4人死傷、砲弾破裂するまで通常通り射撃か「普通では考えられない」と隊員ら衝撃",
-			"url": "https://news.yahoo.co.jp/articles/85fe43ab54867d7be05846a1ff5a1c4da7eaebc7",
-			"note": "砲弾破裂時まで異常を検知できなかった疑い",
+			"title": "旧統一教会の精算手続き 400億円保全",
+			"url": "https://news.yahoo.co.jp/articles/ad68cd4f99fce3902fa390a758fda33bef385379",
+			"note": "解散命令後の財産保全で400億円規模の手続き進行",
 			"image": ""
 		},
 		{
 			"number": 12,
-			"title": "ペルシャ湾内船舶から邦人4人下船、中東情勢緊迫の中で安全確保",
-			"url": "https://news.yahoo.co.jp/pickup/6577184",
-			"note": "イラン情勢を受け邦人の退避を優先対応",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/2fe4fdb87d215c3186f5642124c12a376634cefae4624d92db63c0488925c11a.jpg"
+			"title": "城内成長戦略相が靖国神社を参拝",
+			"url": "https://news.yahoo.co.jp/articles/e022673a409f4b43eadb7c701fab5a0334cb6135",
+			"note": "春季例大祭に合わせ現職閣僚が参拝",
+			"image": ""
+		},
+		{
+			"number": 13,
+			"title": "小野田紀美大臣「そもそもTemuで買い物するわけないし」",
+			"url": "https://news.yahoo.co.jp/articles/b31042bf07f725a2088bc7cd97beb41597a902a7",
+			"note": "中国EC規制を巡る国会答弁で話題の発言",
+			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 13,
-			"title": "トランプ大統領「停戦延長」と投稿、イランとの協議が結論に至るまで攻撃控える",
-			"url": "https://news.web.nhk/newsweb/na/na-k10015105081000",
-			"note": "パキスタン仲介で停戦期限を延長、第2回協議へ",
-			"image": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105081_2604220554_0422055505_01_03.jpg"
-		},
-		{
 			"number": 14,
-			"title": "トランプ大統領また閣僚更迭「戦争を始めない」破り若い世代に不満、MAGA派に亀裂",
-			"url": "https://news.yahoo.co.jp/articles/6e6f258eeffc9f1cfd046c6a701f5738467375c5",
-			"note": "支持率低迷に拍車、中間選挙への影響懸念",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-90188943-ann-000-2-view.jpg?exp=10800"
+			"title": "トランプ大統領がイランとの「停戦延長」を発表、協議結論出るまで継続",
+			"url": "https://news.yahoo.co.jp/articles/6d3dafd2b8a9c4fe2276ad5e95c0ecd8af40b0dc",
+			"note": "停戦期限当日にSNSで延長表明、海上封鎖は継続",
+			"image": ""
 		},
 		{
 			"number": 15,
-			"title": "トランプ関税「違法」判決受け返還手続き開始、日本企業も対象で26兆円規模",
-			"url": "https://news.yahoo.co.jp/articles/044e6927d4a05dc540acc9ef07bee4618f7dd9d3",
-			"note": "最高裁違憲判決で企業への関税返還が始動",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-01133156-fnn-000-1-view.jpg?exp=10800"
+			"title": "米銃撃事件を巡りChatGPTが捜査対象に",
+			"url": "https://news.yahoo.co.jp/articles/f57090048730cdee6e8eaa8d4c5d285118694992",
+			"note": "AIチャットボットの利用履歴が犯罪捜査の焦点に",
+			"image": ""
 		},
 		{
 			"number": 16,
-			"title": "日本が護衛艦を派遣すると…中国は空母で対抗",
-			"url": "https://news.yahoo.co.jp/articles/f17bb9361bb8496cffd0328eb618e60b47352ca2",
-			"note": "日中間の安全保障上の緊張がさらに高まる",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000003-cnippou-000-1-view.jpg?exp=10800"
+			"title": "FRB議長候補「独立性は不可欠」",
+			"url": "https://news.yahoo.co.jp/articles/089f5edf4b68ab00b89ea937aa43dd4603ccad22",
+			"note": "次期FRB議長候補が中央銀行の独立性を強調",
+			"image": ""
 		},
 		{
 			"number": 17,
-			"title": "カンボジアで救出の中国人女性インフルエンサー、暴露放送を突然中断後SNS停止",
-			"url": "https://news.yahoo.co.jp/articles/11a4cf8d991caca59e3b4498be0ccddb01a5b27f",
-			"note": "行方不明から帰国後の暴露放送が突然途絶える",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000038-cnippou-000-10-view.jpg?exp=10800"
+			"title": "イランメディア「米企業がネットワーク機器にバックドアを使用」と主張",
+			"url": "https://gigazine.net/news/20260422-iran-network-us-backdoor/",
+			"note": "米国によるサイバー攻撃能力を巡る情報戦の一環",
+			"image": "https://i.gzn.jp/img/2026/04/22/iran-network-us-backdoor/00.jpg"
 		}
 	]
 }
