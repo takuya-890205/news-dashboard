@@ -2,149 +2,128 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "アマゾン、Anthropicに追加出資へ　AI競争さらに激化",
-			"url": "https://news.yahoo.co.jp/pickup/6577041",
-			"note": "AmazonがClaude開発元に追加投資を決定",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/61e3913395cb2d2428e1dec5b5ec4376c87a886348b4fdd9155de06bac872879.jpg"
+			"title": "OpenAI「ChatGPT Images 2.0」発表、推論搭載の画像生成で2K出力・多言語テキスト対応",
+			"url": "https://note.com/kazu_t/n/ne1c1138a0eed",
+			"note": "Thinking Mode搭載でWeb検索→画像生成が可能に",
+			"image": "https://assets.st-note.com/production/uploads/images/269361014/0ec503fdce631d8e854592ef4d2a5af6.png"
 		},
 		{
 			"number": 2,
-			"title": "米アドビ、法人向けAIエージェントツールを発表",
-			"url": "https://news.yahoo.co.jp/pickup/6577130",
-			"note": "Adobe FireflyにクリエイティブAIエージェント導入",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/64ba4d29fe9942c8fc344835ef1a97da62b36265a9a128b43efba892eac71ce9.jpg"
+			"title": "Anthropic、AWSに1000億ドル超投資を発表 AmazonもAnthropicに最大250億ドル投資",
+			"url": "https://gigazine.net/news/20260421-amazon-anthropic-invest/",
+			"note": "Amazon製AIチップTrainium確保で提携を大幅拡大",
+			"image": "https://i.gzn.jp/img/2026/04/21/amazon-anthropic-invest/00.png"
 		},
 		{
 			"number": 3,
-			"title": "iOS 27ではChatGPT以外のAIも使えるようになるっぽい",
-			"url": "https://www.gizmodo.jp/2026/04/ios-27-siri-ai-integration-gemini-campos.html",
-			"note": "SiriにGeminiなど複数AIを統合か",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/03/1.png?w=1280"
+			"title": "LINEヤフー、AIエージェント新ブランド「Agent i」始動 LINEとYahoo!のAI機能を統合",
+			"url": "https://news.yahoo.co.jp/articles/0d2a9a0e79ac44ae77b9e66e2056cf097c6cfafb",
+			"note": "買い物・旅行・天気など7領域のAIエージェントを展開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00184889-biz_plus-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "話題のレポート「AI 2027」から、分岐する未来を読み解く",
-			"url": "https://wired.jp/article/sz-two-paths-for-ai/",
-			"note": "AI発展の2つのシナリオを専門家が分析",
-			"image": ""
-		},
-		{
-			"number": 5,
-			"title": "反AI抵抗運動が世界各地で勢いを増している",
-			"url": "https://gigazine.net/gsc_news/en/20260422-anti-ai-movement/",
-			"note": "クリエイターや労働者のAI反対運動が拡大",
-			"image": ""
+			"title": "日本でもGemini in Chromeが利用可能に、YouTube要約やNano Banana 2で編集が実行可能",
+			"url": "https://gigazine.net/news/20260421-chrome-ai-japan/",
+			"note": "Chromeサイドパネルから直接AI機能を利用可能",
+			"image": "https://i.gzn.jp/img/2026/04/21/chrome-ai-japan/00.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
+			"number": 5,
+			"title": "アップル次期CEO、ジョン・ターナスとは何者？ ジョブズが牽引した「プロダクトデザインのアップル」時代復活か",
+			"url": "https://news.yahoo.co.jp/articles/2ffc84f8f872dfef7d13964af1a858e95ccabc57",
+			"note": "Apple新体制でプロダクトデザイン重視へ回帰",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000002-binsider-000-1-view.jpg?exp=10800"
+		},
+		{
 			"number": 6,
-			"title": "「OPPO Find X9 Ultra」グローバル正式発表、日本でも今夏登場",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2103466.html",
-			"note": "OPPOハイエンドスマホが日本上陸予定",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2103/466/203230.png"
+			"title": "NASAが惑星探査機「ボイジャー1号」の科学装置をまた1つ停止、大がかりな延命対策も準備中",
+			"url": "https://news.yahoo.co.jp/articles/4358b89f85c69dfd4ffe10a44fdc37dabac33a2f",
+			"note": "48年稼働の探査機、電力節約で装置を順次停止",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00010000-sorae_jp-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 7,
-			"title": "冷却性能が20%向上、着るエアコン「REON POCKET PRO Plus」",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2102945.html",
-			"note": "ソニーの着るエアコン新モデルが進化",
-			"image": ""
+			"title": "jig.jp、鯖江発のAIスマートグラス「SABERA」発表 度付き対応で先行販売初日4,500万円超",
+			"url": "https://ledge.ai/articles/sabera_ai_smartglasses_sabae_makuake_launch",
+			"note": "日常利用志向のAIグラスが鯖江から登場",
+			"image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/70695_37_190e131be1dc8f7d8b9eade13ea0e6da_1230x768_7a175c8f0c/70695_37_190e131be1dc8f7d8b9eade13ea0e6da_1230x768_7a175c8f0c.webp"
 		},
 		{
 			"number": 8,
-			"title": "100年間使い続けられる「固体型原子力電池」発売へ",
-			"url": "https://www.gizmodo.jp/2026/04/solid-state-nuclear-battery-power-cell.html",
-			"note": "超長寿命の次世代バッテリーが市場へ",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/16/Photorealistic_documentary_photography_202604161622.jpeg?w=1280"
-		},
-		{
-			"number": 9,
-			"title": "500台限定「ポメラ」新色ミッドナイト・パープルが最高のY2K感",
-			"url": "https://www.gizmodo.jp/2026/04/pomera-midnight-purple.html",
-			"note": "テキスト入力専用機の限定カラーモデル",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/17/260420_pomera.jpg?w=1280"
-		},
-		{
-			"number": 10,
-			"title": "アップル次期CEO、ジョン・ターナスとは何者？",
-			"url": "https://news.yahoo.co.jp/articles/2ffc84f8f872dfef7d13964af1a858e95ccabc57",
-			"note": "Apple後継CEOのハードウェアエンジニア経歴",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000002-binsider-000-1-view.jpg?exp=10800"
+			"title": "ソフトバンク「Natural AI Phone」4月24日発売、AIが複数アプリを横断して操作を代行",
+			"url": "https://www.watch.impress.co.jp/docs/series/nishida/2102811.html",
+			"note": "ユーザーの意図をAIが理解して提案する新型スマホ",
+			"image": "https://www.watch.impress.co.jp/img/ipw/list/2102/811/list.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 9,
+			"title": "城内経済財政相が靖国神社を参拝、高市内閣の閣僚で初",
+			"url": "https://news.yahoo.co.jp/articles/e022673a409f4b43eadb7c701fab5a0334cb6135",
+			"note": "春季例大祭に合わせ高市内閣初の閣僚参拝",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-08243976-nnn-000-3-view.jpg?exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "「主婦年金」なぜ縮小方向？「専業主婦はもう無理な時代」制度改革の行方",
+			"url": "https://news.yahoo.co.jp/articles/3bf06034f3a68afc4e4815ece9c69206dbd4f0b7",
+			"note": "第3号被保険者制度の見直し議論が本格化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-10240654-abemav-000-4-view.jpg?exp=10800"
+		},
+		{
 			"number": 11,
-			"title": "「国家情報会議」法案、成立公算大に",
-			"url": "https://news.yahoo.co.jp/pickup/6577151",
-			"note": "情報機関を統括する新組織の設立法案",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/8fe3d3aefb7b6324d636519c1ab18e893faf529f6591b21d08f1dbef0a6c9537.jpg"
-		},
-		{
-			"number": 12,
-			"title": "武器輸出めぐり国会で応酬、小泉大臣と野党が激論",
-			"url": "https://news.yahoo.co.jp/articles/f86de9ee691884b16ebd46d4772f32bd99c32040",
-			"note": "防衛装備品の輸出拡大方針に賛否",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-10240691-abemav-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 13,
-			"title": "再審見直し政府案、検察の抗告を原則禁止へ",
-			"url": "https://news.yahoo.co.jp/pickup/6577114",
-			"note": "冤罪救済の迅速化を目指す制度改革",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/e24f028ebe04b00823985b67b10ac92c2e811b2802c613390bd243d2c7426a8f.jpg"
-		},
-		{
-			"number": 14,
-			"title": "陸自戦車4人死傷、砲弾破裂するまで通常通り射撃か",
+			"title": "陸自戦車4人死傷、砲弾破裂するまで通常通り射撃か「普通では考えられない」と隊員ら衝撃",
 			"url": "https://news.yahoo.co.jp/articles/85fe43ab54867d7be05846a1ff5a1c4da7eaebc7",
-			"note": "訓練中の事故で安全管理に疑問の声",
+			"note": "砲弾破裂時まで異常を検知できなかった疑い",
 			"image": ""
 		},
 		{
-			"number": 15,
-			"title": "中国IT機器、自治体で事実上排除へ",
-			"url": "https://news.yahoo.co.jp/pickup/6576996",
-			"note": "安全保障上の懸念から調達制限強化",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/8acc706cbdf1b58a8d8d346cbf58fa5b48b65b1e3e2edc48be2d0f54e40fed3a.jpg"
+			"number": 12,
+			"title": "ペルシャ湾内船舶から邦人4人下船、中東情勢緊迫の中で安全確保",
+			"url": "https://news.yahoo.co.jp/pickup/6577184",
+			"note": "イラン情勢を受け邦人の退避を優先対応",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/2fe4fdb87d215c3186f5642124c12a376634cefae4624d92db63c0488925c11a.jpg"
 		}
 	],
 	"国際情勢": [
 		{
+			"number": 13,
+			"title": "トランプ大統領「停戦延長」と投稿、イランとの協議が結論に至るまで攻撃控える",
+			"url": "https://news.web.nhk/newsweb/na/na-k10015105081000",
+			"note": "パキスタン仲介で停戦期限を延長、第2回協議へ",
+			"image": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105081_2604220554_0422055505_01_03.jpg"
+		},
+		{
+			"number": 14,
+			"title": "トランプ大統領また閣僚更迭「戦争を始めない」破り若い世代に不満、MAGA派に亀裂",
+			"url": "https://news.yahoo.co.jp/articles/6e6f258eeffc9f1cfd046c6a701f5738467375c5",
+			"note": "支持率低迷に拍車、中間選挙への影響懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-90188943-ann-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "トランプ関税「違法」判決受け返還手続き開始、日本企業も対象で26兆円規模",
+			"url": "https://news.yahoo.co.jp/articles/044e6927d4a05dc540acc9ef07bee4618f7dd9d3",
+			"note": "最高裁違憲判決で企業への関税返還が始動",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-01133156-fnn-000-1-view.jpg?exp=10800"
+		},
+		{
 			"number": 16,
-			"title": "トランプ大統領、イランとの「停戦延長」を表明",
-			"url": "https://news.yahoo.co.jp/articles/6d3dafd2b8a9c4fe2276ad5e95c0ecd8af40b0dc",
-			"note": "2〜3週間での合意形成を目指す",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000022-reut-000-2-view.jpg?exp=10800"
+			"title": "日本が護衛艦を派遣すると…中国は空母で対抗",
+			"url": "https://news.yahoo.co.jp/articles/f17bb9361bb8496cffd0328eb618e60b47352ca2",
+			"note": "日中間の安全保障上の緊張がさらに高まる",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000003-cnippou-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 17,
-			"title": "台湾総統、中国の圧力で外遊中止に追い込まれる",
-			"url": "https://news.yahoo.co.jp/articles/9b9098a9b6a54fc7345cc5aa50eaae398787d51a",
-			"note": "中国が経由国に圧力、台湾の孤立深まる",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000223-kyodonews-000-13-view.jpg?exp=10800"
-		},
-		{
-			"number": 18,
-			"title": "FRB議長候補「中央銀行の独立性は不可欠」と強調",
-			"url": "https://news.yahoo.co.jp/articles/089f5edf4b68ab00b89ea937aa43dd4603ccad22",
-			"note": "トランプの利下げ圧力に一線を画す姿勢",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-07299633-jnn-000-3-view.jpg?exp=10800"
-		},
-		{
-			"number": 19,
-			"title": "メキシコ世界遺産で男が銃撃、観光地の治安に懸念",
-			"url": "https://news.yahoo.co.jp/articles/07cc9b47f57eb2c599ea7d1a9a93e40cec8e1986",
-			"note": "世界遺産の観光地で発砲事件が発生",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-07299405-jnn-000-3-view.jpg?exp=10800"
-		},
-		{
-			"number": 20,
-			"title": "BTS所属HYBE創業者の逮捕状を請求",
-			"url": "https://news.yahoo.co.jp/articles/9f1dedd9df2f314fe2abccf7be05695bc8d44524",
-			"note": "韓国検察がHYBE創業者に司法の手",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00520322-yonh-000-2-view.jpg?exp=10800"
+			"title": "カンボジアで救出の中国人女性インフルエンサー、暴露放送を突然中断後SNS停止",
+			"url": "https://news.yahoo.co.jp/articles/11a4cf8d991caca59e3b4498be0ccddb01a5b27f",
+			"note": "行方不明から帰国後の暴露放送が突然途絶える",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000038-cnippou-000-10-view.jpg?exp=10800"
 		}
 	]
 }
