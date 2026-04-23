@@ -2,114 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "AI駆動開発を実践して体感、弥生CTOが語った\"エンジニアの仕事\"が激変する「4変化」",
-			"url": "https://news.yahoo.co.jp/articles/de99fe83a20a0b1eb823a50bc561b836da18eee2",
-			"note": "AI開発で業務に「残る・増える・減る・新しい」の4変化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00184417-biz_plus-000-1-view.jpg?exp=10800"
+			"title": "Google 新型AIチップ2種類を発表",
+			"url": "https://news.yahoo.co.jp/pickup/6577292",
+			"note": "Google Cloud Next'26で新TPU発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/ff07fc74fbfb79c642937ed023d105e3d857aeef9bcc900203fe40ea5443cd5a.jpg"
 		},
 		{
 			"number": 2,
-			"title": "Google Cloud、第8世代TPU「TPU 8t」「TPU 8i」を発表――AI訓練・推論を大幅高速化",
-			"url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-			"note": "Cloud Next 2026で推論性能80%/ドル向上の新チップ",
-			"image": ""
+			"title": "AI投資5年で1兆円要請 自民提言案",
+			"url": "https://news.yahoo.co.jp/pickup/6577261",
+			"note": "自民党がAI戦略への大規模投資を政府に提言",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/ca78aebbdc13035b7d4b3ea8e5dc624c57c025d23e38cacde7eeb2d29e1523e5.jpg"
 		},
 		{
 			"number": 3,
-			"title": "Google Cloud Next 2026: Vertex AIを「Gemini Enterprise Agent Platform」にリブランド、全コードの75%がAI生成に",
-			"url": "https://thenextweb.com/news/google-cloud-next-ai-agents-agentic-era",
-			"note": "エージェント基盤を統合、AI生成コード比率が過去最高",
-			"image": ""
+			"title": "AIロボ 卓球で全国大会選手に勝つ",
+			"url": "https://news.yahoo.co.jp/pickup/6577280",
+			"note": "AI搭載ロボットが人間の全国大会選手に勝利",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/90abe45f80a0781099d2a654686bb142986e95b4fdd42f0c2f36f948fb844763.jpg"
 		},
 		{
 			"number": 4,
-			"title": "LINEヤフー、AIエージェント新ブランド「Agent i」を始動――1億人のユーザーに統合AI体験",
-			"url": "https://news.yahoo.co.jp/articles/0d2a9a0e79ac44ae77b9e66e2056cf097c6cfafb",
-			"note": "LINE AIとYahoo!アシスタントを統合、7領域で展開",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00184889-biz_plus-000-3-view.jpg?exp=10800"
+			"title": "AIが「読める」商品データを持つ企業が生き残る――ウォルマートの改革",
+			"url": "https://www.itmedia.co.jp/business/articles/2604/23/news009.html",
+			"note": "ウォルマートのAI活用データ戦略の成功条件",
+			"image": "https://image.itmedia.co.jp/business/articles/2604/23/cover_news009.jpg"
+		},
+		{
+			"number": 5,
+			"title": "米アドビ 法人向けAIツール発表",
+			"url": "https://news.yahoo.co.jp/pickup/6577130",
+			"note": "Adobe Summit 2026で企業向けAI新機能を発表",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/64ba4d29fe9942c8fc344835ef1a97da62b36265a9a128b43efba892eac71ce9.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "空冷ファン付きゲーミングスマホ「nubia Neo 5 GT」本日発売――52,800円",
-			"url": "https://news.yahoo.co.jp/articles/a3d1423051c091b806168a8471e96d46f2266019",
-			"note": "空冷ファン・144Hz有機EL搭載のミドルレンジ機",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260421-00000025-ascii-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 6,
-			"title": "Samsung Galaxy A57 5G、ドコモ・ソフトバンクから本日発売――6.7型・5000mAh",
-			"url": "https://news.samsung.com/jp/galaxy-a57-launch",
-			"note": "6世代OSアップデート対応のミドルレンジ5Gスマホ",
-			"image": ""
+			"title": "ダイソーの1100円「シースルーイヤフォン」に一目ぼれ",
+			"url": "https://news.yahoo.co.jp/articles/5fc26e7aa09deef27c553398ce9f8a42ca1381fa",
+			"note": "ダイソーから驚異のコスパ骨伝導イヤフォン登場",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000030-zdn_m-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 7,
-			"title": "ソフトバンク、AIスマホ「Natural AI Phone」を明日4/24発売――AIがアプリを自律操作",
-			"url": "https://news.yahoo.co.jp/articles/9d1e6fa38ee63ec8acb872f8bbe82026f6c030a5",
-			"note": "AIカーネル組込みでアプリ横断操作、1年独占販売",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260418-00000021-zdn_m-000-1-view.jpg?exp=10800"
-		}
-	],
-	"政治（日本）": [
+			"title": "アップルが「iOS 26.4.2」公開、バグ修正とセキュリティ更新",
+			"url": "https://news.yahoo.co.jp/articles/3bc765606607a5e79eb0b41fb5b03f21d942fce3",
+			"note": "iPhoneのバグ修正とセキュリティパッチ配信",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-35246772-cnetj-000-1-view.jpg?exp=10800"
+		},
 		{
 			"number": 8,
-			"title": "「国家情報局」設置法案、きょう衆院本会議で可決へ――今国会での成立見通し",
-			"url": "https://www.nikkei.com/article/DGXZQOUA224Y10S6A420C2000000/",
-			"note": "内調を格上げし情報収集・分析の司令塔に",
+			"title": "ZTEのゲーミングスマホ「nubia Neo 5 GT」日本で23日発売、5.3万円",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2103277.html",
+			"note": "6.8型ディスプレイ搭載ミドルレンジゲーミングスマホ",
 			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "社民・福島氏、辺野古転覆「埋め立てが悪い」発言の幹事長と「まだ話してない」…3週間",
-			"url": "https://news.yahoo.co.jp/articles/ee73ace86a9d9c4e23a7275277c9152cbb526ca7",
-			"note": "辺野古めぐる発言で党内対立が表面化",
-			"image": ""
-		},
+			"title": "auのStarlink直接通信、海外ローミングを4カ国に拡大",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2103965.html",
+			"note": "カナダ・フィリピンなどでStarlink衛星通信が利用可能に",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2103/965/042601.jpg"
+		}
+	],
+	"政治（日本）": [
 		{
 			"number": 10,
-			"title": "トランプ関税還付、米政府が手続き開始――総額26兆円で33万社が対象",
-			"url": "https://www.nikkei.com/article/DGXZQOGN20BAX0Q6A420C2000000/",
-			"note": "最高裁の関税無効判断を受け還付申請受付を開始",
-			"image": ""
+			"title": "石破前首相、高市政権に提言「日米同盟に頼るのはそんなに素晴らしいこと？」",
+			"url": "https://news.yahoo.co.jp/articles/261895cd9277c183309a213dcd64ac7dc37d2cf8",
+			"note": "石破氏が日米同盟依存に疑問を呈する提言",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-11734661-yorozuns-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "辺野古転覆の抗議団体、過去に事故や法令違反10件以上　海保が捜査",
+			"url": "https://news.yahoo.co.jp/articles/89de8385832464106612ca8b82472540b55ff517",
+			"note": "辺野古基地移設反対運動の抗議船を海保が捜査",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000048-san-000-9-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "子のSNS年齢確認厳格化 政府検討",
+			"url": "https://news.yahoo.co.jp/pickup/6577289",
+			"note": "未成年のSNS利用に年齢認証の厳格化を検討",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/de7bbd7dc07fdf996e2f5377c4cfd26c6ca38053caaef14ce0b650965707c11c.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
-			"title": "処刑中止でイランに謝意 トランプ氏、女性8人の釈放を主張",
-			"url": "https://news.yahoo.co.jp/articles/148f058bbd37d1b3d7dced9e18134710f6e6fa50",
-			"note": "女性抗議者の処刑中止をSNSで主張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000013-kyodonews-000-5-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "退役軍人がイラン戦争への抗議デモを行い逮捕――連行の様子に非難殺到",
-			"url": "https://news.yahoo.co.jp/articles/34c4e638e99830302bbcb3b576bab1dcdb9d49a4",
-			"note": "車椅子の退役軍人含む約66人が議事堂で逮捕",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-10055640-bfj-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 13,
-			"title": "イラン攻撃でトランプが見誤る支持層の認識、もはや世論は追随できない",
-			"url": "https://news.yahoo.co.jp/articles/b3f9b1542ce4965cecfd200e2d2561637a502f4b",
-			"note": "保守層の「不介入」原則との矛盾が深刻化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00140523-wedge-000-1-view.jpg?exp=10800"
+			"title": "イラン弾道ミサイル半数残存 報道",
+			"url": "https://news.yahoo.co.jp/pickup/6577310",
+			"note": "米軍攻撃後もイランのミサイル戦力が半数残存",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/c0936b80eb524172081ec4aa6df2305e88a281ee1f081fab8e68628075292d4a.jpg"
 		},
 		{
 			"number": 14,
-			"title": "イラン戦争で一層深まる「米国の孤立」――巨額国防費要求で米国債が金融危機の震源地に",
-			"url": "https://news.yahoo.co.jp/articles/f0050ccf7c773e59cc7c0a8424d6edb7f8ead056",
-			"note": "イラン攻撃の財政負担と外交的孤立を分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-01445334-shincho-000-1-view.jpg?exp=10800"
+			"title": "米「悪いNATO同盟国」を選別か",
+			"url": "https://news.yahoo.co.jp/pickup/6577308",
+			"note": "トランプ政権がNATO同盟国を格付け・選別する方針",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/dcdcf3354eee1d4033a42e31f282a9646a4932c45b09ae7df6f6834991799ec3.jpg"
 		},
 		{
 			"number": 15,
-			"title": "米政権、大麻の規制を緩和方針か――鎮痛剤と同じ低リスク分類へ",
-			"url": "https://news.yahoo.co.jp/articles/236368551354be9f3a134d324ce53ea2ea031f7a",
-			"note": "ヘロイン同分類から鎮痛剤分類へ変更検討",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000033-kyodonews-000-3-view.jpg?exp=10800"
+			"title": "トランプ氏「私の要請を聞いて死刑中止」…イラン「またフェイクニュースに惑わされた」",
+			"url": "https://news.yahoo.co.jp/articles/4ea9b06b6be83ac0dbfe2b4a9244f9c8db6e0798",
+			"note": "米イラン間の情報戦が激化、死刑問題で応酬",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000018-cnippou-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 16,
+			"title": "靖国神社で「独島はわが領土」の幕…韓国在住の男、日本の警察に逮捕",
+			"url": "https://news.yahoo.co.jp/articles/0483c932c55435e2575445ff355450f00d3bb1e4",
+			"note": "韓国人男性が靖国神社で抗議行動し逮捕",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000007-cnippou-000-10-view.jpg?exp=10800"
 		}
 	]
 }
