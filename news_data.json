@@ -2,121 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Google 新型AIチップ2種類を発表",
-			"url": "https://news.yahoo.co.jp/pickup/6577292",
-			"note": "Google Cloud Next'26で新TPU発表",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/ff07fc74fbfb79c642937ed023d105e3d857aeef9bcc900203fe40ea5443cd5a.jpg"
+			"title": "Google、AI処理チップ第8世代TPU「8t」「8i」を発表",
+			"url": "https://gigazine.net/news/20260423-google-tpu-8t-8i/",
+			"note": "学習特化と推論特化の2種、ワットあたり性能2倍に",
+			"image": "https://i.gzn.jp/img/2026/04/23/google-tpu-8t-8i/00.jpg"
 		},
 		{
 			"number": 2,
-			"title": "AI投資5年で1兆円要請 自民提言案",
-			"url": "https://news.yahoo.co.jp/pickup/6577261",
-			"note": "自民党がAI戦略への大規模投資を政府に提言",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/ca78aebbdc13035b7d4b3ea8e5dc624c57c025d23e38cacde7eeb2d29e1523e5.jpg"
+			"title": "Microsoft、AIキャラクターでイルカ「カイル」を復活",
+			"url": "https://news.yahoo.co.jp/pickup/6577342",
+			"note": "Officeの旧アシスタントがAIで再登場",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/fac066fd50e0265e5f640d62efef9be235f49e07e16088b1ba1e0ca55690e441.png"
 		},
 		{
 			"number": 3,
-			"title": "AIロボ 卓球で全国大会選手に勝つ",
-			"url": "https://news.yahoo.co.jp/pickup/6577280",
-			"note": "AI搭載ロボットが人間の全国大会選手に勝利",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/90abe45f80a0781099d2a654686bb142986e95b4fdd42f0c2f36f948fb844763.jpg"
+			"title": "自民、AI投資5年で1兆円要請の提言案",
+			"url": "https://news.yahoo.co.jp/pickup/6577261",
+			"note": "政府にAIインフラ整備の大規模投資を求める",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/ca78aebbdc13035b7d4b3ea8e5dc624c57c025d23e38cacde7eeb2d29e1523e5.jpg"
 		},
 		{
 			"number": 4,
-			"title": "AIが「読める」商品データを持つ企業が生き残る――ウォルマートの改革",
-			"url": "https://www.itmedia.co.jp/business/articles/2604/23/news009.html",
-			"note": "ウォルマートのAI活用データ戦略の成功条件",
-			"image": "https://image.itmedia.co.jp/business/articles/2604/23/cover_news009.jpg"
-		},
-		{
-			"number": 5,
-			"title": "米アドビ 法人向けAIツール発表",
-			"url": "https://news.yahoo.co.jp/pickup/6577130",
-			"note": "Adobe Summit 2026で企業向けAI新機能を発表",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/21/64ba4d29fe9942c8fc344835ef1a97da62b36265a9a128b43efba892eac71ce9.jpg"
+			"title": "ソニーAI卓球ロボット「Ace」がプロ選手に勝利",
+			"url": "https://gigazine.net/news/20260423-sony-ai-table-tennis-ace/",
+			"note": "公式ルール戦でプロに勝つAIロボットシステム",
+			"image": "https://i.gzn.jp/img/2026/04/23/sony-ai-table-tennis-ace/00.png"
 		}
 	],
 	"デジタルガジェット": [
 		{
+			"number": 5,
+			"title": "漆黒の14インチPC「VAIO SX14-R ALL BLACK EDITION」外観レビュー",
+			"url": "https://gigazine.net/news/20260423-vaio-sx14-r-black-edition-appearance/",
+			"note": "Intel Core Ultra Series 3搭載の漆黒ノートPC",
+			"image": "https://i.gzn.jp/img/2026/04/23/vaio-sx14-r-black-edition-appearance/00.png"
+		},
+		{
 			"number": 6,
-			"title": "ダイソーの1100円「シースルーイヤフォン」に一目ぼれ",
-			"url": "https://news.yahoo.co.jp/articles/5fc26e7aa09deef27c553398ce9f8a42ca1381fa",
-			"note": "ダイソーから驚異のコスパ骨伝導イヤフォン登場",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000030-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "TSMCが2029年までのプロセス技術ロードマップを公開",
+			"url": "https://gigazine.net/news/20260423-tsmc-roadmap-a13/",
+			"note": "A12・A13・N2U発表、A16は2027年に延期",
+			"image": "https://i.gzn.jp/img/2026/04/23/tsmc-roadmap-a13/00_m.jpg"
 		},
 		{
 			"number": 7,
-			"title": "アップルが「iOS 26.4.2」公開、バグ修正とセキュリティ更新",
-			"url": "https://news.yahoo.co.jp/articles/3bc765606607a5e79eb0b41fb5b03f21d942fce3",
-			"note": "iPhoneのバグ修正とセキュリティパッチ配信",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-35246772-cnetj-000-1-view.jpg?exp=10800"
+			"title": "Thunderbird 150が登場、PDF編集が可能に",
+			"url": "https://gigazine.net/news/20260423-thunderbird-150/",
+			"note": "PDF編集機能追加とUIカスタマイズが可能に",
+			"image": "https://i.gzn.jp/img/2026/04/23/thunderbird-150/00.png"
 		},
 		{
 			"number": 8,
-			"title": "ZTEのゲーミングスマホ「nubia Neo 5 GT」日本で23日発売、5.3万円",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2103277.html",
-			"note": "6.8型ディスプレイ搭載ミドルレンジゲーミングスマホ",
-			"image": ""
-		},
-		{
-			"number": 9,
-			"title": "auのStarlink直接通信、海外ローミングを4カ国に拡大",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2103965.html",
-			"note": "カナダ・フィリピンなどでStarlink衛星通信が利用可能に",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2103/965/042601.jpg"
+			"title": "Blueskyの画像サイズ制限が4000×4000ピクセルに引き上げ",
+			"url": "https://gigazine.net/news/20260423-bluesky-4000-resolution-limit/",
+			"note": "v1.121で解像度上限拡大、ファイルサイズ2MBに",
+			"image": "https://i.gzn.jp/img/2026/04/23/bluesky-4000-resolution-limit/00.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 9,
+			"title": "「国家情報会議」設置法案、衆院を通過",
+			"url": "https://news.yahoo.co.jp/pickup/6577327",
+			"note": "情報機関の司令塔を新設する法案が衆院可決",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/3c78d39b65ca89635d2fd7ac97d9c0b225ad9ba8643aec3c30687c59a3c8a480.jpg"
+		},
+		{
 			"number": 10,
-			"title": "石破前首相、高市政権に提言「日米同盟に頼るのはそんなに素晴らしいこと？」",
-			"url": "https://news.yahoo.co.jp/articles/261895cd9277c183309a213dcd64ac7dc37d2cf8",
-			"note": "石破氏が日米同盟依存に疑問を呈する提言",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-11734661-yorozuns-000-1-view.jpg?exp=10800"
+			"title": "大型連休、首相と閣僚10人が外遊へ",
+			"url": "https://news.yahoo.co.jp/pickup/6577352",
+			"note": "GW中に首相含む閣僚多数が海外訪問予定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/fb7a886b1425bd708e46b76803c2459fda5d01f84a7b904f347bfd19da95fba4.jpg"
 		},
 		{
 			"number": 11,
-			"title": "辺野古転覆の抗議団体、過去に事故や法令違反10件以上　海保が捜査",
-			"url": "https://news.yahoo.co.jp/articles/89de8385832464106612ca8b82472540b55ff517",
-			"note": "辺野古基地移設反対運動の抗議船を海保が捜査",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000048-san-000-9-view.jpg?exp=10800"
+			"title": "子どものSNS年齢確認厳格化、政府が検討",
+			"url": "https://news.yahoo.co.jp/pickup/6577289",
+			"note": "未成年のSNS利用に本人確認を義務化へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/de7bbd7dc07fdf996e2f5377c4cfd26c6ca38053caaef14ce0b650965707c11c.jpg"
 		},
 		{
 			"number": 12,
-			"title": "子のSNS年齢確認厳格化 政府検討",
-			"url": "https://news.yahoo.co.jp/pickup/6577289",
-			"note": "未成年のSNS利用に年齢認証の厳格化を検討",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/de7bbd7dc07fdf996e2f5377c4cfd26c6ca38053caaef14ce0b650965707c11c.jpg"
+			"title": "旧統一教会の宗教2世、連絡会を設立",
+			"url": "https://news.yahoo.co.jp/pickup/6577353",
+			"note": "被害を受けた宗教2世が横断的組織を結成",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/c3016841e459873350658bf70f82bfde9620c5b4f506b724fad49d2fff3c8bf8.jpg"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 13,
-			"title": "イラン弾道ミサイル半数残存 報道",
+			"title": "イラン弾道ミサイル半数残存と報道",
 			"url": "https://news.yahoo.co.jp/pickup/6577310",
-			"note": "米軍攻撃後もイランのミサイル戦力が半数残存",
+			"note": "米攻撃後もイランのミサイル戦力が残存か",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/c0936b80eb524172081ec4aa6df2305e88a281ee1f081fab8e68628075292d4a.jpg"
 		},
 		{
 			"number": 14,
-			"title": "米「悪いNATO同盟国」を選別か",
-			"url": "https://news.yahoo.co.jp/pickup/6577308",
-			"note": "トランプ政権がNATO同盟国を格付け・選別する方針",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/dcdcf3354eee1d4033a42e31f282a9646a4932c45b09ae7df6f6834991799ec3.jpg"
+			"title": "イラン側、ホルムズ海峡で船舶2隻をだ捕",
+			"url": "https://news.yahoo.co.jp/pickup/6577288",
+			"note": "海峡封鎖の緊張が継続、船舶拿捕で情勢悪化",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/f981a6b8c724f340d1bb81797b19edeabb798c969b2c61c45a2a52371d5edeba.jpg"
 		},
 		{
 			"number": 15,
-			"title": "トランプ氏「私の要請を聞いて死刑中止」…イラン「またフェイクニュースに惑わされた」",
-			"url": "https://news.yahoo.co.jp/articles/4ea9b06b6be83ac0dbfe2b4a9244f9c8db6e0798",
-			"note": "米イラン間の情報戦が激化、死刑問題で応酬",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000018-cnippou-000-1-view.jpg?exp=10800"
+			"title": "停戦延長、トランプ氏の発言が裏目に",
+			"url": "https://news.yahoo.co.jp/pickup/6577316",
+			"note": "無期限延長表明も交渉は難航続く",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/iizukamakiko/02608067/title-1776876091478.jpeg?exp=10800"
 		},
 		{
 			"number": 16,
-			"title": "靖国神社で「独島はわが領土」の幕…韓国在住の男、日本の警察に逮捕",
-			"url": "https://news.yahoo.co.jp/articles/0483c932c55435e2575445ff355450f00d3bb1e4",
-			"note": "韓国人男性が靖国神社で抗議行動し逮捕",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000007-cnippou-000-10-view.jpg?exp=10800"
+			"title": "2009年以降生まれは禁煙、英国で法案成立へ",
+			"url": "https://news.yahoo.co.jp/pickup/6577339",
+			"note": "世代別の段階的タバコ禁止法案が可決見込み",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/9390a1855b69260de160b517321d280566d3e73b367cdb4d2a71fb929886c277.jpg"
 		}
 	]
 }
