@@ -2,113 +2,106 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Google、新型AIチップ「TPU 8t」「TPU 8i」の2種類を発表",
+			"title": "Google、新型AIチップ「TPU 8t」「TPU 8i」を発表",
 			"url": "https://news.yahoo.co.jp/articles/354b55c3f4699e5489045beb4dd6081edf1d5f16",
-			"note": "学習用と推論用の2種、データ処理速度と電力効率が大幅向上",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-22618865-digbloom-000-1-view.jpg?exp=10800"
+			"note": "学習用と推論用の2種、処理速度と電力効率が大幅向上",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/ff07fc74fbfb79c642937ed023d105e3d857aeef9bcc900203fe40ea5443cd5a.jpg"
 		},
 		{
 			"number": 2,
-			"title": "Microsoft、Copilot Keyboard正式版リリース AIイルカ復活",
+			"title": "マイクロソフト「Copilot Keyboard」正式版リリース、AIイルカ復活",
 			"url": "https://news.yahoo.co.jp/articles/6c42e159dcd9702a36152f435635637f651e71ae",
-			"note": "AI日本語入力システム正式版、キャラクター着せ替え対応",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000008-ascii-000-1-view.png?fmt=jpeg&q=85&exp=10800"
+			"note": "AI日本語入力ソフト正式版、キャラ着せ替えも対応",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/fac066fd50e0265e5f640d62efef9be235f49e07e16088b1ba1e0ca55690e441.png"
 		},
 		{
 			"number": 3,
-			"title": "自民党、AI投資5年で1兆円規模の提言案を取りまとめ",
-			"url": "https://news.yahoo.co.jp/articles/5800db40ba92988705b1cff82edfb3eec682e70c",
-			"note": "AI基本計画に向け研究人材3千人育成も目標に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000206-kyodonews-000-5-view.jpg?exp=10800"
-		},
-		{
-			"number": 4,
-			"title": "ソニーAI卓球ロボット「Ace」、全国大会レベルの選手に勝利",
+			"title": "ソニーAI卓球ロボ、全国大会選手に勝利",
 			"url": "https://news.yahoo.co.jp/articles/7182d63e4c00a5fadf35bffced64b9b5f7fa37b9",
-			"note": "12台のカメラと深層強化学習でスピン対応も実現",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000001-asahi-000-2-view.jpg?exp=10800"
+			"note": "深層強化学習でスピン対応も実現",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/90abe45f80a0781099d2a654686bb142986e95b4fdd42f0c2f36f948fb844763.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
+			"number": 4,
 			"title": "ソフトバンク「Natural AI Phone」本日発売、月額1円から",
 			"url": "https://k-tai.watch.impress.co.jp/docs/news/2102414.html",
 			"note": "AIがアプリ横断操作を提案、1年間国内独占販売",
 			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2102/414/IMG_20260417_100931.jpg"
 		},
 		{
-			"number": 6,
-			"title": "KDDI、衛星通信「au Starlink Direct」で圏外からの緊急通報対応",
+			"number": 5,
+			"title": "KDDI、衛星通信で圏外からの緊急通報に対応",
 			"url": "https://news.yahoo.co.jp/articles/6c47e51087badb5f520e7bd03abdfc969fe89e4d",
-			"note": "5月下旬にSOS受信センター開設、24時間体制",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000038-zdn_m-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "Apple次期CEO、ジョン・ターナス氏が9月1日就任決定",
-			"url": "https://news.yahoo.co.jp/articles/2ffc84f8f872dfef7d13964af1a858e95ccabc57",
-			"note": "ハードウェア部門トップがクックCEOの後任に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-00000002-binsider-000-1-view.jpg?exp=10800"
+			"note": "衛星経由で圏外からの緊急通報が可能に",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/a1e83497e6ae7c4773b9d74bb91b357c6f183c9c1f6da1f8c664c1112bbe60ae.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 6,
+			"title": "軍民両用品の試験導入へ、政府が新方針",
+			"url": "https://news.yahoo.co.jp/articles/dd54d8ee1a6bf180a2b944ed2a44ada1fc68d13b",
+			"note": "軍民両用技術の試験導入枠組みを創設",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/24/f096093affa5eefcd8094d391dadd6b30a1739f7e25d0f8b62c9e79356314b3f.jpg"
+		},
+		{
+			"number": 7,
+			"title": "大型連休、首相と閣僚10人が21カ国へ外遊",
+			"url": "https://news.yahoo.co.jp/articles/b207f271a49a709f19caf2b5f80d160ce8ae3245",
+			"note": "首相はベトナム・オーストラリア訪問予定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/fb7a886b1425bd708e46b76803c2459fda5d01f84a7b904f347bfd19da95fba4.jpg"
+		},
+		{
 			"number": 8,
-			"title": "「国家情報会議」設置法案、衆院を通過",
-			"url": "https://news.yahoo.co.jp/articles/e25660aff9dd587b83fb82c922a6d3f16df6f311",
-			"note": "首相を議長にインテリジェンス機能を強化する新組織",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00010015-annd-000-4-thumb.jpg?exp=10800"
+			"title": "旧統一教会の宗教2世、「清算連絡会」を設立",
+			"url": "https://news.yahoo.co.jp/articles/948ab8ba0ff2ede4e03bf10bf9d15f5d5ed1e2ab",
+			"note": "解散命令を受け情報共有組織を結成",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/c3016841e459873350658bf70f82bfde9620c5b4f506b724fad49d2fff3c8bf8.jpg"
 		},
 		{
 			"number": 9,
-			"title": "大型連休、高市首相と閣僚10人が21カ国へ外遊",
-			"url": "https://news.yahoo.co.jp/articles/b207f271a49a709f19caf2b5f80d160ce8ae3245",
-			"note": "首相はベトナム・オーストラリア訪問予定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00000185-kyodonews-000-6-view.jpg?exp=10800"
-		},
-		{
-			"number": 10,
-			"title": "子どものSNS年齢確認厳格化、政府が法制化を検討",
+			"title": "政府、子どものSNS年齢確認を厳格化へ",
 			"url": "https://news.yahoo.co.jp/articles/79149c8746cc09f32aeca8c265b76e315d59ef50",
-			"note": "動画依存や闇バイト対策で事業者に法的責任を要求",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260422-07299846-jnn-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 11,
-			"title": "旧統一教会の宗教2世、「清算連絡会」を設立",
-			"url": "https://news.yahoo.co.jp/articles/948ab8ba0ff2ede4e03bf10bf9d15f5d5ed1e2ab",
-			"note": "解散命令を受け当事者間の情報共有組織を結成",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00083318-mbsnews-000-6-thumb.jpg?exp=10800"
+			"note": "SNS事業者に年齢確認義務化を検討",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/de7bbd7dc07fdf996e2f5377c4cfd26c6ca38053caaef14ce0b650965707c11c.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 12,
-			"title": "トランプ米大統領、レバノン停戦を3週間延長",
-			"url": "https://news.yahoo.co.jp/pickup/6577381",
-			"note": "中東情勢安定化に向け停戦期間を再延長",
+			"number": 10,
+			"title": "米富豪エプスタイン資料巡り、司法省が内部調査",
+			"url": "https://news.yahoo.co.jp/articles/2436a4e21a23020d7978865d353a292ec61f2a6b",
+			"note": "エプスタイン関連資料の対応を内部調査",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/24/59c8317837e4d30ec0f009d15aa3d0ffcf751c98ec66defbfa6b2db8e208897f.jpg"
+		},
+		{
+			"number": 11,
+			"title": "トランプ大統領、レバノン停戦を3週間延長",
+			"url": "https://news.yahoo.co.jp/articles/3076bfe9ea67781e0a177532743d8de381cf8593",
+			"note": "中東情勢安定化へ停戦期間を再延長",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/24/1fcdea243fcab9876401a0fcbcd7bf33a93092bac199e7f5d587ae19b18cac4b.jpg"
 		},
 		{
-			"number": 13,
-			"title": "トランプ氏、イラン機雷敷設船の撃沈を命令",
-			"url": "https://news.yahoo.co.jp/pickup/6577375",
+			"number": 12,
+			"title": "トランプ氏、ホルムズ海峡の機雷敷設船撃沈を命令",
+			"url": "https://news.yahoo.co.jp/articles/167f871de664a5899245c8c0b8bf2573bc1103c8",
 			"note": "ホルムズ海峡の緊張がさらに高まる",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/27d108e2b1db18465d350630666987573775baa8d0b6f0fa61b20966fa9656fe.jpg"
 		},
 		{
-			"number": 14,
+			"number": 13,
 			"title": "ICC、フィリピンのドゥテルテ前大統領を起訴",
-			"url": "https://news.yahoo.co.jp/pickup/6577364",
-			"note": "「麻薬戦争」での人道犯罪容疑で国際起訴",
+			"url": "https://news.yahoo.co.jp/articles/b2c9c8c3a287daf46d89a0edcecb43bed8d52dd8",
+			"note": "「麻薬戦争」での人道犯罪容疑",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/e2265ee2726e76fc9dbe68af2a4f476040f9b580d99a824ad84d4f47f5fdbf9b.jpg"
 		},
 		{
-			"number": 15,
+			"number": 14,
 			"title": "2009年以降生まれは禁煙、英国で法案成立へ",
-			"url": "https://news.yahoo.co.jp/pickup/6577339",
-			"note": "世代別の段階的タバコ禁止法が可決見込み",
+			"url": "https://news.yahoo.co.jp/articles/3676335f2fc0ef9b3cad74488ce45b059786ae50",
+			"note": "世代別タバコ禁止法が可決見込み",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/9390a1855b69260de160b517321d280566d3e73b367cdb4d2a71fb929886c277.jpg"
 		}
 	]
