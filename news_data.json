@@ -2,93 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "ClaudeでBlenderやPhotoshopを直接制御 Anthropicがクリエイティブ向け新コネクタ8件公開",
+			"title": "Claude、Blender、Photoshop と連携――Anthropic、クリエイティブ向けコネクタ8個をリリース",
 			"url": "https://www.itmedia.co.jp/aiplus/articles/2604/29/news027.html",
 			"note": "Claude経由でPhotoshopやBlenderを操作可能に",
 			"image": "https://image.itmedia.co.jp/aiplus/articles/2604/29/cover_news027.jpg"
 		},
 		{
 			"number": 2,
-			"title": "「生成型AI」から「実行型AI」へ Google次世代AIプラットフォーム「Gemini Enterprise Agent Platform」とは",
+			"title": "「単なる生成AI」から「実務を担当するAI」へ──Google の生成AI基盤「Gemini Enterprise Agent Platform」とは",
 			"url": "https://techtarget.itmedia.co.jp/tt/news/2604/29/news03.html",
-			"note": "複数AIエージェント統合の企業向け基盤を発表",
+			"note": "Googleが企業向けAIエージェント基盤を発表",
 			"image": "https://image.itmedia.co.jp/tt/news/2604/29/cover_news03.jpg"
 		},
 		{
 			"number": 3,
-			"title": "AI・半導体の「先端」研究人材を産学連携で育成へ 文科省が年間最大5億円助成",
-			"url": "https://news.yahoo.co.jp/articles/8597b5f768c2d8d3a7c2d0ba534b9a817ee7e84b",
-			"note": "文科省がAI・半導体人材育成の大学公募を開始",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/97b14a4883088b334ede91aafbe43e00b6958167e3302f9ce6c6636a0c5b460a.jpg"
+			"title": "OpenAIがAIのコーディング能力を測る代表的ベンチマークは「もはや無意味」と説明",
+			"url": "https://gigazine.net/news/20260429-swe-bench-verified/",
+			"note": "SWE-bench Verifiedの問題点を指摘し撤退表明",
+			"image": "https://i.gzn.jp/img/2026/04/29/swe-bench-verified/00.jpg"
+		},
+		{
+			"number": 4,
+			"title": "マスク氏がOpenAI裁判で証言台へ：「私が作り、彼らが奪った」その構造的矛盾",
+			"url": "https://xenospectrum.com/elon-musk-openai-trial-nonprofit-to-profit-lawsuit-2026/",
+			"note": "非営利から営利転換の是非を問う裁判が開始",
+			"image": "https://media.xenospectrum.com/large_musk_vs_altman_ead0f58286.webp"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
+			"number": 5,
 			"title": "「AirPods Ultra」が2026年後半に発売される可能性が高まっている",
 			"url": "https://gigazine.net/news/20260429-airpods-ultra/",
-			"note": "赤外線カメラ・H3チップ搭載のハイエンドモデル",
+			"note": "赤外線カメラ・H3チップ搭載ハイエンドモデル",
 			"image": "https://i.gzn.jp/img/2026/04/29/airpods-ultra/00_m.jpg"
+		},
+		{
+			"number": 6,
+			"title": "4月30日発売の「Amazon Fire TV Stick HD(2026年)」の違いは？購入前に確認すべきポイント",
+			"url": "https://www.itmedia.co.jp/pcuser/articles/2604/29/news031.html",
+			"note": "USB-C対応の新モデル、OS変更に注意点あり",
+			"image": "https://image.itmedia.co.jp/pcuser/articles/2604/29/cover_news031.jpg"
+		},
+		{
+			"number": 7,
+			"title": "「iPhone 17e」と「iPhone 17」どちらが買い？ スペック・デザイン・カメラを徹底比較",
+			"url": "https://www.itmedia.co.jp/mobile/articles/2604/29/news024.html",
+			"note": "両モデルの主要スペックを比較検証",
+			"image": "https://image.itmedia.co.jp/mobile/articles/2604/29/cover_news024.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "消費減税巡り各党の主張に隔たり 食料品消費税ゼロの論点整理",
-			"url": "https://news.yahoo.co.jp/articles/0db36228acdbe999db2a6fe15f6b7a9700d9166c",
-			"note": "超党派会議が夏前の中間取りまとめへ議論加速",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/5e5682b20246e934baccdcb9c87da28a0010975851a97b04aa833c53dc34db57.jpg"
+			"number": 8,
+			"title": "消費減税、公約「0％」も──「1％」案が浮上なぜ？ 政府内でも割れる意見",
+			"url": "https://news.yahoo.co.jp/articles/abc4f20ed7f55e93d930e7358395853e4a254854",
+			"note": "飲食料品0%公約にレジ改修で1%案が浮上",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/dbdd2a6c4d4e5988e788ac501b6372a2fae7a4cb80dbe4f43b3b9f680a40548d.jpg"
 		},
 		{
-			"number": 6,
-			"title": "参政党、高市政権と対決姿勢強める 靖国集団参拝で保守層切り崩し",
-			"url": "https://news.yahoo.co.jp/articles/5612e4758be61b3312102c512df8063a54b088bb",
-			"note": "積極財政・外国人政策で首相の「後退」を批判",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/c08c39e91db841268f04cdf7f7ff3988a83de0525a245cbc76e15c6ee728e460.jpg"
+			"number": 9,
+			"title": "高市政権支える自民グループ「一軍」争い、麻生派への対抗心",
+			"url": "https://news.yahoo.co.jp/articles/0ada16e97f05d388a396f19e634c743d6b2d61fb",
+			"note": "麻生派優遇に党内から不満の声",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/d4b5d03bc57500d3f9f0e25a43015832d9f807824776af47746661e5f691da00.jpg"
 		},
 		{
-			"number": 7,
-			"title": "ひきこもり、40歳以上が4割超 支える家族も高齢化 家族会調査",
-			"url": "https://news.yahoo.co.jp/articles/0f1a8940548a20f22b1cea2bdbd4c476142d8488",
-			"note": "平均年齢36.9歳、90代親が60代を支える例も",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/21cf41dfdb6d1051350a04f5203b879fc80be6490dc45f7e00893a7d6d453719.jpg"
+			"number": 10,
+			"title": "高市総理がメーデー出席　裁量労働制の拡大めぐり政府と連合の対立鮮明に",
+			"url": "https://news.yahoo.co.jp/articles/fc4ca0e03589e4cc254fe3b045a4c23dccfff502",
+			"note": "連合会長「裁量労働制の拡充は不要」",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/e4c75c52a30556751e839713878d9b5a1b33ba16550beeeef7863730314b5675.jpg"
+		},
+		{
+			"number": 11,
+			"title": "再審制度巡り自民内で異例の攻防　検察抗告の扱いで5月7日に決着なるか",
+			"url": "https://news.yahoo.co.jp/articles/c891577d41d61176675a8b2ab10d7c9a88f7009a",
+			"note": "法務省案に「言葉のトリック」と反発",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/b914631fd3827ac7c2533670e3dc12b0771868b4f8c6fa06721ea48dfa53b3e4.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 8,
-			"title": "UAE、OPEC一方的離脱 独自の生産目標達成へ「制約からの脱却」",
+			"number": 12,
+			"title": "トランプ氏支持率34％、今任期で最低──生活費高騰に不満＝ロイター調査",
+			"url": "https://news.yahoo.co.jp/articles/444c117a56b3c06a1e7c8b2b0e99c8161c677ddb",
+			"note": "生活費高騰と対イラン戦争で不満拡大",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/ae13072bd2f890d6c255f31f19e5e78bb314e6aef933add2a5a7db8d1345a4f1.jpg"
+		},
+		{
+			"number": 13,
+			"title": "UAE、OPEC一方的離脱　独自の生産目標達成へ「制約からの脱却」",
 			"url": "https://news.yahoo.co.jp/articles/79fd444e0ef08471fd603a88e9b90e19c9193410",
-			"note": "サウジとの対立下で独自原油生産方針を表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-00000006-jij-000-10-view.jpg?exp=10800"
+			"note": "5月1日脱退でサウジとの対立が表面化",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/ae13072bd2f890d6c255f31f19e5e78bb314e6aef933add2a5a7db8d1345a4f1.jpg"
 		},
 		{
-			"number": 9,
-			"title": "トランプ氏「一方的な勝利宣言」模索か 米情報機関がイランの反応分析",
-			"url": "https://news.yahoo.co.jp/articles/594a7ba7c28de20466fad2db93bef42561d98d23",
-			"note": "中間選挙視野にイラン紛争の出口戦略を検討",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-00000027-jij-000-6-view.jpg?exp=10800"
-		},
-		{
-			"number": 10,
-			"title": "ロシア軍事パレードに戦車隊列が異例の不参加 装備の前線投入を優先か",
-			"url": "https://news.yahoo.co.jp/articles/d36083d3e9a75f3a2bf62a0baf0815caa9a44842",
-			"note": "5月9日モスクワパレードで軍事装備の隊列なし",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-01137485-fnn-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 11,
-			"title": "英国王チャールズ、米議会で演説 「民主主義守る同盟国」と結束強調",
+			"number": 14,
+			"title": "英国王チャールズ、米議会で演説　「民主主義守る同盟国」と結束強調",
 			"url": "https://news.yahoo.co.jp/articles/6484798c5b711dbce163da94eebd2d33643047bf",
 			"note": "国賓訪問中に英米関係の重要性を訴え",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-00000003-reut-000-3-view.jpg?exp=10800"
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/fff62e12c1a2cdd1765be1bc7f772c273990c00f2a4e57571653768beb928642.jpg"
 		},
 		{
-			"number": 12,
-			"title": "トランプ大統領の肖像描いた限定パスポート交付へ 建国250周年を記念",
-			"url": "https://news.yahoo.co.jp/articles/37888853219d2bfdef43a987298e5deb8f9b13e8",
-			"note": "米国務省が表紙裏にトランプ肖像入り限定版を計画",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-07300972-jnn-000-5-thumb.jpg?exp=10800"
+			"number": 15,
+			"title": "トランプ氏「イラン崩壊状態」、ホルムズ海峡開放を要請と主張",
+			"url": "https://news.yahoo.co.jp/articles/fa7535303021d64088fb2e9bf81a7ce7594b0132",
+			"note": "イランに圧力強化、崩壊寸前と主張",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/ec5ae4ac3bc7721c1ba5adfb94b8cd4cf0295f14fd680e31d087cbe9e8376492.jpg"
+		},
+		{
+			"number": 16,
+			"title": "ロシア軍事パレードに戦車隊列が異例の不参加　装備の前線投入が影響か",
+			"url": "https://news.yahoo.co.jp/articles/d36083d3e9a75f3a2bf62a0baf0815caa9a44842",
+			"note": "5月モスクワパレードで軍事装備なしの異例事態",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/31f81ed97d16051875764e4287f70fbcd42545232aa977e0a352c06b5d5b1e89.jpg"
 		}
 	]
 }
