@@ -1,108 +1,108 @@
 {
-	"生成AI・LLM・AIエージェント": [
-		{
-			"number": 1,
-			"title": "米IT大手4社、1〜3月期2桁増益　生成AI需要拡大が追い風",
-			"url": "https://news.yahoo.co.jp/articles/329bb4ed42a6893f9a361cae90d1d2f70065495b",
-			"note": "アルファベット81%増益など4社が2桁増益",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-01137924-fnn-000-3-view.jpg?exp=10800"
-		},
-		{
-			"number": 2,
-			"title": "Microsoft、半年でAI「劣勢」に　業務ソフトにアンソロピック侵食",
-			"url": "https://www.nikkei.com/article/DGXZQOGN293NJ0Z20C26A4000000/",
-			"note": "Claude for Wordなど業務ソフトでMS猛追",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2962214029042026000000-1.jpg"
-		},
-		{
-			"number": 3,
-			"title": "AIで進化したインプレゾンビ　海外から日本語投稿する理由を聞いた",
-			"url": "https://news.yahoo.co.jp/articles/76f4d11fb24e7e9ba6d48e58df7a36a8b849ed0b",
-			"note": "生成AIで巧妙化するインプレゾンビの実態",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000005-asahi-000-5-view.jpg?exp=10800"
-		}
-	],
-	"デジタルガジェット": [
-		{
-			"number": 4,
-			"title": "そうきたか。スマートホームにAIが入ったらどうなる？はSwitchBot「AIハブ」を見れば分かる",
-			"url": "https://www.gizmodo.jp/2026/04/switchbot-ai-hub.html",
-			"note": "視覚AIで家を自動認識するスマートハブ",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/14/260414_switchbot_06.jpg?w=1280"
-		},
-		{
-			"number": 5,
-			"title": "EUでバッテリー交換不可のスマホは販売禁止に",
-			"url": "https://www.gizmodo.jp/2026/04/smartphones_with_replaceable_batteries.html",
-			"note": "2027年2月からEU域内で交換式バッテリー義務化",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/28/rugone_main.jpg?w=1280"
-		}
-	],
-	"政治（日本）": [
-		{
-			"number": 6,
-			"title": "私立大学250校削減案、財務省が2040年目標…文科相「分野や地域バランスが重要」",
-			"url": "https://news.yahoo.co.jp/articles/3f40eb59eac738822e5c254201f405769327f825",
-			"note": "財務省が私大の4割にあたる250校削減を提案",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/30/0f5fa83df831d1e881fe7364708e1a9acdb977a9208e72ce450bb14df1d89544.jpg"
-		},
-		{
-			"number": 7,
-			"title": "消費減税「0％」公約も「1％」案が浮上　レジ改修期間短縮の苦肉の策",
-			"url": "https://news.yahoo.co.jp/articles/abc4f20ed7f55e93d930e7358395853e4a254854",
-			"note": "食料品消費税ゼロでなく1%案が政府内に浮上",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/dbdd2a6c4d4e5988e788ac501b6372a2fae7a4cb80dbe4f43b3b9f680a40548d.jpg"
-		},
-		{
-			"number": 8,
-			"title": "小泉防衛相、6月下旬に韓国訪問へ…北朝鮮対応や防衛協力を協議",
-			"url": "https://news.yahoo.co.jp/articles/16224d6dd3295d009db8ed6c787044f06cdc41cb",
-			"note": "日韓防衛相会談の定例化に向け韓国訪問",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/30/297238c59f710a60bcc52bef3e75e8cde4c04d6166d7164fe755bc60f3f6dec9.jpg"
-		},
-		{
-			"number": 9,
-			"title": "高市総理がメーデー出席　裁量労働制の拡大めぐり連合と対立鮮明に",
-			"url": "https://news.yahoo.co.jp/articles/fc4ca0e03589e4cc254fe3b045a4c23dccfff502",
-			"note": "連合会長「裁量労働制の拡充は不要」と反発",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/e4c75c52a30556751e839713878d9b5a1b33ba16550beeeef7863730314b5675.jpg"
-		}
-	],
-	"国際情勢": [
-		{
-			"number": 10,
-			"title": "プーチン氏、対独戦勝記念日に一時停戦の用意と表明…米露電話会談",
-			"url": "https://news.yahoo.co.jp/articles/97bbb48daf302e59c2eb0b7ae889e5602df4facd",
-			"note": "5月9日に合わせウクライナ停戦の用意を表明",
-			"image": ""
-		},
-		{
-			"number": 11,
-			"title": "UAEがOPEC離脱　5月1日付で脱退、産油量制限から解放へ",
-			"url": "https://news.yahoo.co.jp/articles/5ed5475f726fc5928a6b4991f788a1d20221c5e3",
-			"note": "OPEC容量の15%を占めるUAEが脱退を発表",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-16601714-bbc-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 12,
-			"title": "米国防総省 対イラン軍事作戦の費用は約4兆円に到達",
-			"url": "https://news.yahoo.co.jp/articles/ac88b4490ad70e30aef3d846bc0184abacb1ae09",
-			"note": "イラン作戦費4兆円、国防長官は批判に反論",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000000-ann-000-14-thumb.jpg?exp=10800"
-		},
-		{
-			"number": 13,
-			"title": "NPT再検討会議で中国が日本の非核三原則見直しを批判",
-			"url": "https://news.yahoo.co.jp/articles/7b5da26b69e2a4eeb283160a0156eb8ea6a24bd6",
-			"note": "中国が日本の核政策見直し動向を国際会議で批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000009-mai-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 14,
-			"title": "出光タンカーはなぜホルムズ海峡を通過できたのか　イランの思惑と日本外交",
-			"url": "https://news.yahoo.co.jp/articles/ebaa0e45c7af7756731ee6c453ea9467bedc76d7",
-			"note": "日イラン友好関係が海峡通過の鍵に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-09594361-nnn-000-3-thumb.jpg?exp=10800"
-		}
-	]
+  "生成AI・LLM・AIエージェント": [
+    {
+      "number": 1,
+      "title": "米IT大手4社、1〜3月期2桁増益　生成AI需要拡大が追い風",
+      "url": "https://news.yahoo.co.jp/articles/329bb4ed42a6893f9a361cae90d1d2f70065495b",
+      "note": "アルファベット81%増益など4社が2桁増益",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-01137924-fnn-000-3-view.jpg?exp=10800"
+    },
+    {
+      "number": 2,
+      "title": "Microsoft、半年でAI「劣勢」に　業務ソフトにアンソロピック侵食",
+      "url": "https://www.nikkei.com/article/DGXZQOGN293NJ0Z20C26A4000000/",
+      "note": "Claude for Wordなど業務ソフトでMS猛追",
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2962214029042026000000-1.jpg"
+    },
+    {
+      "number": 3,
+      "title": "AIで進化したインプレゾンビ　海外から日本語投稿する理由を聞いた",
+      "url": "https://news.yahoo.co.jp/articles/76f4d11fb24e7e9ba6d48e58df7a36a8b849ed0b",
+      "note": "生成AIで巧妙化するインプレゾンビの実態",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000005-asahi-000-5-view.jpg?exp=10800"
+    }
+  ],
+  "デジタルガジェット": [
+    {
+      "number": 4,
+      "title": "そうきたか。スマートホームにAIが入ったらどうなる？はSwitchBot「AIハブ」を見れば分かる",
+      "url": "https://www.gizmodo.jp/2026/04/switchbot-ai-hub.html",
+      "note": "視覚AIで家を自動認識するスマートハブ",
+      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/14/260414_switchbot_06.jpg?w=1280"
+    },
+    {
+      "number": 5,
+      "title": "EUでバッテリー交換不可のスマホは販売禁止に",
+      "url": "https://www.gizmodo.jp/2026/04/smartphones_with_replaceable_batteries.html",
+      "note": "2027年2月からEU域内で交換式バッテリー義務化",
+      "image": "https://media.loom-app.com/gizmodo/dist/images/2026/04/28/rugone_main.jpg?w=1280"
+    }
+  ],
+  "政治（日本）": [
+    {
+      "number": 6,
+      "title": "私立大学250校削減案、財務省が2040年目標…文科相「分野や地域バランスが重要」",
+      "url": "https://news.yahoo.co.jp/articles/3f40eb59eac738822e5c254201f405769327f825",
+      "note": "財務省が私大の4割にあたる250校削減を提案",
+      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/30/0f5fa83df831d1e881fe7364708e1a9acdb977a9208e72ce450bb14df1d89544.jpg"
+    },
+    {
+      "number": 7,
+      "title": "消費減税「0％」公約も「1％」案が浮上　レジ改修期間短縮の苦肉の策",
+      "url": "https://news.yahoo.co.jp/articles/abc4f20ed7f55e93d930e7358395853e4a254854",
+      "note": "食料品消費税ゼロでなく1%案が政府内に浮上",
+      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/dbdd2a6c4d4e5988e788ac501b6372a2fae7a4cb80dbe4f43b3b9f680a40548d.jpg"
+    },
+    {
+      "number": 8,
+      "title": "小泉防衛相、6月下旬に韓国訪問へ…北朝鮮対応や防衛協力を協議",
+      "url": "https://news.yahoo.co.jp/articles/16224d6dd3295d009db8ed6c787044f06cdc41cb",
+      "note": "日韓防衛相会談の定例化に向け韓国訪問",
+      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/30/297238c59f710a60bcc52bef3e75e8cde4c04d6166d7164fe755bc60f3f6dec9.jpg"
+    },
+    {
+      "number": 9,
+      "title": "高市総理がメーデー出席　裁量労働制の拡大めぐり連合と対立鮮明に",
+      "url": "https://news.yahoo.co.jp/articles/fc4ca0e03589e4cc254fe3b045a4c23dccfff502",
+      "note": "連合会長「裁量労働制の拡充は不要」と反発",
+      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/29/e4c75c52a30556751e839713878d9b5a1b33ba16550beeeef7863730314b5675.jpg"
+    }
+  ],
+  "国際情勢": [
+    {
+      "number": 10,
+      "title": "プーチン氏、対独戦勝記念日に一時停戦の用意と表明…米露電話会談",
+      "url": "https://news.yahoo.co.jp/articles/97bbb48daf302e59c2eb0b7ae889e5602df4facd",
+      "note": "5月9日に合わせウクライナ停戦の用意を表明",
+      "image": ""
+    },
+    {
+      "number": 11,
+      "title": "UAEがOPEC離脱　5月1日付で脱退、産油量制限から解放へ",
+      "url": "https://news.yahoo.co.jp/articles/5ed5475f726fc5928a6b4991f788a1d20221c5e3",
+      "note": "OPEC容量の15%を占めるUAEが脱退を発表",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-16601714-bbc-000-1-view.jpg?exp=10800"
+    },
+    {
+      "number": 12,
+      "title": "米国防総省 対イラン軍事作戦の費用は約4兆円に到達",
+      "url": "https://news.yahoo.co.jp/articles/ac88b4490ad70e30aef3d846bc0184abacb1ae09",
+      "note": "イラン作戦費4兆円、国防長官は批判に反論",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000000-ann-000-14-thumb.jpg?exp=10800"
+    },
+    {
+      "number": 13,
+      "title": "NPT再検討会議で中国が日本の非核三原則見直しを批判",
+      "url": "https://news.yahoo.co.jp/articles/7b5da26b69e2a4eeb283160a0156eb8ea6a24bd6",
+      "note": "中国が日本の核政策見直し動向を国際会議で批判",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000009-mai-000-2-view.jpg?exp=10800"
+    },
+    {
+      "number": 14,
+      "title": "出光タンカーはなぜホルムズ海峡を通過できたのか　イランの思惑と日本外交",
+      "url": "https://news.yahoo.co.jp/articles/ebaa0e45c7af7756731ee6c453ea9467bedc76d7",
+      "note": "日イラン友好関係が海峡通過の鍵に",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-09594361-nnn-000-3-thumb.jpg?exp=10800"
+    }
+  ]
 }
