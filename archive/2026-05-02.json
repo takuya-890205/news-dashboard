@@ -2,121 +2,114 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "新・作戦司令室：生死の判断に、LLMが加わった",
-			"url": "https://ascii.jp/elem/000/004/399/4399922/",
-			"note": "軍事作戦にLLMが導入され始めた現状を解説",
-			"image": ""
+			"title": "AIは学習データを使い果たしつつある可能性、スタンフォード大学報告書が警告",
+			"url": "https://news.yahoo.co.jp/articles/6cbf71e48b722ead8fea6badfc92db843c730d33",
+			"note": "AI訓練データの枯渇リスクを指摘",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00096415-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "「開発者はシークレット使うな」「NISTが脆弱性全件分析、断念」 セキュリティの“前提”が揺らぐ",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/02/news014.html",
-			"note": "AI時代のセキュリティ常識が根本から変化",
-			"image": "https://image.itmedia.co.jp/ait/articles/2605/02/cover_news014.jpg"
+			"title": "ChatGPTのボット検知システム「Turnstile」の内部構造とSentinelチャレンジの全貌が明らかに",
+			"url": "https://gigazine.net/news/20260502-chatgpt-cloudflare/",
+			"note": "Cloudflareの検知メカニズムを技術解析",
+			"image": "https://i.gzn.jp/img/2026/05/02/chatgpt-cloudflare/00.png"
 		},
 		{
 			"number": 3,
-			"title": "境界防御の延長とAIシフトが共存 Oktaが業務アプリ利用動向調査結果を公開",
-			"url": "https://www.itmedia.co.jp/enterprise/articles/2605/02/news017.html",
-			"note": "企業のAI活用とゼロトラストの最新動向",
-			"image": ""
+			"title": "Xが広告プラットフォームを再構築、会社史上最大規模のシステム刷新で最新AIモデルを導入",
+			"url": "https://gigazine.net/news/20260502-x-ai-powered-ad-platform/",
+			"note": "X社が広告基盤を全面刷新しAI活用へ",
+			"image": "https://i.gzn.jp/img/2026/05/02/x-ai-powered-ad-platform/00.png"
 		},
 		{
 			"number": 4,
-			"title": "ハードとソフトの両輪でAIを加速するAMD。その戦略とは？",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2106193.html",
-			"note": "AMDのAIチップ戦略と今後のロードマップ",
-			"image": "https://asset.watch.impress.co.jp/img/pcw/docs/2106/193/01_l.jpg"
+			"title": "マイクロソフト、Word文章編集でAnthropicのAIモデルを使えるように",
+			"url": "https://ascii.jp/elem/000/004/399/4399795/",
+			"note": "M365 CopilotでAnthropicモデル選択可能に",
+			"image": ""
+		},
+		{
+			"number": 5,
+			"title": "生成AI、利用料はいくらになった？2026年5月の主要8サービス料金早見表",
+			"url": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
+			"note": "主要8サービスの5月時点料金を比較",
+			"image": "https://media.loom-app.com/loom/2026/04/30/a45394c8-cbf3-40d2-a4cc-a2c3219ea928/original.jpg?w=1200&h=630"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "Appleが「端末残価」でAndroid陣営を異例の批判「多くが品質に劣り、陳腐化が早い」",
-			"url": "https://www.itmedia.co.jp/mobile/articles/2605/02/news029.html",
-			"note": "Apple、残価ルール見直し議論でAndroidを痛烈批判",
-			"image": ""
-		},
-		{
 			"number": 6,
-			"title": "大容量HDDは品薄前夜「見つけたら即買い」の危機？ 連休狙い目のスペシャルパックを追う",
-			"url": "https://www.itmedia.co.jp/pcuser/articles/2605/02/news032.html",
-			"note": "HDD品薄が深刻化、GW中の購入チャンスを解説",
-			"image": "https://image.itmedia.co.jp/pcuser/articles/2605/02/cover_news032.jpg"
+			"title": "Apple、スマホ残価問題で他社製品を痛烈批判「多くが品質に劣り、陳腐化が早い」ルール統一検討に反発",
+			"url": "https://news.yahoo.co.jp/articles/aa419f1094f8ca087c015d92742e72aa6db1dd15",
+			"note": "Appleが残価ルール統一検討に反発声明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00072000-otakulab-000-16009-view.jpg?exp=10800"
 		},
 		{
 			"number": 7,
-			"title": "Mac miniとMac Studioが在庫薄。CEO自ら「需要と供給のバランスがとれるのは数カ月後」",
-			"url": "https://www.gizmodo.jp/2026/05/macmini-macstudio.html",
-			"note": "Apple製品の供給逼迫、クックCEOが言及",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/01/20260413macka00.png?w=1280"
+			"title": "愛用の腕時計を最新スマートウォッチに変える神バンドを発見",
+			"url": "https://news.yahoo.co.jp/articles/617d37d88ff3391d6c0d91dd4da119443cd4c408",
+			"note": "既存腕時計をスマートウォッチ化するバンド",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000009-ascii-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 8,
-			"title": "LG、AIで映像や音響を向上させるOLEDゲーミングモニター",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2106216.html",
-			"note": "LGがAI搭載の新型OLEDゲーミングモニター発表",
-			"image": ""
+			"title": "片耳イヤホンはセーフ？オープンイヤー型は？道交法改正と青切符で話題の新ルール",
+			"url": "https://news.yahoo.co.jp/articles/c2637cbe09b29bf305de75ece8e6fb9b3e4f3ed3",
+			"note": "自転車イヤホン使用の新ルールを解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00010004-realsound-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 9,
-			"title": "高市首相任期中の憲法改正、賛成が反対上回る　毎日新聞世論調査",
-			"url": "https://news.yahoo.co.jp/articles/d654b2593b12a8d8f0f7c73b60609818aedfca0a",
-			"note": "憲法改正への支持が過半数に達する世論調査結果",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000010-mai-000-1-view.jpg?exp=10800"
+			"title": "高市首相、ベトナム・オーストラリア訪問へ出発 経済安保・エネルギー協力を強化",
+			"url": "https://news.yahoo.co.jp/articles/c3977285280845c2ddcd65c0374cee0ec0f1e23b",
+			"note": "中東緊迫下で資源外交とFOIP推進",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260428-00000049-mai-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 10,
-			"title": "高市流 国会論戦「タイパ」重視?",
-			"url": "https://news.yahoo.co.jp/articles/0328c2c33921567473ea8e047ef2e3a169fa7c2a",
-			"note": "高市首相の国会運営スタイルを分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00010000-doshin-000-1-view.jpg?exp=10800"
+			"title": "政府、トランプ氏に立ち寄り打診 5月訪中前後に首脳会談模索",
+			"url": "https://www.jiji.com/jc/article?k=2026043000690&g=pol",
+			"note": "5月中旬の訪中に合わせ日米会談を模索",
+			"image": "https://www.jiji.com/news2/kiji_photos/202604/20260430at27S_ogp.jpg"
 		},
 		{
 			"number": 11,
-			"title": "物資の安定供給 日ベトナム合意へ",
-			"url": "https://news.yahoo.co.jp/articles/5944ca5683a3642d241e1eeecbf7c359564f5337",
-			"note": "高市首相ベトナム訪問、サプライチェーン強化で合意",
-			"image": ""
-		},
-		{
-			"number": 12,
-			"title": "首相ら閣僚の外遊 なぜGWに集中",
-			"url": "https://news.yahoo.co.jp/articles/36bf32afe43b73267673b046005ad30beea27a19",
-			"note": "GW中の閣僚外遊ラッシュの背景を解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-10243101-abemav-000-1-view.jpg?exp=10800"
+			"title": "ロシア産の原油 日本に到着へ ホルムズ閉鎖以来初",
+			"url": "https://news.yahoo.co.jp/pickup/6578506",
+			"note": "中東緊迫でロシア産原油の代替輸入開始",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/2/401df796f17de45404f5a3e89335b48d0ec4fa3a431c37d805e41a9762aff409.jpg"
 		}
 	],
 	"国際情勢": [
 		{
+			"number": 12,
+			"title": "米、ドイツ駐留軍5000人の撤退発表",
+			"url": "https://news.yahoo.co.jp/pickup/6578453",
+			"note": "トランプ政権がドイツ駐留米軍を大幅削減",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/2/5712a14ad4991454a1dd808f8ad893faf34d23fc0b94417523083e424e9a093a.jpg"
+		},
+		{
 			"number": 13,
-			"title": "米 ドイツ駐留軍5000人の撤退発表",
-			"url": "https://news.yahoo.co.jp/articles/263ef5ea778e643367c4fd4248b741a69f119d91",
-			"note": "米国防長官がドイツからの部隊撤退を正式発表",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000015-reut-000-3-view.jpg?exp=10800"
+			"title": "米大統領、EU車関税25%に引き上げ",
+			"url": "https://news.yahoo.co.jp/pickup/6578460",
+			"note": "欧州自動車メーカーに大きな打撃の見通し",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/2/1e3f30b562edf6432778eb3e26d8bc2b7124c7dbd64f4187d61fc4572307abfb.jpg"
 		},
 		{
 			"number": 14,
-			"title": "米大統領 EU車関税25%に引き上げ",
-			"url": "https://news.yahoo.co.jp/articles/55fece7eea80c420823ee9415af47f013ee22f55",
-			"note": "トランプ大統領がEU自動車関税の大幅引き上げを表明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000003-reut-000-6-view.jpg?exp=10800"
+			"title": "トランプ氏、イランへの「敵対行為の終了」主張 法対応を回避か",
+			"url": "https://news.yahoo.co.jp/articles/3b2f16d6070e310c157f85e4f08f30d5e8bca587",
+			"note": "議会承認なしの軍事行動を正当化する動き",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000033-mai-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 15,
-			"title": "イランが新提案 米大統領満足せず",
-			"url": "https://news.yahoo.co.jp/articles/de9be12848c55ea19ccc339b41ba1dbd834d0590",
-			"note": "イラン情勢緊迫、外交交渉は難航続く",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260501-00000143-asahi-000-7-view.jpg?exp=10800"
-		},
-		{
-			"number": 16,
-			"title": "トランプ大統領、４５分間「最後の一撃」の報告受けた…「地上軍・特殊部隊も選択肢」",
-			"url": "https://news.yahoo.co.jp/articles/ab5ffaee7ef5038efa222e539ff0337dc848cf5f",
-			"note": "トランプ氏にイランへの軍事オプション報告",
-			"image": ""
+			"title": "ロシア産原油がまもなく日本へ ホルムズ閉鎖以来初の調達",
+			"url": "https://news.yahoo.co.jp/articles/2d1be08572d29ebed1a35bf7aa0b85a0aac7ea6a",
+			"note": "中東危機でエネルギー調達先の多角化進む",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-10243147-abemav-000-1-view.jpg?exp=10800"
 		}
 	]
 }
