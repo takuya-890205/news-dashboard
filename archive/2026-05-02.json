@@ -2,79 +2,121 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "加速する嫌われ者。アメリカのデータセンターで年間の温室効果ガス排出量がヤバい",
-			"url": "https://news.yahoo.co.jp/articles/558e36ad384934ba571d2215af2b788019826239",
-			"note": "AI需要急増でデータセンターのCO2排出が深刻化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000001-giz-000-1-view.jpg?exp=10800"
+			"title": "新・作戦司令室：生死の判断に、LLMが加わった",
+			"url": "https://ascii.jp/elem/000/004/399/4399922/",
+			"note": "軍事作戦にLLMが導入され始めた現状を解説",
+			"image": ""
+		},
+		{
+			"number": 2,
+			"title": "「開発者はシークレット使うな」「NISTが脆弱性全件分析、断念」 セキュリティの“前提”が揺らぐ",
+			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/02/news014.html",
+			"note": "AI時代のセキュリティ常識が根本から変化",
+			"image": "https://image.itmedia.co.jp/ait/articles/2605/02/cover_news014.jpg"
+		},
+		{
+			"number": 3,
+			"title": "境界防御の延長とAIシフトが共存 Oktaが業務アプリ利用動向調査結果を公開",
+			"url": "https://www.itmedia.co.jp/enterprise/articles/2605/02/news017.html",
+			"note": "企業のAI活用とゼロトラストの最新動向",
+			"image": ""
+		},
+		{
+			"number": 4,
+			"title": "ハードとソフトの両輪でAIを加速するAMD。その戦略とは？",
+			"url": "https://pc.watch.impress.co.jp/docs/news/2106193.html",
+			"note": "AMDのAIチップ戦略と今後のロードマップ",
+			"image": "https://asset.watch.impress.co.jp/img/pcw/docs/2106/193/01_l.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 2,
-			"title": "Appleが「端末残価」でAndroid陣営を異例の批判、「ホッピング対策」で新たな縛りも？　ルール見直しの焦点",
-			"url": "https://news.yahoo.co.jp/articles/fe6bee7e0adf705ef97c0ed2d8acb50aaceda50e",
-			"note": "Apple、端末残価率でAndroid陣営を異例の批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000024-zdn_m-000-1-view.jpg?exp=10800"
+			"number": 5,
+			"title": "Appleが「端末残価」でAndroid陣営を異例の批判「多くが品質に劣り、陳腐化が早い」",
+			"url": "https://www.itmedia.co.jp/mobile/articles/2605/02/news029.html",
+			"note": "Apple、残価ルール見直し議論でAndroidを痛烈批判",
+			"image": ""
 		},
 		{
-			"number": 3,
-			"title": "大容量HDDは品薄前夜「見つけたら即買い」の危機？ 連休狙い目の「MSI×AMD×Apacer」スペシャルパックを追う",
+			"number": 6,
+			"title": "大容量HDDは品薄前夜「見つけたら即買い」の危機？ 連休狙い目のスペシャルパックを追う",
 			"url": "https://www.itmedia.co.jp/pcuser/articles/2605/02/news032.html",
-			"note": "関税影響でHDD品薄の恐れ、GW中の確保を推奨",
+			"note": "HDD品薄が深刻化、GW中の購入チャンスを解説",
 			"image": "https://image.itmedia.co.jp/pcuser/articles/2605/02/cover_news032.jpg"
 		},
 		{
-			"number": 4,
-			"title": "なぜ京成電鉄は「タッチ決済」未対応？ 首都圏の鉄道での導入開始から約1カ月、広報に聞いた",
-			"url": "https://news.yahoo.co.jp/articles/b27c826649dd25faec19cd5ee8adf5c75875dafe",
-			"note": "首都圏タッチ決済導入1カ月も京成は未対応",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000001-binsiderl-000-1-view.jpg?exp=10800"
+			"number": 7,
+			"title": "Mac miniとMac Studioが在庫薄。CEO自ら「需要と供給のバランスがとれるのは数カ月後」",
+			"url": "https://www.gizmodo.jp/2026/05/macmini-macstudio.html",
+			"note": "Apple製品の供給逼迫、クックCEOが言及",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/01/20260413macka00.png?w=1280"
+		},
+		{
+			"number": 8,
+			"title": "LG、AIで映像や音響を向上させるOLEDゲーミングモニター",
+			"url": "https://pc.watch.impress.co.jp/docs/news/2106216.html",
+			"note": "LGがAI搭載の新型OLEDゲーミングモニター発表",
+			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "「共産は民主的議論で団結」田村氏…党内対立露見の社民へは言及控え　メーデーで政権批判",
-			"url": "https://news.yahoo.co.jp/articles/d83c16f28db32cc0231d6399a6704bcdb61776d0",
-			"note": "田村委員長、党内対立の社民への言及を回避",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000013-san-000-1-view.jpg?exp=10800"
+			"number": 9,
+			"title": "高市首相任期中の憲法改正、賛成が反対上回る　毎日新聞世論調査",
+			"url": "https://news.yahoo.co.jp/articles/d654b2593b12a8d8f0f7c73b60609818aedfca0a",
+			"note": "憲法改正への支持が過半数に達する世論調査結果",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000010-mai-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 6,
-			"title": "「天皇陛下より拍手が大きかった」日本維新の会の元参院議員　昭和100年記念式典の\"高市首相アゲ\"投稿に「失礼すぎます」と疑問続出",
-			"url": "https://news.yahoo.co.jp/articles/71ef3a9fa3c9f7325c0b14783da07c426eb7af21",
-			"note": "昭和100年式典での高市首相礼賛投稿が物議",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000002-jisin-000-2-view.jpg?exp=10800"
+			"number": 10,
+			"title": "高市流 国会論戦「タイパ」重視?",
+			"url": "https://news.yahoo.co.jp/articles/0328c2c33921567473ea8e047ef2e3a169fa7c2a",
+			"note": "高市首相の国会運営スタイルを分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00010000-doshin-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "物資の安定供給 日ベトナム合意へ",
+			"url": "https://news.yahoo.co.jp/articles/5944ca5683a3642d241e1eeecbf7c359564f5337",
+			"note": "高市首相ベトナム訪問、サプライチェーン強化で合意",
+			"image": ""
+		},
+		{
+			"number": 12,
+			"title": "首相ら閣僚の外遊 なぜGWに集中",
+			"url": "https://news.yahoo.co.jp/articles/36bf32afe43b73267673b046005ad30beea27a19",
+			"note": "GW中の閣僚外遊ラッシュの背景を解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-10243101-abemav-000-1-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "アメリカ全土で\"トランプ離れ\"が加速中！「もう、名前も言いたくない！」現地で聞いた「MAGA」な人々の本音",
-			"url": "https://news.yahoo.co.jp/articles/169ce8ce66584bcb49d48c00a78355353e367251",
-			"note": "MAGA支持者にもトランプ離れが拡大中",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-01310780-playboyz-000-1-view.jpg?exp=10800"
+			"number": 13,
+			"title": "米 ドイツ駐留軍5000人の撤退発表",
+			"url": "https://news.yahoo.co.jp/articles/263ef5ea778e643367c4fd4248b741a69f119d91",
+			"note": "米国防長官がドイツからの部隊撤退を正式発表",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000015-reut-000-3-view.jpg?exp=10800"
 		},
 		{
-			"number": 8,
-			"title": "「沖縄独立論」を唱える中華マフィアのドンが明かす　旭琉会と交流、「琉球国の復活を援助することが中国人の責任」と主張",
-			"url": "https://news.yahoo.co.jp/articles/b839f2eff2d49551af385d70a09d66cc2c72d3a0",
-			"note": "中華マフィア幹部が琉球独立支援を公言",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000002-pseven-000-1-view.jpg?exp=10800"
+			"number": 14,
+			"title": "米大統領 EU車関税25%に引き上げ",
+			"url": "https://news.yahoo.co.jp/articles/55fece7eea80c420823ee9415af47f013ee22f55",
+			"note": "トランプ大統領がEU自動車関税の大幅引き上げを表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000003-reut-000-6-view.jpg?exp=10800"
 		},
 		{
-			"number": 9,
-			"title": "米国のイラン攻撃は「戦争権限法」に基づき終わるのか？憲法が事実上空文化している理由",
-			"url": "https://news.yahoo.co.jp/articles/7afee88b72de476c03ccc07d4f264d1ff86f9700",
-			"note": "イラン攻撃の法的根拠と戦争権限法の形骸化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00140572-wedge-000-1-view.jpg?exp=10800"
+			"number": 15,
+			"title": "イランが新提案 米大統領満足せず",
+			"url": "https://news.yahoo.co.jp/articles/de9be12848c55ea19ccc339b41ba1dbd834d0590",
+			"note": "イラン情勢緊迫、外交交渉は難航続く",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260501-00000143-asahi-000-7-view.jpg?exp=10800"
 		},
 		{
-			"number": 10,
-			"title": "「粛清の資料はすぐに焼却しろ」中国共産党の命令に、なぜ被害者は\"喜んだ\"のか？ 文化大革命に隠された「残酷な罠」",
-			"url": "https://news.yahoo.co.jp/articles/8978d2f70af356ba4bcf6831802be64a88302e12",
-			"note": "文革の粛清記録焼却命令に被害者が喜んだ理由",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00088144-bunshun-000-1-view.png?fmt=jpeg&q=85&exp=10800"
+			"number": 16,
+			"title": "トランプ大統領、４５分間「最後の一撃」の報告受けた…「地上軍・特殊部隊も選択肢」",
+			"url": "https://news.yahoo.co.jp/articles/ab5ffaee7ef5038efa222e539ff0337dc848cf5f",
+			"note": "トランプ氏にイランへの軍事オプション報告",
+			"image": ""
 		}
 	]
 }
