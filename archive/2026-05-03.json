@@ -2,56 +2,92 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "AIモデルに「あなたは熟練プログラマーです」と伝えるとかえってプログラマーとしての能力が低下する",
-			"url": "https://gigazine.net/news/20260503-ai-expert-personas/",
-			"note": "専門家ペルソナ指示でコーディング精度が低下する研究結果",
-			"image": "https://i.gzn.jp/img/2026/05/03/ai-expert-personas/00.jpg"
+			"title": "数学者が7年悩んだ難問、AIが「80分」で解く──取り組んできた本人が美しいと評価",
+			"url": "https://news.yahoo.co.jp/articles/2a603e7c56fbf5fba1a1b80b7f0270ed7bc33dbd",
+			"note": "エルデシュ問題をAIが80分で証明、数学者も絶賛",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00096574-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "OpenAIが「GPT-5.5」を発表／GeminiのチャットでWord・Excel・PDFファイルなどを生成可能に",
-			"url": "https://www.itmedia.co.jp/pcuser/articles/2605/03/news015.html",
-			"note": "GPT-5.5発表やGeminiファイル生成機能など先週のAIまとめ",
-			"image": ""
-		}
-	],
-	"デジタルガジェット": [],
-	"政治（日本）": [
+			"title": "AIモデルに「あなたは熟練プログラマーです」と伝えるとかえってプログラマーとしての能力が低下する",
+			"url": "https://gigazine.net/news/20260503-ai-expert-personas/",
+			"note": "専門家ペルソナ指示がAI性能を低下させる研究結果",
+			"image": "https://i.gzn.jp/img/2026/05/03/ai-expert-personas/00.jpg"
+		},
 		{
 			"number": 3,
-			"title": "憲法改正に「賛成」57% 読売調査",
-			"url": "https://news.yahoo.co.jp/pickup/6578554",
-			"note": "読売世論調査で改憲賛成57%、高市首相への期待54%",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/3/4b2335eedc566ba6f990b6e74418b257b88b011fcd6d490ec15228449ea81e4e.jpg"
+			"title": "生成AI、利用料はいくらになった？ 2026年5月の主要8サービス料金早見表",
+			"url": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
+			"note": "ChatGPT Pro新設、Claude Opus 4.7投入など最新料金比較",
+			"image": "https://media.loom-app.com/loom/2026/04/30/a45394c8-cbf3-40d2-a4cc-a2c3219ea928/original.jpg"
 		},
 		{
 			"number": 4,
-			"title": "憲法記念日の各党談話",
-			"url": "https://www.nikkei.com/article/DGXZQOUA021NG0S6A500C2000000/",
-			"note": "自民は改憲推進、野党各党は反対と立場鮮明に",
-			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2975515002052026000000-1.jpg"
+			"title": "国内AIエージェント動向(2026/5/1号)",
+			"url": "https://note.com/yasuhitoo/n/na9c8d890db85",
+			"note": "楽天トラベル自動化やClaude Code導入支援など実業務展開",
+			"image": "https://assets.st-note.com/production/uploads/images/271889068/rectangle_large_type_2_2125324931f138b7822b9cd68d7e58f7.png"
 		},
 		{
 			"number": 5,
-			"title": "自民 憲法改正巡り衆参で温度差",
-			"url": "https://news.yahoo.co.jp/pickup/6578547",
-			"note": "衆院と参院で優先する改正項目が異なり党内調整が課題",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/2/83e9c862723f33d4730baa2b01f0fa759f3c98b2284350556f517f73c7556103.jpg"
+			"title": "AIを推進する政策がAIによって生成されていたことが判明したため撤回される",
+			"url": "https://gigazine.net/news/20260501-ai-policy-withdraw/",
+			"note": "南アフリカのAI政策草案に架空の参考文献が混入し撤回",
+			"image": "https://i.gzn.jp/img/2026/05/01/ai-policy-withdraw/00.jpg"
+		}
+	],
+	"デジタルガジェット": [
+		{
+			"number": 6,
+			"title": "Google Pixel 10a日本限定モデル「Isai Blue」5月20日発売──ヘラルボニーとコラボ",
+			"url": "https://smhn.info/202604-google-pixel-10a-iro-japan-exclusive-may-20",
+			"note": "256GB限定94,900円、特別壁紙とバンパーケース付属",
+			"image": ""
+		}
+	],
+	"政治（日本）": [
+		{
+			"number": 7,
+			"title": "憲法改正「賛成」57％…読売世論調査",
+			"url": "https://news.yahoo.co.jp/articles/e3d25924d1fcbd80b82414075a50a7c4585febd9",
+			"note": "高市首相の任期中に改憲議論進展に54%が期待",
+			"image": "https://s.yimg.jp/images/news-web/versions/20260501-e73d385/all/images/ogp_default.png"
+		},
+		{
+			"number": 8,
+			"title": "元号「平成」誰が考えたのか、37年経ても秘密のまま　開示文書でも核心は黒塗り",
+			"url": "https://news.yahoo.co.jp/articles/0687290b2f34e3c4a5077163596e0a89392f05c2",
+			"note": "情報開示請求するも考案者名は依然非公開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00020378-bengocom-000-1-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 6,
-			"title": "トランプ共和、上下両院苦戦か　物価高、イラン作戦が重荷　米中間選挙まで半年",
-			"url": "https://news.yahoo.co.jp/articles/fe6287f99efccfc413bbdd3d949b352f495927e3",
-			"note": "物価高とイラン政策が共和党の中間選挙に悪影響",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000010-jij-000-7-view.jpg?exp=10800"
+			"number": 9,
+			"title": "イランが戦闘終結に向け14項目の提案を提示　進展は依然不透明",
+			"url": "https://news.yahoo.co.jp/articles/207be2bdb6218b25095cc1a7d65aac0e0b5191af",
+			"note": "制裁解除・凍結資産返還など要求、30日以内決着を主張",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-07301718-jnn-000-5-view.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "イランの提案すぐに検討　トランプ米大統領",
-			"url": "https://news.yahoo.co.jp/articles/f0e15be08fc438752013189f96b413a6e32fba4e",
-			"note": "イランの新提案を検討も受け入れには懐疑的な姿勢",
+			"number": 10,
+			"title": "在独米軍の削減、「5000人をはるかに上回る規模」に　トランプ氏が表明",
+			"url": "https://news.yahoo.co.jp/articles/e05e7784e2bac2116810abb97f7e2dc2d144e778",
+			"note": "共和党内からも「プーチンへの誤ったシグナル」と懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-35247135-cnn-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "中国、イラン産原油購入による中国企業への米制裁を拒否",
+			"url": "https://news.yahoo.co.jp/articles/8d3a475da89b64a8d59a5703d203712cb77517e9",
+			"note": "中国商務省「認めず、実施せず、従わない」と声明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000006-jij_afp-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "トランプ氏、EU自動車関税を25%に引き上げ表明「約束守ってない」",
+			"url": "https://www.nikkei.com/article/DGXZQOGN01BP00R00C26A5000000/",
+			"note": "貿易合意不履行を理由にEU車関税を大幅引き上げ",
 			"image": ""
 		}
 	]
