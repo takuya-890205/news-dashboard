@@ -18,77 +18,105 @@
 			"number": 3,
 			"title": "生成AI、利用料はいくらになった？ 2026年5月の主要8サービス料金早見表",
 			"url": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
-			"note": "ChatGPT Pro新設、Claude Opus 4.7投入など最新料金比較",
-			"image": "https://media.loom-app.com/loom/2026/04/30/a45394c8-cbf3-40d2-a4cc-a2c3219ea928/original.jpg"
+			"note": "ChatGPT・Claude・Geminiなど主要8サービスの最新料金を一覧比較",
+			"image": "https://media.loom-app.com/loom/2026/04/30/a45394c8-cbf3-40d2-a4cc-a2c3219ea928/original.jpg?w=1200&h=630"
 		},
 		{
 			"number": 4,
 			"title": "国内AIエージェント動向(2026/5/1号)",
 			"url": "https://note.com/yasuhitoo/n/na9c8d890db85",
-			"note": "楽天トラベル自動化やClaude Code導入支援など実業務展開",
+			"note": "国内AIエージェントがPoC段階から実業務へ本格展開",
 			"image": "https://assets.st-note.com/production/uploads/images/271889068/rectangle_large_type_2_2125324931f138b7822b9cd68d7e58f7.png"
 		},
 		{
 			"number": 5,
-			"title": "AIを推進する政策がAIによって生成されていたことが判明したため撤回される",
-			"url": "https://gigazine.net/news/20260501-ai-policy-withdraw/",
-			"note": "南アフリカのAI政策草案に架空の参考文献が混入し撤回",
-			"image": "https://i.gzn.jp/img/2026/05/01/ai-policy-withdraw/00.jpg"
+			"title": "Pentagon Signs AI Deals With Everyone Except Anthropic",
+			"url": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic",
+			"note": "米国防総省がAI契約をBig Tech7社と締結、Anthropicのみ除外",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 6,
-			"title": "Google Pixel 10a日本限定モデル「Isai Blue」5月20日発売──ヘラルボニーとコラボ",
-			"url": "https://smhn.info/202604-google-pixel-10a-iro-japan-exclusive-may-20",
-			"note": "256GB限定94,900円、特別壁紙とバンパーケース付属",
+			"title": "ゲーミングモニターが欲しい、でも普段使いでも活用したい方に本気でオススメ「GigaCrysta S LCD-GDU271JLAQD」",
+			"url": "https://news.yahoo.co.jp/articles/1124c98a178111a0f1daad586dc7bd876e4eb8fc",
+			"note": "4K動画と超高速FHDを両立する万能ゲーミングモニターレビュー",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000007-ascii-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
+			"title": "IBM Granite 4.1シリーズ公開——プロンプト追従とツール呼び出しに優れたオープンAIモデル",
+			"url": "https://gigazine.net/gsc_news/en/20260430-ibm-granite-4-1/",
+			"note": "IBMがGranite 4.1をオープン公開、視覚・音声・安全性モデルも同時リリース",
+			"image": ""
+		},
+		{
+			"number": 8,
+			"title": "スマホなし4年 通信困難者の実態",
+			"url": "https://news.yahoo.co.jp/articles/1b4906eca7105754b150834282cca208fe920406",
+			"note": "スマホを持てない人々の生活実態を取材したルポ",
 			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 7,
-			"title": "憲法改正「賛成」57％…読売世論調査",
-			"url": "https://news.yahoo.co.jp/articles/e3d25924d1fcbd80b82414075a50a7c4585febd9",
-			"note": "高市首相の任期中に改憲議論進展に54%が期待",
-			"image": "https://s.yimg.jp/images/news-web/versions/20260501-e73d385/all/images/ogp_default.png"
+			"number": 9,
+			"title": "時代に合わせ憲法更新すべき——高市首相が憲法記念日にメッセージ",
+			"url": "https://news.yahoo.co.jp/pickup/6578614",
+			"note": "憲法記念日に首相が憲法改正の必要性を改めて主張",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/3/aa0ba99396268e710b06c05285cd269df20132b9bb08833fae207efaa5817a0b.jpg"
 		},
 		{
-			"number": 8,
-			"title": "元号「平成」誰が考えたのか、37年経ても秘密のまま　開示文書でも核心は黒塗り",
-			"url": "https://news.yahoo.co.jp/articles/0687290b2f34e3c4a5077163596e0a89392f05c2",
-			"note": "情報開示請求するも考案者名は依然非公開",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00020378-bengocom-000-1-view.jpg?exp=10800"
+			"number": 10,
+			"title": "高市首相、ガソリン価格「半額」アピールに大ブーイング——補助金の原資は税金",
+			"url": "https://news.yahoo.co.jp/articles/3646b14082e5372e7b97f1db7d8c4bd39958e0bc",
+			"note": "ガソリン補助金を自身の手柄とアピールし批判を浴びる",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000005-jct-000-5-view.jpg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "共産・田村委員長が高市政権批判「台湾発言で中国との関係を最悪に」",
+			"url": "https://news.yahoo.co.jp/articles/033dc7c5484df5ac9bfdfaa650cb20e5ed0a508d",
+			"note": "護憲派集会で高市政権の対中・軍拡路線を批判",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-10243234-abemav-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "党首討論めど立たず——首相の対応が焦点に",
+			"url": "https://news.yahoo.co.jp/pickup/6578601",
+			"note": "国会での党首討論の開催見通し立たず与野党で駆け引き",
+			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "イランが戦闘終結に向け14項目の提案を提示　進展は依然不透明",
+			"number": 13,
+			"title": "イランが戦闘終結に向け14項目の提案を提示——進展は依然不透明",
 			"url": "https://news.yahoo.co.jp/articles/207be2bdb6218b25095cc1a7d65aac0e0b5191af",
-			"note": "制裁解除・凍結資産返還など要求、30日以内決着を主張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-07301718-jnn-000-5-view.jpg?exp=10800"
+			"note": "イランが米国に攻撃停止・海上封鎖解除など14項目を提案",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-07301718-jnn-000-6-view.jpg?exp=10800"
 		},
 		{
-			"number": 10,
-			"title": "在独米軍の削減、「5000人をはるかに上回る規模」に　トランプ氏が表明",
+			"number": 14,
+			"title": "在独米軍の削減、「5000人をはるかに上回る規模」にトランプ氏が表明",
 			"url": "https://news.yahoo.co.jp/articles/e05e7784e2bac2116810abb97f7e2dc2d144e778",
-			"note": "共和党内からも「プーチンへの誤ったシグナル」と懸念",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-35247135-cnn-000-1-view.jpg?exp=10800"
+			"note": "トランプ大統領がドイツ駐留米軍の大規模撤退を明言",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-35247135-cnn-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 11,
-			"title": "中国、イラン産原油購入による中国企業への米制裁を拒否",
-			"url": "https://news.yahoo.co.jp/articles/8d3a475da89b64a8d59a5703d203712cb77517e9",
-			"note": "中国商務省「認めず、実施せず、従わない」と声明",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000006-jij_afp-000-2-view.jpg?exp=10800"
+			"number": 15,
+			"title": "アウンサンスーチー氏が中国外相と非公式面会——中国が処遇巡り軍政権に働きかけか",
+			"url": "https://news.yahoo.co.jp/articles/9b252435ff900578659a7ba2c81f4e22b1d783c4",
+			"note": "拘束中のスーチー氏と中国外相が面会、ミャンマー情勢に動き",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-01139353-fnn-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 12,
-			"title": "トランプ氏、EU自動車関税を25%に引き上げ表明「約束守ってない」",
-			"url": "https://www.nikkei.com/article/DGXZQOGN01BP00R00C26A5000000/",
-			"note": "貿易合意不履行を理由にEU車関税を大幅引き上げ",
-			"image": ""
+			"number": 16,
+			"title": "サムスン相続税1兆円超——会長らが史上最高額を5年で完納＝韓国",
+			"url": "https://news.yahoo.co.jp/articles/08b588214599bf3d849bfa04e403337b6d0544c7",
+			"note": "サムスン一族が韓国史上最高額の相続税約1兆円を完納",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00521151-yonh-000-1-view.jpg?exp=10800"
 		}
 	]
 }
