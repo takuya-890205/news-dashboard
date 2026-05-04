@@ -2,72 +2,99 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "非エンジニアが数百万円級のツールを開発　画像＆動画生成AIツールがゼロから作れた話",
-			"url": "https://news.yahoo.co.jp/articles/0b621c37b75adc7a47dd7d994552a26eb4ef8a70",
-			"note": "Claude Codeで非エンジニアが1ヶ月で本格AIツール開発",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000003-ascii-000-1-view.png?fmt=jpeg&q=85&exp=10800"
+			"title": "日本の「安全なAI」、新興国や途上国に…デジタル庁が行政用独自システムを海外展開へ",
+			"url": "https://news.yahoo.co.jp/articles/f699b1006c4e1367c042da4d0e83c98658e6e27f",
+			"note": "デジタル庁の行政AI「源内」を新興国に展開へ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000015-yom-000-6-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
+			"title": "AIが数学の未解決問題を相次ぎ解く…リーマン予想もいずれ、高まる思考力",
+			"url": "https://news.yahoo.co.jp/articles/5054ebb0f827712825e610d37dfa4028f8c0e226",
+			"note": "50年以上未解決の数学難問をAIが続々解決",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000001-yonnana-000-8-view.jpg?exp=10800"
+		},
+		{
+			"number": 3,
+			"title": "【2026年5月第1週】今週のAIニュース Microsoft-OpenAI契約再構築と米中AI地政学の本格化",
+			"url": "https://www.shindanshi-shinblog.com/entry/2026/05/03/070000",
+			"note": "MS-OpenAI独占解消、ビッグテック4社AI投資116兆円",
+			"image": "https://cdn-ak.f.st-hatena.com/images/fotolife/Y/Y_Shin/20260502/20260502223110.jpg"
+		},
+		{
+			"number": 4,
 			"title": "「愛」のメールが世界を襲った日──生成AIが武装する2026年の脅威",
 			"url": "https://innovatopia.jp/cyber-security/cyber-security-news/100282/",
-			"note": "ILOVEYOUウイルスから26年、生成AIがサイバー攻撃を高度化",
+			"note": "AI生成フィッシングの脅威が急増、クリック率4倍超",
 			"image": "https://innovatopia.jp/wp-content/uploads/2026/05/TaTsu_A_symbolic_editorial_illustration_in_cinematic_169_form_1e30ddc1-4d4f-4701-87a3-424c6eeb77b7_3.png"
 		}
 	],
-	"デジタルガジェット": [
-		{
-			"number": 3,
-			"title": "Apple Watchを使う時の最適解は「常時点灯オフ」じゃないか？という話",
-			"url": "https://news.yahoo.co.jp/articles/2a44bf70fb08c83895ad80f438f88c982e69eec3",
-			"note": "常時点灯オフでバッテリー2日持ちの運用提案",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00010000-dime-000-1-view.jpg?exp=10800"
-		}
-	],
+	"デジタルガジェット": [],
 	"政治（日本）": [
 		{
-			"number": 4,
+			"number": 5,
 			"title": "「退陣、退陣、高市政権」改憲反対集会に5万人、東京有明",
 			"url": "https://news.yahoo.co.jp/articles/d7ee34a5566a5677bc3a6ad73f0316ec04764133",
-			"note": "憲法記念日翌日、護憲派が大規模集会を開催",
+			"note": "東京有明で改憲反対の大規模集会が開催",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000024-san-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "首相「憲法は時代に合わせ更新すべき」改憲派集会にビデオメッセージ",
+			"url": "https://news.yahoo.co.jp/articles/8e1ec3276be3d1797fc023d185e5ba33753160c8",
+			"note": "高市首相が改憲派集会で改憲への意欲表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000066-kyodonews-000-9-view.jpg?exp=10800"
+		},
+		{
+			"number": 7,
+			"title": "憲法改正「期限設けず議論」47% 世論調査、高市首相は「来春」",
+			"url": "https://www.nikkei.com/article/DGXZQOUA3079R0Q6A430C2000000/",
+			"note": "世論調査で慎重議論を求める声が多数",
+			"image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2976275003052026000000-2.jpg"
+		},
+		{
+			"number": 8,
+			"title": "党首討論5月の開催なるか 野党要求、高市首相の対応焦点",
+			"url": "https://news.yahoo.co.jp/articles/7434f6fcf2e0f54b41d43b33fe437af37df33dc7",
+			"note": "野党が5月の党首討論開催を強く要求",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000050-kyodonews-000-11-view.jpg?exp=10800"
+		},
+		{
+			"number": 9,
+			"title": "日豪、サイバー防御やエネルギー分野で協力へ…高市首相4日に首脳会談",
+			"url": "https://news.yahoo.co.jp/articles/478f710ede2d7d76daf3614d8ba0de5dd41062ff",
+			"note": "高市首相が豪州訪問、サイバー・エネルギーで協力",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000147-yom-000-14-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 5,
-			"title": "【速報】トランプ大統領 ペルシャ湾の船舶をホルムズ海峡通過させる新オペレーション開始を発表",
-			"url": "https://news.yahoo.co.jp/articles/b0841c1dc896d2b6698d71fc9943bf2f10c9631d",
-			"note": "「プロジェクト・フリーダム」で封鎖突破を支援",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-07301814-jnn-000-3-view.jpg?exp=10800"
+			"number": 10,
+			"title": "ホルムズ海峡から船舶誘導 米軍が4日開始とトランプ氏",
+			"url": "https://news.yahoo.co.jp/articles/52de4ff58acd71bf1aab9d1da513c46da06d9ce6",
+			"note": "トランプ氏がホルムズ海峡の船舶誘導開始を発表",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000019-kyodonews-000-9-view.jpg?exp=10800"
 		},
 		{
-			"number": 6,
-			"title": "米国人62％、トランプ大統領に背を向けた…1・2期通じて最悪の支持率",
-			"url": "https://news.yahoo.co.jp/articles/14b5df77578bb55b6d5e7e43133cdad557c2a6c6",
-			"note": "不支持62%、イラン対応で支持離れが加速",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000006-cnippou-000-1-view.jpg?exp=10800"
+			"number": 11,
+			"title": "米財務長官、イランの原油生産停止「来週にも起こり得る」海上封鎖の効果を強調",
+			"url": "https://news.yahoo.co.jp/articles/93e276cb3ddb2955ed97e7d94356bccdc07f967e",
+			"note": "海上封鎖でイラン原油貯蔵施設が満杯に近づく",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-01139574-fnn-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "戦闘終結協議へ「米が返答」とイラン外務省",
-			"url": "https://news.yahoo.co.jp/articles/9f07d2079122c4f014ace499ea467d5858223a25",
-			"note": "イランの14項目提案に米国が��答、交渉継続",
+			"number": 12,
+			"title": "中国での日本留学イベントが直前に延期 関係者「当局から圧力」",
+			"url": "https://news.yahoo.co.jp/articles/772615def5b17ca7bf911b3befbb9ea3795b2dbb",
+			"note": "中国当局の圧力で日本留学説明会が延期",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000006-asahi-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "トランプ氏、イランの最新の和平案を検討へ 攻撃再開を排除せず",
+			"url": "https://www.bloomberg.com/jp/news/articles/2026-05-03/TEFS91T96OSI00",
+			"note": "イラン14項目提案を検討も攻撃再開の可能性残す",
 			"image": ""
-		},
-		{
-			"number": 8,
-			"title": "イランが「近く油井停止」　米財務長官、輸送阻止で",
-			"url": "https://news.yahoo.co.jp/articles/c4ccb18f758b0f2e7d0c432346cc3d34251dd9cc",
-			"note": "港湾封鎖で貯蔵満杯、イラン産油停止目前",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000003-kyodonews-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 9,
-			"title": "アメリカ中間選挙まで半年　野党・民主党が与党・共和党を５Pリード",
-			"url": "https://news.yahoo.co.jp/articles/34f2e7237d545eb6a64acd36edca74bd97d71a60",
-			"note": "トランプ支持率37%、11月選挙へ逆風強まる",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-07301809-jnn-000-2-view.jpg?exp=10800"
 		}
 	]
 }
