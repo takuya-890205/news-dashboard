@@ -2,114 +2,114 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "OpenAI「GPT-5.5」提供開始　少ないトークンで歴代最高のコーディング性能",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2104415.html",
-			"note": "4月23日リリース、エージェント型AIとして大幅進化",
-			"image": ""
+			"title": "アンソロピック、評価額141兆円でOpenAI超えへ──人類史上最大の資金調達ラウンド",
+			"url": "https://news.yahoo.co.jp/articles/a61ae527c370c2e3ec86fc617f4cb2eeb6649ed5",
+			"note": "Anthropicが評価額9000億ドルでの資金調達を準備、OpenAI超えへ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00096885-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "Microsoft Agent 365が一般提供開始　企業のAIエージェント管理基盤",
-			"url": "https://note.com/kawaidesign/n/n70d891dd67cf",
-			"note": "5月1日GA、月$15でエージェント統制を実現",
-			"image": ""
+			"title": "22歳の開発者が「Claude Mythos」を推定・構築、公開プロジェクト「OpenMythos」開始",
+			"url": "https://news.yahoo.co.jp/articles/a84fc2d45824179940ce343b2f46b2e9c86d488a",
+			"note": "独学開発者が2週間でClaude Mythosを再現、AI競争優位性の消滅を示唆",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00096827-forbes-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "三井住友銀行とSakana AI、複数AIエージェントで提案書自動生成アプリを導入",
-			"url": "https://www.sbbit.jp/article/fj/185275",
-			"note": "1〜2週間の提案書作成を数時間に短縮",
+			"title": "Microsoft Agent 365が一般提供開始──企業AIエージェント管理の新時代へ",
+			"url": "https://uravation.com/media/microsoft-365-e7-agent-365-ga-complete-guide-2026/",
+			"note": "MS365 E7と同時リリース、エージェント統制基盤が本番化",
 			"image": ""
 		},
 		{
 			"number": 4,
-			"title": "生成AI利用料はいくらに？2026年5月の主要8サービス料金早見表",
-			"url": "https://news.yahoo.co.jp/articles/5c5bca1739a515591b280b6426dbea100148ea1c",
-			"note": "ChatGPT Pro新設、Claude Opus 4.7投入など変化続く",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000004-binsiderl-000-1-view.jpg?exp=10800"
-		},
-		{
-			"number": 5,
-			"title": "AIを推進する政策がAI生成と判明し撤回される",
-			"url": "https://gigazine.net/news/20260501-ai-policy-withdraw/",
-			"note": "南アフリカのAI政策案、参考文献がAI捏造",
-			"image": "https://i.gzn.jp/img/2026/05/01/ai-policy-withdraw/00.jpg"
+			"title": "米国防総省、8社のAI企業と機密ネットワーク展開契約を締結──Anthropicは拒否",
+			"url": "https://xenospectrum.com/pentagon-ai-classified-network-anthropic/",
+			"note": "OpenAI・Google・MSら8社が軍事AI展開に合意、Anthropicは倫理的理由で不参加",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 6,
+			"number": 5,
 			"title": "「春のヘッドフォン祭 2026」で見つけた注目の新製品、発売が待ち遠しいヘッドホンたち",
-			"url": "https://weekly.ascii.jp/elem/000/004/399/4399993/2/",
-			"note": "finalやGRADOなど高音質新製品が続々登場",
+			"url": "https://news.yahoo.co.jp/articles/2903764fb7fcc7b2fcec40f0506f7d123a4f5245",
+			"note": "FINAL DX10000 CLやAudeze LCD-5sなど注目ヘッドホン多数出展",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000001-ascii-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "春のヘッドフォン祭 2026で見つけた注目イヤホン＆プレーヤー新製品、気になった音",
+			"url": "https://weekly.ascii.jp/elem/000/004/399/4399996/5/",
+			"note": "Questyle QCC Dongle Pro 2やNoise Master Buds 2など新製品レビュー",
 			"image": ""
 		},
 		{
 			"number": 7,
-			"title": "日本の「安全なAI」、新興国や途上国に…デジタル庁が行政用独自システムを開発",
-			"url": "https://news.yahoo.co.jp/articles/f699b1006c4e1367c042da4d0e83c98658e6e27f",
-			"note": "行政AIシステムを海外展開する方針を発表",
-			"image": ""
-		},
-		{
-			"number": 8,
-			"title": "米国防総省、米AI企業8社と契約締結　軍作戦など機密業務に導入",
-			"url": "https://news.yahoo.co.jp/articles/d68b9d3b6e9291af1ffc29322063e2d00a622b97",
-			"note": "国防分野でのAI活用が本格化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00000009-asahi-000-2-view.jpg?exp=10800"
+			"title": "アップル、11色の虹色に輝く2026年版「プライドエディション スポーツループ」を発売",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2106495.html",
+			"note": "Apple Watch用新バンド、5月9日発売・価格6800円",
+			"image": "https://asset.watch.impress.co.jp/img/ktw/list/2106/495/list.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 8,
+			"title": "憲法改正 最速でいつ？ 首相「発議のメドを来春までに」",
+			"url": "https://news.yahoo.co.jp/articles/23066b590bd5a2b444deda19d33e2d844c05d145",
+			"note": "高市首相が憲法改正に意欲、来春までに発議の目処を表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-04173816-nnn-000-4-view.jpg?exp=10800"
+		},
+		{
 			"number": 9,
-			"title": "石破前総理、憲法9条2項の削除を主張「戦力不保持はまやかし」",
+			"title": "石破前総理 憲法9条2項の削除を主張「自衛隊が軍隊じゃないはまやかし」",
 			"url": "https://news.yahoo.co.jp/articles/578dabeb151af06a193601b043cc7331321339aa",
-			"note": "憲法記念日に改正議論が活発化",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/5/099f50d4a449af13e616031a6627bc42526f0ea54a54bc75978e260fe9fc088d.jpg"
+			"note": "9条1項は維持しつつ、2項の戦力不保持規定の削除を主張",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-90026831-kantelev-000-11-view.jpg?exp=10800"
 		},
 		{
 			"number": 10,
-			"title": "選挙時の誹謗中傷対策　与野党が連休明けに法改正検討入り",
+			"title": "選挙時の誹謗中傷対策 与野党が連休明けに法改正検討入り",
 			"url": "https://news.yahoo.co.jp/articles/b16b1ec1ec5025078e8193693e762a6ea19d70ec",
-			"note": "事実認定の「即時性」が焦点に",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2022/1/21/33d875c1828d7fdc076121225eb4cacda468630fff3aea15980cc5e0dc185eca.jpg"
-		},
-		{
-			"number": 11,
-			"title": "高市首相の新外交方針「力の時代」に法の支配維持めざす",
-			"url": "https://www.nikkei.com/article/DGXZQOUA010Z10R00C26A5000000/",
-			"note": "FOIP10周年を機に同志国と連携強化",
-			"image": ""
+			"note": "SNS上の偽情報対策で「事実認定の即時性」が焦点に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000155-san-000-2-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
+			"number": 11,
+			"title": "132人死亡の中国旅客機墜落、故意の疑い強まる──操縦席のスイッチ操作をデータが記録",
+			"url": "https://news.yahoo.co.jp/articles/86311fecc0e688d6650d6d4d6326ebb5a4d3ec9f",
+			"note": "2022年の墜落事故、意図的に燃料供給停止の可能性が浮上",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-35247157-cnn-000-2-view.jpg?exp=10800"
+		},
+		{
 			"number": 12,
-			"title": "トランプ氏、イランとの戦争はあと2〜3週間続く可能性と発言",
-			"url": "https://news.yahoo.co.jp/articles/b60cabf68d1ec206b793e9154384e1dc59288b75",
-			"note": "濃縮ウランに関する要求を改めて表明",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/5/462dfde3786c2d6a31a8f103e655b284fcd3606d312494e7b59a0abf9d921ca0.jpg"
+			"title": "トランプ氏「世論調査はフェイク」 イラン戦争支持32％との結果受け",
+			"url": "https://news.yahoo.co.jp/articles/f2f4a3ae1ebb2d8f9ba8deac085aa79c782c1773",
+			"note": "米国民のイラン戦争不支持が拡大、大統領は調査結果を否定",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-35247156-cnn-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 13,
-			"title": "トランプ氏「イランが韓国貨物船攻撃」停戦維持が不透明に",
-			"url": "https://news.yahoo.co.jp/articles/f0e0c5e35e6780208dc905e4ed47f59f7a5d4d45",
-			"note": "UAE15発被弾、イラン小型船7隻撃沈",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/5/40f45e18adbc39f0f14f0d97c6573e3b6a5fa0668273714e37261d22d48c9ee0.jpg"
+			"title": "トランプを“敗者”にしてしまったホワイトハウス投稿に指摘相次ぐ",
+			"url": "https://news.yahoo.co.jp/articles/96804b22d34d844bd2404480d89b68284600adfc",
+			"note": "UNOカード画像の投稿がゲームルール上「負け」を意味し炎上",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00010002-huffpost-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 14,
-			"title": "ドイツ東部ライプチヒで車が群衆に突入、2人死亡　無差別殺傷の疑い",
-			"url": "https://news.yahoo.co.jp/articles/a0e8f7dee1e7a52cc3c7b694f0163db1920d7c32",
-			"note": "33歳ドイツ国籍の男を現場で拘束",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/5/9773b63f4ce0a4acc54cfbe2d1f576f57517691df54966e132dbe55d9c14bdaf.jpg"
+			"title": "乗客の1人は日本人 「ハンタウイルス」集団感染疑いのクルーズ船",
+			"url": "https://news.yahoo.co.jp/articles/32797184b8d82f13f318cf18307ae12125bc02e4",
+			"note": "大西洋のクルーズ船で3人死亡、約150人の乗客に日本人含む",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00000010-jij-000-38-view.jpg?exp=10800"
 		},
 		{
 			"number": 15,
-			"title": "米ホワイトハウス近くで銃撃戦　大統領警護隊と武装した男性",
-			"url": "https://news.yahoo.co.jp/articles/f395f403a5e466f128bb48021882174a235dba98",
-			"note": "ワシントンDC中心部でシークレットサービスが応戦",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/5/584532abbbf04471088908943564f9dc25bb5d7de71106c43ea4d49c6e908693.jpg"
+			"title": "カンボジア詐欺拠点で日本人男性を保護 国境地帯で誘拐か",
+			"url": "https://news.yahoo.co.jp/articles/bb4c5d78f5010b5f871fcdc19c925f3229b01742",
+			"note": "タイ国境で誘拐され特殊詐欺拠点に監禁、人身取引の被害者",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-07302124-jnn-000-3-view.jpg?exp=10800"
 		}
 	]
 }
