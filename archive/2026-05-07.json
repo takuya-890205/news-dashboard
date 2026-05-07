@@ -2,100 +2,114 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "AnthropicがSpaceXとの提携を発表、Claude Code＆APIの利用制限を引き上げ",
-			"url": "https://gigazine.net/news/20260507-anthropic-deal-with-spacex-raises-claude-code-limits/",
-			"note": "SpaceXの22万基GPU基盤を活用しClaude強化",
-			"image": "https://i.gzn.jp/img/2026/05/07/anthropic-deal-with-spacex-raises-claude-code-limits/00_m.jpg"
+			"title": "「GPT-5.5 Instant」が登場、ChatGPTの新しいデフォルトモデルに",
+			"url": "https://gigazine.net/news/20260507-openai-gpt-5-5-instant/",
+			"note": "ハルシネーション大幅削減、画像理解・STEM精度が向上",
+			"image": "https://i.gzn.jp/img/2026/05/07/openai-gpt-5-5-instant/00_m.png"
 		},
 		{
 			"number": 2,
-			"title": "【神機能】Claude Codeで業務が激変…たった4ステップで実現する自動化術",
-			"url": "https://news.yahoo.co.jp/articles/d7bf476c95bfe9ce5c3c26797e280a03ef2a1b5e",
-			"note": "Claude Codeの実践的な業務自動化活用法を解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00185118-biz_plus-000-1-view.jpg?exp=10800"
+			"title": "AnthropicがSpaceXと提携、Claude CodeとAPIの利用制限を引き上げ",
+			"url": "https://gigazine.net/news/20260507-anthropic-deal-with-spacex-raises-claude-code-limits/",
+			"note": "SpaceXの22万基超GPU活用で計算能力を大幅拡張",
+			"image": "https://i.gzn.jp/img/2026/05/07/anthropic-deal-with-spacex-raises-claude-code-limits/00_m.jpg"
 		},
 		{
 			"number": 3,
-			"title": "AI活用広告で「他社アニメに類似」の指摘、掲出企業がお詫びと撤去表明",
-			"url": "https://news.yahoo.co.jp/articles/6b8717d88f64819b46d9bcb02c1506836d3a3181",
-			"note": "AI生成広告が既存アニメに酷似し撤去に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00070500-otakulab-000-1-view.jpg?exp=10800"
+			"title": "小型AIで下書きを生成して大型AIを爆速化する「マルチトークン予測」をGoogleが発表",
+			"url": "https://gigazine.net/news/20260507-multi-token-prediction/",
+			"note": "小型モデルでドラフト生成し大型モデルの推論を高速化",
+			"image": "https://i.gzn.jp/img/2026/05/07/multi-token-prediction/00.png"
+		},
+		{
+			"number": 4,
+			"title": "GoogleがブラウザAIエージェント「Project Mariner」をひっそり終了",
+			"url": "https://gigazine.net/news/20260507-google-shuts-down-project-mariner/",
+			"note": "注目されていたブラウザ操作AIが静かにシャットダウン",
+			"image": "https://i.gzn.jp/img/2026/05/07/google-shuts-down-project-mariner/00_m.png"
+		},
+		{
+			"number": 5,
+			"title": "金融向けAIエージェント10種をAnthropicが発表",
+			"url": "https://news.yahoo.co.jp/articles/249d02dc20e5205d59fccb65b1b8b62cf17cce51",
+			"note": "銀行・保険・資産運用向けに専門AIエージェントを投入",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/6/8136dd0af8a9d6def04a7caa2557e72715bf8db795c7335e7bc8bd1b97cc02cc.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "アップル、一部のiPhone 16 / 15 Pro購入者に総額390億円を支払い",
-			"url": "https://news.yahoo.co.jp/articles/acc5cb77796c1785ed526797d1a90a7eb197ff12",
-			"note": "Siri集団訴訟でAppleが巨額和解金",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-35247176-cnetj-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 5,
-			"title": "透明ボディーにLED、空冷ファンまで――背面デザインが楽しいスマホ最新事情",
-			"url": "https://news.yahoo.co.jp/articles/6480a46355fdf9a8d2c0469dc8de6f7ba03c5a6b",
-			"note": "個性派スマホの背面デザイントレンド紹介",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00010004-realsound-000-3-view.jpg?exp=10800"
-		},
-		{
 			"number": 6,
-			"title": "Steam ControllerのCADファイルがクリエイティブ・コモンズで公開",
-			"url": "https://gigazine.net/news/20260507-steam-controller-cad-creative-commons/",
-			"note": "Valveがハードウェア設計をオープンソース化",
-			"image": "https://i.gzn.jp/img/2026/05/07/steam-controller-cad-creative-commons/00.png"
+			"title": "Bluetooth Core 6.3の技術概要が発表、測距性能向上と消費電力削減",
+			"url": "https://gigazine.net/news/20260507-bluetooth-core-6-3/",
+			"note": "Bluetooth SIGが次世代規格を発表、精度と省電力が改善",
+			"image": "https://i.gzn.jp/img/2026/05/07/bluetooth-core-6-3/00.jpg"
 		},
 		{
 			"number": 7,
-			"title": "Edgeは全パスワードをメモリ上に平文保持。研究者の指摘にMicrosoftは「仕様」",
-			"url": "https://news.yahoo.co.jp/articles/0925182446304ef2fcd9f572c929938cbfb9195e",
-			"note": "Edgeのパスワード管理に深刻なセキュリティ懸念",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000001-imppcw-000-1-view.jpg?exp=10800"
+			"title": "「DAEMON Tools」にマルウェア混入、1カ月近く気づかれず公式配布",
+			"url": "https://gigazine.net/news/20260507-daemon-tool-malware-for-a-month/",
+			"note": "4月8日頃から公式インストーラーに混入し約1ヶ月検知されず",
+			"image": "https://i.gzn.jp/img/2026/05/07/daemon-tool-malware-for-a-month/00_m.png"
+		},
+		{
+			"number": 8,
+			"title": "アップル、11色の虹色に輝く2026年版「プライドエディション スポーツループ」を発売",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2106495.html",
+			"note": "Apple Watch向け、40/42/46mm対応で6,800円",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2106/495/02.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
-			"title": "日経平均株価一時3000円高、初の6万2000円台 中東衝突の収束期待",
-			"url": "https://www.nikkei.com/article/DGXZQOUB070FT0X00C26A5000000/",
-			"note": "AI・半導体株急騰で歴史的高値を更新",
-			"image": ""
+			"number": 9,
+			"title": "再審見直し巡る自民議論 結論出ず",
+			"url": "https://news.yahoo.co.jp/articles/5d686c0a3af958f87fb50b44c97237c953349edf",
+			"note": "再審制度改正に向けた自民党内の議論が難航",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/7/ce5433654a804023a3ef2e66af6495c52a0caea1ffeba1626cc433318727e3a8.jpg"
 		},
 		{
-			"number": 9,
-			"title": "自民党・山田宏議員、立憲民主党本部の国旗掲揚を「酷い」と批判し物議",
-			"url": "https://news.yahoo.co.jp/articles/e107c4e264462045e1788eeae8439cb44ce072f4",
-			"note": "国旗掲揚方法を巡り与野党で応酬",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000015-jisin-000-4-view.jpg?exp=10800"
+			"number": 10,
+			"title": "憲法9条改正の壁「不安」どう議論",
+			"url": "https://news.yahoo.co.jp/expert/articles/f7c59d711af10201d9d6a383cea5672e043ecb75",
+			"note": "改憲論議の課題と国民の不安感を分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takahashikosuke/02617730/title-1778079894473.jpeg?exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "米政府、新AIモデルを公開前に事前審査へ",
+			"url": "https://news.yahoo.co.jp/articles/0f3331b7f1af84509e19bb0e24fdad1215efdb5f",
+			"note": "Microsoft・Google・xAIが安全保障上の審査に合意",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/5/c2e10f565295f4b2db33446bce2f6447ba6acb75a5b2835194766e299ffa0df7.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 10,
-			"title": "中国の主要大学が日本への交換留学生派遣を停止、各校が政府の意向を忖度",
-			"url": "https://news.yahoo.co.jp/articles/27eda17203d319a6d07831f2a6bc2a9da13cfcb1",
-			"note": "中国各大学が日本留学を一斉に中止",
-			"image": ""
-		},
-		{
-			"number": 11,
-			"title": "オバマ氏、「大統領になればうまくやるはず」とトランプ大統領を間接的に批判",
-			"url": "https://news.yahoo.co.jp/articles/e1bbc20d316a5185d825f30d413e63a5af7c6c98",
-			"note": "オバマ氏がイベントで皮肉交じりに言及",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000016-cnippou-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 12,
-			"title": "夕食会銃撃、対イラン戦争が動機か",
-			"url": "https://news.yahoo.co.jp/articles/8a33969d5f1a812c38c1ed463ffb11aaf23bdbf9",
-			"note": "米国内銃撃事件の背景にイラン問題",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000024-reut-000-1-view.jpg?exp=10800"
+			"title": "ロシア、各国公館にキーウ退避警告",
+			"url": "https://news.yahoo.co.jp/articles/ca30a92c949d8e326fc4b75622b6e877365e4b0e",
+			"note": "5月9日戦勝記念日に向け大規模報復攻撃を示唆",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/7/2cb73a146c500c8b5dff9ae1308265926209b27cf7aeb65952d65b16ec304e1f.jpg"
 		},
 		{
 			"number": 13,
-			"title": "ロシア外務省、キエフからの外交官避難を各国に呼びかけ",
-			"url": "https://sputniknews.jp/20260507/22598774.html",
-			"note": "ウクライナ情勢の緊張がさらに高まる",
-			"image": "https://cdn1.img.sputniknews.jp/img/07ea/05/07/22598557_0:0:1200:675_1920x0_80_0_0_6f3b68236a49449559c442ad35008c97.jpg"
+			"title": "米財務長官、5/11から訪日で調整 高市首相と面会へ",
+			"url": "https://news.yahoo.co.jp/articles/76ecd8c7f086b5c6e843937bbcd50dd3b93584bb",
+			"note": "ベセント財務長官が11〜13日の日程で訪日予定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/7/4780267c7ba52bfc5bb6fa4f6ee1908484b57bed862445627252e5dc29750d8c.jpg"
+		},
+		{
+			"number": 14,
+			"title": "夕食会銃撃事件、対イラン戦争が動機か",
+			"url": "https://news.yahoo.co.jp/articles/8a33969d5f1a812c38c1ed463ffb11aaf23bdbf9",
+			"note": "米国土安全保障省がイラン戦争への反発を動機と示唆",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/7/314231b0bdea770d3c4d6b033f06f8613a114bb5750d239e46327dd7a62f4c5e.jpg"
+		},
+		{
+			"number": 15,
+			"title": "CNN創業者テッド・ターナー氏死去、87歳",
+			"url": "https://news.yahoo.co.jp/articles/134a5768bb21863f98a104de537d945f78a45aab",
+			"note": "24時間ニュース放送の先駆者が逝去",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/7/c79bb7f068a0d0beb51c28249929d7be4c07f9c9a00d0b9555fe6ad0560cd449.jpg"
 		}
 	]
 }
