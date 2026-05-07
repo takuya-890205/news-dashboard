@@ -2,24 +2,24 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「GAFAMとは違う」NEC副社長がアンソロピックに見た衝撃。AI時代にコンサルはどう生き残るのか",
-			"url": "https://news.yahoo.co.jp/articles/7359746abebd9b8761a1dac04d071d121300eb0c",
-			"note": "NEC×Anthropic協業の舞台裏と戦略を語る",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000002-binsiderl-000-1-view.jpg?exp=10800"
+			"title": "AnthropicがSpaceXとの提携を発表、Claude Code＆APIの利用制限を引き上げ",
+			"url": "https://gigazine.net/news/20260507-anthropic-deal-with-spacex-raises-claude-code-limits/",
+			"note": "SpaceXの22万基GPU基盤を活用しClaude強化",
+			"image": "https://i.gzn.jp/img/2026/05/07/anthropic-deal-with-spacex-raises-claude-code-limits/00_m.jpg"
 		},
 		{
 			"number": 2,
-			"title": "AI活用広告で「他社アニメに類似」の指摘、掲出企業がお詫びと撤去表明",
-			"url": "https://news.yahoo.co.jp/articles/6b8717d88f64819b46d9bcb02c1506836d3a3181",
-			"note": "生成AIによるアニメ風広告が著作権問題に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00070500-otakulab-000-1-view.jpg?exp=10800"
+			"title": "【神機能】Claude Codeで業務が激変…たった4ステップで実現する自動化術",
+			"url": "https://news.yahoo.co.jp/articles/d7bf476c95bfe9ce5c3c26797e280a03ef2a1b5e",
+			"note": "Claude Codeの実践的な業務自動化活用法を解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00185118-biz_plus-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "【神機能】Claude Codeで業務が激変…たった\"4ステップ\"で実現する自動化術",
-			"url": "https://news.yahoo.co.jp/articles/d7bf476c95bfe9ce5c3c26797e280a03ef2a1b5e",
-			"note": "Claude Codeによる業務自動化の実践ガイド",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00185118-biz_plus-000-1-view.jpg?exp=10800"
+			"title": "AI活用広告で「他社アニメに類似」の指摘、掲出企業がお詫びと撤去表明",
+			"url": "https://news.yahoo.co.jp/articles/6b8717d88f64819b46d9bcb02c1506836d3a3181",
+			"note": "AI生成広告が既存アニメに酷似し撤去に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00070500-otakulab-000-1-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
@@ -27,61 +27,75 @@
 			"number": 4,
 			"title": "アップル、一部のiPhone 16 / 15 Pro購入者に総額390億円を支払い",
 			"url": "https://news.yahoo.co.jp/articles/acc5cb77796c1785ed526797d1a90a7eb197ff12",
-			"note": "Siri AI機能の遅延めぐる集団訴訟で和解",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-35247176-cnetj-000-1-view.jpg?exp=10800"
+			"note": "Siri集団訴訟でAppleが巨額和解金",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-35247176-cnetj-000-2-view.jpg?exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "「nubia Neo 5 GT」クイックフォトレビュー、5.3万円で買えるバランスのとれたゲーミングスマートフォン",
-			"url": "https://k-tai.watch.impress.co.jp/docs/review/2106354.html",
-			"note": "5万円台のコスパ良好ゲーミングスマホ登場",
-			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2106/354/cont109.jpg"
+			"title": "透明ボディーにLED、空冷ファンまで――背面デザインが楽しいスマホ最新事情",
+			"url": "https://news.yahoo.co.jp/articles/6480a46355fdf9a8d2c0469dc8de6f7ba03c5a6b",
+			"note": "個性派スマホの背面デザイントレンド紹介",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00010004-realsound-000-3-view.jpg?exp=10800"
 		},
 		{
 			"number": 6,
-			"title": "Unihertzの小型キーボードスマホ「Titan 2 Elite」。使い勝手はどう進化した？",
-			"url": "https://pc.watch.impress.co.jp/docs/column/hothot/2106612.html",
-			"note": "物理キーボード搭載の個性派スマホ最新作",
-			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2106/612/list.jpg"
+			"title": "Steam ControllerのCADファイルがクリエイティブ・コモンズで公開",
+			"url": "https://gigazine.net/news/20260507-steam-controller-cad-creative-commons/",
+			"note": "Valveがハードウェア設計をオープンソース化",
+			"image": "https://i.gzn.jp/img/2026/05/07/steam-controller-cad-creative-commons/00.png"
+		},
+		{
+			"number": 7,
+			"title": "Edgeは全パスワードをメモリ上に平文保持。研究者の指摘にMicrosoftは「仕様」",
+			"url": "https://news.yahoo.co.jp/articles/0925182446304ef2fcd9f572c929938cbfb9195e",
+			"note": "Edgeのパスワード管理に深刻なセキュリティ懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000001-imppcw-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 7,
-			"title": "障害者雇用「仕事与えられず放置」相次ぐ…業者に就労管理「丸投げ」の企業、在宅勤務で連絡も取らず",
-			"url": "https://news.yahoo.co.jp/articles/5028d63464ff4c9366bfe9a94c1e3a82bfb909a3",
-			"note": "障害者雇用の形骸化が深刻化する実態",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000051-yom-000-5-view.jpg?exp=10800"
-		},
-		{
 			"number": 8,
-			"title": "インテリジェンスの中核担う「国家情報局」700人規模で今夏発足へ…専門の「キャリア組」採用も導入",
-			"url": "https://news.yahoo.co.jp/articles/d5d8082be23497aa650a87631b980994dc4419bb",
-			"note": "日本版CIA構想が具体化、今夏に発足",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000001-yom-000-3-view.jpg?exp=10800"
+			"title": "日経平均株価一時3000円高、初の6万2000円台 中東衝突の収束期待",
+			"url": "https://www.nikkei.com/article/DGXZQOUB070FT0X00C26A5000000/",
+			"note": "AI・半導体株急騰で歴史的高値を更新",
+			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "検察抗告の原則禁止、「本則」明記で最終調整　再審見直し法案で自民",
-			"url": "https://news.yahoo.co.jp/articles/23bf415e252f5ef5aa12f77a9ecea3b81142c9cb",
-			"note": "冤罪救済へ再審制度の抜本見直しが前進",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000002-asahi-000-2-view.jpg?exp=10800"
+			"title": "自民党・山田宏議員、立憲民主党本部の国旗掲揚を「酷い」と批判し物議",
+			"url": "https://news.yahoo.co.jp/articles/e107c4e264462045e1788eeae8439cb44ce072f4",
+			"note": "国旗掲揚方法を巡り与野党で応酬",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000015-jisin-000-4-view.jpg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 10,
-			"title": "NY株価大幅値上がり 600ドルあまり上昇 原油は値下がり 米・イラン戦闘終結へ合意近い報道受け",
-			"url": "https://news.yahoo.co.jp/articles/09101a6cbf2ce5ff11408becb1227378f23366b8",
-			"note": "米イラン覚書合意間近で市場急騰",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-07302379-jnn-000-7-thumb.jpg?exp=10800"
+			"title": "中国の主要大学が日本への交換留学生派遣を停止、各校が政府の意向を忖度",
+			"url": "https://news.yahoo.co.jp/articles/27eda17203d319a6d07831f2a6bc2a9da13cfcb1",
+			"note": "中国各大学が日本留学を一斉に中止",
+			"image": ""
 		},
 		{
 			"number": 11,
-			"title": "米軍、イランの石油タンカー攻撃",
-			"url": "https://news.yahoo.co.jp/articles/d05c4b067c9c16cdacd0dd6243cf4dce7b279498",
-			"note": "ホルムズ海峡で緊張継続、タンカーに攻撃",
-			"image": ""
+			"title": "オバマ氏、「大統領になればうまくやるはず」とトランプ大統領を間接的に批判",
+			"url": "https://news.yahoo.co.jp/articles/e1bbc20d316a5185d825f30d413e63a5af7c6c98",
+			"note": "オバマ氏がイベントで皮肉交じりに言及",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000016-cnippou-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "夕食会銃撃、対イラン戦争が動機か",
+			"url": "https://news.yahoo.co.jp/articles/8a33969d5f1a812c38c1ed463ffb11aaf23bdbf9",
+			"note": "米国内銃撃事件の背景にイラン問題",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000024-reut-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "ロシア外務省、キエフからの外交官避難を各国に呼びかけ",
+			"url": "https://sputniknews.jp/20260507/22598774.html",
+			"note": "ウクライナ情勢の緊張がさらに高まる",
+			"image": "https://cdn1.img.sputniknews.jp/img/07ea/05/07/22598557_0:0:1200:675_1920x0_80_0_0_6f3b68236a49449559c442ad35008c97.jpg"
 		}
 	]
 }
