@@ -2,135 +2,149 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "ChatGPT内広告 日本でもテストへ",
-			"url": "https://news.yahoo.co.jp/articles/384e7ea57b3f55d8885a8da017c6934032c76b0a",
-			"note": "OpenAIがChatGPTに広告表示を検討、日本でも試験導入へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000035-zdn_n-000-1-view.jpg?exp=10800"
+			"title": "Microsoftが描く「定額＋従量課金」のAI新時代と、無制限のエッジAIへと向かうWindowsのゆくえ",
+			"url": "https://www.itmedia.co.jp/pcuser/articles/2605/08/news049.html",
+			"note": "MS、AI利用量に応じた新課金モデルを構想",
+			"image": "https://image.itmedia.co.jp/pcuser/articles/2605/08/cover_news049.jpg"
 		},
 		{
 			"number": 2,
-			"title": "ChatGPTがシェア4割を切る 急伸するClaude、安定のGemini――生成AI三極化の兆し",
-			"url": "https://www.itmedia.co.jp/enterprise/articles/2605/08/news033.html",
-			"note": "生成AI市場がChatGPT・Claude・Geminiの三極構造に変化",
-			"image": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_enterprise.gif"
-		},
-		{
-			"number": 3,
-			"title": "Googleの最新ローカルLLM「Gemma 4」は日本語うますぎ、でも無料",
-			"url": "https://news.yahoo.co.jp/articles/17d00f31c6422bfeddd5e87fddebb437e12de12a",
-			"note": "Google発の無料ローカルLLM「Gemma 4」が日本語性能で注目",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00000006-giz-000-2-view.jpg?exp=10800"
-		},
-		{
-			"number": 4,
 			"title": "生成AI、利用料はいくらになった？ 2026年5月の主要8サービス料金早見表",
 			"url": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
-			"note": "主要生成AIサービス8社の最新料金を比較整理",
+			"note": "主要8サービスの最新料金を一覧比較",
 			"image": "https://media.loom-app.com/loom/2026/04/30/a45394c8-cbf3-40d2-a4cc-a2c3219ea928/original.jpg?w=1200&h=630"
 		},
 		{
+			"number": 3,
+			"title": "約7億パラメータで大規模AIに迫る「ZAYA1-8B」が登場、AMD環境でトレーニング",
+			"url": "https://gigazine.net/news/20260508-zaya1-8b/",
+			"note": "小規模LLMが数学・コード推論で大規模モデル級の性能",
+			"image": "https://i.gzn.jp/img/2026/05/08/zaya1-8b/00.png"
+		},
+		{
+			"number": 4,
+			"title": "ドコモ、AIエージェント「SyncMe」発表 新金融グループ設立で成長加速",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2107317.html",
+			"note": "ドコモがAIエージェント事業に本格参入",
+			"image": "https://k-tai.watch.impress.co.jp/img/ktw/list/2107/317/PXL_20260508_044913228.jpg"
+		},
+		{
 			"number": 5,
-			"title": "Geminiアプリ、ChatGPTやClaudeからのチャット履歴とメモリーのインポート機能を提供開始",
-			"url": "https://helentech.jp/news-gemini-83828/",
-			"note": "GeminiがChatGPT・Claudeの履歴を取り込み可能に",
-			"image": "https://helentech.jp/wp-content/uploads/2026/03/Google-Gemini-import-memory-and-chats.webp"
+			"title": "三菱UFJ、OpenAIに続きグーグルとも提携。AIエージェントの二重提携で何が変わる？",
+			"url": "https://www.businessinsider.jp/article/2605-mufg-google-ai-agent-partnership/",
+			"note": "メガバンクがAIエージェント二重提携の狙い",
+			"image": "https://media.loom-app.com/loom/2026/05/07/215258b7-309b-49c7-a95c-0ff344dcedec/original.jpg?w=1200"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 6,
-			"title": "「Switch2」値上げを発表 初代も",
-			"url": "https://news.yahoo.co.jp/articles/ecd092144291368f5199824e91d080a865a9c336",
-			"note": "Nintendo Switch 2が1万円値上げ、5万9980円に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000019-gamespav-000-2-view.jpg?exp=10800"
+			"title": "Nintendo Switch 2が1万円値上げ、有料サブスクのNintendo Switch Onlineも値上げ",
+			"url": "https://gigazine.net/news/20260509-nintendo-switch-2-price-hike/",
+			"note": "Switch 2が発売前に1万円の大幅値上げ発表",
+			"image": "https://i.gzn.jp/img/2026/05/09/nintendo-switch-2-price-hike/00_m.jpg"
 		},
 		{
 			"number": 7,
-			"title": "ドコモ 値上げ「考えなければ」",
-			"url": "https://news.yahoo.co.jp/articles/eb3a6dd98262dc3169715a65d8599c5f3452ddef",
-			"note": "NTTドコモが料金値上げの可能性を示唆",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000009-impktw-000-4-view.jpg?exp=10800"
+			"title": "IntelがApple端末向けのチップの一部を製造することで両社が予備合意",
+			"url": "https://gigazine.net/news/20260509-apple-intel-preliminary-chip-making-agreement/",
+			"note": "Apple・Intel間でチップ製造の歴史的合意",
+			"image": "https://i.gzn.jp/img/2026/05/09/apple-intel-preliminary-chip-making-agreement/00.jpg"
 		},
 		{
 			"number": 8,
-			"title": "ソニーGがTSMCと戦略的提携へ",
-			"url": "https://news.yahoo.co.jp/articles/102f52bcc1e17ba8ab6132e07a16257bed4279cd",
-			"note": "ソニー半導体とTSMCが次世代イメージセンサーで提携",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-25327957-bloom_st-000-4-view.jpg?exp=10800"
+			"title": "ソニーセミコンとTSMC、次世代イメージセンサーで戦略的提携 合弁会社設立へ",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2107269.html",
+			"note": "ソニー・TSMC合弁で次世代センサー開発",
+			"image": "https://asset.watch.impress.co.jp/img/ktw/docs/2107/269/01_l.png"
 		},
 		{
 			"number": 9,
-			"title": "さらば9万円台のMac mini。256GB構成が消失、最安で12万4800円から",
-			"url": "https://www.gizmodo.jp/2026/05/mac-mini-256gb.html",
-			"note": "Mac miniの最安構成が消え、エントリー価格が大幅上昇",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/07/20260507minik00.jpg?w=1280"
+			"title": "なぜドコモは「値上げ」に踏み切れないのか？ 背景にある通信品質、5G設備投資の遅れ",
+			"url": "https://news.yahoo.co.jp/articles/5b3fa0aaa452788aa173cac5c27d0e2ab4cadab9",
+			"note": "ドコモ値上げ問題の背景を深掘り分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-00000031-zdn_m-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 10,
-			"title": "5月、それはペリアの季節。13日に向けXperia公式がカウントダウン開始",
+			"title": "5月13日に向けXperia公式がカウントダウン開始、3つのカメラが特徴的",
 			"url": "https://www.gizmodo.jp/2026/05/xperia-countdown.html",
-			"note": "ソニーが5月13日のXperia新製品発表をカウントダウン",
+			"note": "ソニー新型Xperia、5月13日発表へ",
 			"image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/08/20260508pek00.jpg?w=1280"
+		},
+		{
+			"number": 11,
+			"title": "Google Fitbit Air発表。画面なし/約1.6万円の軽量ヘルストラッカー",
+			"url": "https://pc.watch.impress.co.jp/docs/news/2106943.html",
+			"note": "画面なしの軽量ヘルストラッカーが登場",
+			"image": "https://pc.watch.impress.co.jp/img/pcw/list/2106/943/1.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 11,
+			"number": 12,
 			"title": "消費減税や改憲 世論はどう見る",
 			"url": "https://news.yahoo.co.jp/articles/45cfa9a612fa3ef2bab7f147e47dc21adb12989d",
-			"note": "消費税減税と憲法改正に対する最新の世論調査結果",
+			"note": "消費税・憲法改正への国民意識を調査",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-22648829-jnn-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 12,
-			"title": "「国の借金」1343兆円 過去最大",
-			"url": "https://news.yahoo.co.jp/articles/dd75ef65887d5e6404e0ddcf8bfdd9b2fc82b67e",
-			"note": "日本の国債残高が1343兆円に達し過去最大を更新",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000073-jij-000-14-view.jpg?exp=10800"
-		},
-		{
 			"number": 13,
-			"title": "政府訪露団 5月下旬に派遣の方針",
-			"url": "https://news.yahoo.co.jp/articles/206c8cff251f2cc79b83176443781d163b4b2c41",
-			"note": "日本政府がロシアへの訪問団を5月下旬に派遣へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000125-kyodonews-000-5-view.jpg?exp=10800"
+			"title": "会食苦手の高市首相 党内融和図る",
+			"url": "https://news.yahoo.co.jp/articles/8a9ac5f7f173a9a378b964e3b644cfdcfcacf5dd",
+			"note": "高市首相の独自スタイルで党内融和へ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000158-san-000-5-view.jpg?exp=10800"
 		},
 		{
 			"number": 14,
-			"title": "情報活動で仮装身分 検討へ調整",
-			"url": "https://news.yahoo.co.jp/articles/d55d3d63c4f4d24dcb46ee2197c006e121ae2d72",
-			"note": "情報機関職員の偽装身分使用を政府が検討",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000136-san-000-2-view.jpg?exp=10800"
+			"title": "基地反対運動に極左暴力集団 答弁",
+			"url": "https://news.yahoo.co.jp/articles/7063d28d88517e604a863fe4c51e5bbc679bb28d",
+			"note": "基地反対運動への政府見解が国会で議論",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-10244225-abemav-000-2-view.jpg?exp=10800"
+		},
+		{
+			"number": 15,
+			"title": "検事取り調べ映像 国が地裁に提出",
+			"url": "https://news.yahoo.co.jp/articles/692a34f42707879727c2f882728ae4ef1750ddb8",
+			"note": "検察取り調べの可視化で新たな動き",
+			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 15,
-			"title": "米軍 イラン石油タンカー2隻攻撃",
-			"url": "https://news.yahoo.co.jp/articles/b5948e2359e6c916f5551a64a9d2d4f4f2b3a8af",
-			"note": "米軍がイランの石油タンカー2隻を攻撃、緊張激化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000127-jij-000-16-view.jpg?exp=10800"
-		},
-		{
 			"number": 16,
-			"title": "アメリカとイラン 一時交戦状態に",
-			"url": "https://news.yahoo.co.jp/articles/94357038b56e7225cc141e47518dce500d0278f9",
-			"note": "米イランが一時的な交戦状態に突入",
+			"title": "ロシア、8〜9日に一時停戦「宣言」 ウクライナとズレで実現不透明",
+			"url": "https://www.nikkei.com/article/DGXZQOGR042DW0U6A500C2000000/",
+			"note": "対独戦勝記念日に停戦宣言も双方にズレ",
 			"image": ""
 		},
 		{
 			"number": 17,
-			"title": "露ウが3日間停戦 トランプ氏発表",
-			"url": "https://news.yahoo.co.jp/articles/43923fff8b1540e1a31b45aedc15fc930b4c7a85",
-			"note": "ロシア・ウクライナが3日間の停戦、トランプ大統領が発表",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-00000009-reut-000-4-view.jpg?exp=10800"
+			"title": "中国、高市氏の演説に反発「自由な太平洋」対立生む",
+			"url": "https://news.yahoo.co.jp/articles/cc70388fbd9bf77742e8ced3492a6518967c1a52",
+			"note": "高市首相の太平洋演説に中国が強く反発",
+			"image": ""
 		},
 		{
 			"number": 18,
-			"title": "ロシア戦勝記念日 異例の厳戒態勢",
-			"url": "https://news.yahoo.co.jp/articles/73ebc2bddfa9a085e8bd3552db435d0495a3ecfc",
-			"note": "ロシアの対独戦勝記念日に異例の厳重警備体制",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000106-jij-000-4-view.jpg?exp=10800"
+			"title": "トランプ氏、UFO関連資料を公開「楽しんでくれ」",
+			"url": "https://news.yahoo.co.jp/articles/bda6f66b994b5ab187764107315c6f5b58fc7922",
+			"note": "トランプ大統領がUFO機密資料を公開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-00000005-reut-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 19,
+			"title": "カーグ島沖で石油流出拡大",
+			"url": "https://news.yahoo.co.jp/articles/89a3615439623c259870dfe02318c45c1eb1dd8e",
+			"note": "イラン沖で石油流出が深刻化",
+			"image": ""
+		},
+		{
+			"number": 20,
+			"title": "トランプ氏、米中会談前に「イランと合意可能性」",
+			"url": "https://www.nikkei.com/article/DGXZQOGN0625M0W6A500C2000000/",
+			"note": "訪中控えイランとの合意模索を示唆",
+			"image": ""
 		}
 	]
 }
