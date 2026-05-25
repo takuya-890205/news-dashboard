@@ -2,106 +2,120 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "NVIDIAとは一体何者なのか　ゲーム用GPUメーカーが「AI時代の覇者」になった理由",
-			"url": "https://news.yahoo.co.jp/articles/1bad61e60ebe7953f5d820884ca4bea89eb077b1",
-			"note": "GPUメーカーがAI覇権を握った経緯を解説",
+			"title": "Anthropic評価額 OpenAI超えか",
+			"url": "https://news.yahoo.co.jp/pickup/6581395",
+			"note": "Anthropic企業評価がOpenAIを上回る可能性",
 			"image": ""
 		},
 		{
 			"number": 2,
-			"title": "中国の研究開発費、米国を上回り世界一に　科学審議会が残した警告",
-			"url": "https://news.yahoo.co.jp/articles/5437192bf1f2fc519c5ac5e4add4c35d37dae041",
-			"note": "中国R&D投資が米超え、AI競争の構造変化",
+			"title": "OpenAIとAnthropicは、まったく異なる2つのAIビジネスモデルを試している",
+			"url": "https://news.yahoo.co.jp/articles/0d2439f5b07d078dc0d7f811ed2a491a75e5c83c",
+			"note": "両社AI事業戦略の相違点を比較分析",
 			"image": ""
 		},
 		{
 			"number": 3,
-			"title": "AppleがWWDCに先立ち「Gen AI」用のサブドメインを準備",
-			"url": "https://gigazine.net/news/20260524-apple-preparing-gen-ai-website/",
-			"note": "genai.apple.comを登録、新発表の前触れか",
+			"title": "生成AIで津田健次郎さん模倣 提訴",
+			"url": "https://news.yahoo.co.jp/pickup/6581302",
+			"note": "声優の声を模倣した生成AIに訴訟提起",
+			"image": ""
+		},
+		{
+			"number": 4,
+			"title": "AIがAmazonの偽レビューを93％の精度で検出",
+			"url": "https://gigazine.net/news/20260525-ai-spot-fake-review/",
+			"note": "星評価と感情傾向のズレを分析するハイブリッドモデル",
 			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "iPhone 17eで十分？　やっぱりiPhone 17？　比較して見えた\"後悔しない選び方\"",
-			"url": "https://news.yahoo.co.jp/articles/643860662d3361cf024915549bf419c7d2dc445c",
-			"note": "iPhone 17eと17の実機比較レビュー",
-			"image": ""
-		},
-		{
 			"number": 5,
-			"title": "携帯キャリアを次々乗り換える「ホッピング」は本当に得をするのか",
-			"url": "https://news.yahoo.co.jp/articles/6800e474eac3545b12f875044f8e1c06b6e4dda0",
-			"note": "キャリア乗り換え戦略のメリット検証",
+			"title": "楽天モバイルにとってpovoは\"毒リンゴ\"　ローミング終了後の行方は？",
+			"url": "https://news.yahoo.co.jp/articles/3d2bfb82b75b2c962db70955751a850ca58cc25e",
+			"note": "楽天とpovo間のローミング終了による影響を分析",
 			"image": ""
 		},
 		{
 			"number": 6,
-			"title": "楽天モバイルにとってpovoは\"毒リンゴ\"　ローミング終了後の行方",
-			"url": "https://news.yahoo.co.jp/articles/3d2bfb82b75b2c962db70955751a850ca58cc25e",
-			"note": "楽天モバイルとpovoの関係変化を分析",
+			"title": "携帯キャリア次々乗り換え 問題は",
+			"url": "https://news.yahoo.co.jp/pickup/6581543",
+			"note": "キャリア「ホッピング」の利点と課題を検証",
 			"image": ""
 		},
 		{
 			"number": 7,
-			"title": "スマホ短期解約問題、事実上の「1年縛り」で決着か",
-			"url": "https://news.yahoo.co.jp/articles/c89a994c4cefefa9cbfe9c993c20fbda42e4d15b",
-			"note": "総務省が短期解約規制の方向性を示す",
+			"title": "G-SHOCKの大定番！最新の5600シリーズ",
+			"url": "https://news.yahoo.co.jp/articles/ed08273bba7d7236c8c82c989de1373a1b8b7502",
+			"note": "G-SHOCK 5600最新モデルをガジェットレビュー",
 			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 8,
-			"title": "高市内閣支持率50％　発足以来最低を更新",
-			"url": "https://news.yahoo.co.jp/articles/1651660d7173a6e84691005f5198079f3020d8eb",
-			"note": "高市政権の支持率が発足以来最低に",
+			"title": "内閣支持率50%で発足後最低",
+			"url": "https://news.yahoo.co.jp/pickup/6581536",
+			"note": "高市内閣支持率が発足以来最低を更新",
 			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "国旗損壊罪法案、与党が法整備を加速",
-			"url": "https://news.yahoo.co.jp/articles/33c5f34d08c8e669c3053d234ee4b422d2fa2c04",
-			"note": "懸念ある中で与党が法案手続きを進行",
+			"title": "ナフサ説明「納得せず」64%",
+			"url": "https://news.yahoo.co.jp/pickup/6581559",
+			"note": "ナフサ関連政府説明に納得しない国民が64%",
 			"image": ""
 		},
 		{
 			"number": 10,
-			"title": "赤沢経済再生相が中国訪問　日中関係不透明な中",
-			"url": "https://news.yahoo.co.jp/pickup/6581501",
-			"note": "高官訪中、二国間関係の行方は不透明",
+			"title": "中道 落選者の離党ドミノ止まらず",
+			"url": "https://news.yahoo.co.jp/pickup/6581569",
+			"note": "中道派の落選者による離党が相次ぐ",
+			"image": ""
+		},
+		{
+			"number": 11,
+			"title": "日本へのトマホーク納入遅れ 英紙",
+			"url": "https://news.yahoo.co.jp/pickup/6581488",
+			"note": "トマホークミサイル納入スケジュールが遅延",
 			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
-			"title": "ウクライナのドローンがモスクワ防空網を突破",
-			"url": "https://news.yahoo.co.jp/articles/1d893234221db7028adedb085fb550cbe538566b",
-			"note": "ウクライナ新型ドローンの戦果報告",
-			"image": ""
-		},
-		{
 			"number": 12,
-			"title": "米イラン停戦交渉「基本合意」へ",
-			"url": "https://news.yahoo.co.jp/articles/40d2032da175bca93c3e801c2acaa50d05852a56",
-			"note": "米イラン間の停戦交渉が前進",
+			"title": "「イランとの合意、急ぐな」トランプ氏 発表まで数日との報道も",
+			"url": "https://news.yahoo.co.jp/articles/784bd66af506649609c0589d8260f6cb3a2ae454",
+			"note": "トランプ氏がイラン合意を急がないよう指示",
 			"image": ""
 		},
 		{
 			"number": 13,
-			"title": "ロシアが先進ミサイルでウクライナを攻撃",
-			"url": "https://news.yahoo.co.jp/articles/ce2cb85057e270dd13262e11e921366aef82dd77",
-			"note": "ロシア軍が新型ミサイルで攻撃を実行",
+			"title": "米とイラン 戦闘終結に向けホルムズ海峡開放と高濃縮ウラン処分で基本合意か",
+			"url": "https://news.yahoo.co.jp/articles/40d2032da175bca93c3e801c2acaa50d05852a56",
+			"note": "米イランが戦闘終結へ向け基本合意の報道",
 			"image": ""
 		},
 		{
 			"number": 14,
-			"title": "中国指導者が日本の首相を批判　首脳会談で",
-			"url": "https://news.yahoo.co.jp/articles/031a56c6cdf231dbec73748e5e866ff217678a4e",
-			"note": "日中首脳会談で中国側が強い批判",
+			"title": "ロシアが最新式ミサイルで攻撃 国防省表明、4人死亡",
+			"url": "https://news.yahoo.co.jp/articles/ce2cb85057e270dd13262e11e921366aef82dd77",
+			"note": "ロシアが最新式ミサイルによる大規模攻撃",
+			"image": ""
+		},
+		{
+			"number": 15,
+			"title": "ウクライナの「3種類のドローン」がモスクワの防空網を突破",
+			"url": "https://news.yahoo.co.jp/articles/1d893234221db7028adedb085fb550cbe538566b",
+			"note": "ウクライナ新型ドローンがモスクワ防空網突破",
+			"image": ""
+		},
+		{
+			"number": 16,
+			"title": "中国、西海などに軍艦100隻を奇襲配置…米国、ミサイル部隊で対抗",
+			"url": "https://news.yahoo.co.jp/articles/ec6080a072f0bcd2fea9072899d0fdee8a6966a1",
+			"note": "中国の100隻配置に米国がミサイル部隊で対抗",
 			"image": ""
 		}
 	]
