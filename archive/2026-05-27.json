@@ -2,91 +2,99 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "NEC社長、AI時代のSIer戦略を語る「Anthropic的なスピード経営」",
-			"url": "https://news.yahoo.co.jp/articles/e7f1c1d39c82ad7efba21e49ce5ba6249872a575",
-			"note": "NEC社長、AI時代のSIer像とスピード経営語る",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260526-00185405-biz_plus-000-1-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"title": "生成AIが支援窓口を案内する背景",
+			"url": "https://news.yahoo.co.jp/pickup/6581788",
+			"note": "生成AIで支援窓口案内が広がる動き",
+			"image": ""
 		},
 		{
 			"number": 2,
-			"title": "AI活用ドローン市場拡大、2030年に6兆円規模へ",
-			"url": "https://news.yahoo.co.jp/articles/8b5c9a5e185fb197548b622237d226e296cdcc00",
-			"note": "AIドローン市場、2030年に6兆円規模へ拡大",
+			"title": "松下幸之助氏の「AI偽動画」に注意",
+			"url": "https://news.yahoo.co.jp/articles/c8d5b1b9a7b38c0a0353dbe70a98386f30588494",
+			"note": "松下幸之助のAI偽動画拡散へ注意喚起",
 			"image": ""
 		},
 		{
 			"number": 3,
-			"title": "AnthropicがClaudeサブスク刷新 エージェント利用を別枠化、6月15日から",
-			"url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
-			"note": "Claude料金体系刷新、エージェント別枠課金へ",
+			"title": "「実は社長を狙ってました」──元日本MS幹部がグーグル・クラウドへ移籍した理由",
+			"url": "https://news.yahoo.co.jp/articles/fd4907be88f9ad0685753d89f98b7ffc5c60d13a",
+			"note": "元日本MS幹部がGoogle Cloudへ移籍",
 			"image": ""
 		},
 		{
 			"number": 4,
-			"title": "BeeX、AnthropicとAIモデル「Claude」のリセラー契約を締結",
-			"url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260518539857/",
-			"note": "BeeXがAnthropicとClaudeリセラー契約締結",
+			"title": "AnthropicがClaudeサブスク刷新 エージェント利用を別枠化、6月15日から",
+			"url": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+			"note": "Claudeサブスク刷新でエージェント別枠化",
 			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 5,
-			"title": "iPhone 11などがiOS 27の対象外になる可能性、4機種が対象",
+			"title": "iPhone 11を含む4機種、次期「iOS 27」アップデートの対象外となる可能性",
 			"url": "https://news.yahoo.co.jp/articles/2d15c04c03207963e0f83fae29e43ad5dc08a7d2",
-			"note": "iPhone 11など4機種、iOS 27対象外の可能性",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260527-00000001-binsiderl-000-1-view.jpg?pri=l&w=640&h=400&exp=10800"
-		},
-		{
-			"number": 6,
-			"title": "フェラーリ初のEV「Luce」発表、元アップル設計者アイブ氏が参画",
-			"url": "https://news.yahoo.co.jp/articles/a1e0079f4c90a629a2d7891335f2f304965f46cf",
-			"note": "フェラーリ初EV発表、元アップルのアイブ氏参画",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260527-35248037-cnetj-000-1-view.jpg?pri=l&w=640&h=480&exp=10800"
-		},
-		{
-			"number": 7,
-			"title": "無線機器の認証制度を見直し、リコールリスク低減と機器更新加速",
-			"url": "https://news.yahoo.co.jp/articles/c31eb364bf28bca6b5b1b473280a75f04385aaaa",
-			"note": "無線機器認証制度を刷新、機器更新を加速へ",
+			"note": "iPhone 11等4機種、iOS 27非対応か",
 			"image": ""
 		}
 	],
-	"政治（日本）": [],
-	"国際情勢": [
+	"政治（日本）": [
+		{
+			"number": 6,
+			"title": "兵庫・斎藤知事の給与50％減額案、自民が賛成へ　可決の公算大",
+			"url": "https://news.yahoo.co.jp/articles/3270ab9b892fd7ff6afee8d05bf6cd5a21b5c364",
+			"note": "斎藤知事の給与減額案、可決見通し",
+			"image": ""
+		},
+		{
+			"number": 7,
+			"title": "巨人監督「暴行」、なぜ児童相談所が110番通報　長女の意向とは関係なく？東京都はどう説明",
+			"url": "https://news.yahoo.co.jp/articles/bce46de9dafd93a17ebdc7da49cde88f4f982612",
+			"note": "巨人監督暴行疑い、児相通報の経緯",
+			"image": ""
+		},
 		{
 			"number": 8,
-			"title": "トランプ氏、イラン核問題で苦しい立場 譲歩迫られ共和党からも批判",
-			"url": "https://news.yahoo.co.jp/articles/291a0821afc89235a775c59b20bcc877a258e699",
-			"note": "トランプ氏、イラン核問題で譲歩迫られ党内批判",
+			"title": "栃木強盗殺人「主導の男」に逮捕状、「指示役」夫婦にアプリで指示疑い",
+			"url": "https://news.yahoo.co.jp/articles/dda21b754377b802d6459b6f9dfae360d906ab71",
+			"note": "栃木強盗殺人の主導役に逮捕状",
 			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "トランプ氏の株取引にキャスター反応、インサイダー疑惑も",
-			"url": "https://news.yahoo.co.jp/articles/0971e648a7156baf61ce06ba06d593ec07c2d0ff",
-			"note": "トランプ氏の株取引にインサイダー疑惑浮上",
+			"title": "煙が車内に充満も避難指示なく乗客放置…脱線火災事故でマニュアル運用の盲点",
+			"url": "https://news.yahoo.co.jp/articles/d1f39dba30edfdd1c2102b37cc7b3979dc537b8b",
+			"note": "脱線火災事故、マニュアル運用の問題",
 			"image": ""
-		},
+		}
+	],
+	"国際情勢": [
 		{
 			"number": 10,
-			"title": "韓国貨物船HMM Nam、ホルムズ海峡でミサイル攻撃を受け被害",
-			"url": "https://news.yahoo.co.jp/articles/985412c95955f7e7700a0941527289ada47680dd",
-			"note": "韓国貨物船、ホルムズ海峡でミサイル被弾",
+			"title": "トランプ氏苦境、イラン強硬姿勢に核問題で「譲歩」余儀なく…身内の共和党からも異論噴出",
+			"url": "https://news.yahoo.co.jp/articles/291a0821afc89235a775c59b20bcc877a258e699",
+			"note": "トランプ氏、イラン核問題で譲歩",
 			"image": ""
 		},
 		{
 			"number": 11,
-			"title": "ロシアが国連安保理で日本批判、中国議長下で防衛政策に異議",
-			"url": "https://news.yahoo.co.jp/articles/c1f760eee632c0ef0e8d450256faa553bcb2e228",
-			"note": "ロシア、安保理で日本の防衛政策を批判",
+			"title": "中国、友好国と対日圧力　パキスタンも軍国主義反対",
+			"url": "https://news.yahoo.co.jp/articles/288faf8036ec55337db270ea5dc2deb168e66c34",
+			"note": "中国が友好国と連携し対日圧力強化",
 			"image": ""
 		},
 		{
 			"number": 12,
-			"title": "中国メディア、日本の対外情報庁創設に「戦前の軍国化」と懸念",
-			"url": "https://news.yahoo.co.jp/articles/2599f7c4271f5446dfc259a3d32be2be8aee3726",
-			"note": "中国、日本の対外情報庁構想に強い懸念表明",
+			"title": "ロシア、安保理で日本批判　中国主宰、「再軍備」主張",
+			"url": "https://news.yahoo.co.jp/articles/c1f760eee632c0ef0e8d450256faa553bcb2e228",
+			"note": "露中が安保理で日本の再軍備批判",
+			"image": ""
+		},
+		{
+			"number": 13,
+			"title": "英国ビザ申請代行で数千人規模の個人情報流出",
+			"url": "https://news.yahoo.co.jp/articles/0cdcc8d78211e4d06f50ebe3ee5331e0c186587a",
+			"note": "英国ビザ代行業者で個人情報流出",
 			"image": ""
 		}
 	]
