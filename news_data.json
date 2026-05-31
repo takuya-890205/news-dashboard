@@ -2,93 +2,93 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "AnthropicがMythos級AIを数週間以内に全ユーザーへ公開へ",
-			"url": "https://news.yahoo.co.jp/articles/6a31b1f3af6df64741d05feac870c62913c39bb3",
-			"note": "危険すぎて非公開だったMythos級AIを全ユーザーへ解放",
-			"image": ""
+			"title": "アンソロピック、秘蔵AI「Claude Mythos」の広範な提供へ──サイバー防御の勢力図は変わるか",
+			"url": "https://news.yahoo.co.jp/articles/319cca7fc7a2bc1c230ca8f508938378e4a62b21",
+			"note": "Anthropicが安全確認後にMythosを全顧客へ数週間で公開",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00098331-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "Anthropic企業価値がOpenAIを初めて上回る 約154兆円",
-			"url": "https://news.yahoo.co.jp/articles/eb5755634f4c0071f5b2061529a4125e7d32b0a9",
-			"note": "650億ドル調達でAnthropicがAI業界首位の企業価値に",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/29/da5758569cb8f9da7b98b5936232905f16966fdb1ee2f53223b7ea15da5b94b7.jpg"
+			"title": "アンソロピック、数週間以内にMythos級の新AIモデルを広く公開へ",
+			"url": "https://news.yahoo.co.jp/articles/6a31b1f3af6df64741d05feac870c62913c39bb3",
+			"note": "セキュリティ特化Mythos級AIを一般向けに提供開始、安全対策を説明",
+			"image": ""
 		},
 		{
 			"number": 3,
-			"title": "国産AI開発の新会社、東芝・日立など15社が出資意向",
-			"url": "https://news.yahoo.co.jp/articles/a76646f807114189fef5d7c9b7e0956ac02a33d1",
-			"note": "SBG主導の国産LLM企業にファナック・JERA等続々参画",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/29/fa21148601a00259043ff08ea0d4caecbc7844c5de48466e1b4f527941c26dcc.jpg"
+			"title": "GoogleDeepMindの数学AI、50年来の未解決難問を一気に9件証明",
+			"url": "https://news.yahoo.co.jp/articles/1e006d944402dffe8b195b1b46effcd350360263",
+			"note": "AlphaProof NexusがエルデシュP問題9件を解決、AI数学研究の新時代",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00185575-biz_plus-000-2-view.jpg?pri=l&w=640&h=349&exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "3メガ銀行がOpenAI新型モデル活用へ サイバー攻撃対策も",
-			"url": "https://news.yahoo.co.jp/articles/f28a1610680c541ec1e9a03b988d3e83e2863a70",
-			"note": "三菱UFJら3メガ銀がOpenAI最新AIを金融業務に活用",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/29/e9ba04fc81099d4876e344e40eec0da84782bed667a69bd3a224dd3d472ddd5e.jpg"
+			"title": "ソフトバンクG、フランスでAIデータセンター建設へ－14兆円投資",
+			"url": "https://news.yahoo.co.jp/articles/3f7a7a0c68f106ab1c2c9b0a204b7fedb56795bd",
+			"note": "SBGが欧州最大規模のAI投資、フランスに最大750億ユーロ投入",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-68374971-bloom_st-000-2-view.jpg?exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 5,
-			"title": "Appleが新画像圧縮技術「PICO」をGitHubで発表",
-			"url": "https://news.yahoo.co.jp/articles/a2443d1aca569f578ea8cdaddf9f258374487fc7",
-			"note": "既存比2.3〜3倍のビットレート削減、iPhoneでオンデバイス処理",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000008-zdn_pc-000-1-view.jpg?exp=10800"
+			"title": "70万円の衝撃、Huaweiが放つ「ダイヤ入り」スマートウォッチ　Apple猛追の裏にあるものは？",
+			"url": "https://news.yahoo.co.jp/articles/430b013ac3c03d30a811f78e0afeacb484ed21af",
+			"note": "Huaweiがダイヤ入り約70万円スマートウォッチでウェアラブル市場強化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000001-zdn_m-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "無料でAI透かしを除去できる「Remove-AI-Watermarks」、画像から可視・不可視のいずれも削除可能",
+			"url": "https://gigazine.net/news/20260531-remove-ai-watermarks/",
+			"note": "Gemini・SynthID・C2PAなどAI透かしを無料で一括除去するツール",
+			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "日米防衛相 ミサイル共同開発加速で一致 対中国連携強化",
-			"url": "https://news.yahoo.co.jp/articles/754f3ffb6a16c11926b93ad153e716bc6bad6e86",
-			"note": "小泉防衛相がヘグセス長官と会談、豪との情報共有も合意",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/30/aac960af3fdd870a37c8d5c48b1fccaf64a5417b42793e21cedaec7e259b1592.jpg"
-		},
-		{
 			"number": 7,
-			"title": "ガソリン補助「月4000億円」に与野党から引き下げ要求",
-			"url": "https://news.yahoo.co.jp/articles/fc686d6c26a333593f5a9ce889a55894e8d837b1",
-			"note": "財政負担の懸念強く与野党が見直し論、高市首相は継続主張",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/30/116b45560f39955855160b6af7ce5d3e376ca6c29dab82d31ac69657b3070e49.jpg"
+			"title": "与野党「予備費」巡り攻防　補正予算案、6月3日国会審議入り",
+			"url": "https://news.yahoo.co.jp/articles/f776ed5771761e33f05d8fae8dd749f850d464b8",
+			"note": "補正予算3.1兆円、6月3日審議入り。予備費めぐり与野党が攻防",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000004-jij-000-9-view.jpg?pri=l&w=440&h=640&exp=10800"
 		},
 		{
 			"number": 8,
-			"title": "自民と国民の連立構想が再浮上 麻生氏が水面下で働きかけ",
-			"url": "https://news.yahoo.co.jp/articles/0b36e6e973409c430deffbe99a5287c0ced95913",
-			"note": "自民幹部が国民民主への連立打診を強め玉木氏は態度留保",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/30/7378eed617eb913530aca19b1d58986b14ebcf5bde25922bda51c7b4ff4f9137.jpg"
+			"title": "対中国「一層緊密に連携」　ミサイル共同開発加速　日米防衛相",
+			"url": "https://news.yahoo.co.jp/articles/754f3ffb6a16c11926b93ad153e716bc6bad6e86",
+			"note": "日米防衛相がSM3ブロック2A共同開発加速で合意、中国を強く意識",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260530-00000057-jij-000-13-view.jpg?pri=l&w=640&h=640&exp=10800"
 		},
 		{
 			"number": 9,
-			"title": "高市首相「私の代で拉致問題突破口を」金正恩との会談も選択肢",
-			"url": "https://news.yahoo.co.jp/articles/6afae51b5de2a764d225cdfc7a6740c8c382aefe",
-			"note": "拉致集会であらゆる手段を排除しない強い意志を表明",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/30/134bb60802b8addfa05785f03f4277d8f5fa3ca4edc37af9ac5285d22113e38c.jpg"
+			"title": "自民と国民の連立構想が再浮上　麻生太郎氏が水面下で働きかけ",
+			"url": "https://news.yahoo.co.jp/articles/0b36e6e973409c430deffbe99a5287c0ced95913",
+			"note": "麻生副総裁が国民民主へ連立働きかけ、玉木氏は政策本位で判断と回答",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260530-00010000-nishinp-000-1-view.jpg?pri=l&w=640&h=479&exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 10,
-			"title": "米が半導体提供提示も習近平は拒否 中国の「自主開発」路線鮮明",
-			"url": "https://news.yahoo.co.jp/articles/3e38e766d27b02e2036b78557efb22e70755d70b",
-			"note": "米中首脳会談でのAI半導体交渉の深層を分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00391177-diamond-000-1-view.jpg?pri=l&w=640&h=337&exp=10800"
-		},
-		{
-			"number": 11,
-			"title": "ウクライナのAIドローンがロシア軍補給トラックを次々撃破",
+			"title": "ウクライナのAIドローン、ロシア軍の補給トラックを次々に破壊　「スウォーム」運用も開始か",
 			"url": "https://news.yahoo.co.jp/articles/46bee4e7a59a4b4266931956ad4045620b28610e",
-			"note": "スウォーム運用も開始、クリミアへの補給路を脅かす",
+			"note": "ウクライナAI搭載ドローン群がロシア兵站を攻撃、クリミア補給路が危険化",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00098324-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
+			"number": 11,
+			"title": "アメリカ「半導体売ったろか？」中国「いらない」→イジワル作戦を拒否した習近平の腹の中",
+			"url": "https://news.yahoo.co.jp/articles/3e38e766d27b02e2036b78557efb22e70755d70b",
+			"note": "米中首脳会談で高性能半導体提案を習近平が拒否、自国開発路線を堅持",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00391177-diamond-000-1-view.jpg?pri=l&w=640&h=337&exp=10800"
+		},
+		{
 			"number": 12,
-			"title": "FBI「オペレーション・ブラックアウト」で1.2兆円の暗号資産押収",
-			"url": "https://news.yahoo.co.jp/articles/531dda615ac87432f890a2c6bd65f17b90a04fa7",
-			"note": "国際詐欺拠点300人逮捕、2000人の人身売買被害者も救出",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00373067-coindesk-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "米建国記念のコンサート辞退続々　トランプ大統領肝いりで怒り",
+			"url": "https://news.yahoo.co.jp/articles/b6a23f0a392945822f4ed30e8ec9646ef144ddb5",
+			"note": "建国250年記念コンサートで出演辞退が相次ぎ、トランプ大統領が批判",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000012-kyodonews-000-26-view.jpg?pri=l&w=640&h=426&exp=10800"
 		}
 	]
 }
