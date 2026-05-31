@@ -2,93 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "アンソロピック、秘蔵AI「Claude Mythos」の広範な提供へ──サイバー防御の勢力図は変わるか",
-			"url": "https://news.yahoo.co.jp/articles/319cca7fc7a2bc1c230ca8f508938378e4a62b21",
-			"note": "Anthropicが安全確認後にMythosを全顧客へ数週間で公開",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00098331-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "Googleの24時間AIアシスタント「Gemini Spark」を実際に使ってみた",
+			"url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+			"note": "常時稼働AI秘書がメール監視やタスク管理を代行",
+			"image": ""
 		},
 		{
 			"number": 2,
-			"title": "アンソロピック、数週間以内にMythos級の新AIモデルを広く公開へ",
-			"url": "https://news.yahoo.co.jp/articles/6a31b1f3af6df64741d05feac870c62913c39bb3",
-			"note": "セキュリティ特化Mythos級AIを一般向けに提供開始、安全対策を説明",
+			"title": "ブラウザ戦争激化、OpenAI「Atlas」などエージェント型が台頭",
+			"url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+			"note": "AIがタスクを代行するエージェントブラウザ続々",
 			"image": ""
 		},
 		{
 			"number": 3,
-			"title": "GoogleDeepMindの数学AI、50年来の未解決難問を一気に9件証明",
-			"url": "https://news.yahoo.co.jp/articles/1e006d944402dffe8b195b1b46effcd350360263",
-			"note": "AlphaProof NexusがエルデシュP問題9件を解決、AI数学研究の新時代",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00185575-biz_plus-000-2-view.jpg?pri=l&w=640&h=349&exp=10800"
+			"title": "Meta、AI搭載ウェアラブル「AIペンダント」を開発中と報道",
+			"url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+			"note": "首掛け型デバイスでAIを常時携帯する構想",
+			"image": ""
 		},
 		{
 			"number": 4,
-			"title": "ソフトバンクG、フランスでAIデータセンター建設へ－14兆円投資",
-			"url": "https://news.yahoo.co.jp/articles/3f7a7a0c68f106ab1c2c9b0a204b7fedb56795bd",
-			"note": "SBGが欧州最大規模のAI投資、フランスに最大750億ユーロ投入",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-68374971-bloom_st-000-2-view.jpg?exp=10800"
+			"title": "国産AI開発の新会社、東芝・日立など15社も出資の意向",
+			"url": "https://news.yahoo.co.jp/articles/a76646f807114189fef5d7c9b7e0956ac02a33d1",
+			"note": "ファナックやJERAなど続々参入、国産LLM加速",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/29/fa21148601a00259043ff08ea0d4caecbc7844c5de48466e1b4f527941c26dcc.jpg"
+		},
+		{
+			"number": 5,
+			"title": "アンソロピックの企業価値154兆円に、OpenAIを初めて上回る",
+			"url": "https://news.yahoo.co.jp/articles/eb5755634f4c0071f5b2061529a4125e7d32b0a9",
+			"note": "Claude開発元が650億ドル調達、評価額3カ月で2.5倍",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/29/da5758569cb8f9da7b98b5936232905f16966fdb1ee2f53223b7ea15da5b94b7.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "70万円の衝撃、Huaweiが放つ「ダイヤ入り」スマートウォッチ　Apple猛追の裏にあるものは？",
-			"url": "https://news.yahoo.co.jp/articles/430b013ac3c03d30a811f78e0afeacb484ed21af",
-			"note": "Huaweiがダイヤ入り約70万円スマートウォッチでウェアラブル市場強化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000001-zdn_m-000-1-view.jpg?exp=10800"
+			"number": 6,
+			"title": "出先の充電ケーブルは使うな。差すだけでPC乗っ取りの恐れ",
+			"url": "https://news.yahoo.co.jp/articles/924618219e98f3dd0fb5c8c5213997ceb62a42d1",
+			"note": "Wi-Fi内蔵の悪性USBケーブルが民間レベルに",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00010002-otonalife-000-1-view.jpg?pri=l&w=640&h=356&exp=10800"
 		},
 		{
-			"number": 6,
-			"title": "無料でAI透かしを除去できる「Remove-AI-Watermarks」、画像から可視・不可視のいずれも削除可能",
-			"url": "https://gigazine.net/news/20260531-remove-ai-watermarks/",
-			"note": "Gemini・SynthID・C2PAなどAI透かしを無料で一括除去するツール",
-			"image": ""
+			"number": 7,
+			"title": "俺はiPhoneよりXperiaを選ぶ！手触りが最高過ぎて感動",
+			"url": "https://news.yahoo.co.jp/articles/7c52ba2c32fc941520e4f9d9b53a12a181f2b7b2",
+			"note": "Xperia 1 VIIIの質感・望遠カメラを実機レビュー",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000004-ascii-000-1-view.jpg?exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 7,
+			"number": 8,
 			"title": "与野党「予備費」巡り攻防　補正予算案、6月3日国会審議入り",
 			"url": "https://news.yahoo.co.jp/articles/f776ed5771761e33f05d8fae8dd749f850d464b8",
-			"note": "補正予算3.1兆円、6月3日審議入り。予備費めぐり与野党が攻防",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000004-jij-000-9-view.jpg?pri=l&w=440&h=640&exp=10800"
-		},
-		{
-			"number": 8,
-			"title": "対中国「一層緊密に連携」　ミサイル共同開発加速　日米防衛相",
-			"url": "https://news.yahoo.co.jp/articles/754f3ffb6a16c11926b93ad153e716bc6bad6e86",
-			"note": "日米防衛相がSM3ブロック2A共同開発加速で合意、中国を強く意識",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260530-00000057-jij-000-13-view.jpg?pri=l&w=640&h=640&exp=10800"
+			"note": "予備費の扱いを焦点に与野党が本格対決へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/31/9b607de8a0c1bb9e983fdc55fa2c2dac21c251fb3c81ed62d66eab5348a0146e.jpg"
 		},
 		{
 			"number": 9,
-			"title": "自民と国民の連立構想が再浮上　麻生太郎氏が水面下で働きかけ",
-			"url": "https://news.yahoo.co.jp/articles/0b36e6e973409c430deffbe99a5287c0ced95913",
-			"note": "麻生副総裁が国民民主へ連立働きかけ、玉木氏は政策本位で判断と回答",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260530-00010000-nishinp-000-1-view.jpg?pri=l&w=640&h=479&exp=10800"
+			"title": "小泉防衛相、中国の主張を非難　「新型軍国主義」は虚偽",
+			"url": "https://news.yahoo.co.jp/articles/6da3c615dba561e0f5e10451082c1d6cfaff232b",
+			"note": "シャングリラ会合での中国の対日批判に反論",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/31/2489da20df654578c5afc194026417734bc53844a70275e353348d06c9f7e2ac.jpg"
+		},
+		{
+			"number": 10,
+			"title": "過疎地から学校消える？　統廃合の検討加速へ　文科省「手引」初改訂",
+			"url": "https://news.yahoo.co.jp/articles/846ac8019887f9a07a3ba9ecf3a55330530ccc6a",
+			"note": "少子化で小中学校の統廃合を後押しする方針",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/31/c83310ac08b153c3d42300f99f232789e30187641b5b5a833571a938e81d52fa.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 10,
-			"title": "ウクライナのAIドローン、ロシア軍の補給トラックを次々に破壊　「スウォーム」運用も開始か",
-			"url": "https://news.yahoo.co.jp/articles/46bee4e7a59a4b4266931956ad4045620b28610e",
-			"note": "ウクライナAI搭載ドローン群がロシア兵站を攻撃、クリミア補給路が危険化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00098324-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
-		},
-		{
 			"number": 11,
-			"title": "アメリカ「半導体売ったろか？」中国「いらない」→イジワル作戦を拒否した習近平の腹の中",
-			"url": "https://news.yahoo.co.jp/articles/3e38e766d27b02e2036b78557efb22e70755d70b",
-			"note": "米中首脳会談で高性能半導体提案を習近平が拒否、自国開発路線を堅持",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00391177-diamond-000-1-view.jpg?pri=l&w=640&h=337&exp=10800"
+			"title": "中国のシャングリラ会合派遣団代表が日本批判　一方的主張を展開",
+			"url": "https://news.yahoo.co.jp/articles/19acdff68becc247012962f492eb63e57bf57fcc",
+			"note": "アジア安全保障会議で対日批判が応酬に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000014-mai-000-1-view.jpg?pri=l&w=640&h=427&exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "米建国記念のコンサート辞退続々　トランプ大統領肝いりで怒り",
-			"url": "https://news.yahoo.co.jp/articles/b6a23f0a392945822f4ed30e8ec9646ef144ddb5",
-			"note": "建国250年記念コンサートで出演辞退が相次ぎ、トランプ大統領が批判",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000012-kyodonews-000-26-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "トランプ氏、辞退相次ぎ建国コンサート中止要求「MAGA集会にすべき」",
+			"url": "https://news.yahoo.co.jp/articles/81df31a1e50e32d452f32ade0f87b38dd3fbd81d",
+			"note": "建国250周年式典でアーティスト出演辞退続出",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000005-jij_afp-000-2-view.jpg?pri=l&w=640&h=426&exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "東太平洋で麻薬密輸船を空爆　米軍今週3回目で死者200人超に",
+			"url": "https://news.yahoo.co.jp/articles/cffa6c36c55c9ef89972027f78a6b5cf40798bd4",
+			"note": "米軍の麻薬密輸船攻撃が常態化、死者拡大",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00010004-aptsushinv-000-2-view.jpg?pri=l&w=640&h=640&exp=10800"
 		}
 	]
 }
