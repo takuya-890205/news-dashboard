@@ -2,71 +2,72 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Anthropic、Claude Opus 4.8を発表 コーディング・エージェント性能を大幅強化",
-			"url": "https://www.atpartners.co.jp/news/2026-06-01-frontier-ai-s-anthropic-announces-claude-opus-4-8-significantly-enhancing-performance-for-coding-agent-and-knowledge-work",
-			"note": "最新LLMに「Effort Control」搭載、開発向け性能向上",
-			"image": ""
+			"title": "5つの最先端AIでファクトチェック、67%で意見が一致しないとの調査結果",
+			"url": "https://gigazine.net/news/20260601-llm-disagreement-on-fact-checks/",
+			"note": "主要LLMの判断が約3分の2で食い違い",
+			"image": "https://i.gzn.jp/img/2026/06/01/llm-disagreement-on-fact-checks/00_m.jpg"
 		},
 		{
 			"number": 2,
-			"title": "AIを使える人と使えない人で、とんでもない差が出ると実感した理由",
-			"url": "https://news.yahoo.co.jp/articles/1f5c6ac342e089fffb51344d4a7f64afc4bb39f5",
-			"note": "Codex活用で動画生成やLoRA作成が専門知識なしに",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000008-ascii-000-2-view.png?fmt=jpeg&q=85&exp=10800"
-		},
+			"title": "OpenAIが生物兵器対策に参入、感染症予測や危険なDNA注文の検出をAIで支援",
+			"url": "https://gigazine.net/news/20260601-openai-resalind-biodefense/",
+			"note": "生命科学AI「GPT-Rosalind」で防疫強化",
+			"image": "https://i.gzn.jp/img/2026/06/01/openai-resalind-biodefense/00_m.jpg"
+		}
+	],
+	"デジタルガジェット": [
 		{
 			"number": 3,
-			"title": "「早く仕上げるほど売上は減る」富士通・時田社長が語る人月の通用しない時代",
-			"url": "https://news.yahoo.co.jp/articles/ee4c9ea212f957cb0754cb7e0999001e22e6f0e8",
-			"note": "AIエージェントでSI収益モデルを人月課金から転換",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000001-binsiderl-000-1-view.jpg?pri=l&w=640&h=400&exp=10800"
+			"title": "アップル、iPhone 18 Proでは製造コストが50％高いカメラを初搭載か",
+			"url": "https://news.yahoo.co.jp/articles/d41b048f54110e743a7e247a6f279c1f62e0f010",
+			"note": "可変絞りレンズ採用でコスト大幅増の見通し",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00098403-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "学術論文の捏造引用が「3年で12倍」、AI幻覚が科学の信頼を揺るがす",
-			"url": "https://news.yahoo.co.jp/articles/66a893e22f8febdcee37eba50b204c08a49c43f6",
-			"note": "LLMの幻覚が実在しない文献を生成、論文に混入",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00098117-forbes-000-1-view.jpg?pri=l&w=640&h=427&exp=10800"
+			"title": "アマゾン、13機種のKindleのサポートを終了",
+			"url": "https://news.yahoo.co.jp/articles/c3dd24b3a5c7a97709f29d0397dabe9517f316cb",
+			"note": "旧型端末でストアアクセス不可、新規購入終了",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00098401-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "ソフトバンクG、時価総額が一時国内首位に　47兆円でトヨタ超え",
-			"url": "https://news.yahoo.co.jp/articles/a6e1bff19f6819d58d2d59e098b42b966e9360d6",
-			"note": "AI投資が評価され約22年ぶりに首位交代",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000033-zdn_n-000-1-view.jpg?exp=10800"
+			"title": "Huaweiが「ムーアの法則」に代わる新法則　EUVなしで1.4nm実現へ",
+			"url": "https://news.yahoo.co.jp/articles/b6a0c33cb1ff7b19ceb0a8905cb18108ebd88e54",
+			"note": "3D積層技術で2031年までに業界同等性能を狙う",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000053-it_eetimes-000-1-view.jpg?exp=10800"
 		}
 	],
-	"デジタルガジェット": [],
 	"政治（日本）": [
 		{
 			"number": 6,
-			"title": "中道改革連合に「新・新党」構想が浮上　有力労組が前向き",
-			"url": "https://news.yahoo.co.jp/articles/24bab15a97a60e2bed4c8fb879e31e27041b3661",
-			"note": "立憲・公明との合流巡り新党結成案が浮上",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/1/58fc1f739692c45855c1047768ed1f6bf5bd50935e271c230c434780b8876c37.jpg"
+			"title": "補正予算案、5日に成立の見通し",
+			"url": "https://news.yahoo.co.jp/articles/2e1de6b66f9c0155ae212e9ce8db7dc52b494b5b",
+			"note": "自民・立憲が合意、中東情勢対応など審議へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/1/8a1bf762f70c0b26e0036f4facaf4460c88293f63db2cc7ea692106050c09f85.jpg"
 		},
 		{
 			"number": 7,
-			"title": "「主務教諭」新規配置は実質ゼロ　役割あいまい、自治体戸惑い",
-			"url": "https://news.yahoo.co.jp/articles/1f2c7f3f77ed1229f1b488556830b2fce3f3b2f4",
-			"note": "4月導入の新制度、役割不明確で自治体が慎重",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/1/377cb0ae98b56070dc5d529b1eb475fe7d5131cf1c629537798e20b812865456.jpg"
+			"title": "自民の国旗損壊罪法案が全容判明　映像の公開も処罰対象",
+			"url": "https://news.yahoo.co.jp/articles/ac68d72731323ba9839e0685294187cf71d95815",
+			"note": "2年以下の拘禁刑か20万円以下の罰金を規定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/1/620995b93aa5bfa4809dc95a94a4f408d8d51b27083f9251f981d03305c35d48.jpg"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 8,
-			"title": "フィリピン国防相、日本の武器輸出に期待　地対艦誘導弾は「有力候補」",
-			"url": "https://news.yahoo.co.jp/articles/3c150da0cfb3eb9b99ff252b28bf0c850b59e04b",
-			"note": "装備移転三原則の全面解禁を歓迎、88式導入検討",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/31/f92f6f7695501ccd2b480a950e11cf86f778b75521ea87e256a1d6202c76f35c.jpg"
+			"title": "「おかしいと思いませんか」日本批判の中国に小泉防衛相が反論",
+			"url": "https://news.yahoo.co.jp/articles/5cd4003f855966ec86223c81d1e5f3ab9f0a04eb",
+			"note": "アジア安保会議で反論、米の対中姿勢に変化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-90191884-ann-000-6-view.jpg"
 		},
 		{
 			"number": 9,
-			"title": "米軍、東太平洋で麻薬密輸船を空爆　一連の作戦で死者200人超",
-			"url": "https://news.yahoo.co.jp/articles/cffa6c36c55c9ef89972027f78a6b5cf40798bd4",
-			"note": "今週3度目の作戦、3人死亡",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/31/408f190acf278d42289df539f4720ddd167de6881a02cfe0fb449cdc33e7de35.jpg"
+			"title": "ウクライナ軍「無人部隊」がロシア軍を駆逐の衝撃",
+			"url": "https://news.yahoo.co.jp/articles/3aa20d88ca671c90b50af357f612de599a1d5f72",
+			"note": "民間ドローンと無人地上車両で戦果を継続",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-01459809-shincho-000-1-view.jpg"
 		}
 	]
 }
