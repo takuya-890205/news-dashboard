@@ -2,65 +2,71 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "【最新機能】Claude Designが優秀すぎ…\"パワポ整え地獄\"が消える神プロンプト14選",
-			"url": "https://news.yahoo.co.jp/articles/d4818160279f93e2775321bfe8a0c4d659fc8b1d",
-			"note": "Claude Designで資料整形が自動化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00185443-biz_plus-000-1-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"title": "Anthropic、Claude Opus 4.8を発表 コーディング・エージェント性能を大幅強化",
+			"url": "https://www.atpartners.co.jp/news/2026-06-01-frontier-ai-s-anthropic-announces-claude-opus-4-8-significantly-enhancing-performance-for-coding-agent-and-knowledge-work",
+			"note": "最新LLMに「Effort Control」搭載、開発向け性能向上",
+			"image": ""
 		},
 		{
 			"number": 2,
-			"title": "「早く仕上げるほど売上は減る」。富士通・時田社長が語るSIerが「人月の通用しない時代」で稼ぐ方法",
-			"url": "https://news.yahoo.co.jp/articles/ee4c9ea212f957cb0754cb7e0999001e22e6f0e8",
-			"note": "AI時代にSIerの人月モデル崩壊",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000001-binsiderl-000-1-view.jpg?pri=l&w=640&h=400&exp=10800"
-		}
-	],
-	"デジタルガジェット": [
+			"title": "AIを使える人と使えない人で、とんでもない差が出ると実感した理由",
+			"url": "https://news.yahoo.co.jp/articles/1f5c6ac342e089fffb51344d4a7f64afc4bb39f5",
+			"note": "Codex活用で動画生成やLoRA作成が専門知識なしに",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000008-ascii-000-2-view.png?fmt=jpeg&q=85&exp=10800"
+		},
 		{
 			"number": 3,
-			"title": "中国で今後増える「流量起業」とアプリ「死了me」のその後",
-			"url": "https://news.yahoo.co.jp/articles/812e9c3eee41ee9dd91c44db544758498e66c105",
-			"note": "中国の新アプリ経済とその顛末",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-35248211-zdnet-000-1-view.jpg?pri=l&w=640&h=480&exp=10800"
-		}
-	],
-	"政治（日本）": [
+			"title": "「早く仕上げるほど売上は減る」富士通・時田社長が語る人月の通用しない時代",
+			"url": "https://news.yahoo.co.jp/articles/ee4c9ea212f957cb0754cb7e0999001e22e6f0e8",
+			"note": "AIエージェントでSI収益モデルを人月課金から転換",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000001-binsiderl-000-1-view.jpg?pri=l&w=640&h=400&exp=10800"
+		},
 		{
 			"number": 4,
-			"title": "台風6号は今日1日夜に沖縄本島に最接近　2日にかけ電柱が倒れるほどの暴風のおそれ",
-			"url": "https://news.yahoo.co.jp/articles/33a2cd6da101552db61ff3d78df74e4cee64c530",
-			"note": "台風6号、沖縄に暴風被害の恐れ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00034977-tenki-000-3-view.jpg?pri=l&w=640&h=480&exp=10800"
+			"title": "学術論文の捏造引用が「3年で12倍」、AI幻覚が科学の信頼を揺るがす",
+			"url": "https://news.yahoo.co.jp/articles/66a893e22f8febdcee37eba50b204c08a49c43f6",
+			"note": "LLMの幻覚が実在しない文献を生成、論文に混入",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00098117-forbes-000-1-view.jpg?pri=l&w=640&h=427&exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "診療報酬の「大幅引き上げ」決定の2日後、お座敷遊びで\"祝杯\"をあげた「日本医師会の重鎮」",
-			"url": "https://news.yahoo.co.jp/articles/5a393d11969c99cba4306a63f8de8c0756e425e0",
-			"note": "診療報酬引き上げと日医の体質",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-01459578-shincho-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
-		},
+			"title": "ソフトバンクG、時価総額が一時国内首位に　47兆円でトヨタ超え",
+			"url": "https://news.yahoo.co.jp/articles/a6e1bff19f6819d58d2d59e098b42b966e9360d6",
+			"note": "AI投資が評価され約22年ぶりに首位交代",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000033-zdn_n-000-1-view.jpg?exp=10800"
+		}
+	],
+	"デジタルガジェット": [],
+	"政治（日本）": [
 		{
 			"number": 6,
-			"title": "琉球政府から沖縄県への移行の中で持ち主の権利が消された「ゼロ番地」問題",
-			"url": "https://news.yahoo.co.jp/articles/8a0c845a35cbf93876ec2a8bc5b9c951378019a5",
-			"note": "沖縄「ゼロ番地」土地権利問題",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000001-pseven-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "中道改革連合に「新・新党」構想が浮上　有力労組が前向き",
+			"url": "https://news.yahoo.co.jp/articles/24bab15a97a60e2bed4c8fb879e31e27041b3661",
+			"note": "立憲・公明との合流巡り新党結成案が浮上",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/1/58fc1f739692c45855c1047768ed1f6bf5bd50935e271c230c434780b8876c37.jpg"
+		},
+		{
+			"number": 7,
+			"title": "「主務教諭」新規配置は実質ゼロ　役割あいまい、自治体戸惑い",
+			"url": "https://news.yahoo.co.jp/articles/1f2c7f3f77ed1229f1b488556830b2fce3f3b2f4",
+			"note": "4月導入の新制度、役割不明確で自治体が慎重",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/1/377cb0ae98b56070dc5d529b1eb475fe7d5131cf1c629537798e20b812865456.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "国連8月破産説…米中が分担金47億ドル出さず",
-			"url": "https://news.yahoo.co.jp/articles/bb5b2a2ef07fe3a917f7affba61b5a4828e3f790",
-			"note": "米中の分担金未払いで国連財政危機",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-00000002-cnippou-000-1-view.jpg?exp=10800"
+			"number": 8,
+			"title": "フィリピン国防相、日本の武器輸出に期待　地対艦誘導弾は「有力候補」",
+			"url": "https://news.yahoo.co.jp/articles/3c150da0cfb3eb9b99ff252b28bf0c850b59e04b",
+			"note": "装備移転三原則の全面解禁を歓迎、88式導入検討",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/31/f92f6f7695501ccd2b480a950e11cf86f778b75521ea87e256a1d6202c76f35c.jpg"
 		},
 		{
-			"number": 8,
-			"title": "トランプ支持だったはずなのに…義母の\"変化\"をとらえた1枚に反響「ようやく目が覚めた」",
-			"url": "https://news.yahoo.co.jp/articles/2b40b01d6e14342fe99de23e73c27b3ac699778a",
-			"note": "トランプ支持層の変化が話題に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260601-10057016-bfj-000-1-view.jpg?pri=l&w=640&h=424&exp=10800"
+			"number": 9,
+			"title": "米軍、東太平洋で麻薬密輸船を空爆　一連の作戦で死者200人超",
+			"url": "https://news.yahoo.co.jp/articles/cffa6c36c55c9ef89972027f78a6b5cf40798bd4",
+			"note": "今週3度目の作戦、3人死亡",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/31/408f190acf278d42289df539f4720ddd167de6881a02cfe0fb449cdc33e7de35.jpg"
 		}
 	]
 }
