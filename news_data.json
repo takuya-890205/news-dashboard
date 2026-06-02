@@ -4,40 +4,91 @@
 			"number": 1,
 			"title": "Claude「一強」崩壊？開発者が「Codex」へ流出するワケ、どこに\"17倍\"性能差ある？",
 			"url": "https://news.yahoo.co.jp/articles/5adcbdae53c07f70c8d13c7a9fa9cf7d197f7e49",
-			"note": "コーディングAIの勢力図が再び動く",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00185499-biz_plus-000-1-view.jpg?pri=l&w=640&h=477&exp=10800"
+			"note": "コーディングAIの覇権争い、開発者の乗り換え動向を分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00185499-biz_plus-000-1-view.jpg"
 		},
 		{
 			"number": 2,
-			"title": "「AIは人類を絶滅させる」…それでもイーロン・マスクがAI開発を止めない\"恐怖の論理\"〈橘玲〉",
-			"url": "https://news.yahoo.co.jp/articles/6d8b44557b8317890a02e7ec214b224abeea01f5",
-			"note": "マスクのAI終末観と一貫した事業戦略",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00257644-shueisha-000-1-view.jpg?pri=l&w=640&h=640&exp=10800"
+			"title": "GitHub Copilotの従量課金がついに開始、「AIクレジット」を使い切ると追加料金が必要に",
+			"url": "https://gigazine.net/news/20260602-github-copilot-update-plan/",
+			"note": "Copilotが従量課金制へ移行、クレジット枯渇で別料金",
+			"image": "https://i.gzn.jp/img/2026/06/02/github-copilot-update-plan/00_m.png"
 		},
 		{
 			"number": 3,
-			"title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
-			"url": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
-			"note": "AI失業が消費と民主主義を蝕む懸念",
-			"image": "https://i.gzn.jp/img/2026/06/02/ai-dead-economy-theory/00_m.jpg"
+			"title": "ハッカーがMeta AIのサポートチャットボットを騙して有名人のInstagramアカウントを盗む",
+			"url": "https://gigazine.net/news/20260602-meta-ai-support-chatbot-steal-instagram-accounts/",
+			"note": "AIチャットボットを悪用したアカウント乗っ取り手法が判明",
+			"image": "https://i.gzn.jp/img/2026/06/02/meta-ai-support-chatbot-steal-instagram-accounts/00_m.jpg"
 		},
 		{
 			"number": 4,
 			"title": "「JCB社員がインスタに社内資料を載せている」Xで画像拡散　同社「事実関係を調査中」",
 			"url": "https://news.yahoo.co.jp/articles/a594b61f5d8e9d6e9eaebb7bee8ed5b7aa2ce7b9",
-			"note": "SNS時代の情報漏えいリスクが表面化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000013-zdn_n-000-1-view.jpg?pri=l&w=640&h=335&exp=10800"
+			"note": "社内資料のSNS流出疑惑、JCBが事実関係を調査",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000013-zdn_n-000-2-view.jpg"
 		}
 	],
-	"デジタルガジェット": [],
-	"政治（日本）": [
+	"デジタルガジェット": [
 		{
 			"number": 5,
-			"title": "【台風情報】台風6号　2日～3日に九州から関東に接近　暴風の恐れ　接近前から大雨に警戒",
-			"url": "https://news.yahoo.co.jp/articles/fc4a48c1aadb6796f47aab2af36e393a8b927ecc",
-			"note": "暴風域伴い九州〜東日本を縦断の恐れ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-22700901-bss-000-1-view.jpg?exp=10800"
+			"title": "NVIDIAの新型SoC「RTX Spark」搭載のMicrosoft Surface Laptop UltraやASUS ProArt P16の情報判明",
+			"url": "https://gigazine.net/news/20260602-nvidia-rtx-spark-laptop-pcs/",
+			"note": "NVIDIA新SoC搭載の次世代ノートPCが続々と判明",
+			"image": "https://i.gzn.jp/img/2026/06/02/nvidia-rtx-spark-laptop-pcs/00_m.jpg"
+		},
+		{
+			"number": 6,
+			"title": "未発表のGoogle Pixel Watch 5が海底で見つかる、ボーダーランズ開発者が報告",
+			"url": "https://gigazine.net/news/20260602-google-pixel-watch-5-spoiled/",
+			"note": "未発表スマートウォッチが海底で偶然発見される珍事",
+			"image": "https://i.gzn.jp/img/2026/06/02/google-pixel-watch-5-spoiled/00_m.jpg"
+		},
+		{
+			"number": 7,
+			"title": "アップルiOS 26.5.1配信　iPhone 17の充電問題に対応",
+			"url": "https://news.yahoo.co.jp/articles/04df8a256a114cd592de3fe76c6b5f1950aa86c3",
+			"note": "iPhone 17の充電不具合を修正するアップデートを配信",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000009-ascii-000-1-view.png"
 		}
 	],
-	"国際情勢": []
+	"政治（日本）": [
+		{
+			"number": 8,
+			"title": "【台風情報】台風6号 3日に関東接近おそれ 最大瞬間風速35m",
+			"url": "https://news.yahoo.co.jp/articles/48eac9fe9ed576a7b1d4741bfc60f9469b0c690d",
+			"note": "台風6号が3日に暴風域を伴い西日本・東日本へ接近",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-22701120-mbcnewsv-000-4-view.jpg"
+		},
+		{
+			"number": 9,
+			"title": "国民の7割が「愛子天皇」を望むのに…「男系男子」をゴリ押しする麻生太郎が密かにたくらむ",
+			"url": "https://news.yahoo.co.jp/articles/8bd6effb5d8a3872f55f2e1a6719939452e43e38",
+			"note": "皇位継承をめぐる世論と政界の思惑を読み解く",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00113948-president-000-2-view.jpg"
+		}
+	],
+	"国際情勢": [
+		{
+			"number": 10,
+			"title": "トランプ大統領「誰もがあなたを憎んでいる」ネタニヤフ首相に激怒　アクシオス報道",
+			"url": "https://news.yahoo.co.jp/articles/a7de3406cac9179e20a0eea4e2bf2451a1b95a66",
+			"note": "米イスラエル首脳の対立が表面化、報道が波紋",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-07307161-jnn-000-3-view.jpg"
+		},
+		{
+			"number": 11,
+			"title": "ウクライナ各地でロシアの大規模攻撃、5人死亡　集合住宅など損壊",
+			"url": "https://news.yahoo.co.jp/articles/8979f73e7460184bb907451652be5c5d2fc5cbff",
+			"note": "ロシアの大規模攻撃で死者、各地のインフラが損壊",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000044-reut-000-3-view.jpg"
+		},
+		{
+			"number": 12,
+			"title": "イラン、バブ・エル・マンデブ海峡の封鎖を示唆　「第2のホルムズ」となる可能性",
+			"url": "https://news.yahoo.co.jp/articles/edf97d9fccb4e2b8176cd9dde355b340c418d6c0",
+			"note": "イランが要衝海峡の封鎖を示唆、海運に新たな緊張",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00098430-forbes-000-1-view.jpg"
+		}
+	]
 }
