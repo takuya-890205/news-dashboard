@@ -2,93 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Claude「一強」崩壊？開発者が「Codex」へ流出するワケ、どこに\"17倍\"性能差ある？",
-			"url": "https://news.yahoo.co.jp/articles/5adcbdae53c07f70c8d13c7a9fa9cf7d197f7e49",
-			"note": "コーディングAIの覇権争い、開発者の乗り換え動向を分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00185499-biz_plus-000-1-view.jpg"
+			"title": "Anthropic、新規株式公開（IPO）に向け非公開で申請　評価額9650億ドル",
+			"url": "https://gigazine.net/news/20260602-anthropic-ipo-confidential-draft/",
+			"note": "Claude開発元が秋にも上場へ、OpenAIを上回る評価額",
+			"image": "https://i.gzn.jp/img/2026/06/02/anthropic-ipo-confidential-draft/00_m.jpg"
 		},
 		{
 			"number": 2,
-			"title": "GitHub Copilotの従量課金がついに開始、「AIクレジット」を使い切ると追加料金が必要に",
-			"url": "https://gigazine.net/news/20260602-github-copilot-update-plan/",
-			"note": "Copilotが従量課金制へ移行、クレジット枯渇で別料金",
-			"image": "https://i.gzn.jp/img/2026/06/02/github-copilot-update-plan/00_m.png"
+			"title": "SBIグループ、米Anthropicと提携　Claudeを全役職員に展開",
+			"url": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000045/",
+			"note": "Claude Securityの共同検証も。金融大手のAX加速",
+			"image": "https://www.itmedia.co.jp/aiplus/article/image/2606/02/2000000045/10000235/728"
 		},
 		{
 			"number": 3,
-			"title": "ハッカーがMeta AIのサポートチャットボットを騙して有名人のInstagramアカウントを盗む",
-			"url": "https://gigazine.net/news/20260602-meta-ai-support-chatbot-steal-instagram-accounts/",
-			"note": "AIチャットボットを悪用したアカウント乗っ取り手法が判明",
-			"image": "https://i.gzn.jp/img/2026/06/02/meta-ai-support-chatbot-steal-instagram-accounts/00_m.jpg"
+			"title": "Claude『一強』崩壊？開発者が『Codex』へ流出するワケ、17倍性能差は",
+			"url": "https://news.yahoo.co.jp/articles/5adcbdae53c07f70c8d13c7a9fa9cf7d197f7e49",
+			"note": "コーディングAI競争激化、CodexとClaudeを徹底比較",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00185499-biz_plus-000-1-view.jpg?pri=l&w=640&h=477&exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "「JCB社員がインスタに社内資料を載せている」Xで画像拡散　同社「事実関係を調査中」",
-			"url": "https://news.yahoo.co.jp/articles/a594b61f5d8e9d6e9eaebb7bee8ed5b7aa2ce7b9",
-			"note": "社内資料のSNS流出疑惑、JCBが事実関係を調査",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000013-zdn_n-000-2-view.jpg"
+			"title": "米フロリダ州がOpenAIを提訴",
+			"url": "https://news.yahoo.co.jp/pickup/6582619",
+			"note": "州当局がOpenAIを相手取り訴訟。AI規制の新局面",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 5,
-			"title": "NVIDIAの新型SoC「RTX Spark」搭載のMicrosoft Surface Laptop UltraやASUS ProArt P16の情報判明",
-			"url": "https://gigazine.net/news/20260602-nvidia-rtx-spark-laptop-pcs/",
-			"note": "NVIDIA新SoC搭載の次世代ノートPCが続々と判明",
-			"image": "https://i.gzn.jp/img/2026/06/02/nvidia-rtx-spark-laptop-pcs/00_m.jpg"
+			"title": "アマゾンの『新Fire TV Stick HD』を1週間使ってみた　感動と残念",
+			"url": "https://news.yahoo.co.jp/articles/d8823d7571ca3d7a642e71c921896ff2a40ca615",
+			"note": "新型ストリーミング端末の実機レビュー",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-35248329-cnn-000-2-view.jpg?pri=l&w=640&h=360&exp=10800"
 		},
 		{
 			"number": 6,
-			"title": "未発表のGoogle Pixel Watch 5が海底で見つかる、ボーダーランズ開発者が報告",
-			"url": "https://gigazine.net/news/20260602-google-pixel-watch-5-spoiled/",
-			"note": "未発表スマートウォッチが海底で偶然発見される珍事",
-			"image": "https://i.gzn.jp/img/2026/06/02/google-pixel-watch-5-spoiled/00_m.jpg"
-		},
-		{
-			"number": 7,
-			"title": "アップルiOS 26.5.1配信　iPhone 17の充電問題に対応",
-			"url": "https://news.yahoo.co.jp/articles/04df8a256a114cd592de3fe76c6b5f1950aa86c3",
-			"note": "iPhone 17の充電不具合を修正するアップデートを配信",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000009-ascii-000-1-view.png"
+			"title": "楽天モバイルのauローミングエリアが6月で縮小、繋がりにくいの声",
+			"url": "https://news.yahoo.co.jp/articles/2d46bb459ac7c38e0a85752b7a66e3764d831a46",
+			"note": "ローミング縮小でエリア品質への懸念",
+			"image": ""
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 7,
+			"title": "国民・玉木代表が自民の国旗損壊罪案を批判「内閣法制局通らない」",
+			"url": "https://news.yahoo.co.jp/articles/82f1ca024862c6f2ffe1e12930d46ee09e57ae6a",
+			"note": "国旗損壊罪法案めぐり与野党で論戦",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-10249909-abemav-000-2-view.jpg?pri=l&w=640&h=358&exp=10800"
+		},
+		{
 			"number": 8,
-			"title": "【台風情報】台風6号 3日に関東接近おそれ 最大瞬間風速35m",
-			"url": "https://news.yahoo.co.jp/articles/48eac9fe9ed576a7b1d4741bfc60f9469b0c690d",
-			"note": "台風6号が3日に暴風域を伴い西日本・東日本へ接近",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-22701120-mbcnewsv-000-4-view.jpg"
+			"title": "消費減税巡る報道　木原氏コメント",
+			"url": "https://news.yahoo.co.jp/pickup/6582683",
+			"note": "消費減税報道に官房長官が言及",
+			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "国民の7割が「愛子天皇」を望むのに…「男系男子」をゴリ押しする麻生太郎が密かにたくらむ",
-			"url": "https://news.yahoo.co.jp/articles/8bd6effb5d8a3872f55f2e1a6719939452e43e38",
-			"note": "皇位継承をめぐる世論と政界の思惑を読み解く",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00113948-president-000-2-view.jpg"
+			"title": "知事選　自民「久々」勝利に安堵感",
+			"url": "https://news.yahoo.co.jp/pickup/6582623",
+			"note": "知事選で自民系候補が勝利、党内に安堵",
+			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 10,
-			"title": "トランプ大統領「誰もがあなたを憎んでいる」ネタニヤフ首相に激怒　アクシオス報道",
-			"url": "https://news.yahoo.co.jp/articles/a7de3406cac9179e20a0eea4e2bf2451a1b95a66",
-			"note": "米イスラエル首脳の対立が表面化、報道が波紋",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-07307161-jnn-000-3-view.jpg"
+			"title": "トランプ氏、ネタニヤフ氏に「完全に狂っている」と激怒　レバノン",
+			"url": "https://news.yahoo.co.jp/articles/104a3cb987563dfae0e84bd7bbcc6115a841ab57",
+			"note": "終戦交渉の火種、対イスラエルで米が圧力",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000051-cnippou-000-1-view.jpg?pri=l&w=640&h=428&exp=10800"
 		},
 		{
 			"number": 11,
-			"title": "ウクライナ各地でロシアの大規模攻撃、5人死亡　集合住宅など損壊",
-			"url": "https://news.yahoo.co.jp/articles/8979f73e7460184bb907451652be5c5d2fc5cbff",
-			"note": "ロシアの大規模攻撃で死者、各地のインフラが損壊",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000044-reut-000-3-view.jpg"
+			"title": "「台湾を国と呼んだ」米紙特派員を追放した中国",
+			"url": "https://news.yahoo.co.jp/articles/751dbecfd5730eb6fe1aa8db7c2cd5bf9140112d",
+			"note": "報道の自由めぐり米中対立が再燃",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000065-cnippou-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "イラン、バブ・エル・マンデブ海峡の封鎖を示唆　「第2のホルムズ」となる可能性",
-			"url": "https://news.yahoo.co.jp/articles/edf97d9fccb4e2b8176cd9dde355b340c418d6c0",
-			"note": "イランが要衝海峡の封鎖を示唆、海運に新たな緊張",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00098430-forbes-000-1-view.jpg"
+			"title": "追い詰められるプーチン　ロシア兵の死者は50万人にも？",
+			"url": "https://news.yahoo.co.jp/articles/e6423986a274f417df23468790ba20b02989afd6",
+			"note": "ウクライナ戦争で犠牲拡大、習近平の思惑も",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00140685-wedge-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "イランが米との協議停止　現地報道",
+			"url": "https://news.yahoo.co.jp/pickup/6582606",
+			"note": "イランが対米協議を停止、緊張が再上昇",
+			"image": ""
 		}
 	]
 }
