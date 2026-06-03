@@ -2,72 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Claude「一強」崩壊？開発者が「Codex」へ流出するワケ、どこに\"17倍\"性能差ある？",
-			"url": "https://news.yahoo.co.jp/articles/5adcbdae53c07f70c8d13c7a9fa9cf7d197f7e49",
-			"note": "Claude離れの実態と性能差を分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00185499-biz_plus-000-1-view.jpg?pri=l&w=640&h=477&exp=10800"
+			"title": "トランプ氏、AI規制強化で大統領令　新モデル事前審査へ提出要請",
+			"url": "https://news.yahoo.co.jp/pickup/6582763",
+			"note": "最先端AIは公開30日前に政府審査へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/9671939d43374245f89e937312ad40ff7c8d67be7327a0f155c6c07e3de4c6bd.jpg"
 		},
 		{
 			"number": 2,
-			"title": "NVIDIAが発表した『RTX Spark』は\"革命の幕開け\"か　AIエージェント時代に向けた新PCプラットフォーム",
+			"title": "AnthropicがClaude Mythos Previewの先行提供「Project Glasswing」を15カ国以上に拡大",
+			"url": "https://gigazine.net/news/20260603-anthropic-project-glasswing-extend/",
+			"note": "脆弱性検出プログラムを約150社へ拡大",
+			"image": "https://i.gzn.jp/img/2026/06/03/anthropic-project-glasswing-extend/00_m.jpg"
+		},
+		{
+			"number": 3,
+			"title": "Microsoft、初の自社推論モデル「MAI-Thinking-1」発表　蒸留なしでゼロから学習",
+			"url": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000050/",
+			"note": "商用データのみで学習した推論モデル",
+			"image": ""
+		},
+		{
+			"number": 4,
+			"title": "Microsoft、自社開発の7つのAIモデル発表　画像編集や音声認識も",
+			"url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
+			"note": "Build 2026でモデル群を一挙公開",
+			"image": ""
+		},
+		{
+			"number": 5,
+			"title": "NVIDIA『RTX Spark』は\"革命の幕開け\"か　AIエージェント時代の新PC基盤",
 			"url": "https://news.yahoo.co.jp/articles/e10abf5d57b31949ac1292450de106005205166b",
-			"note": "COMPUTEXでAIエージェント向け新基盤発表",
+			"note": "エージェント向け新PCプラットフォーム",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00010000-realsound-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "\"つながらないドコモ\"返上なるか　5G SA無料化で巻き直しへ",
-			"url": "https://news.yahoo.co.jp/articles/924dd0f9f2fbed2d78096517bced7faa5a85f525",
-			"note": "ドコモが5G SAを無料開放し品質改善へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000001-ascii-000-1-view.jpg?exp=10800"
+			"number": 6,
+			"title": "「スーパーサイクルに入る」とキオクシア、変動の谷も小さく",
+			"url": "https://news.yahoo.co.jp/articles/17442d03e293e5adccd0331df301a000dd96acd5",
+			"note": "メモリ市場が好況サイクルへ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000032-it_eetimes-000-1-view.jpg?exp=10800"
 		},
 		{
-			"number": 4,
-			"title": "アマゾンの「新Fire TV Stick HD」を1週間使ってみた　感動した点と残念な点",
-			"url": "https://news.yahoo.co.jp/articles/d8823d7571ca3d7a642e71c921896ff2a40ca615",
-			"note": "新Fire TV Stick HDの実機レビュー",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-35248329-cnn-000-2-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"number": 7,
+			"title": "1億6000万円超を売り上げた自作キーボード用マイコン「nice!nano」の開発秘話",
+			"url": "https://gigazine.net/news/20260603-nice-nano-million-dollar-product-dorm-room/",
+			"note": "学生が寮で開発、世界的ヒットに",
+			"image": "https://i.gzn.jp/img/2026/06/03/nice-nano-million-dollar-product-dorm-room/00_m.jpg"
+		},
+		{
+			"number": 8,
+			"title": "「電源タップは3〜5年で交換推奨」は短すぎ？　業界団体に聞いてみた",
+			"url": "https://news.yahoo.co.jp/articles/5422752cc3c11a30dd4fbcc9d481fd8b1b150ad7",
+			"note": "交換目安の根拠を工業会に取材",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000020-zdn_n-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 9,
+			"title": "中国の新型ロケット「長征12号乙」初飛行に成功　衛星を軌道投入",
+			"url": "https://news.yahoo.co.jp/articles/6c5b96b6a643aa16886c51f8b51bccd404bc6192",
+			"note": "衛星「千帆」を軌道へ投入",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00010003-sorae_jp-000-1-view.jpg?pri=l&w=640&h=377&exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "片山大臣「あ・り・ま・せ・ん」一文字ずつ強調し記者を一刀両断",
-			"url": "https://news.yahoo.co.jp/articles/fb5f17cd753c9003a0a95e9d5ca8e8538c5d3457",
-			"note": "片山大臣が会見で疑惑を強く否定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-10250025-abemav-000-3-view.jpg?pri=l&w=640&h=358&exp=10800"
+			"number": 10,
+			"title": "3.1兆円補正予算案を閣議決定　中東情勢対応でガソリン補助金継続",
+			"url": "https://news.yahoo.co.jp/pickup/6582742",
+			"note": "中東情勢を受け補助金を継続",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/ea3880998b99dc9698a2d46f6286dcbc1d88945b91c121c08e2e00cf946f0627.jpg"
 		},
 		{
-			"number": 6,
-			"title": "国旗損壊罪に玉木氏が「賛成しかねる」と発言",
-			"url": "https://news.yahoo.co.jp/articles/082dfe20d4d4f0054563fcd9355e5ddfa62e01cb",
-			"note": "国民・玉木代表が国旗損壊罪に慎重姿勢",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000056-mai-000-2-view.jpg?pri=l&w=640&h=474&exp=10800"
+			"number": 11,
+			"title": "旧宮家からの養子は「15歳以上の男子」想定　皇族数確保へ正副議長",
+			"url": "https://news.yahoo.co.jp/pickup/6582748",
+			"note": "皇族数確保策の養子要件を提示",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/3a67d901a3ec4a65c864a11720305f66e7fc1391f0ced54908e57957e1a702b8.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "「ロシアに押し戻す！」ウクライナの戦略転換に動揺するプーチン",
-			"url": "https://news.yahoo.co.jp/articles/75e2887722124b7b491c901024bfeab2ace8eb0a",
-			"note": "ウクライナが反転攻勢へ戦略転換",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00140676-wedge-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"number": 12,
+			"title": "イランの「内部亀裂」で交渉難航　米国務長官、覚書締結に不透明さ",
+			"url": "https://news.yahoo.co.jp/pickup/6582730",
+			"note": "戦闘終結交渉の覚書締結が不透明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/231717b202f772f0ca0fee07a2444722672c3cc3fb7075486f408d31f43c5b09.jpg"
 		},
 		{
-			"number": 8,
-			"title": "トランプ氏、電話会談でイスラエル首相に怒りぶつける",
-			"url": "https://news.yahoo.co.jp/articles/5e6f26d540f1197bf369bb976fec1e7dbac23dd9",
-			"note": "トランプ氏がネタニヤフ首相に不満表明",
-			"image": ""
-		},
-		{
-			"number": 9,
-			"title": "米ノーベル賞経済学者、トランプを徹底的に否定する「非MAGA化」を訴える",
-			"url": "https://news.yahoo.co.jp/articles/cd3dea5a3c1016406bbd26f90e7f1ba639d28b7e",
-			"note": "ノーベル賞学者が反トランプ路線を提唱",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00010035-huffpost-000-1-view.jpg?pri=l&w=640&h=359&exp=10800"
+			"number": 13,
+			"title": "銃撃で中止の米夕食会、7月に開催　ホワイトハウス記者会が発表",
+			"url": "https://news.yahoo.co.jp/pickup/6582755",
+			"note": "中止の記者会夕食会を来月再開催",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/dbc76f59af61342f4af70afe397f5d1cea253d20e030afc83b8b2a6263f57870.jpg"
 		}
 	]
 }
