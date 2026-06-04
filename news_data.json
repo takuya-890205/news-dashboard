@@ -2,93 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「法的にOK」でもなぜ炎上？ AIで作っただけなのに…\"合法だけどモヤる\"問題の正体",
-			"url": "https://news.yahoo.co.jp/articles/9d85016fbb844cbd763275318ab6a4fc94660c58",
-			"note": "生成AIの「合法だけど炎上」問題の構造を解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00185532-biz_plus-000-2-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"title": "Google「Gemma 4 12B」公開、16GBノートPCで動くマルチモーダルLLM",
+			"url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000055/",
+			"note": "16GBメモリのノートで動く軽量マルチモーダル",
+			"image": ""
 		},
 		{
 			"number": 2,
-			"title": "【保存版】製造業のデータ分析「Claude圧勝」、Excel地獄に別れを告げる「3ステップ」",
-			"url": "https://news.yahoo.co.jp/articles/ff680c8a4deb5c330e843d56d9dac898cd8eec4a",
-			"note": "Claudeで製造業データ分析を効率化する実践手順",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00185495-biz_plus-000-1-view.jpg?pri=l&w=640&h=309&exp=10800"
+			"title": "学習し続けるデスクトップAIエージェント「Hermes Desktop」登場",
+			"url": "https://gigazine.net/news/20260604-hermes-desktop-agent-ai/",
+			"note": "記憶を保持し自律でタスク実行するエージェント",
+			"image": "https://i.gzn.jp/img/2026/06/04/hermes-desktop-agent-ai/00_m.png"
 		},
 		{
 			"number": 3,
-			"title": "10代はなぜAIに悩みを打ち明けるのか　生成AIが「相談相手」になる時代",
-			"url": "https://news.yahoo.co.jp/articles/040e9b138dcf6ac993467933f3baa52fe9588086",
-			"note": "若年層が生成AIを相談相手にする現象を考察",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00010005-realsound-000-1-view.jpg?pri=l&w=640&h=480&exp=10800"
+			"title": "東大松尾研・Anthropic・PKSHAがAIの雇用インパクトを可視化",
+			"url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000058/",
+			"note": "「Japan AIインデックス」秋に初成果公開予定",
+			"image": ""
+		},
+		{
+			"number": 4,
+			"title": "OpenAI、フロンティアAI向け規制の枠組み案を提示",
+			"url": "https://gigazine.net/news/20260604-openai-frontier-safety-blueprint/",
+			"note": "安全性評価・透明性・第三者監査を提唱",
+			"image": "https://i.gzn.jp/img/2026/06/04/openai-frontier-safety-blueprint/00_m.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 4,
-			"title": "ニトリ、工事不要で設置できてしっかり涼しい「ポータブルクーラー」発売",
-			"url": "https://news.yahoo.co.jp/articles/ea37229f44cbb4809bb18b9bdf1b5a0859b8dbca",
-			"note": "工事不要で設置できるニトリの新ポータブルクーラー",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00000002-imppcw-000-1-view.jpg?exp=10800"
-		},
-		{
 			"number": 5,
-			"title": "キオクシア、時価総額45兆円で一時トヨタを超え国内トップに",
-			"url": "https://news.yahoo.co.jp/articles/0d287c69e0e55024ff514072144b8d47d7f5716a",
-			"note": "半導体メモリのキオクシアが時価総額で国内首位に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00000004-impiw-000-1-view.jpg?exp=10800"
+			"title": "シャオミ「Xiaomi 17T／17T Pro」本日発売、ライカ共同開発カメラ強化",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2111817.html",
+			"note": "7000mAh・FeliCa対応、11万9800円から",
+			"image": ""
 		},
 		{
 			"number": 6,
-			"title": "AppleがSafariで制御する「見えない追跡」の仕組み",
-			"url": "https://news.yahoo.co.jp/articles/e72b629f0e828c9db50d69b441a67c624f400a9b",
-			"note": "Safariのトラッキング防止技術をわかりやすく解説",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00010009-realsound-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "NVIDIA、Windows向けSoC「N2X／N3X」のロードマップ判明",
+			"url": "https://gigazine.net/news/20260604-nvidia-n2x-n3x-plan/",
+			"note": "第2・第3世代RTX Sparkをローカル処理向けに開発",
+			"image": "https://i.gzn.jp/img/2026/06/04/nvidia-n2x-n3x-plan/00_m.jpg"
+		},
+		{
+			"number": 7,
+			"title": "東京都公式アプリが「デジタル都民証」機能を提供開始",
+			"url": "https://news.yahoo.co.jp/articles/7f70c171e9b390a8f32cf668c68ec224f85f42d8",
+			"note": "マイナンバー連携で施設入場・予約を効率化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-35248466-cnetj-000-2-view.jpg?pri=l&w=640&h=480&exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 7,
-			"title": "補正予算案 異例のスピード成立へ",
-			"url": "https://news.yahoo.co.jp/pickup/6582869",
-			"note": "補正予算案が異例の速さで成立する見通し",
-			"image": ""
-		},
-		{
 			"number": 8,
-			"title": "食料品の消費税1% 今月最終判断へ",
-			"url": "https://news.yahoo.co.jp/pickup/6582861",
-			"note": "食料品の消費税1%措置を今月最終判断へ",
-			"image": ""
+			"title": "高市総理、衆院「比例のみ45削減」を自民党に指示",
+			"url": "https://news.yahoo.co.jp/articles/ce4028afce84f5ba23ce7a6579cdc9b22b34cb80",
+			"note": "維新案と異なる方針に党内・野党が反発",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00010007-annd-000-3-view.jpg?pri=l&w=640&h=640&exp=10800"
 		},
 		{
 			"number": 9,
-			"title": "マスコミなぜ避ける 問われた首相",
-			"url": "https://news.yahoo.co.jp/pickup/6582848",
-			"note": "首相のメディア対応姿勢が国会で問われる",
+			"title": "補正予算案、異例のスピードで成立へ",
+			"url": "https://news.yahoo.co.jp/pickup/6582869",
+			"note": "国民民主も賛成で検討、早期成立の見通し",
+			"image": ""
+		},
+		{
+			"number": 10,
+			"title": "出生数が過去最低、首相「非常に厳しい」",
+			"url": "https://news.yahoo.co.jp/pickup/6582940",
+			"note": "少子化の深刻化に政府が危機感",
 			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 10,
-			"title": "イスラエルとレバノン 停戦再合意",
-			"url": "https://news.yahoo.co.jp/pickup/6582881",
-			"note": "イスラエルとレバノンが停戦で再び合意",
-			"image": ""
-		},
-		{
 			"number": 11,
-			"title": "米 日本に12.5%の追加関税を検討",
-			"url": "https://news.yahoo.co.jp/pickup/6582802",
-			"note": "米国が日本への12.5%追加関税を検討",
-			"image": ""
+			"title": "ウクライナ、経済フォーラム開幕のロシア・サンクトペテルブルクを攻撃",
+			"url": "https://news.yahoo.co.jp/articles/7098c13c2c4095252c24d2b8e94bf5b3f72b69c1",
+			"note": "露防空がドローン59機を撃墜と発表",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-16542808-bbc-000-1-view.jpg?pri=l&w=640&h=359&exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "イラン クウェート国際空港を攻撃",
-			"url": "https://news.yahoo.co.jp/pickup/6582807",
-			"note": "イランがクウェート国際空港を攻撃と報道",
+			"title": "ファイブ・アイズ、中国スパイ活動の脅威を異例の共同文書で警告",
+			"url": "https://news.yahoo.co.jp/articles/93c1498b1a723d8d89970ee4270c420ad7e948fc",
+			"note": "求人サイト経由の機密情報窃取をけん制",
 			"image": ""
+		},
+		{
+			"number": 13,
+			"title": "トランプ大統領、共和党予備選で連勝も中間選挙では苦戦の見方",
+			"url": "https://news.yahoo.co.jp/articles/0fa168fbdbace0437ff162b4af9e54729cc49d41",
+			"note": "強硬路線候補が本選で不利との懸念",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-90192150-ann-000-4-view.jpg?pri=l&w=640&h=360&exp=10800"
 		}
 	]
 }
