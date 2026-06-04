@@ -2,79 +2,93 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「法的にOK」でもなぜ炎上？ AIで作っただけなのに…",
+			"title": "「法的にOK」でもなぜ炎上？ AIで作っただけなのに…\"合法だけどモヤる\"問題の正体",
 			"url": "https://news.yahoo.co.jp/articles/9d85016fbb844cbd763275318ab6a4fc94660c58",
-			"note": "著作権クリアでも感情で炎上、AI時代の新リスク",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00185532-biz_plus-000-1-view.jpg"
+			"note": "生成AIの「合法だけど炎上」問題の構造を解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00185532-biz_plus-000-2-view.jpg?pri=l&w=640&h=360&exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "Microsoft、初の自社推論モデル「MAI-Thinking-1」発表",
-			"url": "https://news.yahoo.co.jp/articles/36da8726871c7cdd651bd55dc1f2271e8a0b7707",
-			"note": "蒸留なしでゼロ学習、Claude級の性能を実現",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000029-zdn_n-000-1-view.jpg"
+			"title": "【保存版】製造業のデータ分析「Claude圧勝」、Excel地獄に別れを告げる「3ステップ」",
+			"url": "https://news.yahoo.co.jp/articles/ff680c8a4deb5c330e843d56d9dac898cd8eec4a",
+			"note": "Claudeで製造業データ分析を効率化する実践手順",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00185495-biz_plus-000-1-view.jpg?pri=l&w=640&h=309&exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "AnthropicがIPOに向け非公開申請、AI競争が加速",
-			"url": "https://gigazine.net/news/20260602-anthropic-ipo-confidential-draft/",
-			"note": "OpenAI・xAIとの競争激化でSECへ申請",
-			"image": "https://i.gzn.jp/img/2026/06/02/anthropic-ipo-confidential-draft/00_m.jpg"
+			"title": "10代はなぜAIに悩みを打ち明けるのか　生成AIが「相談相手」になる時代",
+			"url": "https://news.yahoo.co.jp/articles/040e9b138dcf6ac993467933f3baa52fe9588086",
+			"note": "若年層が生成AIを相談相手にする現象を考察",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00010005-realsound-000-1-view.jpg?pri=l&w=640&h=480&exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 4,
-			"title": "NVIDIAとMicrosoft、AI PC向けスーパーチップ「RTX Spark」発表",
-			"url": "https://dc.watch.impress.co.jp/docs/news/2113646.html",
-			"note": "Windows PCのローカルAI処理を大幅強化",
-			"image": "https://asset.watch.impress.co.jp/img/dcw/docs/2113/646/01_l.jpg"
+			"title": "ニトリ、工事不要で設置できてしっかり涼しい「ポータブルクーラー」発売",
+			"url": "https://news.yahoo.co.jp/articles/ea37229f44cbb4809bb18b9bdf1b5a0859b8dbca",
+			"note": "工事不要で設置できるニトリの新ポータブルクーラー",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00000002-imppcw-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "アップル「iPhone 18 Pro」新色リークか ダークチェリーなど4色",
-			"url": "https://news.yahoo.co.jp/articles/67bbe6c6abcae86fa94d9715af9f709bf0cbb746",
-			"note": "秋発売予定の新色カメラ部品画像が流出",
-			"image": ""
+			"title": "キオクシア、時価総額45兆円で一時トヨタを超え国内トップに",
+			"url": "https://news.yahoo.co.jp/articles/0d287c69e0e55024ff514072144b8d47d7f5716a",
+			"note": "半導体メモリのキオクシアが時価総額で国内首位に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00000004-impiw-000-1-view.jpg?exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "AppleがSafariで制御する「見えない追跡」の仕組み",
+			"url": "https://news.yahoo.co.jp/articles/e72b629f0e828c9db50d69b441a67c624f400a9b",
+			"note": "Safariのトラッキング防止技術をわかりやすく解説",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00010009-realsound-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "食料品の消費税「来年4月から1%」案有力、高市首相が今月判断へ",
-			"url": "https://news.yahoo.co.jp/articles/2a58565dbb833050c499eac408c3731cae094bbb",
-			"note": "2年限定の食料品減税、半年で準備可能と政府",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/4/c81b8c8191e785cdd9577c8b8ddc02b8987b6808f236755fb22ebed7082b7633.jpg"
-		},
-		{
 			"number": 7,
-			"title": "政府、ガソリン補助金縮小へ 首相「支援の在り方検討」",
-			"url": "https://news.yahoo.co.jp/articles/f94b6c3267b73d7a03505b518339ddb77e585cc1",
-			"note": "中東情勢の価格高騰下、財政持続性を重視",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/09668909ea2b04ea072af166b20e31b9eeb81867bb5750f3732e7179147b0d49.jpg"
+			"title": "補正予算案 異例のスピード成立へ",
+			"url": "https://news.yahoo.co.jp/pickup/6582869",
+			"note": "補正予算案が異例の速さで成立する見通し",
+			"image": ""
 		},
 		{
 			"number": 8,
-			"title": "マスコミとの対話なぜ避ける？ 問われた高市首相",
-			"url": "https://news.yahoo.co.jp/articles/a99a0edde324900af21822dd5ebe8e8670c7a334",
-			"note": "参院で野党追及、首相は「試行錯誤したい」",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/e56627f86f48f72f14d79e180a4579acbb7074438f5dd3971ee46245377ef6da.jpg"
+			"title": "食料品の消費税1% 今月最終判断へ",
+			"url": "https://news.yahoo.co.jp/pickup/6582861",
+			"note": "食料品の消費税1%措置を今月最終判断へ",
+			"image": ""
+		},
+		{
+			"number": 9,
+			"title": "マスコミなぜ避ける 問われた首相",
+			"url": "https://news.yahoo.co.jp/pickup/6582848",
+			"note": "首相のメディア対応姿勢が国会で問われる",
+			"image": ""
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "イラン軍、米軍艦船を攻撃と報道",
-			"url": "https://news.yahoo.co.jp/articles/adc335915706165cdbc1f9b8caa766373b65c35f",
-			"note": "オマーン湾で領海接近の米艦を攻撃と国営TV",
+			"number": 10,
+			"title": "イスラエルとレバノン 停戦再合意",
+			"url": "https://news.yahoo.co.jp/pickup/6582881",
+			"note": "イスラエルとレバノンが停戦で再び合意",
 			"image": ""
 		},
 		{
-			"number": 10,
-			"title": "ドネツク州で路線バスにドローン攻撃 8人死亡",
-			"url": "https://news.yahoo.co.jp/articles/f31f6f88807017263a16be4fe9dd300a7903e948",
-			"note": "親ロシア派がウクライナを非難、11人負傷",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-01154970-fnn-000-1-view.jpg"
+			"number": 11,
+			"title": "米 日本に12.5%の追加関税を検討",
+			"url": "https://news.yahoo.co.jp/pickup/6582802",
+			"note": "米国が日本への12.5%追加関税を検討",
+			"image": ""
+		},
+		{
+			"number": 12,
+			"title": "イラン クウェート国際空港を攻撃",
+			"url": "https://news.yahoo.co.jp/pickup/6582807",
+			"note": "イランがクウェート国際空港を攻撃と報道",
+			"image": ""
 		}
 	]
 }
