@@ -2,100 +2,86 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "「Gemma 4 12B」登場　メモリ16GBのノートPCでも動作するマルチモーダルモデル",
-			"url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000055/",
-			"note": "16GBノートPCで動くマルチモーダルAI",
-			"image": ""
+			"title": "「AI料金ショック」がアンソロピックの成長を鈍らせる可能性",
+			"url": "https://news.yahoo.co.jp/articles/ffccf6a6addb8e535047e6013fecce51fa33f951",
+			"note": "値上げがAnthropicの成長に影",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00098497-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "「仕事がなくなる？」“AIの影響”可視化へ　東大松尾研、Anthropic、PKSHAが協業",
-			"url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000058/",
-			"note": "AIの雇用影響を指標化する協業始動",
-			"image": ""
+			"title": "AIで科学研究を変革　米国の国家計画に日本が800億円拠出へ",
+			"url": "https://news.yahoo.co.jp/articles/641c9747ed99c1e35b80b0ca17cd1f17467feb39",
+			"note": "日本が米AI科学計画に800億円",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000000-mai-000-3-view.jpg?pri=l&w=640&h=418&exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "日本政府、AI「Mythos」アクセス権を取得　サイバー防衛強化に活用",
-			"url": "https://www.itmedia.co.jp/news/articles/2606/04/news073.html",
-			"note": "政府がClaude Mythosをサイバー防衛に",
-			"image": "https://image.itmedia.co.jp/news/articles/2606/04/yx_myt1.png"
+			"title": "ChatGPTに「おすすめ電力会社」聞いて契約して大丈夫？ 200回検証で衝撃の結果",
+			"url": "https://news.yahoo.co.jp/articles/a27a7d1fd6ba8e7a497ac5e645b2ddace073d1ad",
+			"note": "ChatGPT推薦を200回検証",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00010005-otonalife-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "Claude「一強」崩壊？開発者が「Codex」へ流出するワケ、どこに“17倍”性能差ある？",
-			"url": "https://news.yahoo.co.jp/articles/5adcbdae53c07f70c8d13c7a9fa9cf7d197f7e49",
-			"note": "ClaudeからCodexへ開発者が流出",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00185499-biz_plus-000-1-view.jpg?pri=l&w=640&h=477&exp=10800"
+			"title": "「AIにより雇用が崩壊することはない」と経済学者が語る",
+			"url": "https://gigazine.net/news/20260605-economist-against-ai-jobs-pocalypse/",
+			"note": "経済学者がAI雇用崩壊論を否定",
+			"image": "https://i.gzn.jp/img/2026/06/05/economist-against-ai-jobs-pocalypse/00_m.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 5,
-			"title": "任天堂、Switch 2のバッテリー交換対応モデルを発売へ。EU圏内向け、来年2月の規制施行に対応",
-			"url": "https://news.yahoo.co.jp/articles/202f3461e95d00d8d0352eb7c5d03d3dfa21dbc5",
-			"note": "EU規制対応でバッテリー交換版Switch 2",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000002-technoed-000-1-view.jpg?pri=l&w=640&h=359&exp=10800"
-		},
-		{
-			"number": 6,
-			"title": "MicrosoftとNVIDIAが次世代PCを発表 1ペタフロップス級の「Windows PC」ができること",
-			"url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news017.html",
-			"note": "RTX Spark搭載の高性能Windows PC",
-			"image": "https://image.itmedia.co.jp/enterprise/articles/2606/04/ho1636_20260602_pic001_1.jpg"
-		},
-		{
-			"number": 7,
-			"title": "スマホ代を抑えたいのに格安SIMのシェアが減っている？何が起きているのか",
-			"url": "https://news.yahoo.co.jp/articles/81c8f6b77b4c7f014351b3ea3a2b6695d198f03f",
-			"note": "格安SIMシェアが8.9%へ低下、背景は",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00010009-otonalife-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "ValveがゲーミングPC「Steam Machine」とVRヘッドセット「Steam Frame」の2026年夏発売を発表",
+			"url": "https://gigazine.net/news/20260605-steam-machine-frame-2026-summer-release/",
+			"note": "Valveが新ハード2機を夏発売",
+			"image": "https://i.gzn.jp/img/2026/06/05/steam-machine-frame-2026-summer-release/00_m.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 8,
+			"number": 6,
 			"title": "高市内閣支持率、若年層が初の50％割れ　止まらぬ物価高が背景",
 			"url": "https://news.yahoo.co.jp/articles/49eba66e97efe7b87ae96f9a03f5cbc8da7a58e6",
-			"note": "若年層支持率が初の50%割れ、物価高響く",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000002-mai-000-2-view.jpg"
+			"note": "若年層支持が初の50%割れ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000002-mai-000-2-view.jpg?pri=l&w=640&h=565&exp=10800"
 		},
 		{
-			"number": 9,
-			"title": "中東情勢長期化に備え　3兆1000億円規模の補正予算案が衆院通過",
-			"url": "https://news.yahoo.co.jp/articles/95f91eb13ec3943192f0d795bddec4f0643017ef",
-			"note": "3.1兆円規模の補正予算が衆院通過",
+			"number": 7,
+			"title": "高市総理　文春公開の音声データ「あのような音声を元に判断することは難しい」",
+			"url": "https://news.yahoo.co.jp/articles/b7b659c5b2707fa4fed2f60b98099b862836b24d",
+			"note": "首相が文春音声に違和感表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-01155650-fnn-000-10-view.jpg?pri=l&w=640&h=360&exp=10800"
+		},
+		{
+			"number": 8,
+			"title": "理系人材の育成拠点を全都道府県に整備方針、大学が小中高生指導…文科省",
+			"url": "https://news.yahoo.co.jp/articles/392ade6b9850e9a1976ab07d78b45abf6f6fe83b",
+			"note": "文科省が理系育成拠点を全県に",
 			"image": ""
-		},
-		{
-			"number": 10,
-			"title": "高市総理　出生数最低に「非常に厳しい状況」　若年層の手取り増など支援強化に意欲",
-			"url": "https://news.yahoo.co.jp/articles/c14476ab2f03a7ad7709077c22cca6bc47f9e389",
-			"note": "出生数約67万人で過去最少、対策強化へ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-01155025-fnn-000-6-view.jpg?pri=l&w=640&h=360&exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 11,
-			"title": "ウクライナ大統領、プーチン氏に書簡　戦争終結へ首脳会談を提案",
+			"number": 9,
+			"title": "中国　習近平国家主席が8日から北朝鮮を7年ぶりに国賓訪問　金正恩総書記と会談へ",
+			"url": "https://news.yahoo.co.jp/articles/5cd8407b5409ec7649ad8c929e07a50d30c7719f",
+			"note": "習近平が7年ぶり訪朝へ",
+			"image": ""
+		},
+		{
+			"number": 10,
+			"title": "ゼレンスキー氏がプーチン氏に書簡、戦争終結へ首脳会談を提案",
 			"url": "https://news.yahoo.co.jp/articles/d002becc61d7a83b4455b31657e094d72e1f362e",
-			"note": "ゼレンスキー氏が首脳会談を公開提案",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000012-reut-000-1-view.jpg"
+			"note": "ゼレンスキーが首脳会談を提案",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000012-reut-000-2-view.jpg"
 		},
 		{
-			"number": 12,
-			"title": "ウクライナの無人機攻勢、ロシアの迎撃ドローン「ヨールカ」は対抗できるか",
-			"url": "https://news.yahoo.co.jp/articles/ac2c2c3264660652eb684ddaa4d2bec6ae5bcd77",
-			"note": "ロシアの迎撃ドローンの実戦性能を検証",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00098621-forbes-000-1-view.jpg?pri=l&w=640&h=362&exp=10800"
-		},
-		{
-			"number": 13,
-			"title": "「中国の領海に侵入してはならない」尖閣で日本漁船に中国海警船が威圧",
-			"url": "https://news.yahoo.co.jp/articles/b992167701b84c32bba7168361bdd00f0510a75e",
-			"note": "尖閣で中国海警船が日本漁船に接近威圧",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-04649748-nnn-001-1-view.jpg"
+			"number": 11,
+			"title": "低迷するロシア経済、回復の見通しはあるか　「戦費」が尽きても攻撃が続けられる理由",
+			"url": "https://news.yahoo.co.jp/articles/77679cfac467464dfb23acf43612ce398a8133d1",
+			"note": "戦費が尽きても続く攻撃の謎",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260605-00000001-yonnana-000-9-view.jpg?pri=l&w=640&h=427&exp=10800"
 		}
 	]
 }
