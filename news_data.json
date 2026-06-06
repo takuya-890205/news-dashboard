@@ -4,63 +4,84 @@
 			"number": 1,
 			"title": "米Anthropic「AIの自己進化が始まった、世界はAI開発を一旦止めるべき」",
 			"url": "https://news.yahoo.co.jp/articles/68026fdb6679cbd890366341b4a75ebef851f71b",
-			"note": "Claudeがコードの8割超を自律記述、開発一時停止を提言",
+			"note": "AIが自らを改良する段階に到達と警鐘",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00185648-biz_plus-000-3-view.jpg?pri=l&w=640&h=360&exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功　未知の変異株にも備える\"万能型\"",
+			"title": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功 未知の変異株にも備える“万能型”",
 			"url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
-			"note": "AI設計の抗原で安全性確認、複数コロナに免疫応答",
-			"image": "https://www.itmedia.co.jp/aiplus/article/image/2606/06/2000000065/10000354/728"
+			"note": "AI設計ワクチンが第1相試験を突破",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 3,
-			"title": "JALモバイルに「ahamo」参入の衝撃　ドコモのホワイトレーベル戦略で\"第2のahamoショック\"が起こる？",
-			"url": "https://news.yahoo.co.jp/articles/fffff2e56fca785abe55df6606d00588793c624c",
-			"note": "JAL×ドコモが6/25開始、海外ローミング無料＋マイル付与",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00000023-zdn_m-000-1-view.jpg?exp=10800"
+			"title": "iPhoneとApple Watch、充電器2台持ちは「もう古い」？ Qi2.2で何が変わる",
+			"url": "https://news.yahoo.co.jp/articles/26d7faf4122379dab83b0a1da96af54e438807d6",
+			"note": "Qi2.2で1台充電に集約する新潮流",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00010005-otonalife-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 4,
-			"title": "充電器、もう増やさない？ USB-C3つで最大3台同時の67W新モデルが登場",
-			"url": "https://news.yahoo.co.jp/articles/f49fa5a8c24f98690a23094dd2df58994e970c10",
-			"note": "MOTTERUのUSB-C3ポート67W充電器、最大3台同時充電",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00010001-otonalife-000-1-view.jpg?pri=l&w=640&h=427&exp=10800"
+			"title": "そのスマホ、あと何年使える？ 5万円台で「長持ち」をうたう1台の実力とは",
+			"url": "https://news.yahoo.co.jp/articles/3b51a097821b0541f10953800a35be1bd08f14d2",
+			"note": "5万円台で長寿命を謳うスマホを検証",
+			"image": ""
+		},
+		{
+			"number": 5,
+			"title": "「ドコモなら安心」は本当？ 社用携帯の満足度調査で見えた意外な1位",
+			"url": "https://news.yahoo.co.jp/articles/37624b422ea8d76a6aa6677d584f8a2166595815",
+			"note": "社用携帯の満足度1位は意外な結果に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00010007-otonalife-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 5,
-			"title": "「もう苦しいって」高市首相　中傷動画疑惑の\"証拠音声\"を「違和感がある」と逃げ姿勢",
-			"url": "https://news.yahoo.co.jp/articles/e0eb7a666f8f19f09244ae180d15d480a7603cd7",
-			"note": "高市首相が証拠音声に「違和感」、野党が国会で追及",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00000018-jisin-000-2-view.jpg?pri=l&w=640&h=640&exp=10800"
+			"number": 6,
+			"title": "維新・吉村代表　都構想3度目の挑戦へ「連立入りで決断」",
+			"url": "https://news.yahoo.co.jp/articles/bd9021eee939108e9a0f7c61d12426272c1b7dca",
+			"note": "吉村氏が都構想3度目挑戦を表明",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/6/18ebdc509223e33d6dcac32165eae0576ac0c98711a24ca266eef88615f746f1.jpg"
 		},
 		{
-			"number": 6,
-			"title": "自民など4党、国民投票法改正案を提出　今国会成立の公算高まる",
-			"url": "https://news.yahoo.co.jp/articles/1c414da3dcef3c56281a9500dbb2b62aeebc8fd0",
-			"note": "与野党4党が改正案提出、参院過半数で成立可能性",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/6/63d15d4b1fadcc1dd61f7702bc12ea29dc2e9b31a6d1bbf82d3370e9af55a09e.jpg"
+			"number": 7,
+			"title": "【速報】石破前総理「真実を究明することは大事」　高市陣営による誹謗中傷の動画作成疑惑めぐり",
+			"url": "https://news.yahoo.co.jp/articles/f8c8f7c82fe471137cb9f93e9646c23f89ed90aa",
+			"note": "高市陣営の中傷動画疑惑に石破氏言及",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/6/77462562782492344e7b9bbb2af07abdbc5733aa460455dd880e91c855840bd2.jpg"
+		},
+		{
+			"number": 8,
+			"title": "訪日客への補助、不公平？　新幹線代や入館料免除　担当者「丁寧に説明するしか」",
+			"url": "https://news.yahoo.co.jp/articles/a9ad0eee01ca8c440ce84b4fa4bcf990005d1844",
+			"note": "訪日客優遇策に国内から不公平の声",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/6/084c01299cd7ab283bcde596bd10b71a9d703795d2efa0a66a8f7eba17bb170a.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 7,
-			"title": "衛星で確認された中国の新型潜水艦…艦橋のない「海中幽霊」の可能性",
-			"url": "https://news.yahoo.co.jp/articles/58480cbba42201c40a5d879d70b46f66443eac5c",
-			"note": "中国が艦橋なしステルス潜水艦を建造、水中抵抗3分の1減",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00056373-hankyoreh-000-1-view.jpg?exp=10800"
+			"number": 9,
+			"title": "米半導体、時価総額200兆円消失　NY株急落を主導",
+			"url": "https://news.yahoo.co.jp/articles/73a4ff21afbbc958596cd58456078ec5fee5768e",
+			"note": "半導体株急落でNY株式市場が動揺",
+			"image": ""
 		},
 		{
-			"number": 8,
-			"title": "ロシアが4年以内にNATOを攻撃する可能性 英首相",
-			"url": "https://news.yahoo.co.jp/articles/01ed37368267f4f3f3b3aabdbd061ad02e5e125c",
-			"note": "英首相が2030年までのロシアのNATO攻撃リスクを警告",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00000001-jij_afp-000-2-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"number": 10,
+			"title": "「私は性的暴行を受けた」元ドイツ副首相を襲った“AIフェイク動画”の罠",
+			"url": "https://news.yahoo.co.jp/articles/195a1cabae4c6b2bc173ae9b2e367544ffa4209e",
+			"note": "AIフェイク動画が政治家を標的に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-22710502-digbloom-000-1-view.jpg"
+		},
+		{
+			"number": 11,
+			"title": "イラン戦争は早期終結へ、物価高解消　トランプ氏表明",
+			"url": "https://news.yahoo.co.jp/articles/bed45d2802a99d4c33194fec51da222da59f04b7",
+			"note": "トランプ氏がイラン戦争の早期終結表明",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260606-00000039-reut-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		}
 	]
 }
