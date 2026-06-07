@@ -2,64 +2,79 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "ChatGPTに「ロックダウンモード」　プロンプトインジェクションによる情報漏えい対策",
-			"url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
-			"note": "OpenAIが情報漏えいを抑える新セキュリティ機能を追加",
-			"image": "https://image.itmedia.co.jp/news/articles/2606/07/yu_lockdown.jpg"
+			"title": "ローカルLLMにガードレールを追加できる「forge」",
+			"url": "https://gigazine.net/news/20260607-forge/",
+			"note": "再試行・エラー回復等でローカルLLMの信頼性を底上げ",
+			"image": "https://i.gzn.jp/img/2026/06/07/forge/00.png"
 		},
 		{
 			"number": 2,
-			"title": "米俳優組合、AIから俳優守る新労使契約を締結　91.4%賛成",
-			"url": "https://news.yahoo.co.jp/articles/470210c461ad5adbeab25dbe581a883d19284313",
-			"note": "合成俳優の使用制限を盛り込んだ新契約を可決",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/f1d7fcef955f6ae0328f2698efabaaf84374b2195eb26499fbe3c9d59a13cb73.jpg"
+			"title": "米OpenAI、ChatGPT大幅刷新へ　上場見据え＝FT",
+			"url": "https://news.yahoo.co.jp/articles/d70aa817844dd9cf12e9cea042dd24ffc5ec4316",
+			"note": "上場視野に自動作業機能を備えた次世代ChatGPTへ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/8e2dac2ddab238b0a6d3e4c03dbc7117c1de540ac8bf425f44e974a68573ae65.jpg"
 		},
 		{
 			"number": 3,
-			"title": "生成AIで就活効率化、5社内定の大学生も　採用側は対策が課題",
-			"url": "https://news.yahoo.co.jp/articles/ad77d402a92b258426521267be77618a7fe27a32",
-			"note": "学生のAI活用が進み採用企業側に新たな課題",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/dbd406c62dac8bc58503514e52236bcf40bc0c4370e9ec7cc96d0f3c8a60d4ba.jpg"
-		}
-	],
-	"デジタルガジェット": [],
-	"政治（日本）": [
-		{
-			"number": 4,
-			"title": "再審法案、週明け衆院審議ヤマ場へ　証拠開示で隔たり",
-			"url": "https://news.yahoo.co.jp/articles/0e64bb0316dfc77d1c57e8949c7872e8be646918",
-			"note": "刑訴法改正案、9日に衆院で参考人質疑へ",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/4517355747459187af71bda4e3f0d60ee56f42508b40098631df8172765ae5e5.jpg"
+			"title": "インフルエンサーの「AIクローン」は誰のものか",
+			"url": "https://news.yahoo.co.jp/articles/e23394cda4f7531486e44d77ee5922575cb80d62",
+			"note": "肖像・声のAI利用権が契約上の法的地雷原に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00097934-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
+			"number": 4,
+			"title": "AIデータセンターの電力不足、救世主は中古ジェットエンジン？",
+			"url": "https://www.gizmodo.jp/article/whats-powering-all-these-futuristic-data-centers-in-many-cases-repurposed-jet-engines-qgn/",
+			"note": "中古エンジン改造で最大48MW、AI電力難に新解",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2025/10/24/shutterstock_1809926380.jpg?w=1200"
+		}
+	],
+	"デジタルガジェット": [
+		{
 			"number": 5,
-			"title": "コメ卸売業者が1億5000万円赤字　在庫は前年の約2倍、価格下落で悲鳴",
-			"url": "https://news.yahoo.co.jp/articles/1b2a9681b42d14b14e1a07cf227ee9857607fbd0",
-			"note": "仕入れ高騰と価格下落で卸の経営が悪化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-22682868-cbcv-000-1-view.jpg"
+			"title": "Galaxy Z Foldが「Ultra」に名称変更でほぼ確",
+			"url": "https://www.gizmodo.jp/article/samsung-galaxy-z-fold-name-change-ultra/",
+			"note": "サムスン折りたたみ最上位が3モデル展開で改名へ",
+			"image": "https://media.loom-app.com/loom/2026/06/07/bc7e497c-256d-4850-883a-0556f91abd4b/original.jpg?w=1200"
+		},
+		{
+			"number": 6,
+			"title": "NASなのにAIワークステーション！MINISFORUM「N5 MAX」",
+			"url": "https://www.gizmodo.jp/article/minisforum_n5_max_ai_nas/",
+			"note": "ローカルLLMも動く次世代AI搭載NASが登場",
+			"image": "https://media.loom-app.com/loom/2026/06/05/f3c2a646-347c-41d2-90a0-8a4f0dbf309a/original.jpg?w=1200"
+		}
+	],
+	"政治（日本）": [
+		{
+			"number": 7,
+			"title": "日本、ホルムズ海峡派遣に3条件　停戦合意など",
+			"url": "https://news.yahoo.co.jp/articles/d7e14504a0f69675da95a27c21db65204a3317f3",
+			"note": "自衛隊派遣に停戦合意・脅威低下など3条件設定",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2021/1/12/1610462655_1610462637_aflo_109260004.jpg"
+		},
+		{
+			"number": 8,
+			"title": "政府、ガソリン補助の出口探る　今秋にも",
+			"url": "https://news.yahoo.co.jp/articles/372ca9a3a35fa3008fcaecb0e33d7441fa621cb9",
+			"note": "再開した補助金、今秋にも縮小を検討する方針",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/aabccf91c5dc318adf3468e9f1c8fc6a4bd3fb9d4d3579153bba88511840656b.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 6,
-			"title": "ウクライナ、サンクトペテルブルク近郊の海軍基地へ攻撃　プーチン氏肝いりフォーラム最終日に",
-			"url": "https://news.yahoo.co.jp/articles/233d64bd9576749887de9efba5821a5ea5a7d0ae",
-			"note": "経済フォーラム最終日に合わせ大規模ドローン攻撃",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-35248551-cnn-000-4-view.jpg"
+			"number": 9,
+			"title": "米中の非核化目標「虚偽」　北朝鮮、習氏訪問前に反発",
+			"url": "https://news.yahoo.co.jp/articles/8a7262d67e7ac34a59f2cb113ec72679d5118e21",
+			"note": "金与正氏が米中の非核化共通目標を虚偽と非難",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/b29fa7a8c264d4d742de552353d3cdff8d2d7a1ebceabdb851e4dacd1de7c10e.jpg"
 		},
 		{
-			"number": 7,
-			"title": "ゼレンスキー氏、プーチン氏に公開書簡「北朝鮮の支援なく持ちこたえられない」",
+			"number": 10,
+			"title": "ゼレンスキー氏「北朝鮮の支援なく持ちこたえられない」",
 			"url": "https://news.yahoo.co.jp/articles/8a780f434f8c1ab194dc55f78a40354d283bf26c",
-			"note": "ロシア内部の分裂を狙う戦略的メッセージ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00000002-cnippou-000-1-view.jpg"
-		},
-		{
-			"number": 8,
-			"title": "ドイツ、入国拒否3万6千人　移民政策厳格化から1年間で",
-			"url": "https://news.yahoo.co.jp/articles/950c445da1f6d0dc749ef6695986462b76e75ccf",
-			"note": "メルツ政権の厳格化1年で3.6万人を入国拒否",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00000014-kyodonews-000-34-view.jpg"
+			"note": "プーチン氏に終戦提案、内部分裂を狙う公開書簡",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00000002-cnippou-000-1-view.jpg?exp=10800"
 		}
 	]
 }
