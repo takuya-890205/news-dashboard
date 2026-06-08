@@ -2,100 +2,107 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Claudeがエンタープライズの定番へ──アンソロピックがOpenAIを抜く",
-			"url": "https://news.yahoo.co.jp/articles/cdfb29cfc1cf7236581ba07617c32f456e42a339",
-			"note": "企業導入率34.4%でClaudeがOpenAIを初逆転、急成長の背景",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00098684-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "Googleを急襲、AnthropicがManaged Agentsで仕掛けるAI覇権争い",
+			"url": "https://www.itmedia.co.jp/business/articles/2606/08/news060.html",
+			"note": "Claude新エージェント基盤で覇権競争激化",
+			"image": "https://image.itmedia.co.jp/business/articles/2606/08/dk_ii11.jpg"
 		},
 		{
 			"number": 2,
-			"title": "オープンAI、チャット型からAIエージェントに転換を狙う「スーパーアプリ」を推進",
-			"url": "https://news.yahoo.co.jp/articles/392dae3caffc18a1299b08888c95eaf5415dd68c",
-			"note": "OpenAIがChatGPTを刷新し自律型AIエージェントへ転換、IPO前に企業向けを強化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00185659-biz_plus-000-3-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"title": "日立とIntelがフィジカルAI加速に向けて戦略的協業を発表",
+			"url": "https://gigazine.net/news/20260608-hitachi-intel/",
+			"note": "半導体・量子など5領域で産業AI実装",
+			"image": "https://i.gzn.jp/img/2026/06/08/hitachi-intel/00_m.png"
 		},
 		{
 			"number": 3,
-			"title": "GoogleがスマホやノートPCでAIをローカル実行するための省メモリ化技術「QAT」をGemma 4に導入",
-			"url": "https://gigazine.net/news/20260608-google-ai-gemma-4-qat/",
-			"note": "GoogleがGemma 4にQATを導入、わずか0.84GBのメモリでAIローカル実行が可能に",
-			"image": "https://i.gzn.jp/img/2026/06/08/google-ai-gemma-4-qat/00_m.png"
+			"title": "AIが設計した「万能ワクチン」を初めてヒトで試験とケンブリッジ大",
+			"url": "https://gigazine.net/news/20260608-ai-universal-vaccine/",
+			"note": "数千の変異株対応・注射針不要の汎用ワクチン",
+			"image": "https://i.gzn.jp/img/2026/06/08/ai-universal-vaccine/00.jpg"
 		},
 		{
 			"number": 4,
-			"title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
-			"url": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
-			"note": "AI大手3社の同時上場が株式市場に最大4兆ドルの影響を与える可能性を検証",
-			"image": "https://i.gzn.jp/img/2026/06/08/stockmarket-swallow-anthropic-spacex-openai/00_m.jpg"
+			"title": "ChatGPTに相談 途中で詐欺に気づく 60代男性が被害拡大防ぐ",
+			"url": "https://news.yahoo.co.jp/articles/4e6e4d027c6c874c60bbe8873099709457be848a",
+			"note": "生成AI相談でSNS副業詐欺を見抜いた事例",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/bfd2faa6ada66f44983f29e34b1e69c5b2b7cfe7e878f560004d4e0d11c2b02f.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 5,
-			"title": "MSIとGIGABYTEが5K・27インチMini-LEDモニターを発表、180Hzで動作し1440pなら330Hzで駆動可能",
-			"url": "https://gigazine.net/news/20260608-msi-gigabyte-monitor/",
-			"note": "5K/180Hzと1440p/330Hzの2モードに対応する最新Mini-LEDモニターが登場",
-			"image": "https://i.gzn.jp/img/2026/06/08/msi-gigabyte-monitor/00_m.jpg"
+			"title": "目玉は賢くなったSiri？「WWDC26」は今夜26時から開幕",
+			"url": "https://www.gizmodo.jp/article/wwdc26-apple-tzy/",
+			"note": "AI強化Siriが主役、基調講演9日午前2時",
+			"image": "https://media.loom-app.com/loom/2026/05/31/2e85ca48-ce83-434c-bfe9-7af095599903/original.png?w=1200"
 		},
 		{
 			"number": 6,
-			"title": "まもなく開催『WWDC26』の内容を大胆予測　Siriの大刷新と「新CEO時代」の幕開けが意味するものとは",
-			"url": "https://news.yahoo.co.jp/articles/15db211bda09005592e3749d23cd52fd329994a6",
-			"note": "Apple WWDC26でSiri大刷新とAI機能強化を予測、新CEOの方向性が明確化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00010011-realsound-000-1-view.jpg?pri=l&w=640&h=480&exp=10800"
+			"title": "Meta、今年発表のスマートグラスがたくさんあるらしい",
+			"url": "https://www.gizmodo.jp/article/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year/",
+			"note": "夏Modelo・秋Luna等、複数新モデル計画",
+			"image": "https://media.loom-app.com/loom/2026/06/05/a62ff860-3e56-4f40-bed9-689274fd4370/original.jpg?w=1200"
 		},
 		{
 			"number": 7,
-			"title": "NVIDIAが課したGeForce RTX 5090の性能制限を突破する改造方法とは？",
-			"url": "https://gigazine.net/news/20260608-rtx-5090-external-clock/",
-			"note": "外部クロック基板でRTX 5090のメーカー制限を回避するオーバークロック手法を検証",
-			"image": "https://i.gzn.jp/img/2026/06/08/rtx-5090-external-clock/00_m.jpg"
+			"title": "本気のインテル入ってる手持ちゲーミングPC「Acer Predator Atlas 8」",
+			"url": "https://www.gizmodo.jp/article/computex-acer-predator-atlas-8/",
+			"note": "Intel Arc G3搭載で性能と省電力を両立",
+			"image": "https://media.loom-app.com/loom/2026/06/04/a7e597f9-9e66-4ddf-9402-ced479adcdcf/original.jpg?w=1200"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 8,
-			"title": "高市内閣の支持率70.0% JNN調査",
-			"url": "https://news.yahoo.co.jp/pickup/6583375",
-			"note": "JNN世論調査で高市内閣の支持率70.0%、前月比4.2ポイント下落",
+			"title": "【速報】高市内閣の支持率70.0% 先月から4.2ポイント下落 JNN調査",
+			"url": "https://news.yahoo.co.jp/articles/413651e3ec7f1cea5bd2ffe62387661b43cae910",
+			"note": "高支持続くも前月比でやや低下、JNN世論調査",
 			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/fa927a6e37004846866f691389acb561dea99e06b3d5ba64062d55c4137eed65.jpg"
 		},
 		{
 			"number": 9,
-			"title": "「ナフサ危機」や「中傷動画疑惑」を頑として認めない高市首相のスタンス",
-			"url": "https://news.yahoo.co.jp/articles/d185ba123ad3036b94e7d9fbad896d97bf7cc0a9",
-			"note": "高市首相がナフサ問題と中傷動画疑惑で非を認めない姿勢の背景をベテラン議員が分析",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000002-pseven-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "【独自】旧宮家養子見直し20～30年後 皇族数確保、変化見極め",
+			"url": "https://news.yahoo.co.jp/articles/e26d715702bdcdb75a46415819923ca9713e18ec",
+			"note": "皇族数確保策、養子案の見直しは数十年後",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/1b58b2027a792733e9f4b4fe86e2ac1765cc1fdb294e9215455e9db8f5aa1aa9.jpg"
 		},
 		{
 			"number": 10,
-			"title": "旧宮家養子見直し 20～30年後想定",
-			"url": "https://news.yahoo.co.jp/pickup/6583372",
-			"note": "衆参正副議長が旧11宮家の養子案を20〜30年後に見直す方針を確認",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/1b58b2027a792733e9f4b4fe86e2ac1765cc1fdb294e9215455e9db8f5aa1aa9.jpg"
+			"title": "日韓9年ぶり捜索・救難共同訓練 レーダー照射経て防衛協力再開",
+			"url": "https://news.yahoo.co.jp/expert/articles/f6ec7902e0cab90c38f5da66ecdb09e6f60623aa",
+			"note": "2018年照射問題後の防衛協力正常化の象徴",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/takahashikosuke/02640392/title-1780896460989.jpeg?exp=10800"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 11,
-			"title": "建物が崩れ悲鳴 フィリピンM8.2の地震 発生直後の様子",
-			"url": "https://news.yahoo.co.jp/articles/3e6459166d2cbf6be4e93e073f1f7d8fea5c4efd",
-			"note": "フィリピン・ミンダナオ島でM8.2大地震、建物崩壊が相次ぎ日本にも津波注意報発表",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-10251098-abemav-000-3-view.jpg?pri=l&w=640&h=357&exp=10800"
+			"title": "フィリピンで最大規模M8.2の地震 日本に1メートルの津波警報発令",
+			"url": "https://news.yahoo.co.jp/articles/897b08e672bfb2f598f83e0eab6298b0bfdc0d6a",
+			"note": "ミンダナオ島沖、日本含む周辺国へ津波警報",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000058-cnippou-000-1-view.jpg?pri=l&w=640&h=384&exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "トランプ大統領「もう十分だ」イランとイスラエルの双方に自制求める",
-			"url": "https://news.yahoo.co.jp/articles/065a16e8ae947297719e7c7ea9fa7abc04314a1e",
-			"note": "トランプ大統領がイランのミサイル攻撃を受け、両国に戦闘終結と交渉継続を要求",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-07308267-jnn-000-4-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"title": "【速報】習近平主席が北朝鮮に到着 7年ぶり訪問、正恩氏と会談へ",
+			"url": "https://news.yahoo.co.jp/articles/36a19765e891d84e6eb372efb9b3fb08187fa91d",
+			"note": "7年ぶり訪朝、両国の結束確認へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/8c36a14051caf228669daff0c048ef7a81b6fcc4e3ccdaabd0467e3973991000.jpg"
 		},
 		{
 			"number": 13,
-			"title": "ロシア富豪がキーウ訪問、和平支援を申し出＝ゼレンスキー氏",
-			"url": "https://news.yahoo.co.jp/articles/fb3c9d8779cca5be3dc27acd91b2ab9ed390dec5",
-			"note": "ロシアの富豪アブラモビッチ氏がウクライナ首都キーウを訪問し和平仲介を申し出た",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000013-reut-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "トランプ大統領、共和党内で離反の動き拡大 中間選挙控え",
+			"url": "https://news.yahoo.co.jp/articles/57d8dbd1eb6fd97019c8079eae81636fc9561384",
+			"note": "中間選挙前に支持基盤が揺らぐ展開",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/e140f372337432ecd78ca4860f6b48110eb23eff03b62eba834a9c8e1ced336f.jpg"
+		},
+		{
+			"number": 14,
+			"title": "中国、レアアースで日本の最も痛いところを突く 防衛・半導体に打撃",
+			"url": "https://news.yahoo.co.jp/articles/5c08b79ff0ff98ec6d66e3749523a20a2a42faf6",
+			"note": "対日レアアース削減で防衛・半導体に集中打撃",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000065-cnippou-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		}
 	]
 }
