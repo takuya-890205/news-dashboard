@@ -4,91 +4,98 @@
 			"number": 1,
 			"title": "Claudeがエンタープライズの定番へ──アンソロピックがOpenAIを抜く",
 			"url": "https://news.yahoo.co.jp/articles/cdfb29cfc1cf7236581ba07617c32f456e42a339",
-			"note": "企業導入率34.4%でClaudeがOpenAIを初逆転",
+			"note": "企業導入率34.4%でClaudeがOpenAIを初逆転、急成長の背景",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00098684-forbes-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "NEC・日立が「Claude Mythos」アクセス権を取得した背景",
-			"url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
-			"note": "日立・NEC等がClaude Mythosアクセス権取得、安保活用へ",
-			"image": "https://image.itmedia.co.jp/business/articles/2606/08/ea1635237_2606hitachimythos_01.jpg"
+			"title": "オープンAI、チャット型からAIエージェントに転換を狙う「スーパーアプリ」を推進",
+			"url": "https://news.yahoo.co.jp/articles/392dae3caffc18a1299b08888c95eaf5415dd68c",
+			"note": "OpenAIがChatGPTを刷新し自律型AIエージェントへ転換、IPO前に企業向けを強化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00185659-biz_plus-000-3-view.jpg?pri=l&w=640&h=360&exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
-			"url": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
-			"note": "3社同時IPOが株式市場に与える影響を分析",
-			"image": "https://i.gzn.jp/img/2026/06/08/stockmarket-swallow-anthropic-spacex-openai/00_m.jpg"
+			"title": "GoogleがスマホやノートPCでAIをローカル実行するための省メモリ化技術「QAT」をGemma 4に導入",
+			"url": "https://gigazine.net/news/20260608-google-ai-gemma-4-qat/",
+			"note": "GoogleがGemma 4にQATを導入、わずか0.84GBのメモリでAIローカル実行が可能に",
+			"image": "https://i.gzn.jp/img/2026/06/08/google-ai-gemma-4-qat/00_m.png"
 		},
 		{
 			"number": 4,
-			"title": "ChatGPTが「全面リニューアル」か。時期は数週間以内",
-			"url": "https://www.gizmodo.jp/article/chatgpt_renewal_rumor/",
-			"note": "AIエージェントツールへ転換、IPO前の収益強化が狙い",
-			"image": "https://media.loom-app.com/loom/2026/06/07/6c393be1-62ab-4f44-ac64-a53112119bb7/original.jpg?w=1200"
-		},
-		{
-			"number": 5,
-			"title": "職人の技を残したい…岐阜の町工場が「生成AI」で挑む、超切実な「技能承継の突破口」",
-			"url": "https://news.yahoo.co.jp/articles/3f72a16f634aa9d84490dc24c8df8e4ac92afb4b",
-			"note": "金属加工会社がChatGPT/Claudeで技能承継コスト削減",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00185553-biz_plus-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
+			"url": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
+			"note": "AI大手3社の同時上場が株式市場に最大4兆ドルの影響を与える可能性を検証",
+			"image": "https://i.gzn.jp/img/2026/06/08/stockmarket-swallow-anthropic-spacex-openai/00_m.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
+			"number": 5,
+			"title": "MSIとGIGABYTEが5K・27インチMini-LEDモニターを発表、180Hzで動作し1440pなら330Hzで駆動可能",
+			"url": "https://gigazine.net/news/20260608-msi-gigabyte-monitor/",
+			"note": "5K/180Hzと1440p/330Hzの2モードに対応する最新Mini-LEDモニターが登場",
+			"image": "https://i.gzn.jp/img/2026/06/08/msi-gigabyte-monitor/00_m.jpg"
+		},
+		{
 			"number": 6,
 			"title": "まもなく開催『WWDC26』の内容を大胆予測　Siriの大刷新と「新CEO時代」の幕開けが意味するものとは",
 			"url": "https://news.yahoo.co.jp/articles/15db211bda09005592e3749d23cd52fd329994a6",
-			"note": "Apple WWDC26でSiri大刷新・AI機能強化を予測",
+			"note": "Apple WWDC26でSiri大刷新とAI機能強化を予測、新CEOの方向性が明確化",
 			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00010011-realsound-000-1-view.jpg?pri=l&w=640&h=480&exp=10800"
 		},
 		{
 			"number": 7,
 			"title": "NVIDIAが課したGeForce RTX 5090の性能制限を突破する改造方法とは？",
 			"url": "https://gigazine.net/news/20260608-rtx-5090-external-clock/",
-			"note": "外付けクロック生成器でRTX 5090の制限を突破する手法",
+			"note": "外部クロック基板でRTX 5090のメーカー制限を回避するオーバークロック手法を検証",
 			"image": "https://i.gzn.jp/img/2026/06/08/rtx-5090-external-clock/00_m.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 8,
-			"title": "【速報】高市内閣の支持率70.0%　先月から4.2ポイント下落　JNN世論調査",
-			"url": "https://news.yahoo.co.jp/articles/413651e3ec7f1cea5bd2ffe62387661b43cae910",
-			"note": "JNN調査で74.2%→70.0%に低下、不支持は27.4%",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-07308243-jnn-000-3-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"title": "高市内閣の支持率70.0% JNN調査",
+			"url": "https://news.yahoo.co.jp/pickup/6583375",
+			"note": "JNN世論調査で高市内閣の支持率70.0%、前月比4.2ポイント下落",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/fa927a6e37004846866f691389acb561dea99e06b3d5ba64062d55c4137eed65.jpg"
 		},
 		{
 			"number": 9,
-			"title": "「新型軍国主義」巡り応酬過熱　日中当局、防衛相演説きっかけ　自民から沈静化促す声",
-			"url": "https://news.yahoo.co.jp/articles/ee9d4eab04b1d5d8a06c6ec556f2407b254ba631",
-			"note": "小泉防衛相演説発端で日中が軍国主義論争、自民は沈静化求める",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00000057-jij-000-12-view.jpg?pri=l&w=640&h=464&exp=10800"
+			"title": "「ナフサ危機」や「中傷動画疑惑」を頑として認めない高市首相のスタンス",
+			"url": "https://news.yahoo.co.jp/articles/d185ba123ad3036b94e7d9fbad896d97bf7cc0a9",
+			"note": "高市首相がナフサ問題と中傷動画疑惑で非を認めない姿勢の背景をベテラン議員が分析",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000002-pseven-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+		},
+		{
+			"number": 10,
+			"title": "旧宮家養子見直し 20～30年後想定",
+			"url": "https://news.yahoo.co.jp/pickup/6583372",
+			"note": "衆参正副議長が旧11宮家の養子案を20〜30年後に見直す方針を確認",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/8/1b58b2027a792733e9f4b4fe86e2ac1765cc1fdb294e9215455e9db8f5aa1aa9.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 10,
-			"title": "トランプ氏、イランの攻撃に「これ以上必要ない」…ネタニヤフ首相に「報復しないよう伝える」",
-			"url": "https://news.yahoo.co.jp/articles/35aad34a20984bb86aeab17d683e5fff64aea5c5",
-			"note": "トランプ、ネタニヤフにイランへの報復自制を促す",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000090-yom-000-11-view.jpg?exp=10800"
-		},
-		{
 			"number": 11,
-			"title": "習主席が「軍国主義の復活」に反対と寄稿",
-			"url": "https://news.yahoo.co.jp/articles/08cbdae3d763f0f42532c4bcc2276b9f81512ff8",
-			"note": "習近平、北朝鮮機関紙に覇権主義・軍国主義反対を寄稿",
-			"image": ""
+			"title": "建物が崩れ悲鳴 フィリピンM8.2の地震 発生直後の様子",
+			"url": "https://news.yahoo.co.jp/articles/3e6459166d2cbf6be4e93e073f1f7d8fea5c4efd",
+			"note": "フィリピン・ミンダナオ島でM8.2大地震、建物崩壊が相次ぎ日本にも津波注意報発表",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-10251098-abemav-000-3-view.jpg?pri=l&w=640&h=357&exp=10800"
 		},
 		{
 			"number": 12,
-			"title": "台湾最大野党・国民党主席はなぜ訪米したか",
-			"url": "https://news.yahoo.co.jp/articles/b1bef6637af47a102955629aebd38de991824e72",
-			"note": "習近平会談直後に訪米、米中双方と個別会談の異例展開",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00140704-wedge-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "トランプ大統領「もう十分だ」イランとイスラエルの双方に自制求める",
+			"url": "https://news.yahoo.co.jp/articles/065a16e8ae947297719e7c7ea9fa7abc04314a1e",
+			"note": "トランプ大統領がイランのミサイル攻撃を受け、両国に戦闘終結と交渉継続を要求",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-07308267-jnn-000-4-view.jpg?pri=l&w=640&h=360&exp=10800"
+		},
+		{
+			"number": 13,
+			"title": "ロシア富豪がキーウ訪問、和平支援を申し出＝ゼレンスキー氏",
+			"url": "https://news.yahoo.co.jp/articles/fb3c9d8779cca5be3dc27acd91b2ab9ed390dec5",
+			"note": "ロシアの富豪アブラモビッチ氏がウクライナ首都キーウを訪問し和平仲介を申し出た",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000013-reut-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		}
 	]
 }
