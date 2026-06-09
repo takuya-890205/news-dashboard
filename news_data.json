@@ -2,57 +2,86 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "SiriとApple Intelligenceが統合した「Siri AI」発表、Google Geminiベースで複数アプリと連携",
-			"url": "https://gigazine.net/news/20260609-apple-wwdc26-apple-intelligence/",
-			"note": "WWDC26でGeminiベース新型Siri AIがSafari・Messages等と統合",
-			"image": "https://i.gzn.jp/img/2026/06/09/apple-wwdc26-apple-intelligence/00.png"
+			"title": "Apple WWDC26でSiri AI発表、ユーザー文脈理解し自然な応答が可能に",
+			"url": "https://news.yahoo.co.jp/articles/ed3837f02787cf859ff502bbc16b4b82813d380a",
+			"note": "26年後半に英語から提供、複数デバイス間の統合も予定",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000030-zdn_m-000-5-view.jpg?exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "次世代の「Siri AI」発表　ユーザーを理解した応答が可能、表現力も向上　26年後半に英語から対応",
-			"url": "https://news.yahoo.co.jp/articles/ed3837f02787cf859ff502bbc16b4b82813d380a",
-			"note": "Geminiベース新Siri AI、個人文脈を理解した会話応答が特徴",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000030-zdn_m-000-4-view.jpg?exp=10800"
+			"title": "Google「AI Plus」値下げ、月額1200円→725円・ストレージ400GBに倍増",
+			"url": "https://news.yahoo.co.jp/articles/8cedcbc8f76a3c3d876802b475e69d7d2219c56c",
+			"note": "次回プラン更新から自動適用、ストレージも200GB→400GBへ",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000038-zdn_n-000-1-view.jpg?pri=l&w=640&h=335&exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "科学論文で引用の捏造が急増　AIの「ハルシネーション」が主因か",
-			"url": "https://news.yahoo.co.jp/articles/7ec9d6047397e1d2fbe571ef3b681467049683d9",
-			"note": "AI幻覚で科学論文の参考文献捏造が5年で12倍増、研究信頼性に懸念",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00098818-forbes-000-1-view.jpg?pri=l&w=640&h=427&exp=10800"
+			"title": "OpenAIがIPO向け機密申請提出、企業価値852兆円超でAnthropicに続く",
+			"url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+			"note": "GS・MS主幹事で秋上場を視野、ChatGPT「スーパーアプリ」化も並行",
+			"image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?w=1024"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 4,
-			"title": "「iOS 27」発表、AIで進化した新Siri搭載　「iPhone 11」以降に対応",
-			"url": "https://news.yahoo.co.jp/articles/9de598d3a17f20dbf8befdf73c5cc570999816bb",
-			"note": "WWDC26でiOS 27発表。Siri AI搭載、アプリ起動30%高速化",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-35248609-cnetj-000-3-view.jpg?pri=l&w=640&h=480&exp=10800"
+			"title": "iPadOS 27は第8世代iPadなど非対応、A12搭載モデルが全滅",
+			"url": "https://gigazine.net/news/20260609-apple-ipados-27-support/",
+			"note": "iPad Pro 3世代・Air 3世代・mini 5世代も対象外に",
+			"image": "https://i.gzn.jp/img/2026/06/09/apple-ipados-27-support/00_m.jpg"
 		},
 		{
 			"number": 5,
-			"title": "iPadOS 27では第8世代iPadや第5世代iPad miniがサポート対象から外れることが明らかに",
-			"url": "https://gigazine.net/news/20260609-apple-ipados-27-support/",
-			"note": "A12 Bionic未搭載の旧iPad機種がiPadOS 27でサポート切れ",
-			"image": "https://i.gzn.jp/img/2026/06/09/apple-ipados-27-support/00_m.jpg"
+			"title": "iOS 27はiPhone 11以降を全機種サポート継続、今年は切り捨てなし",
+			"url": "https://news.yahoo.co.jp/articles/4f97092de0be9fb3a4eba188c0882b87ea055c2b",
+			"note": "WWDC26で発表、Apple Intelligenceは高性能チップ機種のみ利用可",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00098830-forbes-000-1-view.jpg?pri=l&w=640&h=360&exp=10800"
 		}
 	],
-	"政治（日本）": [],
-	"国際情勢": [
+	"政治（日本）": [
 		{
 			"number": 6,
-			"title": "イランと戦闘再開なら支援せずと米大統領",
-			"url": "https://news.yahoo.co.jp/articles/68c59b24ed064a647cc84ea0aeb9f7a80f09df7c",
-			"note": "トランプ氏、イスラエルにイラン戦闘再開なら単独戦を警告",
-			"image": ""
+			"title": "高市首相側近・茂木正氏に万博統括時代の「不正出張」常習疑い",
+			"url": "https://news.yahoo.co.jp/articles/804b51f91227f3978806e4e6934eb7542be8f35f",
+			"note": "不倫相手を公費ホテルへ少なくとも5回呼び寄せか、文春報道",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00089290-bunshun-000-1-view.jpg?pri=l&w=640&h=640&exp=10800"
 		},
 		{
 			"number": 7,
-			"title": "「私たちの多額の税金が…」トランプ氏、24億円相当のプロジェクトに国民が悲痛な叫び",
-			"url": "https://news.yahoo.co.jp/articles/680955fd1564d493dae471316667b485de269fed",
-			"note": "リンカーン池改修に当初見積もりの74倍・24億円の税金が投入",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-10057337-bfj-000-1-view.jpg?pri=l&w=640&h=424&exp=10800"
+			"title": "皇族確保策「総意」案に7党賛成、安定的な皇位継承へ前進",
+			"url": "https://news.yahoo.co.jp/pickup/6583477",
+			"note": "超党派で合意、女性皇族が結婚後も皇族身分維持する案が軸",
+			"image": ""
+		},
+		{
+			"number": 8,
+			"title": "3文書改定・非核三原則の見直し賛否が割れる",
+			"url": "https://news.yahoo.co.jp/pickup/6583506",
+			"note": "安保3文書改定を機に「核共有」容認論が表面化、論争に",
+			"image": ""
+		}
+	],
+	"国際情勢": [
+		{
+			"number": 9,
+			"title": "中朝首脳会談、習近平が平壌訪問も「非核化」に一切触れず",
+			"url": "https://news.yahoo.co.jp/articles/b2a26e93f1c2e940f6d1500349faa9566341934c",
+			"note": "金正恩「中朝関係は第一の戦略事業」、経済協力拡大で一致",
+			"image": ""
+		},
+		{
+			"number": 10,
+			"title": "独仏、次世代戦闘機FCAS共同開発を中止合意、主導権争い解消できず",
+			"url": "https://news.yahoo.co.jp/articles/0c74cb553207066aa340906932981ace41c7a2fa",
+			"note": "ダッソー×エアバスの対立が限界、1000億ユーロ計画が終焉",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000018-reut-000-2-view.jpg?pri=l&w=640&h=426&exp=10800"
+		},
+		{
+			"number": 11,
+			"title": "イランがイスラエルへの軍事作戦を一時停止、レバノン攻撃続けば再攻撃",
+			"url": "https://news.yahoo.co.jp/pickup/6583485",
+			"note": "トランプの停戦要求受け一時停止も、レバノン攻撃を警戒",
+			"image": ""
 		}
 	]
 }
