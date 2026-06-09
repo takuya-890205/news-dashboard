@@ -2,86 +2,93 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Apple WWDC26でSiri AI発表、ユーザー文脈理解し自然な応答が可能に",
-			"url": "https://news.yahoo.co.jp/articles/ed3837f02787cf859ff502bbc16b4b82813d380a",
-			"note": "26年後半に英語から提供、複数デバイス間の統合も予定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000030-zdn_m-000-5-view.jpg?exp=10800"
+			"title": "Anthropic「Claude Mythos」一般公開へ 6月10日リリースか",
+			"url": "https://www.digitaltoday.co.kr/en/view/61805/anthropics-claude-mythos-public-release-imminent-possible-june-10-launch",
+			"note": "複雑な多段タスク処理が大幅向上、ガードレール強化版を公開予定",
+			"image": "https://cdn.digitaltoday.co.kr/news/photo/202606/673314_622094_179.jpg"
 		},
 		{
 			"number": 2,
-			"title": "Google「AI Plus」値下げ、月額1200円→725円・ストレージ400GBに倍増",
-			"url": "https://news.yahoo.co.jp/articles/8cedcbc8f76a3c3d876802b475e69d7d2219c56c",
-			"note": "次回プラン更新から自動適用、ストレージも200GB→400GBへ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000038-zdn_n-000-1-view.jpg?pri=l&w=640&h=335&exp=10800"
+			"title": "米グーグル、インテルにAI半導体TPUを300万個超発注",
+			"url": "https://news.yahoo.co.jp/articles/3299904cc886613d09be76da5d1cd18507d36e02",
+			"note": "TSMC依存からの脱却狙い、2028年製造予定で供給網を多角化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00185677-biz_plus-000-1-view.jpg?pri=l&w=640&h=349&exp=10800"
 		},
 		{
 			"number": 3,
-			"title": "OpenAIがIPO向け機密申請提出、企業価値852兆円超でAnthropicに続く",
-			"url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-			"note": "GS・MS主幹事で秋上場を視野、ChatGPT「スーパーアプリ」化も並行",
-			"image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?w=1024"
+			"title": "オープンAI、IPO申請を発表 企業評価額136兆円",
+			"url": "https://news.yahoo.co.jp/articles/2979fea1b15a1b7b70555b6dbd10d2db4edc521a",
+			"note": "AI企業として史上最大級の評価額、上場時期は未定",
+			"image": ""
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 4,
-			"title": "iPadOS 27は第8世代iPadなど非対応、A12搭載モデルが全滅",
-			"url": "https://gigazine.net/news/20260609-apple-ipados-27-support/",
-			"note": "iPad Pro 3世代・Air 3世代・mini 5世代も対象外に",
-			"image": "https://i.gzn.jp/img/2026/06/09/apple-ipados-27-support/00_m.jpg"
+			"title": "RTX 5090のはずがRTX 3070？ GPU偽装PCを持ち込まれたショップが語る",
+			"url": "https://news.yahoo.co.jp/articles/a680bfbf11670d3c6e6f14e7afbd216198eb3aa6",
+			"note": "中古PC売買の落とし穴、GPU偽装詐欺の手口をショップが告発",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000050-zdn_n-000-1-view.jpg?exp=10800"
 		},
 		{
 			"number": 5,
-			"title": "iOS 27はiPhone 11以降を全機種サポート継続、今年は切り捨てなし",
-			"url": "https://news.yahoo.co.jp/articles/4f97092de0be9fb3a4eba188c0882b87ea055c2b",
-			"note": "WWDC26で発表、Apple Intelligenceは高性能チップ機種のみ利用可",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00098830-forbes-000-1-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"title": "スマホ普及率91.8％で「テレビ離れ」鮮明に 総務省調査",
+			"url": "https://news.yahoo.co.jp/articles/00a207e9dc41bd32f90083a06f92fa6f69c76d1b",
+			"note": "スマホ保有がテレビを初めて上回る、令和7年通信利用動向調査",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00010000-dempat-000-1-view.jpg?pri=l&w=640&h=427&exp=10800"
+		},
+		{
+			"number": 6,
+			"title": "任天堂、仏当局から約65億円の制裁金 Joy-Conドリフト問題",
+			"url": "https://news.yahoo.co.jp/articles/de14ced64decb7eb2d5ed53deb45f5620426b85f",
+			"note": "初代SwitchのJoy-Con不具合めぐる欺まん的商行為が対象",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000073-zdn_n-000-1-view.jpg?pri=l&w=565&h=640&exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 6,
-			"title": "高市首相側近・茂木正氏に万博統括時代の「不正出張」常習疑い",
-			"url": "https://news.yahoo.co.jp/articles/804b51f91227f3978806e4e6934eb7542be8f35f",
-			"note": "不倫相手を公費ホテルへ少なくとも5回呼び寄せか、文春報道",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00089290-bunshun-000-1-view.jpg?pri=l&w=640&h=640&exp=10800"
-		},
-		{
 			"number": 7,
-			"title": "皇族確保策「総意」案に7党賛成、安定的な皇位継承へ前進",
-			"url": "https://news.yahoo.co.jp/pickup/6583477",
-			"note": "超党派で合意、女性皇族が結婚後も皇族身分維持する案が軸",
-			"image": ""
+			"title": "自民参院幹部、世耕氏を痛烈批判「復党願は自分勝手」",
+			"url": "https://news.yahoo.co.jp/articles/2b4e57a91091c16a6316372e26fc5e9b4b68cdd5",
+			"note": "裏金事件で離党した世耕議員の復党願に石井参院幹事長が反発",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/9/8f169f847167692ec53caf76d605aa59510b6b8251dceb9257027ec0642d7f3c.jpg"
 		},
 		{
 			"number": 8,
-			"title": "3文書改定・非核三原則の見直し賛否が割れる",
-			"url": "https://news.yahoo.co.jp/pickup/6583506",
-			"note": "安保3文書改定を機に「核共有」容認論が表面化、論争に",
-			"image": ""
+			"title": "防衛白書、「ショート動画」で初解説へ 中国念頭に抑止力強調",
+			"url": "https://news.yahoo.co.jp/articles/1012116ef0bd6d7080b1d189bf05ea956ca17a84",
+			"note": "同盟・同志国との連携強化で抑止力向上を明記、発信を刷新",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/9/e8a9d5ddd358dab91a01b3fc130b98b1057f21aa5db406170ed1f7a827ed897d.jpg"
+		},
+		{
+			"number": 9,
+			"title": "自民、日本国旗損壊罪法案を了承 野党「表現の自由侵害」",
+			"url": "https://news.yahoo.co.jp/articles/a80f3115db1e00a57f01132dbf6f1676499c545f",
+			"note": "罰則規定を盛り込み今国会中の成立目指す、賛否分かれる",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/9/b7ea9d7790b729890e2b203028bdca50cdcdce5d248acb90cf5a227eb8bfcba0.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 9,
-			"title": "中朝首脳会談、習近平が平壌訪問も「非核化」に一切触れず",
-			"url": "https://news.yahoo.co.jp/articles/b2a26e93f1c2e940f6d1500349faa9566341934c",
-			"note": "金正恩「中朝関係は第一の戦略事業」、経済協力拡大で一致",
-			"image": ""
-		},
-		{
 			"number": 10,
-			"title": "独仏、次世代戦闘機FCAS共同開発を中止合意、主導権争い解消できず",
-			"url": "https://news.yahoo.co.jp/articles/0c74cb553207066aa340906932981ace41c7a2fa",
-			"note": "ダッソー×エアバスの対立が限界、1000億ユーロ計画が終焉",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000018-reut-000-2-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "習氏、異例の眼鏡姿 北朝鮮メディアが配信・中国側は報じず",
+			"url": "https://news.yahoo.co.jp/articles/8501249f9d434e0a7f82df1081b967db87019edb",
+			"note": "中朝接近の象徴か、北朝鮮が習主席夫妻の私的な姿を異例公開",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/9/981bfdd55a25fe6d563be67981a123aca2b2990d61ca3b7ca569e737aa84678f.jpg"
 		},
 		{
 			"number": 11,
-			"title": "イランがイスラエルへの軍事作戦を一時停止、レバノン攻撃続けば再攻撃",
-			"url": "https://news.yahoo.co.jp/pickup/6583485",
-			"note": "トランプの停戦要求受け一時停止も、レバノン攻撃を警戒",
-			"image": ""
+			"title": "ウクライナ軍ドローン、1000キロ飛行で兵器庫を奇襲",
+			"url": "https://news.yahoo.co.jp/articles/c493b90738102ada7cde452d1fd1afa000e9066f",
+			"note": "露サンクトペテルブルク近郊の海軍基地・石油貯蔵庫が大炎上",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-10251194-abemav-000-3-view.jpg?pri=l&w=640&h=357&exp=10800"
+		},
+		{
+			"number": 12,
+			"title": "トランプ氏、ナルト動画投稿で物議 ネット「利用するな」",
+			"url": "https://news.yahoo.co.jp/articles/e35fd7c59c85a95151f5e7b08ffd8fbc53e56ee2",
+			"note": "ナルトに扮した加工動画をSNS投稿、ファンから批判の声",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000002-jij-000-28-view.jpg?pri=l&w=640&h=445&exp=10800"
 		}
 	]
 }
