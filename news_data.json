@@ -2,100 +2,86 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "ウソだろ…岐阜の小さな町工場に「AI社員」爆誕、Claude等でアプリ量産「神事例4選」",
-			"url": "https://news.yahoo.co.jp/articles/adb712c889bd849919ca584b057a41331d3ca4ec",
-			"note": "ChatGPTやClaudeでアプリ量産する町工場の神事例",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00185554-biz_plus-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
+			"title": "AI攻撃に対抗、Googleが「AIで守る」新セキュリティエージェントを発表",
+			"url": "https://gigazine.net/news/20260610-google-security-operations/",
+			"note": "脅威検知から封じ込めまで自動化するAIエージェント群",
+			"image": "https://i.gzn.jp/img/2026/06/10/google-security-operations/00_m.png"
 		},
 		{
 			"number": 2,
-			"title": "Anthropicの最新AI「Fable 5」、試すなら今？ Claudeのレート制限リセット　サブスクで使えるのは6月22日まで",
-			"url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000075/",
-			"note": "Fable 5無料体験は6/22まで、レート制限リセット中",
-			"image": "https://www.itmedia.co.jp/aiplus/article/image/2606/10/2000000075/10000389/728"
+			"title": "SpaceX、軌道上に最大100万基のAIデータセンター衛星を計画　規制当局に申請中",
+			"url": "https://gigazine.net/news/20260610-spacex-aims-launch-orbital-ai-computing-tests-2027/",
+			"note": "2027年末に実証へ。宇宙AIインフラ構想が始動",
+			"image": "https://i.gzn.jp/img/2026/06/10/spacex-aims-launch-orbital-ai-computing-tests-2027/00_m.jpg"
 		},
 		{
 			"number": 3,
-			"title": "Googleが即時翻訳を実現する「Gemini 3.5 Live Translate」を発表、iOSとAndroidのGoogle翻訳アプリにも実装へ",
-			"url": "https://gigazine.net/news/20260610-google-gemini-3-5-live-translate/",
-			"note": "70言語対応のほぼリアルタイム音声翻訳を発表",
-			"image": "https://i.gzn.jp/img/2026/06/10/google-gemini-3-5-live-translate/00_m.png"
-		},
-		{
-			"number": 4,
-			"title": "JR東「みどりの窓口」に生成AI導入検証　乗客と対話→係員に引き継ぎ　NECと共同",
-			"url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000074/",
-			"note": "NEC×JR東、駅窓口で対話型生成AIを実証",
-			"image": "https://www.itmedia.co.jp/aiplus/article/image/2606/10/2000000074/10000386/728"
-		},
-		{
-			"number": 5,
-			"title": "Appleのプライバシー重視AIサーバーはNVIDIAのGPUで動いている",
-			"url": "https://gigazine.net/news/20260610-nvivia-gpu-apple-private-compute/",
-			"note": "AppleのプライベートAI基盤はNVIDIA GPU稼働",
-			"image": "https://i.gzn.jp/img/2026/06/10/nvivia-gpu-apple-private-compute/00_m.jpg"
+			"title": "「AIでドラマを作れば俳優は要らない？」～日テレの制作現場で今、何が起きているのか",
+			"url": "https://news.yahoo.co.jp/articles/22984928278e217878286d8bcdcef593b8fbb3a2",
+			"note": "新卒がAIチーフクリエイターに。実写とAI映像を融合",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00392148-diamond-000-1-view.jpg?pri=l&w=640&h=336&exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 6,
-			"title": "iOS 27から折りたたみiPhoneを示唆するコードが発掘",
-			"url": "https://www.gizmodo.jp/article/ios27-foldable-iphone-hint/",
-			"note": "iOS 27に折りたたみ対応の痕跡コード発見",
-			"image": "https://media.loom-app.com/loom/2026/06/09/8611a6e2-a9f9-40c5-859f-f6937a3cb493/original.jpg?w=1200"
+			"number": 4,
+			"title": "スマホの\"ミニ\"外付けディスプレイが流行の兆し？　若者が「アウトカメラ」で自撮りする理由",
+			"url": "https://news.yahoo.co.jp/articles/171b5aa36d58de82fa20e33d7a831aa3256ed28e",
+			"note": "加工から無加工へ。ナチュラルな盛りを求める新潮流",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00000043-zdn_m-000-2-view.jpg?exp=10800"
 		},
 		{
-			"number": 7,
-			"title": "くらべてわかる。「Siri AI」と「Android Gemini」でできること",
-			"url": "https://www.gizmodo.jp/article/siri-vs-gemini-side-by-side-comparison/",
-			"note": "WWDC発表のSiri AIとGeminiの機能を徹底比較",
-			"image": "https://media.loom-app.com/loom/2026/06/09/8a9c00cb-a260-488c-afda-a1f69405f2e9/original.jpg?w=1200"
-		},
-		{
-			"number": 8,
-			"title": "iPhoneの充電上限を設定してバッテリーを長持ちさせる方法",
-			"url": "https://www.gizmodo.jp/article/iphone-battery-charge-limit-1-nfk/",
-			"note": "充電上限80%設定でバッテリー劣化を抑制",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2024/10/08/241008_001_NZ8_1747-1.jpg?w=1200"
+			"number": 5,
+			"title": "噂の「折りたたみiPhone」はこんな形？　ファーウェイ『Pura X Max』で見えた横開きの可能性",
+			"url": "https://news.yahoo.co.jp/articles/5a27bb92530b6894f4b8095bf0fd707471f3458e",
+			"note": "横開き折りたたみスマホから次期iPhoneを占う",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00010049-realsound-000-1-view.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
-			"number": 9,
-			"title": "防衛費増・「新しい戦い方」…安保政策の転換　3文書改定へ自民提言",
-			"url": "https://news.yahoo.co.jp/articles/d136a9ed2143c97db449186e886d9e01b75558d4",
-			"note": "防衛費増と「新しい戦い方」へ3文書改定提言",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/c8c3b86754c758a64d7e9677523d4fa83c1d41e1bed495eb16abc10339ee68c0.jpg"
+			"number": 6,
+			"title": "河野洋平・元衆院議長が死去　89歳　「河野談話」発表、自民総裁や外相を歴任",
+			"url": "https://news.yahoo.co.jp/articles/02f283e7b3d22a39bdb7e3d7059e8a27eb58c4ff",
+			"note": "戦後政治を担った重鎮が8日に死去。89歳",
+			"image": ""
 		},
 		{
-			"number": 10,
-			"title": "日本、マレーシアと海保協力の覚書締結へ　首脳会談で合意方針",
-			"url": "https://news.yahoo.co.jp/articles/0c03231be1f713f86867c439484dbe491f1bd188",
-			"note": "日マレーシア、海保協力の覚書を締結へ",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/4ef55e8a11c461c4da9651bf67495a49dc740b4a2b0fad5f1749acb4a7e5cee5.jpg"
+			"number": 7,
+			"title": "【速報】皇族数の確保策めぐり「立法府の総意」まとまる　有識者会議の2案を了とする",
+			"url": "https://news.yahoo.co.jp/articles/f6bbf3f2b6fd92c9004c0cbe7b4b7d6ac63a8720",
+			"note": "衆参の正副議長が皇位継承の2案で合意",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/f59053738bd9c09e2f1ea07c7581eaad198a3c65804086eae634183bf2f60584.jpg"
 		},
 		{
-			"number": 11,
-			"title": "「防衛装備品」輸出支援へ政府が新組織…日本版FMSや製造ライン国有化も検討",
-			"url": "https://news.yahoo.co.jp/articles/5513fc97a22b3a1a62462eea41ac7b171390ff41",
-			"note": "防衛装備品輸出へ政府が新組織・日本版FMS検討",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/a376f797fee58e47fb113e9345689416bbcf5db486b0f780585e34d862216534.jpg"
+			"number": 8,
+			"title": "高市総理の秘書「確信は持てない」　誹謗中傷動画作成報道めぐり会議参加は認める",
+			"url": "https://news.yahoo.co.jp/articles/694ba575a4817171b41d46ae47b44b1a25f85ebc",
+			"note": "音声の真偽は曖昧、オンライン会議参加は認める",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/5ca3ade2d292cf827aae2e1661e7a523d3f194a64b0e40930bcb1d979736a837.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 12,
-			"title": "【速報】アメリカ軍　ヘリ撃墜でイランへの報復攻撃を開始　トランプ大統領の指示で",
-			"url": "https://news.yahoo.co.jp/articles/58bb123b3ab1f2726e6ac3d499bf5e84e45f1ff5",
-			"note": "米軍、ヘリ撃墜の報復でイラン攻撃を開始",
+			"number": 9,
+			"title": "米軍の攻撃受けイランで戦闘再開への懸念広がる　アラグチ外相は報復攻撃を示唆",
+			"url": "https://news.yahoo.co.jp/articles/c25afe31385c48b3383a7cdcd445c10b3970c747",
+			"note": "ヘリ撃墜の報復から再エスカレートの恐れ",
 			"image": ""
 		},
 		{
-			"number": 13,
-			"title": "日本のEEZ内で管轄権を主張　中国が正当化",
-			"url": "https://news.yahoo.co.jp/articles/2b9032698d39dc135bb099f2aa9ac53eb4c47a05",
-			"note": "中国が与那国南方の日本EEZで管轄権を主張",
-			"image": ""
+			"number": 10,
+			"title": "フィリピン、南シナ海・スカボロー礁に\"浮体構造物\"　中国に撤去求め抗議",
+			"url": "https://news.yahoo.co.jp/articles/dc8cd9a49477a4537047123f516b8a600dde2859",
+			"note": "中国軍戦闘機の妨害も。国際法違反と非難",
+			"image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJu6SLQ0Hjm4rTXshTvF449ck7GpkBWiIi_ZvbWnVN3lyCmwWvJ3wPJ9AiOs27K7_qYAWDZICS-uIDs0-xAhdG2k0XS0xuYOl46iRYYWVD_GMivcQE_uit64BmJ_-quxZ5EsV_826yKRWy8nul9o_QURkUIwPsRGXpji9SLefDNr6834jxxsERI3rNnkzU27cw3tkyjV_WKX0zbD2q8kaGuvh8FyPQHF2J9z79PAcFtnSAbhS_9fwBfosVkRlMW7ZwFVfOZydGbm04y0dpei7EkOz_NAOy73EZszRnbrqRJlBw=="
+		},
+		{
+			"number": 11,
+			"title": "ウクライナ軍、マリウポリ港を攻撃　ロシアの補給機能に打撃",
+			"url": "https://news.yahoo.co.jp/articles/5cca8165f7ad04cd4360740a52f9e0a833904cdc",
+			"note": "無人機で港湾施設を破壊、補給を制限",
+			"image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJuztN6ELHcFKk9pTEfyITR4BzJ1biS2jSO6TBCdnPY06xNmtu9PuwWTmOk3FKTFldpGhUIUe2KwsFTqlhOPoyFxdiTDkV1PBkFmkLT4XdrD7kLo9IVUDCdOoeh5qAVERpuAfePNdAtZi77i9xaGkrEIb43uJRogpgmD5jgB3AYogBPbPF8hpv5T-Sjp30c16UaRBKzRTgHjX-RDRvWqfSCY"
 		}
 	]
 }
