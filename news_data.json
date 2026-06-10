@@ -2,71 +2,100 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Anthropic、最上位「ミュトス」級モデルを一般提供　悪用防ぐ保護機能を備えた「Claude Fable 5」",
-			"url": "https://news.yahoo.co.jp/articles/2191e7e30e19368d048265382ab857b14d089d4a",
-			"note": "最高性能のFable 5を一般公開、悪用防止機能を搭載",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00000027-zdn_n-000-1-view.jpg?exp=10800"
+			"title": "ウソだろ…岐阜の小さな町工場に「AI社員」爆誕、Claude等でアプリ量産「神事例4選」",
+			"url": "https://news.yahoo.co.jp/articles/adb712c889bd849919ca584b057a41331d3ca4ec",
+			"note": "ChatGPTやClaudeでアプリ量産する町工場の神事例",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00185554-biz_plus-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "“机の下でこっそり”AI使う――セールスフォース社長のAIエージェント活用術とは",
-			"url": "https://www.itmedia.co.jp/business/articles/2606/10/news032.html",
-			"note": "セールスフォース社長が語るAgentforce実践活用術",
-			"image": "https://image.itmedia.co.jp/business/articles/2606/10/ea1635237_2606awtt202601_01.jpg"
+			"title": "Anthropicの最新AI「Fable 5」、試すなら今？ Claudeのレート制限リセット　サブスクで使えるのは6月22日まで",
+			"url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000075/",
+			"note": "Fable 5無料体験は6/22まで、レート制限リセット中",
+			"image": "https://www.itmedia.co.jp/aiplus/article/image/2606/10/2000000075/10000389/728"
 		},
 		{
 			"number": 3,
-			"title": "Metaがデータセンター建設の訓練を行う短期プログラム「人材育成アカデミー」を開設",
-			"url": "https://gigazine.net/news/20260610-meta-workforce-academy/",
-			"note": "Metaが115億ドル投じデータセンター建設の無料研修",
-			"image": "https://i.gzn.jp/img/2026/06/10/meta-workforce-academy/00_m.jpg"
+			"title": "Googleが即時翻訳を実現する「Gemini 3.5 Live Translate」を発表、iOSとAndroidのGoogle翻訳アプリにも実装へ",
+			"url": "https://gigazine.net/news/20260610-google-gemini-3-5-live-translate/",
+			"note": "70言語対応のほぼリアルタイム音声翻訳を発表",
+			"image": "https://i.gzn.jp/img/2026/06/10/google-gemini-3-5-live-translate/00_m.png"
 		},
 		{
 			"number": 4,
-			"title": "政府・著名人のInstagramアカウントが次々に乗っ取り被害　Meta、AIアシスタント悪用を確認",
-			"url": "https://www.itmedia.co.jp/news/articles/2606/10/news015.html",
-			"note": "MetaのAIチャット悪用でInstagram乗っ取り被害",
-			"image": "https://image.itmedia.co.jp/news/articles/2606/10/dy_45.jpg"
+			"title": "JR東「みどりの窓口」に生成AI導入検証　乗客と対話→係員に引き継ぎ　NECと共同",
+			"url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000074/",
+			"note": "NEC×JR東、駅窓口で対話型生成AIを実証",
+			"image": "https://www.itmedia.co.jp/aiplus/article/image/2606/10/2000000074/10000386/728"
+		},
+		{
+			"number": 5,
+			"title": "Appleのプライバシー重視AIサーバーはNVIDIAのGPUで動いている",
+			"url": "https://gigazine.net/news/20260610-nvivia-gpu-apple-private-compute/",
+			"note": "AppleのプライベートAI基盤はNVIDIA GPU稼働",
+			"image": "https://i.gzn.jp/img/2026/06/10/nvivia-gpu-apple-private-compute/00_m.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 5,
-			"title": "中国発の独自GPU。値上がり続く市場の救世主になるか",
-			"url": "https://news.yahoo.co.jp/articles/1aa4023513ebcaeef9f10f4671d58c478ec49b0b",
-			"note": "中国Lisuan製GPU「LX 7G100」登場、市場の選択肢に",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260610-00000002-giz-000-1-view.jpg?pri=l&w=640&h=426&exp=10800"
-		},
-		{
 			"number": 6,
-			"title": "「ゼルダの伝説 時のオカリナ」がNintendo Switch 2でフルリメイク",
-			"url": "https://gigazine.net/news/20260610-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2/",
-			"note": "N64の名作がSwitch 2でフルリメイクと発表",
-			"image": "https://i.gzn.jp/img/2026/06/10/the-legend-of-zelda-ocarina-of-time-nintendo-switch-2/00_m.jpg"
+			"title": "iOS 27から折りたたみiPhoneを示唆するコードが発掘",
+			"url": "https://www.gizmodo.jp/article/ios27-foldable-iphone-hint/",
+			"note": "iOS 27に折りたたみ対応の痕跡コード発見",
+			"image": "https://media.loom-app.com/loom/2026/06/09/8611a6e2-a9f9-40c5-859f-f6937a3cb493/original.jpg?w=1200"
 		},
 		{
 			"number": 7,
-			"title": "Pixelの写真アプリがGeminiで進化する、「質問」で検索も画像編集も",
-			"url": "https://k-tai.watch.impress.co.jp/docs/browse/2115430.html",
-			"note": "GoogleフォトがGemini連携、質問で検索・画像編集",
-			"image": "https://asset.watch.impress.co.jp/img/ktw/list/2115/430/list.jpg"
-		}
-	],
-	"政治（日本）": [],
-	"国際情勢": [
+			"title": "くらべてわかる。「Siri AI」と「Android Gemini」でできること",
+			"url": "https://www.gizmodo.jp/article/siri-vs-gemini-side-by-side-comparison/",
+			"note": "WWDC発表のSiri AIとGeminiの機能を徹底比較",
+			"image": "https://media.loom-app.com/loom/2026/06/09/8a9c00cb-a260-488c-afda-a1f69405f2e9/original.jpg?w=1200"
+		},
 		{
 			"number": 8,
-			"title": "米軍 ヘリ撃墜でイランに報復開始",
+			"title": "iPhoneの充電上限を設定してバッテリーを長持ちさせる方法",
+			"url": "https://www.gizmodo.jp/article/iphone-battery-charge-limit-1-nfk/",
+			"note": "充電上限80%設定でバッテリー劣化を抑制",
+			"image": "https://media.loom-app.com/gizmodo/dist/images/2024/10/08/241008_001_NZ8_1747-1.jpg?w=1200"
+		}
+	],
+	"政治（日本）": [
+		{
+			"number": 9,
+			"title": "防衛費増・「新しい戦い方」…安保政策の転換　3文書改定へ自民提言",
+			"url": "https://news.yahoo.co.jp/articles/d136a9ed2143c97db449186e886d9e01b75558d4",
+			"note": "防衛費増と「新しい戦い方」へ3文書改定提言",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/c8c3b86754c758a64d7e9677523d4fa83c1d41e1bed495eb16abc10339ee68c0.jpg"
+		},
+		{
+			"number": 10,
+			"title": "日本、マレーシアと海保協力の覚書締結へ　首脳会談で合意方針",
+			"url": "https://news.yahoo.co.jp/articles/0c03231be1f713f86867c439484dbe491f1bd188",
+			"note": "日マレーシア、海保協力の覚書を締結へ",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/4ef55e8a11c461c4da9651bf67495a49dc740b4a2b0fad5f1749acb4a7e5cee5.jpg"
+		},
+		{
+			"number": 11,
+			"title": "「防衛装備品」輸出支援へ政府が新組織…日本版FMSや製造ライン国有化も検討",
+			"url": "https://news.yahoo.co.jp/articles/5513fc97a22b3a1a62462eea41ac7b171390ff41",
+			"note": "防衛装備品輸出へ政府が新組織・日本版FMS検討",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/10/a376f797fee58e47fb113e9345689416bbcf5db486b0f780585e34d862216534.jpg"
+		}
+	],
+	"国際情勢": [
+		{
+			"number": 12,
+			"title": "【速報】アメリカ軍　ヘリ撃墜でイランへの報復攻撃を開始　トランプ大統領の指示で",
 			"url": "https://news.yahoo.co.jp/articles/58bb123b3ab1f2726e6ac3d499bf5e84e45f1ff5",
-			"note": "ホルムズ海峡のヘリ撃墜にトランプ氏が報復指示",
+			"note": "米軍、ヘリ撃墜の報復でイラン攻撃を開始",
 			"image": ""
 		},
 		{
-			"number": 9,
-			"title": "イスラエルがイランの監視カメラ映像をAIで分析、ロシアがプーチン警護システムの一部を一時停止",
-			"url": "https://gigazine.net/news/20260610-protecting-putin-system/",
-			"note": "イスラエルのAI監視を受けロシアが警護一部停止",
-			"image": "https://i.gzn.jp/img/2026/06/10/protecting-putin-system/00_m.jpg"
+			"number": 13,
+			"title": "日本のEEZ内で管轄権を主張　中国が正当化",
+			"url": "https://news.yahoo.co.jp/articles/2b9032698d39dc135bb099f2aa9ac53eb4c47a05",
+			"note": "中国が与那国南方の日本EEZで管轄権を主張",
+			"image": ""
 		}
 	]
 }
