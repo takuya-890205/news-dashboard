@@ -2,79 +2,79 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "Claude Code×Codex最強連携、失敗続きのAIアプリ開発が「成功率爆上げ」する全手順",
-			"url": "https://news.yahoo.co.jp/articles/4550923204980b19db3424b2f27e4c88566354f5",
-			"note": "Claude CodeとCodexの併用設計でAI開発の成功率を高める手法",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-00185609-biz_plus-000-1-view.jpg?pri=l&w=640&h=477&exp=10800"
+			"title": "GoogleがGemma 4より4倍高速な拡散言語モデル「DiffusionGemma」をオープンモデルとして公開",
+			"url": "https://gigazine.net/news/20260611-google-ai-diffusiongemma/",
+			"note": "自己回帰型でない拡散型LLMを無料公開、4倍高速",
+			"image": "https://i.gzn.jp/img/2026/06/11/google-ai-diffusiongemma/00_m.png"
 		},
 		{
 			"number": 2,
-			"title": "「クロード！もういい！もどれ！」Claude Fableが50時間かけて「ポケモンFR」をクリア",
-			"url": "https://news.yahoo.co.jp/articles/ad6c987b62b0eded6d6c572d9855ea8f01bfd10c",
-			"note": "Claude Fable 5が画面認識のみで50時間かけポケモンFRを攻略",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-00185707-biz_plus-000-6-view.jpg?pri=l&w=640&h=349&exp=10800"
+			"title": "「Claude Fable 5」では会話履歴がAnthropicの従業員によって読まれる場合がある、Microsoftはリスク評価のために従業員による使用を保留中",
+			"url": "https://gigazine.net/news/20260611-microsoft-claude-fable-5/",
+			"note": "データ保持30日・限定レビューに各社が警戒",
+			"image": "https://i.gzn.jp/img/2026/06/11/microsoft-claude-fable-5/00_m.jpg"
 		},
 		{
 			"number": 3,
-			"title": "スマホからWindowsのCodexアプリを操作できるの？　外出中でもAIコーディングを止めない方法",
-			"url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news016.html",
-			"note": "Codexデスクトップ版がWindows対応、スマホから遠隔操作可能に",
-			"image": "https://image.itmedia.co.jp/ait/articles/2606/11/di-codex-remote-control.png"
+			"title": "【Copilot】もうパワポは自分で作らない…\"期待外れ\"返上「2大アプデ」がヤバすぎた",
+			"url": "https://news.yahoo.co.jp/articles/774a5a56fc165524afa85594c987e16b03782f08",
+			"note": "PowerPoint直接編集と最新AIモデル対応で実用域に",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-00185590-biz_plus-000-1-view.jpg?pri=l&w=640&h=360&exp=10800"
 		}
 	],
 	"デジタルガジェット": [
 		{
 			"number": 4,
-			"title": "古いiPhoneにとって「iOS 27」は空っぽのアップデートかもしれない",
-			"url": "https://news.yahoo.co.jp/articles/35c0ebdae11ee2e36fc5099ebffb958626caab1c",
-			"note": "古いiPhoneはApple Intelligence非対応で新機能の恩恵が少ない",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-35248745-cnetj-000-2-view.jpg?pri=l&w=640&h=480&exp=10800"
+			"title": "FCNT、5000mAhバッテリー搭載のコンパクトスマホ「arrows We3」発表",
+			"url": "https://k-tai.watch.impress.co.jp/docs/news/2116163.html",
+			"note": "幅73mm・5年後も容量80%維持、6月25日発売",
+			"image": "https://asset.watch.impress.co.jp/img/ktw/docs/2116/163/02_l.jpg"
 		},
 		{
 			"number": 5,
-			"title": "「Android」スマホのキャッシュを消去する方法--全ユーザーが行うべき30秒ルーティン",
-			"url": "https://news.yahoo.co.jp/articles/b02f9e238d3088faabd6651b805ff997ae2449e3",
-			"note": "キャッシュ削除でストレージ解放と動作改善、30秒の習慣",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-35248517-zdnet-000-1-view.jpg?exp=10800"
+			"title": "超コンパクト＆超軽量のロジクール初の折りたたみワイヤレスマウス「Mobi Fold」レビュー",
+			"url": "https://gigazine.net/news/20260611-logicool-mobi-fold/",
+			"note": "厚さ2cm・79gの折りたたみマウス実機レビュー",
+			"image": "https://i.gzn.jp/img/2026/06/11/logicool-mobi-fold/00_m.jpg"
 		}
 	],
 	"政治（日本）": [
 		{
 			"number": 6,
-			"title": "再審見直し法案、政府・与党が修正へ　国民民主の態度見極め最終判断",
-			"url": "https://news.yahoo.co.jp/articles/ef7d47fbd5e05a7bb846d24d673034af7ccba4b2",
-			"note": "参院採決へ国民民主の賛成獲得を見据え法案修正を検討",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/11/82832053fbbc66a4eeb71a4bc3b3e93d0c911d3ced0f4b87f63f126bc0ea779e.jpg"
+			"title": "高市首相、河野洋平氏死去に「与野党の協調を重んじながら公正かつ円滑な議会運営に尽くされた」…党派超え悼む声相次ぐ",
+			"url": "https://news.yahoo.co.jp/articles/bb9196159ca982bac6efc73b908c36d9ddfd7660",
+			"note": "河野談話の元衆院議長死去、89歳。党派超え追悼",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/11/f1546bf47898102a195fc0464b98d96981e158063f1a8b65ad0cbcb5e31bfefd.jpg"
 		},
 		{
 			"number": 7,
-			"title": "首相、G7サミットでエネルギー安全保障3原則を提唱へ",
-			"url": "https://news.yahoo.co.jp/articles/12f961b4991f4336333b1df8960f517e0c4dda6f",
-			"note": "高市首相が石油備蓄強化などエネ安保3原則をG7で提唱方針",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/11/2dbb3060bacb6163adbae920de2bf9200c04195a2af6b4d0c060f648d97137f9.jpg"
+			"title": "再審見直し法案、政府・与党が修正へ　国民民主の態度見極め最終判断",
+			"url": "https://news.yahoo.co.jp/articles/ef7d47fbd5e05a7bb846d24d673034af7ccba4b2",
+			"note": "少数与党下、国民民主の賛成獲得へ修正検討",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/11/82832053fbbc66a4eeb71a4bc3b3e93d0c911d3ced0f4b87f63f126bc0ea779e.jpg"
 		}
 	],
 	"国際情勢": [
 		{
 			"number": 8,
-			"title": "米大統領、イランへの再攻撃を警告　和平協議の遅延を非難",
-			"url": "https://news.yahoo.co.jp/articles/7a4e799a0fdbfb85a379437cc5580dc55d72cac4",
-			"note": "トランプ氏が協議遅延を非難しイラン再攻撃を示唆、停戦に暗雲",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/11/c232cd6eef927e5f68a097242d15285d8e0ebf6309dfd3ef2f681e28f1b0297d.jpg"
+			"title": "イランがホルムズ海峡封鎖を宣言　米の連日攻撃に対抗…通過試みる船舶は攻撃対象に",
+			"url": "https://news.yahoo.co.jp/articles/1433855191b426126e73aed3cb72458ed46f15c1",
+			"note": "全船舶の通過禁止を宣言、原油供給に重大リスク",
+			"image": ""
 		},
 		{
 			"number": 9,
-			"title": "原油はドルでしか買えない、そのお金の常識が崩れ始めている　湾岸6カ国の「静かな決裂」",
-			"url": "https://news.yahoo.co.jp/articles/f943d8f8ae7bcbe050116db00a3ebef4cbb143f6",
-			"note": "湾岸6カ国で原油のドル決済体制に変化、国際金融への影響も",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-00000001-withnews-000-1-view.jpg?exp=10800"
+			"title": "米軍、イランへの新たな攻撃を終了　中央軍発表",
+			"url": "https://news.yahoo.co.jp/articles/55f954d550e4a05744043b0d8f007fd3570ba302",
+			"note": "米中央軍が10日の一連の攻撃完了を発表",
+			"image": ""
 		},
 		{
 			"number": 10,
-			"title": "サグラダ・ファミリアの主塔完成　世界で最も高い教会に　教皇祝福",
-			"url": "https://news.yahoo.co.jp/articles/1a13fe5ed986abc203b48bb861a36632d8f136d8",
-			"note": "主塔「イエスの塔」が完成し世界一高い教会に、教皇が祝福",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/11/25f2aa0e890fc40924d2da191862233c9946af1d01d0ba692d30c2279c4dff72.jpg"
+			"title": "米国、北米貿易協定延長見送りも　トランプ氏「更新のつもりない」",
+			"url": "https://news.yahoo.co.jp/articles/1bd23687d43be92f404ed3c7784686acffe06855",
+			"note": "USMCA更新に消極姿勢、北米経済圏に不透明感",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/11/c15431d7452ae9612d187527685ff402b16450b4adc573ff7c3516b56dc5ee02.jpg"
 		}
 	]
 }
