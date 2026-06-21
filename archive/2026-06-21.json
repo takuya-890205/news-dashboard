@@ -2,121 +2,86 @@
 	"生成AI・LLM・AIエージェント": [
 		{
 			"number": 1,
-			"title": "AI翻訳をコピペして提出　外国語課題で大学生の36％",
-			"url": "https://news.yahoo.co.jp/articles/aca36b738e824a2027935fcfa5024e1908e959b0",
-			"note": "生成AI翻訳の丸写し提出が常態化、時間不足が理由",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-00000037-kyodonews-000-9-view.jpg"
+			"title": "ウクライナ軍、米PalantirのAI戦術基盤「PRISMA」でロシア深部への無人機攻撃を本格化",
+			"url": "https://news.yahoo.co.jp/articles/2fd1874fe81c61f98195006aca4a4f5dc3c2a9e4",
+			"note": "戦場データ統合AIで無人機の飛行経路を最適化",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00185842-biz_plus-000-3-view.jpg?pri=l&w=640&h=349&exp=10800"
 		},
 		{
 			"number": 2,
-			"title": "ハローワークのAI職業紹介、実証実験で精度に課題",
-			"url": "https://news.yahoo.co.jp/articles/cabfcddd831d8964d1f4633e22edfb3d17691360",
-			"note": "厚労省のAI提案、職員の約7割が妥当性に疑問",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/20/7a44c9e34e390a67088c5bff1426abe39135ed66370ba60d2ca9b09a21e8b7e7.jpg"
+			"title": "光量子コンピューター実装に道…9ケルビンでナノダイヤ高品質光子発生、京大などが見つけた意義",
+			"url": "https://news.yahoo.co.jp/articles/3081dbeb8cdfdf9bede87248899b8502df8b3395",
+			"note": "京大が量子計算の実用化へ高温動作の新発見",
+			"image": ""
+		},
+		{
+			"number": 3,
+			"title": "課題にAIコピペの大学生36% 調査",
+			"url": "https://news.yahoo.co.jp/articles/aca36b738e824a2027935fcfa5024e1908e959b0",
+			"note": "生成AIの翻訳をそのまま提出する学生が急増",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/2/7a93d37f8e8099dc751bb5e56fcb92f65f832bd81ae6b2478e564d403e0af3e9.jpg"
 		}
 	],
 	"デジタルガジェット": [
 		{
-			"number": 3,
-			"title": "Androidの未認証アプリ制限、ブラジルなど4カ国で9月末開始",
-			"url": "https://k-tai.watch.impress.co.jp/docs/news/2118613.html",
-			"note": "Googleの開発者認証、有害アプリ対策で段階導入",
-			"image": "https://asset.watch.impress.co.jp/img/ktw/list/2118/613/list.jpg"
-		},
-		{
 			"number": 4,
-			"title": "ゲーマーの動きを先読み　インテルの「フレーム外挿」とは",
-			"url": "https://www.gizmodo.jp/article/frame-extrapolation/",
-			"note": "動きを予測してゲーム映像を滑らかにする新技術",
-			"image": "https://media.loom-app.com/loom/2026/06/15/b910888d-f83e-4e91-b331-b3911f53fd77/original.jpg?w=1200"
+			"title": "カメラが進化しデザインも刷新されたソニー「Xperia 1 VIII」で写真や動画を撮ってきたよ作例まとめ",
+			"url": "https://gigazine.net/news/20260620-sony-xperia-1-viii-camera/",
+			"note": "望遠センサー4倍・AIカメラ搭載の新旗艦を実写検証",
+			"image": "https://i.gzn.jp/img/2026/06/20/sony-xperia-1-viii-camera/00_m.jpg"
 		},
 		{
 			"number": 5,
-			"title": "歩いてもブレない小型カメラ「Osmo Pocket 4」",
-			"url": "https://gigazine.net/news/20260620-osmo-pocket-4-example/",
-			"note": "DJIの小型ジンバルカメラで散歩動画を実機検証",
-			"image": "https://i.gzn.jp/img/2026/06/20/osmo-pocket-4-example/00_m.jpg"
-		},
-		{
-			"number": 6,
-			"title": "平成のガラケー風「Sidephone SP-01」でスマホ疲れに終止符",
-			"url": "https://www.gizmodo.jp/article/sidephone-sp-01-6qo-bau/",
-			"note": "交換式キーパッドのモジュラー型フィーチャーフォン",
-			"image": "https://media.loom-app.com/gizmodo/dist/images/2025/10/31/251031_sidephone-1.jpg?w=1200"
-		},
-		{
-			"number": 7,
-			"title": "Windowsゴミ箱で削除ファイルが別名表示される不具合",
-			"url": "https://pc.watch.impress.co.jp/docs/news/2118763.html",
-			"note": "6月更新が原因、$Rxxxxx形式の別名が表示",
-			"image": "https://asset.watch.impress.co.jp/img/pcw/docs/2118/763/01_l.jpg"
+			"title": "なぞるだけで眉ケアが完了！パナソニックが開発した「電動眉毛抜き」の実力",
+			"url": "https://news.yahoo.co.jp/articles/d71f56296faf661130fd61b32e780c74278d2736",
+			"note": "LED搭載で眉を狙って抜く業界初の家電",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-00010004-dime-000-1-view.jpg?pri=l&w=640&h=359&exp=10800"
 		}
 	],
 	"政治（日本）": [
 		{
+			"number": 6,
+			"title": "高市内閣支持、発足以来最低の55％",
+			"url": "https://news.yahoo.co.jp/articles/b803d4aa772e64917d310c5f17ee13e94eaa5ca6",
+			"note": "支持率5.5ポイント減、不支持は27.9%に上昇",
+			"image": ""
+		},
+		{
+			"number": 7,
+			"title": "個人情報保護法改正案 識者が懸念",
+			"url": "https://news.yahoo.co.jp/articles/e5b57079e7563b6930f929b7915d7c1d468693da",
+			"note": "機微情報の第三者提供特例に流出リスク指摘",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/21/3e20718cad6ed1bf59cf6ffff421681b1b2db36e46a728796ecc118114374ebc.jpg"
+		},
+		{
 			"number": 8,
-			"title": "自民支持率22.8％に急落　消えた解散効果",
-			"url": "https://news.yahoo.co.jp/articles/2e58a73be5445e427faa2395f0be74bb64219911",
-			"note": "高市自民、衆院選直後の30.1％から急落（時事6月調査）",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-00010000-jij-000-5-view.jpg"
-		},
-		{
-			"number": 9,
-			"title": "防衛省が異例の投稿　攻めの情報発信に舵",
-			"url": "https://news.yahoo.co.jp/articles/2990cbf7d8f02ab40425f64b99380a069e9d3ab2",
-			"note": "小泉氏主導で慎重姿勢から積極発信へ転換",
-			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/20/7b2d18c6c52fd3ae51be44ccf1c19552267596732aa83f84547f2dd307ad5889.jpg"
-		},
-		{
-			"number": 10,
-			"title": "沖縄県知事選、下地幹郎氏が出馬報道を真っ向否定",
-			"url": "https://news.yahoo.co.jp/articles/5d6df1a92b6cca5c2e98234334fe36acef5a37e2",
-			"note": "出馬報道と小沢氏「暗躍説」を事実無根と否定",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00000004-jisin-000-1-view.jpg"
-		},
-		{
-			"number": 11,
-			"title": "皇室典範改正の養子案に「政治的中立が揺らぐ」懸念",
-			"url": "https://news.yahoo.co.jp/articles/4d9ff134ed6ad2bc85ddd8c9af87867a3df75e71",
-			"note": "宮家への養子受け入れの問題点を政治学者が指摘",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00089509-bunshun-000-1-view.jpg"
-		},
-		{
-			"number": 12,
-			"title": "北極政策の基本方針、政府が初の改定を検討",
-			"url": "https://news.yahoo.co.jp/articles/972babda7d596034362fbd08adef5b760e30a72d",
-			"note": "研究船「みらい2」を国際研究拠点に位置づけ",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-00000389-yom-000-4-view.jpg"
+			"title": "自民幹事長 国会延長しない考え",
+			"url": "https://news.yahoo.co.jp/articles/576789ae654380789aff18ab9cdab4c0d9d43ce6",
+			"note": "7/17会期末までに皇室典範改正などの処理目指す",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/21/c916276f270f79146794667a583520314e8150a9e442e470bdd8485aaf3fd29e.jpg"
 		}
 	],
 	"国際情勢": [
 		{
-			"number": 13,
-			"title": "トランプ氏、合意不成立なら「米がホルムズ海峡の通航料」",
-			"url": "https://news.yahoo.co.jp/articles/8f5ff94a408b061d6abaf7c5b81364e48b0d2251",
-			"note": "イランに警告、停戦中60日は通航料を課さずと",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-07310829-jnn-000-2-view.jpg?pri=l&w=640&h=360&exp=10800"
+			"number": 9,
+			"title": "ロシア内陸部を無人機で攻撃 前線から2000キロ",
+			"url": "https://news.yahoo.co.jp/articles/5a1a2eba0769a70278dd96cfda072c59fffd08f9",
+			"note": "ウクライナが射程3000kmの新型機で石油施設攻撃",
+			"image": ""
 		},
 		{
-			"number": 14,
-			"title": "ウクライナ軍ドローン、3層の防空網を突破しモスクワ製油所攻撃",
-			"url": "https://news.yahoo.co.jp/articles/c5146a362f1a35384d8d149fbd6d356bc1cce1f5",
-			"note": "防空網を突破し主要石油施設に打撃、戦争は新局面",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00000001-binsider-000-1-view.jpg?pri=l&w=640&h=427&exp=10800"
+			"number": 10,
+			"title": "トランプ氏、反射池の改修工事トラブルで「卑劣な破壊工作」",
+			"url": "https://news.yahoo.co.jp/articles/6c37eac05c9961898dec5bb0e432a059fe1c32d6",
+			"note": "リンカーン記念堂の改修失敗を妨害と主張",
+			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00000015-jij_afp-000-3-view.jpg?pri=l&w=640&h=410&exp=10800"
 		},
 		{
-			"number": 15,
-			"title": "イラン「ホルムズ海峡を再封鎖」　停戦違反と非難",
+			"number": 11,
+			"title": "イラン「ホルムズ海峡を再封鎖」 レバノンでの停戦違反と非難",
 			"url": "https://news.yahoo.co.jp/articles/da0b7a5c1d38c9e05fe45c2b7d3890f12cef3ef1",
-			"note": "革命防衛隊が封鎖を主張、米・イスラエルを非難",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-00000121-kyodonews-000-35-view.jpg?pri=l&w=640&h=426&exp=10800"
-		},
-		{
-			"number": 16,
-			"title": "「うまくいかなければJDのせい」　バンス氏の危険な賭け",
-			"url": "https://news.yahoo.co.jp/articles/e214d719a8516b7805a12f6ecd42db04ad3f1df5",
-			"note": "イラン和平を担うバンス副大統領が抱えるリスク",
-			"image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260620-35249192-cnn-000-1-view.jpg"
+			"note": "革命防衛隊が全船舶封鎖を声明、米・イスラエルを非難",
+			"image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/20/663ddec17ac8089329fcf270b01bf355964da10e9719fd4167b7b6415c545384.jpg"
 		}
 	]
 }
